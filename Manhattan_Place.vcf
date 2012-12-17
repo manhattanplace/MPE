@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:2.1
+N:Cohen;Steve;;;
+FN:Manhattan Place
+ORG:Manhattan Place;
+EMAIL;INTERNET;WORK:stevecohen@manhattanplace.tv
+TEL;WORK:212-682-2000
+TEL;WORK;FAX:212-682-2058
+ADR;WORK:;;310 East 44th Street;New York;NY;10017;
+URL;type=pref:http\://www.manhattanplace.tv
+END:VCARD
