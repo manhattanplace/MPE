@@ -26,4 +26,8 @@ $(document).ready(function() {
         var today = new Date;
         var year = today.getFullYear();
         $('.cr').append(' &copy; '+ year + ' ');
+        
+        function MM_openBrWindow(theURL,winName,features) { //v2.0
+          window.open(theURL,winName,features);
+        }
 });
