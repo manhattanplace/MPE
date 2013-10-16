@@ -1,4 +1,8 @@
 $(document).ready(function() {
+        var today = new Date;
+        var year = today.getFullYear();
+        $('.cr').append(' &copy; '+ year + ' ');
+
 		$('.container').wtGallery({
 			num_display: 5,
 			background_color: "#000",
@@ -21,13 +25,5 @@ $(document).ready(function() {
 			transition: "fade",
 			transition_speed: "slow",
 			segment_size: 30
-		});
-
-        var today = new Date;
-        var year = today.getFullYear();
-        $('.cr').append(' &copy; '+ year + ' ');
-        
-        function MM_openBrWindow(theURL,winName,features) { //v2.0
-          window.open(theURL,winName,features);
-        }
+		});        
 });
