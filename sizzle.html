@@ -2,12 +2,11 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<title>Manhattan Place Entertainment | Contact Us</title>
-<meta name="description" content="">
+<title>Sizzle Video Library</title>
+<meta name="description" content="Sizzle Video Library">
 <!--[if IE 7]>
 <link rel="stylesheet" type="text/css" href="_css/ie.css" media="screen"/>
 <![endif]-->
-<link href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300' rel='stylesheet' type='text/css'/>
 <link rel="stylesheet" type="text/css" href="_css/main.css" media="screen"/>
 <script src="js/modernizr.2.0.6.js"></script>
 </head>
@@ -17,7 +16,7 @@
         <header>
             <nav>
                 <ul>
-                <li class="nav-home"><a href="index.html"></a></li>
+                    <li class="nav-home"><a href="index.html"></a></li>
                     <li class="nav-samplereel"><a href="sizzle.html"></a></li>
                     <li class="nav-commercial"><a href="commercial.html"></a></li>
                     <li class="nav-promos"><a href="promos.html"></a></li> 
@@ -31,7 +30,7 @@
                     <li class="nav-recent"><a href="behindthescenes.html"></a></li>
                     <li class="nav-about"><a href="about.html"></a></li>
                     <li class="nav-contact"><a href="contact.html"></a></li>
-                </ul>        
+                </ul>       
                 <ul class="social_media">
                     <li><a href="http://www.facebook.com/pages/New-York-NY/Manhattan-Place-Entertainment-Inc/122695861097251?ref=ts"><img src="_img/sm_facebook.png" alt="Facebook Logo" /></a></li>
                     <li><a href="https://twitter.com/manhattanplace"><img src="_img/sm_twitter.png" alt="Twitter Logo" /></a></li>
@@ -40,42 +39,67 @@
             <div id="logo">
                 <a href="index.html"><h1>Manhattan Place Entertainment - Video and Film Production Services</h1></a>
             </div>
-            <h3 class="library">CONTACT US</h3>
+            <h3 class="library">Sizzle Reels</h3>
         </header><!-- end header -->
-    </div><!-- end .section -->
+    </div><!-- end section -->
     <div class="container">
-        <div class="contact">
-                    <div class="left">
-                        <p class="tel">212-682-2000 </p>
-                        <p class="email">
-                            <a  href="mailto:stevecohen@manhattanplace.tv?subject=Additional Information">
-                            <span class="fullname">Steve Cohen |</span>  <span class="position">Founder and Chairman</span>
-                            </a>
-                        </p> 
-                        <p class="email">
-                            <a  href="mailto:MichaelM@manhattanplace.tv?subject=Additional Information">
-                            <span class="fullname">Michael McCarthy |</span>  <span class="position">Co-Chairman</span>
-                            </a>
-                        </p>
-                        <p class="email">
-                            <a href="mailto:jamiecohen@manhattanplace.tv?subject=Additional Information">
-                            <span class="fullname">Jamie Cohen |</span>  <span class="position">Production Manager</span>
-                            </a>
-                        </p>
-                        <p class="email">
-                            <a  href="mailto:greg@manhattanplace.tv?subject=Additional Information">
-                            <span class="fullname">Greg Gathman |</span>  <span class="position">Equipment Manager</span>
-                            </a>
-                        </p>
-                    </div>                    
-                    <div class="right"></div>
-                </div>
+    <!-- begin gallery -->
+        <div class="wt-gallery">
+            <div class="main-screen">
+                <img id="bg-img" src="assets/spacer.png" alt="spacer"/>
+                <a href="#"><img id="main-img" src="images/case-study.jpg" alt="placeholder"/></a>
+                <img src="assets/prev.png" id="prev-btn" alt="back button"/>
+                <img src="assets/next.png" id="next-btn" alt="forward button"/>
+                <dl class="desc"></dl>
+                <div class="tmp-desc"></div>
+                <div class="info-pane">--&nbsp;/&nbsp;--</div>
+                <div class="preloader"><img src="assets/loader.gif" alt="spiny thing"/></div>
+            </div>                
+            <div class="c-panel sizzle">
+                <div id="thumbs-back"><img src="assets/prev_thumb.png" alt="back button"/></div>
+                <div class="thumbnails">
+            <ul>
+    <!-- case study -->
+                <li>
+                    <div>
+                        <a class="gallery_overlay" href="images/sizzle/sizzle-1.jpg">
+                        </a><img src="images/sizzle/sizzle-1-thumb.jpg" alt="sizzle reel"/>
+                    </div>
+                    <a href="samplereel/sizzle/video.html"></a>
+                    <dl>
+                        <dt class="description">Title</dt>
+                            <dd>Sizzle Reel </dd>
+                        <dt class="description">Production Services:</dt>
+                            <dd>Manhattan Place Entertainment<dd>
+                    </dl>       
+                </li>
+    <!-- case study  -->
+                <li>
+                    <div>
+                        <a class="gallery_overlay" href="images/sizzle/sizzle-3.jpg">
+                        <img src="images/sizzle/sizzle-3-thumb.jpg" alt="sizzle reel"/></a>
+                    </div>
+                    <a href="samplereel/sizzle-2013/video.html"></a>
+                    <dl>
+                        <dt class="description">Title:</dt> 
+                            <dd>Branded Content</dd>
+                        <dt class="description">Production Services:</dt>
+                            <dd>Manhattan Place Entertainment</dd>
+                    </dl>      
+                </li>  
+            </ul>
+            </div>              
+            <div id="thumbs-fwd"><img src="assets/next_thumb.png" alt="forward button"/></div> 
+            <div class="pagination"></div>            
+            </div>
     </div><!-- end container -->
+</div>    
 </div><!--end panel-->
+   
 <footer>
     <ul class="copyright vcard">
         <li class="cr">Copyright</li>
-        <li class="org">Manhattan Place Entertainment. All Rights Reserved.</li>
+        <li class="org">Manhattan Place Entertainment.  All Rights Reserved.</li>
         <li class="tel">Phone: 212-682-2000</li>  
         <li>Fax: 212-682-2058</li>
         <li><a href="Manhattan_Place.vcf">Download vCard </a></li>
@@ -86,6 +110,7 @@
 </footer><!-- end footer -->
 <!-- Google Analytics -->
 <script type="text/javascript">
+
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-17516374-1']);
   _gaq.push(['_trackPageview']);
