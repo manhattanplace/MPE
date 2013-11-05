@@ -26,8 +26,12 @@ $(document).ready(function() {
         transition_speed: "slow",
         segment_size: 30
     });
-    $('.panel-collapse').hide();
-    $('.panel-heading').on('click', function(){
-        $('.panel-collapse').toggle();
+    $('.panel-heading').click(function(){
+        $('.panel-collapse').slideToggle(500);
+    })
+    .toggle( function() {
+        $('.plus-minus').addClass('minus');
+    }, function() {
+        $('.plus-minus').removeClass('minus');
     });
 });
