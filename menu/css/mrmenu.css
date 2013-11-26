@@ -1,0 +1,92 @@
+.mrmenu_hor{
+font: bold 12px Verdana;
+background: #414141;
+width: 100%;
+}
+
+.mrmenu_hor ul{
+margin: 0;
+padding: 0;
+list-style-type: none;
+}
+
+/*Top level list items*/
+.mrmenu_hor ul li{
+position: relative;
+display: inline;
+float: left;
+}
+
+/*Top level menu link items style*/
+.mrmenu_hor ul li a{
+display: block;
+background: #414141; /*background of tabs (default state)*/
+color: white;
+padding: 8px 10px;
+border-right: 1px solid #778;
+color: #2d2b2b;
+text-decoration: none;
+}
+
+* html .mrmenu_hor ul li a{ /*IE6 hack to get sub menu links to behave correctly*/
+display: inline-block;
+}
+
+.mrmenu_hor ul li a:link, .mrmenu_hor ul li a:visited{
+color: white;
+}
+
+.mrmenu_hor ul li a:hover{
+background: black; /*tab link background during hover state*/
+color: white;
+}
+	
+/*1st sub level menu*/
+.mrmenu_hor ul li ul{
+position: absolute;
+left: 0;
+display: block;
+}
+
+/*Sub level menu list items (undo style from Top level List Items)*/
+.mrmenu_hor ul li ul li{
+display: list-item;
+float: none;
+}
+
+/* Sub level menu links style */
+.mrmenu_hor ul li ul li a{
+font: normal 13px Verdana;
+width: 160px; /*width of sub menus*/
+padding: 5px;
+margin: 0;
+border-top-width: 0;
+border-bottom: 1px solid gray;
+}
+
+.mrmenu_hor ul li ul li a:hover{ /*sub menus hover style*/
+background: #333;
+color: #CCC;
+}
+
+/*----------------------------------
+	Special Classes for MrMenu
+-----------------------------------*/
+/*active*/
+.mrmenu_hor a.active{
+	background: #900;
+}
+
+/*Special*/
+.mrmenu_hor a.special{
+	background: #0C3;
+}
+/*Parent*/
+.mrmenu_hor a.parent{
+	background: #999;
+}
+/*hidden*/
+.mrmenu_hor ul.hidden {
+	/*Required to hide the submenu*/
+	display:none;	
+}

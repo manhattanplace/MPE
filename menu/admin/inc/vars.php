@@ -1,0 +1,1 @@
+<?php define(MT_TABLE,'menu'); ?>

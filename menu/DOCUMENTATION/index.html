@@ -1,0 +1,284 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta name="author" content="Wink Hosting (www.winkhosting.com)" />
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+	<link rel="stylesheet" href="images/style.css" type="text/css" />
+	<title>Mr.Menu Documentation</title>
+</head>
+<body>
+	<div id="page" align="center">
+		<div id="toppage" align="center">
+			<div id="date">
+				<div class="smalltext" style="padding:13px;"></div>
+			</div>
+			<div id="topbar">
+				<div align="right" style="padding:12px;" class="smallwhitetext"><a href="http://www.0plus1.com/themeforest/mrmenu" target="_blank">Live Demo</a></div>
+			</div>
+		</div>
+		<div id="header" align="center">
+			<div class="titletext" id="logo">
+				<div class="logotext" style="margin:30px 10px">Mr. Menu</div> 
+</div>
+			<div id="pagetitle">
+				<div id="title" class="titletext" align="right">Documentation</div>
+			</div>
+		</div>
+		<div id="content" align="center">
+			<div id="menu" align="right">
+				<div align="right" style="width:189px; height:8px;"><img src="images/mnu_topshadow.gif" width="189" height="8" alt="mnutopshadow" /></div>
+				<div id="linksmenu" align="center">
+					<a href="#setup" >Setup</a>
+					<a href="#admin" >Admin</a>
+					<a href="#css" >CSS</a>
+					<a href="#php" >HTML, Java and PHP</a>
+                    <a href="#note" >Note</a>
+					<a href="#contact">Contact</a>
+				</div>
+				<div align="right" style="width:189px; height:8px;"><img src="images/mnu_bottomshadow.gif" width="189" height="8" alt="mnubottomshadow" /></div>
+			</div>
+		<div id="contenttext">
+			<div class="bodytext" style="padding:12px;" align="justify">
+			  <p><strong>Thank you for downloading Mr. Menu,  I will update regularly this widget, and add the feature YOU need, so please, feel free to drop me a line with your ideas and suggestions!</strong><br />
+				<br />
+				Mr.Menu is an object oriented menu widget.<br />
+				These are the most notable features:</p>
+                <ul>
+                  <li>Is able to render a dynamic menu from a database table.</li>
+                  <li>Is able to highlight the current page automagically and on the fly without any kind of user imput!</li>
+                  <li>Can append a special class to highlight a special link in the menu.</li>
+                  <li> Everything is customizable, from the css classes to the way the HTML is printed.</li>
+                  <li>Mr. Menu is object oriented, this allows to change every option on the fly, allowing to display how manu menus you like on the same webpage, each with his own customized style!</li>
+                  <li> Mr.Menu renders a standard &lt;ul&gt;&lt;li&gt; menu. From horizontal to vertical, from background images to w3c complaint menus. You need a menu with two background images, no fear, with a simple option you can wrap links around a &lt;span&gt; tag.</li>
+                  <li>Mr.Menu can also render a list of all items in the menu to be placed on the foot of the website.</li>
+                  <li>AJAX admin for the cool web2.0 factor.</li>
+                  <li> The menu uses <a href="http://www.jquery.com" target="_blank">jquery</a> to drop down the sub items in the menu with style!</li>
+                </ul>
+            </div>
+			<div class="panel" align="justify">
+				<span class="orangetitle"><a name="setup"></a>Setup</span>
+			  <span class="bodytext"><br />
+				The first thing to do is to create a MySql database. This can be achieved in several different ways, depending on your system of choice. The pure mysql command would be:<br />
+				<strong>CREATE DATABASE `mrmenu` ;</strong><br />
+		    On your webserver may be installed <a href="http://www.phpmyadmin.net/home_page/index.php" target="_blank">phpMyAdmin</a>: with this wondeful script you simply have to input a database  name in the main page:
+		    <p><img src="images/phpmyadmin.jpg" width="400" height="240" /></p>
+		    Now that you have succefully created a database for Mr.Menu you will have to open the <strong>menu.class.php</strong> and change its options. I will guide you trought each and every option.<p><img src="images/options.jpg" width="400" height="240" /></p>
+		    The only compulsory options for the system to work at least on a basic level are the database ones, the other options are mainly for customization. Please note that some option are very specific and can make the system unusable if not set properly. Most of the time you won't need to set any of these options!
+		    <h1>Database</h1><ul>
+		      <li><strong>host</strong>: where mySql is located. Eg. <em>localhost</em></li>
+		      <li><strong>user</strong>: username to access the database. Eg. <em>root</em></li>
+		      <li><strong>pass</strong>: the password for the database.</li>
+		      <li><strong>db</strong>: the database name you chose in the database creation step. Eg. <em>mrmenu</em></li>
+		      <li><strong>table</strong>: this is the table name of the menu. Since Mr.Menu can handle multiple menus, you can either set this globally or simply ignore this option and call a table on a page to page basis.</li>
+		    </ul>
+		    <h1>CSS options</h1>
+		    <ul>
+		      <li><strong>css_id</strong>: this contains the id of the ul  that wraps the menu. If you set this to <em>0</em> the ul will not have any id.<em> Eg. mrquery</em></li>
+		      <li><strong>css_class</strong>: this contains the class of the ul that wraps the menu. If you set this to <em>0</em> the ul will not have any class. Eg. <em>horizontalcssmenu</em></li>
+		      <li><strong>css_active:</strong> this contains the name of the class that contains the active link (please refer to the <a href="#css">css</a> section for more informations).</li>
+		      <li><strong>css_parent:</strong> this contains the name of the class of the item that has childs (please refer to the <a href="#css">css</a> section for more informations). If you change this you also need to change the mrmenu <a href="#php">javascript</a> file.</li>
+		      <li><strong>css_special:</strong> this contains the name of the class that contains the special link (please refer to the <a href="#css">css</a> section for more informations).</li>
+		      <li><strong>css_hidden</strong>: this contains the name of the class of the submenu (please refer to the <a href="#css">css</a> section for more informations).</li>
+            </ul>
+</span><span class="bodytext">
+<h1>HTML options</h1>
+<ul>
+		      <li><strong>span</strong>: this is disable by default if you set this to &quot;a&quot; the links will appear like this <em>&lt;a&gt;&lt;span&gt;link&lt;/span&gt;&lt;/a&gt; </em>(as opposed to the:<em> &lt;a&gt;link&lt;/a&gt;</em> default). This is useful to create fluid menus with background images. See the <a href="#css">css</a> section for more information on the html code that Mr.Menu outputs.</li>
+		      <li><strong>special</strong>: If you set this, the system will append a .special class on every label that has this name. If you set this to &quot;Home&quot;, every parent item in the menu will have a .special class appended in both the &lt;a&gt; and &lt;span&gt; tags (or only the &lt;a&gt; tag if span is set to false). This can be used if you need a special styled button (see live <a href="http://www.0plus1.com/themeforest/mrmenu">demo</a> for an example).</li>
+		      <li><strong>url</strong>: this will append an url to all of the links. This is the correct way to create absolute links.<em></em> And also the only way to make the auto highlighter work in a subfolder (see <a href="#note">here</a>).</li>
+	    </ul>
+		    <h1>AUTH</h1>
+		    <ul>
+		      <li><strong>username</strong>: username for logging into the admin. Eg. username</li>
+		      <li><strong>password</strong>: password for logging into the admin. Eg. password.</li>
+		      <li>Please note that in order to help the integration of Mr.Menu inside a CMS if you don't set both username and password ($username/password=&quot;&quot;) there won't be any login page.<em></em></li>
+</ul>
+		    <p>Now you'll have to upload the menu.class.php, the jquery file and the css style on your web server. If you haven't changed anything in the paths section the default folders are css/mrmenu.css and js/jquery.js.	The <strong>admin</strong> folder must be placed on the same directory level of the menu.class.php file as it needs it to operate.<br />
+		      This can be easily done using the ftp client of you choice, i strongly suggest <a href="http://filezilla-project.org/">filezilla</a>, which is freeware and very reliable. Here is a screenshot of the correct attributes on filezilla:
+        <p><img src="images/chmod.jpg" width="337" height="319" /></p>
+The admin can be easily integrated in another system like a cms or can be used indipendently. To make it simple to iintegrate the authentication system is easily overridden. There are two way to achieve this:<ol>
+  <li>Simply set the username and password to 0 in the <a href="#setup">options</a> this will actually override the login system.</li>
+  <li>If you need a more drastic solution simply delete this line:<br />
+    <strong>&lt;?php require_once 'func/admin.class.php'; $authorizer = new Authorizer; $uid = $authorizer-&gt;isLogged(); ?&gt;</strong>
+    <br />
+    You will find it on top of: index.php, item.php, sub_item.php and all the file inside the ajax/ folder. Deleting this line will not compromise in any way Mr.Menu functionalities.</li>
+</ol>
+<p>Now it's time to start messing around with the admin!</p>
+		  </span></div>
+            	<div class="panel" align="justify">
+				  <span class="orangetitle"><a name="admin"></a>Admin</span>
+			        <br />
+		          <span class="bodytext">Since the admin is fully ajaxed I beg you to use a standard complaint browser like firefox, chrome, anything but explorer.<br />
+		          <br />
+		          After the login procedure (that will appear only if a username and password is set):
+		           <p><img src="images/login.jpg" width="400" height="117" /></p>
+		          The main page of the admin will greet you: the first time you access the system an error will be displayed: <strong>Incorrect table name ''<br />
+                    </strong>
+		          This is absolutely normal since we haven't created any table yet. So the first thing to do is to create one:                 
+				  <p><img src="images/myfirstmenu.jpg" width="400" height="345" /></p><ol>
+		            <li>Click on create new, a field will appear</li>
+		            <li>Choose a table name and click create. Once done click on close.</li>
+		            <li>Click on select table, a list will appear.</li>
+		            <li>Choose your newly created table.</li>
+		            </ol>
+	            <p>At this point you can start adding items and sub-items check the info box on the right, it contains useful info about the page you are on.<br />
+	              The system refers to  items that are on the top level of the menu as &quot;<em>parents</em>&quot; while items that stand on the sub-level of the menu are referred as &quot;<em>childs</em>&quot;. A parent may or may not have a child.<br />
+	              I will give you an  overview of the admin:</p>
+                  <p><img src="images/overview.jpg" width="400" height="188" /></p><ol>
+		            <li>Name of the current table</li>
+		            <li>Overview of the table items, here you can move the item up or down on the list or delete an item. Clickig on the item name lets you edit it. Red items are parent withouth any childs. Bold items are parent with childs, the normal styled ones are child items adn they always appear indented under their parents.</li>
+		            <li>Click here to create a new parent item</li>
+		            <li>Click here to create a new child item</li>
+		            <li>Info box. Here you can receive help directly from the system.</li>
+		            <li>Logout click here to log out of the system</li>
+		            </ol>
+                    <p>Creating a new item is straightforward, after you click on the New Item link, you will be greeted by this screen:</p><p><img src="images/item.jpg" width="400" height="206" /></p>
+		          
+		          <ul>
+		            <li>                  Name is the label that the item will have</li>
+		            <li>Link is the link that the item will have. If you leave this empty the system will assume that this item will have childs</li>
+		            <li>If you are editing the item, the add-child button will appear. This lets you add a new child with the correct parent already selcted. If the item has child, they will appear here as a list.</li>
+	              </ul>
+		          <p>Creating a sub-item is also straightforward, after you click on the New Sub-Item link, you will see this screen:</p>
+                  <p><img src="images/sub-item.jpg" width="400" height="175" /></p>
+		          
+		          <ul>
+		            <li>                  Name is the label that the item will have</li>
+		            <li>Link is the link that the item will have.</li>
+		            <li>Parent. Here you can select the parent of this sub item. The item in red are parent with a link. Selecting them will delete the parent link since parent with child cannot have any link.</li>
+	              </ul>
+		          <p>Now let's talk about css shall we?</p>
+		          </span>
+
+           	  </div>
+          <div class="panel" align="justify">
+		    <span class="orangetitle"><a name="css"></a>CSS</span>
+			    <br />
+		    <span class="bodytext">
+		        There are tons of free css menus either horizontal or vertical. A great resource to find them is: <a href="http://www.cssmenumaker.com/">cssmenumaker.<br />
+		        </a>Both of the included examples are taken from: <a href="http://www.dynamicdrive.com">dynamicdrive</a> to show how easy it is to use any kind of css style with Mr.Menu!<br />
+		        To modify the css you have to understand how Mr.Menu outputs html (in this example span is set to 1):<br />
+		    
+		   <pre>&lt;ul id=&quot;mrmenu&quot; class=&quot;horizontalcssmenu&quot;&gt;<br /> &lt;li&gt;<br />  &lt;a id=&quot;active&quot; href=&quot;index.php&quot;&gt;<br />   &lt;span id=&quot;active&quot;&gt;Home&lt;/span&gt;<br />  &lt;/a&gt;<br /> &lt;/li&gt;<br /> &lt;li class=&quot;parent&quot;&gt;<br />  &lt;a class=&quot;parent&quot; href=&quot;#&quot;&gt;<br />   &lt;span&gt;Links&lt;/span&gt;<br />  &lt;/a&gt;<br />  &lt;ul class=&quot;hidden&quot;&gt;<br />   &lt;li&gt;<br />    &lt;a href=&quot;http://www.google.com&quot;&gt;Google&lt;/a&gt;<br />   &lt;/li&gt;<br />   &lt;li&gt;<br />   &lt;a href=&quot;http://www.amazon.com&quot;&gt;Amazon&lt;/a&gt;<br />   &lt;/li&gt;<br />  &lt;/ul&gt;<br /> &lt;/li&gt;<br />&lt;/ul&gt;</pre>
+		    </span>
+		    <span class="bodytext">	          This is the standard html code printed by Mr.Menu, there are several option to alter this structure. First of all if you set the option <strong>$span=&quot;1&quot;;</strong> a span tags will  wrap the links. On top of this you can rename the three special classes included. You can paste any kind of css menu found on the web, the only things you have to mind are the special classes: I will now explain what they do using their standard names:<br />
+            <ul>
+		      <li><strong>.active</strong>: is the class for the active link. You can style this anyway you like or simply ignore this if you don't need to highlight the current webpage.</li>
+		      <li><strong>.parent</strong>: this is the class of the item that has child (both in &lt;li&gt; and &lt;a&gt; tags), again you can choose to ignore this, but be advised that this class is needed to be set for the drop down effect in jquery.</li>
+		      <li><strong>.special</strong>: this class will be appended to both the &lt;a&gt; and &lt;span&gt; tags (like #active). Please refer to the <a href="#setup">setup</a> section for more information on this one.</li>
+		      <li><strong>.hidden</strong>: this class is appended to the submenu. must contain: <em>display:none</em> to hide the submenu.<br />
+	          </li>
+            </ul>
+            Please refer to the included mrmenu.css file for further informations!<br />
+            and now at last but not at least let's see how to include the menu in your webpages!</span></div>
+          
+          <div class="panel" align="justify">
+		    <span class="orangetitle"><a name="php"></a>HTML</span>
+		      <br/>
+            <span class="bodytext">
+              First of all you need to add your CSS definition to the file, otherwise the menu won't work as expected:<br />
+              <br />
+	          <strong>&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;css/mrmenu.css&quot; media=&quot;screen&quot;&gt;<br />
+	          </strong>This is an example with the default stylesheet, in the '<em>href</em>' parameter you can put your custom css file.<br />
+<br />
+	          Then you need to add the required java, use this line to include the jquery library:<br />
+          <strong>&lt;script type=&quot;text/javascript&quot; src=&quot;'js/jquery.js'&quot;&gt;&lt;/script&gt;<br />
+          <br />
+          </strong>And this line to include the custom java required by mrmenu: <br />
+          <strong>&lt;script type=&quot;text/javascript&quot; src=&quot;'js/mrmenu.js'&quot;&gt;&lt;/script&gt;</strong> <br />
+	          <br />
+            I will now explain in detail how to customize mrmenu.js .<br />
+            <br />
+            </span>
+		    <span class="orangetitle">JAVA</span>
+            <br />
+            <span class="bodytext">I have included an additional file called <em>mrmenu-noc.js</em>
+            this file contains a <a href="http://docs.jquery.com/Core/jQuery.noConflict">noConflict</a> mode (to avoid conflicts with other libraries)
+version of the script, if you need this simply use this line:<strong><br />
+&lt;script type=&quot;text/javascript&quot; src=&quot;'js/mrmenu-noc.js'&quot;&gt;&lt;/script&gt;<br />
+<br />
+</strong>Instead of the default one.<br />
+<br />
+You can also alter these parameters:<br />
+<br />
+<ul>
+          <li><strong>$('li.parent').hover</strong>: change the <em>parent</em> line to suit the alternative name you set with: <em>css_parent</em> <a href="#setup">option</a>.</li>
+          <li><strong>show(&quot;fast&quot;);</strong>: this sets how fast the submenu will be shown. This can be any valid jquery <a href="http://docs.jquery.com/Effects/show#speedcallback" target="_blank">parameter</a>.</li>
+          <li><strong>hide(&quot;fast&quot;);:</strong>this sets how fast the submenu will be hidden. This can be any valid jquery <a href="http://docs.jquery.com/Effects/show#speedcallback" target="_blank">parameter</a>.</li>
+          </ul>
+            </span>
+            <span class="orangetitle">PHP</span>
+		      <br />
+		      <span class="bodytext">
+	          If you never used object oriented php programming don't be scared, I will explain everything.<br />
+	          This is a symple Mr.Menu call:
+	          </span></p>
+		    <span class="bodytext">
+		    <pre>&lt;?php<br /> include 'menu.class.php';<br /> $menu = new Menu(&quot;myfirstmenu&quot;);<br />  $menu-&gt;makeMenu();<br /> $menu-&gt;makeFooter();<br />?&gt;<br /></pre>
+		  
+		    <ul>
+		      <li> <strong>include 'menu.class.php';  </strong>this is a standard php <a href="http://us2.php.net/manual/en/function.include.php">include</a> if the class will be on the same level of the webpages this will be the line you'll use.</li>
+		      <li> <strong>$menu = new Menu(&quot;myfirstmenu&quot;);</strong> this is the initialization of the class, between the &quot; &quot; is the table name. You can also call the class like this: $menu = new Menu; if you set up the table in the class <a href="#setup">options</a>.</li>
+		      <li> <strong>$menu-&gt;makeMenu();</strong> this prints the actual menu. You can call it wherever you may need it.</li>
+		      <li><strong>$menu-&gt;makeFooter(); </strong>Another notable feature of Mr.Menu is the ability to output every single link of the menu as a simple list of &lt;a&gt; links. This can be called anywhere you like, normally you would place this on the footer of the website.</li>
+	        </ul>
+		    <p>On top of this you can override every single option discussed in the <a href="#setup">setup </a>section. <br />
+		      (
+		      Note that the database setup cannot be overridden)<br />
+		      <br />
+		      Examples:
+<br />
+		      If you want to have absolute links in one of your pages you can do it like this:
+		      <br />
+		      <strong>$menu-&gt;url=&quot;http://www.mywebsite.com&quot;;</strong><br />
+		      <br />
+		      You may also need to use another stylesheet on a particular webpage:
+		      <br />
+		      <strong>$menu-&gt;css_name=&quot;mystyle2.css&quot;;</strong><br />
+		      <br />
+		      Note you can set as many option as you like, but you must do it after this line:
+		      <br />
+            <strong>$menu = new Menu(&quot;myfirstmenu&quot;);</strong></p>
+		    <p>And before this line:<br />
+	        <strong>$menu-&gt;js();</strong><br />
+	        <br />
+	        Plese refer to the <strong>example.php</strong> file to see a working example. </p>
+		    </span></div>
+          
+          <div class="panel" align="justify">
+		    <p><span class="orangetitle"><a name="note" id="note"></a>Note</span><br />
+		      <span class="bodytext">
+	          There is something you should know about the auto highlight feature.<br />
+	          <br />
+	          The system assumes by default that the site will be located on the root of the site:<strong><br />
+              eg. http://www.sitename.com/pagewithmenu.php</strong><br />
+              If you need to place the menu on a subfolder<br />
+<strong>eg. http://www.sitename.com/a_folder/pagewithmenu.php</strong> <br />
+              <br />
+              you must create links relative to that folder and use the url parameter:<br />
+	          This: <strong>pagewithmenu.php</strong> will become <strong>a_folder/pagewithmenu.php</strong><br />
+	          <br />
+	          And the menu will be called with:<br />
+<strong>$menu-&gt;url=&quot;http://www.sitename.com/&quot;; </strong></span>          </p>
+          </div>
+            
+          <div class="panel" align="justify">
+		    <span class="orangetitle"><a name="contact"></a>Contact</span>
+			    <br />
+		    <span class="bodytext">
+            If you need anything that has not been covered in this file, you have a suggestion or you have encountered any kind of proble, you can reach me <a href="mailto:david.0plus1@gmail.com">here</a>.<br />
+            <br />
+            Kind Regards,<br />
+            Davide Gaido
+            <br />
+		    </span></div>  
+          </div>
+          <div align="center" class="smallgraytext" id="footer">
+			<a title="Hosting Colombia" href="http://www.winkhosting.com">Hosting Colombia</a><br/>
+		  </div>
+              
+		</div>
+        
+	</div>
+</body>
+</html>
