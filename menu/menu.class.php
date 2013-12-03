@@ -19,7 +19,7 @@ class Menu {
 	var $user = "root";
 	var $pass = "root";
 	var $db = "mpe";
-	var $table = "";
+	var $table = "menu";
 	/*
 	CSS OPTIONS
 	*/

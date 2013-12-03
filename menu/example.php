@@ -11,7 +11,7 @@
 //This is the file to be included:
 include 'menu.class.php';
 //This is the class initialization (with the table name as a parameter)
-$menu = new Menu("myfirstmenu");
+$menu = new Menu("menu");
 //I don't need any class to display my menu, I disable it like so
 $menu->css_class ="0";
 $menu->css_id ="0";

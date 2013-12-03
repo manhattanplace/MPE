@@ -910,7 +910,7 @@ a,.contact a:link,.contact a:visited, {
     width:577px;
     height:429px;
     padding:10px;
-    margin:0 0 0 5px;
+    margin:0 0 0 0;
     text-align:center;
 }
 
@@ -937,7 +937,66 @@ a,.contact a:link,.contact a:visited, {
     text-align:left;
     padding-right:25px;
 }
-
+.directors {
+    position: relative;
+}
+.modal {
+    display: none;
+    left: 50%;
+    margin-left: -345px;
+    position: absolute;
+    top: 0;
+    z-index: 5;
+    border: 25px solid #FFFFFF;
+    border-radius: 5px;
+}
+.modal-backdrop {
+    background: #000000;
+    display: none;
+    height: 100%;
+    opacity: 0.90;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    z-index: 4;
+}
+.close {
+    color: #666;
+    position: absolute;
+    right: 4px;
+    top: -22px;
+    z-index: 1;
+}
+.directors video {
+    
+}
+.directors .main-screen {
+    margin: 0 0 0 40px;
+    padding: 0;
+    border: 1px solid #0663c7!important;
+    overflow: visible;
+}
+.directors .desc {
+    width: 300px !important;
+    height: 370px !important;
+    left: 670px;
+    margin: 0;
+}
+.directors #main-img {
+    padding: 10px!important;
+}
+.directors .thumbnails li div img {
+    padding: 7px;
+}
+.click-to-play {
+    left: 50%;
+    margin-left: -82px;
+    margin-top: -16px;
+    position: relative;
+    top: 50%;
+    z-index: 2;
+    cursor: pointer;
+}
 #bg-img {
     display:block;
     position:absolute;
@@ -1016,7 +1075,7 @@ a,.contact a:link,.contact a:visited, {
     background-color:#000;
     position:absolute;
     top:0;
-    z-index:5;
+    z-index:4;
     cursor:pointer;
 }
 
@@ -1050,14 +1109,14 @@ a,.contact a:link,.contact a:visited, {
 .c-panel.sizzle {
     margin:0 0 0 25px;
 }
-
+.directors .c-panel {
+    left: 60px;
+}
 .c-panel {
     position:relative;
     display:block;
     clear:both;
     left:15px;
-    width:573px;
-    height:100px;
     padding-top:4px;
     margin:0 auto;
 }
@@ -1110,8 +1169,8 @@ a,.contact a:link,.contact a:visited, {
 
 .thumbnails li div img {
     position:absolute;
-    top:0;
-    left:0;
+    top:0!important;
+    left:0!important;
     z-index:0;
 }
 
@@ -1225,7 +1284,7 @@ a,.contact a:link,.contact a:visited, {
     margin-top: 50px;
 }
 .panel-default {
-    margin: 0 0 0 50px;
+    margin: 0 0 15px 35px;
 }
 .panel-title {
     font-weight: 400;
@@ -1250,7 +1309,6 @@ a,.contact a:link,.contact a:visited, {
     margin: 10px 0;
     line-height: 1.3;
 }
-
 
 
 
