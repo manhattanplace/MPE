@@ -1,18 +1,13 @@
 <?php
-//This is the file to be included:
 include '../menu.class.php';
-//This is the class initialization (with the table name as a parameter)
 $menu = new Menu("menu");
 $super_menu = new Menu("super_menu");
 $social = new Menu("social");
-//I don't need any class to display my menu, I disable it like so
 $menu->css_class ="0";
 $menu->css_id ="0";
-//With this option I set a special menu item
 $menu->special ="Special";
 ?>
 <!DOCTYPE HTML>
-
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -823,22 +818,6 @@ After the sights and sounds of the music and fireworks, the night was topped off
         </article>
         <!-- end article -->    
 
-        <!-- Begin Article 
-        <div class="article">
-            <h1><a name="linsanity" class="anchor">MPE Gets To The Point of "Lin-Sanity"</a></h1>
-            <p class="date">March 1 2012</p><hr/>
-            <a href="episodic/jeremy-lin/video.html">
-                <img class="float_right" src="_img/recent-work/jeremy-lin.jpg" alt="Jeremy Lin"  />
-            </a>
-            <p>He's become one of the most inspirational stories in NBA history. And when it was time to interview New York Knicks sensation Jeremy Lin, it was "Lin-evitable" that MSG Network would turn to Manhattan Place Entertainment to handle the field production and cinematography to shoot an MSG special, called : "Jeremy Lin: To the Point".</p> 
-            <p>For this shoot, we utilized Arri Alexa cameras in combination with Angeniuex Optimo zoom lenses, to achieve the most cinematic quality available in video production.</p> 
-            <p>In a candid one on one conversation with Knicks broadcaster Spero Dedes, Lin talked about his meteoric rise from undrafted benchwarmer to NBA star.</p>
-            <p>He discussed the remarkable recognition that's come his way, the challenges he's faced in his basketball career, and his prominent role in the Knicks turnaround this season.</p>
-            <p>"Jeremy Lin: To the Point" aired February 16th on MSG. But you can still catch this Lin-sightful Lin-terview with Jeremy on MSG.com.</p>
-            <a href="#top">Back to Top</a>
-        </div>
-         end article -->    
-
         <!-- Begin Article -->  
         <article class="article">
             <h1><a name="bhm" class="anchor">MPE Celebrates Black History Month</a></h1>
@@ -1148,7 +1127,7 @@ After the sights and sounds of the music and fireworks, the night was topped off
         
         <!-- Begin Article -->  
         <article class="article">
-            <h1><a href="behind_the_scenes/indy.html" class="anchor" name="indy">MPE Works with VERSUS to shoot Indy Car Portraits!</a></h1>
+            <h1><a href="" class="anchor" name="indy">MPE Works with VERSUS to shoot Indy Car Portraits!</a></h1>
             <p class="date">May 25 2010</p><hr/>
             <p>With the 46th running of the Indianapolis 500 upon us, MPE is proud to have "qualified" in playing a key role in the creation of a fresh new look for Versus and their 2010 IZOD Indy Car Series telecasts.</p> 
             <img class="float_right" src="_img/recent-work/bts_indy.jpg" alt="Danica Patrick IZOD Indy Car Series Driver"  />
@@ -1215,7 +1194,7 @@ After the sights and sounds of the music and fireworks, the night was topped off
     
         <!-- Begin Article -->  
         <article class="article">
-            <h1><a href="behind_the_scenes/50cent.html" class="anchor" name="50cent">Manhattan Place Shoots "Baby By Me" with 50 Cent</a></h1>
+            <h1><a href="" class="anchor" name="50cent">Manhattan Place Shoots "Baby By Me" with 50 Cent</a></h1>
             <p class="date">January 11 2010</p><hr/>
             <a href="promos/50cent/50cent.html"><img class="float_left" src="_img/recent-work/bts_50cent.jpg" alt="bts_01"  /></a>
             <p>Manhattan Place Entertainment recently produced and shot "Baby By Me" a :60 second TV spot for Vitamin Water starring hip-hop superstar 50 Cent.</p> 

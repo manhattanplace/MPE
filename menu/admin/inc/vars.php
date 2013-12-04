@@ -1,1 +1,1 @@
-<?php define(MT_TABLE,'menu'); ?>
+<?php define(MT_TABLE,'social'); ?>

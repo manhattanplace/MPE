@@ -15,6 +15,11 @@ class Menu {
 //----------------------------------------------------------------Start editing here:
 
 	//database options: (required)
+	// prod
+	//var $host = "205.178.146.112";
+	//var $user = "clif01";
+	//var $pass = "2u7jUi;YEeKA";
+	// local
 	var $host = "localhost";
 	var $user = "root";
 	var $pass = "root";

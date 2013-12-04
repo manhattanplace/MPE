@@ -37,7 +37,7 @@ $menu->special ="Special";
     </header>
     <div class="panel">
         <div id="logo">
-            <a href="index.html"><h1>Manhattan Place Entertainment - Video and Film Production Services</h1></a>
+            <a href="index.php"><h1>Manhattan Place Entertainment - Video and Film Production Services</h1></a>
         </div>
         <h3 class="library">Digital and Web</h3>
         <div class="container">
@@ -62,7 +62,7 @@ $menu->special ="Special";
                         <a class="gallery_overlay" href="images/case-study-beyonce.jpg"></a>
                         <img src="images/thumbs/case-study-beyonce.jpg" alt="Beyonce"/>
                     </div>
-                    <a href="digital/beyonce-4/video.html"></a> 
+                    <a href="digital/beyonce-4/video.php"></a> 
                     <dl>
                         <dt class="description">Title:</dt>
                             <dd>BEYONCE "4"</dd>
@@ -84,7 +84,7 @@ $menu->special ="Special";
                         <a class="gallery_overlay" href="images/case_study_50cent.jpg"></a>
                         <img src="images/thumbs/case_study_50cent.jpg" alt="50 Cent at mic"/>
                     </div>
-                    <a href="digital/50cent/50cent.html"></a>
+                    <a href="digital/50cent/50cent.php"></a>
                     <dl>
                         <dt class="description">TITLE:</dt>
                             <dd> Baby By Me</dd>
@@ -106,7 +106,7 @@ $menu->special ="Special";
                         <a class="gallery_overlay" href="images/case-study-ac.jpg">
                         </a><img src="images/thumbs/case-study-ac.jpg" alt=""/>
                     </div>
-                    <a href="digital/ac-lightup-boardwalk/video.html"></a>
+                    <a href="digital/ac-lightup-boardwalk/video.php"></a>
                     <dl>
                         <dt class="description">TITLE:</dt>
                             <dd>AC Lights Up The Boardwalk</dd>
@@ -126,7 +126,7 @@ $menu->special ="Special";
                         <a class="gallery_overlay" href="images/case-study-sheri.jpg"></a>
                         <img src="images/thumbs/case-study-sheri.jpg" alt="Oral B Power Moment"/>
                     </div>
-                    <a href="digital/sherri-oral-b/video-sherri.html"></a>
+                    <a href="digital/sherri-oral-b/video-sherri.php"></a>
                     <dl>
                         <dt class="description">Title:</dt>
                             <dd>Oral B "Power Moment" - Holiday</dd> 
@@ -146,7 +146,7 @@ $menu->special ="Special";
                         <a class="gallery_overlay" href="images/case-study-kohls.jpg"></a>
                         <img src="images/thumbs/case-study-kohls.jpg" alt="Kohl's - Rock & Republic"/>
                     </div>
-                    <a href="digital/kohls/video.html"></a> 
+                    <a href="digital/kohls/video.php"></a> 
                     <dl>
                         <dt class="description">Title:</dt>
                             <dd>Kohl's - Rock &amp; Republic</dd>
@@ -169,7 +169,7 @@ $menu->special ="Special";
                         <a class="gallery_overlay" href="images/digital/glam-ebay.jpg"></a>
                         <img src="images/digital/glam-ebay-thumb.jpg" alt="Glam - Ebay">
                     </div>
-                    <a href="digital/escape-to-nyc/video.html"></a> 
+                    <a href="digital/escape-to-nyc/video.php"></a> 
                     <dl>
                         <dt class="description">Title:</dt>
                             <dd>Glam - Ford</dd>
@@ -193,7 +193,7 @@ $menu->special ="Special";
                         <a class="gallery_overlay" href="images/case-study-hero-of-the-rails.jpg">
                         <img src="images/thumbs/case-study-hero-of-the-rails.jpg" alt="Hero of the Rails"/></a>
                     </div>
-                    <a href="digital/hotr/hotr.html"></a>
+                    <a href="digital/hotr/hotr.php"></a>
                     <dl>
                         <dt class="description">Title:</dt>
                             <dd>Hero Of The Rails</dd>
@@ -213,7 +213,7 @@ $menu->special ="Special";
                         <a class="gallery_overlay" href="images/case-study-cruise.jpg"></a>
                         <img src="images/thumbs/case-study-cruise.jpg" alt="Celebrity Cruise Lines"/>
                     </div>
-                    <a href="digital/cruise/video.html"></a> 
+                    <a href="digital/cruise/video.php"></a> 
                     <dl>
                         <dt class="description">Title:</dt>
                             <dd>Celebrity Cruise Lines</dd>
@@ -231,7 +231,7 @@ $menu->special ="Special";
                         <a class="gallery_overlay" href="images/case-study-nyscf.jpg"></a>
                         <img src="images/thumbs/case-study-nyscf.jpg" alt="New York Stem Cell Foundation"/>
                     </div>
-                    <a href="digital/nyscf/video.html"></a> 
+                    <a href="digital/nyscf/video.php"></a> 
                     <dl>
                         <dt class="description">Title:</dt>
                             <dd>A Bridge To Cures</dd>
@@ -253,7 +253,7 @@ $menu->special ="Special";
                         <a class="gallery_overlay" href="images/case-study-wgc-a.jpg"></a>
                         <img src="images/thumbs/case-study-wgc-a.jpg" alt="World Gold Council"/>
                     </div>
-                    <a href="digital/amsale/video.html"></a> 
+                    <a href="digital/amsale/video.php"></a> 
                     <dl>
                         <dt class="description">Title:</dt>
                             <dd>"Gold Makes <span style="text-transform:none;">it a</span> Marriage" </dd>
@@ -274,7 +274,7 @@ $menu->special ="Special";
                         <a class="gallery_overlay" href="images/case-study-rock-makeover.jpg"></a>
                         <img src="images/thumbs/case-study-rock-makeover.jpg" alt="Kohl's - Rock & Republic"/>
                     </div>
-                    <a href="digital/kohls-rock-republic/video.html"></a>
+                    <a href="digital/kohls-rock-republic/video.php"></a>
                     <dl>
                         <dt class="description">Title:</dt>
                             <dd>Kohl's - Rock &amp; Republic</dd>
@@ -297,7 +297,7 @@ $menu->special ="Special";
                         <a class="gallery_overlay" href="images/case-study-dress-barn.jpg"></a>
                         <img src="images/thumbs/case-study-dress-barn.jpg" alt="Dress Barn Style Squad"/>
                     </div>
-                    <a href="digital/dress-barn/video.html"></a>
+                    <a href="digital/dress-barn/video.php"></a>
                     <dl>
                         <dt class="description">Title:</dt>
                             <dd>Dress Barn "Style Squad"</dd>
@@ -317,7 +317,7 @@ $menu->special ="Special";
                         <a class="gallery_overlay" href="images/case-study-makeover.jpg">
                         <img src="images/thumbs/case-study-makeover.jpg" alt="Kohl's - 'Spring Trends'"/></a>
                     </div>
-                    <a href="digital/kohls-spring-trends/video.html"></a>
+                    <a href="digital/kohls-spring-trends/video.php"></a>
                     <dl>
                         <dt class="description">Title:</dt>
                             <dd>Kohl's - "Spring Trends"</dd> 
@@ -339,7 +339,7 @@ $menu->special ="Special";
                         <a class="gallery_overlay" href="images/case-study-misty-island-rescue.jpg"></a>
                         <img src="images/thumbs/case-study-misty-island-rescue.jpg" alt="Misty Island Rescue"/>
                     </div>
-                    <a href="digital/misty-island-rescue/misty-island-rescue.html"></a> 
+                    <a href="digital/misty-island-rescue/misty-island-rescue.php"></a> 
                     <dl>
                         <dt class="description">Title:</dt>
                             <dd>Misty Island Rescue</dd>
@@ -358,7 +358,7 @@ $menu->special ="Special";
                         <a class="gallery_overlay" href="images/case-study-sheri-1.jpg"></a>
                         <img src="images/thumbs/case-study-sheri-1.jpg" alt="Oral B Power Moment"/>
                     </div>
-                    <a href="digital/sherri-new/video-sherri.html"></a>
+                    <a href="digital/sherri-new/video-sherri.php"></a>
                     <dl>
                         <dt class="description">Title:</dt>
                             <dd>Oral B "Power Moment"</dd> 
@@ -378,7 +378,7 @@ $menu->special ="Special";
                         <a class="gallery_overlay" href="images/case-study-GLAM.jpg"></a>
                         <img src="images/thumbs/case-study-GLAM.jpg" alt="Three Moms"/>
                     </div>
-                    <a href="digital/glam-smart-moms-connect/glam-video.html"></a>
+                    <a href="digital/glam-smart-moms-connect/glam-video.php"></a>
                     <dl>
                         <dt class="description">Title:</dt>
                             <dd> Smart Moms Connect</dd> 
@@ -398,7 +398,7 @@ $menu->special ="Special";
                         <a class="gallery_overlay" href="images/case-study-wgc-b2.jpg"></a>
                         <img src="images/thumbs/case-study-wgc-b2.jpg" alt="Amsale Abera"/>
                     </div>
-                    <a href="digital/wgc-02/video.html"></a> 
+                    <a href="digital/wgc-02/video.php"></a> 
                     <dl>
                         <dt class="description">Title:</dt>
                             <dd>"Why is gold the preferred metal for wedding day jewelry?"</dd>
@@ -419,7 +419,7 @@ $menu->special ="Special";
                         <a class="gallery_overlay" href="images/case-study-wgc-a2.jpg"></a>
                         <img src="images/thumbs/case-study-wgc-a2.jpg" alt="Amsale Abera"/>
                     </div>
-                    <a href="digital/wgc-03/video.html"></a> 
+                    <a href="digital/wgc-03/video.php"></a> 
                     <dl>
                         <dt class="description">Title:</dt>
                             <dd>"Why is gold the preferred metal for wedding day jewelry"</dd>

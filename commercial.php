@@ -37,7 +37,7 @@ $menu->special ="Special";
     </header>
     <div class="panel">
         <div id="logo">
-            <a href="index.html"><h1>Manhattan Place Entertainment - Video and Film Production Services</h1></a>
+            <a href="index.php"><h1>Manhattan Place Entertainment - Video and Film Production Services</h1></a>
         </div>
         <h3 class="library">COMMERCIALS</h3>
         <div class="container">
@@ -61,7 +61,7 @@ $menu->special ="Special";
                         <a class="gallery_overlay" href="images/case-study-beyonce.jpg">
                         <img src="images/thumbs/case-study-beyonce.jpg" alt="Beyonce"/></a>
                     </div>
-                    <a href="commercial/beyonce/video.html"></a>
+                    <a href="commercial/beyonce/video.php"></a>
                     <dl>
                         <dt class="description">Title:</dt>
                             <dd>Beyonce "What's in your Target cart?"</dd> 
@@ -83,7 +83,7 @@ $menu->special ="Special";
                         <a class="gallery_overlay" href="images/case_study_pc_cure.jpg">
                         <img src="images/thumbs/case_study_pc_cure.jpg" alt="Cablevision - Cure PC"/></a>
                     </div>
-                    <a href="commercial/curePC/video.html"></a>
+                    <a href="commercial/curePC/video.php"></a>
                     <dl>
                         <dt class="description">Title:</dt> 
                             <dd>Cure PC - Bryan Cranston</dd> 
@@ -107,7 +107,7 @@ $menu->special ="Special";
                         <a class="gallery_overlay" href="images/case-study-dennis-leary.jpg">
                         <img src="images/thumbs/case-study-dennis-leary.jpg" alt="Dennis Leary"/></a>
                     </div>
-                    <a href="commercial/lustgarten-foundation-psa/video.html"></a>
+                    <a href="commercial/lustgarten-foundation-psa/video.php"></a>
                     <dl>
                         <dt class="description">Title:</dt>
                             <dd> Cure PC - Denis Leary</dd> 
@@ -127,7 +127,7 @@ $menu->special ="Special";
                         <a class="gallery_overlay" href="images/case-study-derek-jeter.jpg">
                         <img src="images/thumbs/case-study-derek-jeter.jpg" alt="Derek Jeter"/></a>
                     </div>
-                    <a href="commercial/derek-jeter/video.html"></a>
+                    <a href="commercial/derek-jeter/video.php"></a>
                     <dl>
                         <dt class="description">Title:</dt> 
                             <dd>Stand Up For Cancer</dd> 
@@ -146,7 +146,7 @@ $menu->special ="Special";
                         <a class="gallery_overlay" href="images/case-study-patrick.jpg">
                         <img src="images/thumbs/case-study-patrick.jpg" alt="MSG"/></a>
                     </div>
-                    <a href="commercial/dan-patrick/video-dan-patrick.html"></a>
+                    <a href="commercial/dan-patrick/video-dan-patrick.php"></a>
                     <dl>
                         <dt class="description">Title:</dt> 
                             <dd>The Dan Patrick Show - "Fritzy"</dd> 
@@ -166,9 +166,9 @@ $menu->special ="Special";
                 <li>
                     <div class="gallery-images">
                         <a class="gallery_overlay" href="images/commercial/trutv-grandpa.jpg"></a>
-                        <img src="images/commercial/trutv-grandpa-thumb.jpg" alt="Kickass 2"/>
+                        <img src="images/commercial/trutv-grandpa-thumb.jpg" alt="Bad Grandpa Promo"/>
                     </div>
-                    <a href="commercial/trutv-bad-grandpa/video.html"></a> 
+                    <a href="commercial/trutv-bad-grandpa/video.php"></a> 
                     <dl>
                         <dt class="description">Title:</dt>
                             <dd style="text-transform:none;">"Bad Grandpa Promo" truTV</dd>
@@ -188,7 +188,7 @@ $menu->special ="Special";
                         <a class="gallery_overlay" href="images/commercial/kickass2.jpg"></a>
                         <img src="images/commercial/kickass2-thumb.jpg" alt="Kickass 2"/>
                     </div>
-                    <a href="commercial/kickass2/video.html"></a> 
+                    <a href="commercial/kickass2/video.php"></a> 
                     <dl>
                         <dt class="description">Title:</dt>
                             <dd style="text-transform:none;">"Kick Ass Promo"- truTV</dd>
@@ -202,37 +202,13 @@ $menu->special ="Special";
                             <dd> Manhattan Place Entertainment</dd>
                     </dl>
                 </li>
-        <!-- case study 
-                <li>
-                    <div class="gallery-images">
-                        <a class="gallery_overlay" href="images/impractical-jokers.jpg"></a>
-                        <img src="images/impractical-jokers-thumb.jpg" alt="Kickass 2"/>
-                    </div>
-                    <a href="/commercial/impractical-jokers/video.html"></a> 
-                    <dl>
-                        <dt class="description">Title:</dt>
-                            <dd>impractical-jokers</dd>
-                        <dt class="description">AGENCY:</dt>
-                            <dd></dd>
-                        <dt class="description">PRODUCTION COMPANY:</dt>
-                            <dd></dd>
-                        <dt class="description">DIRECTOR:</dt>
-                            <dd></dd>
-                        <dt class="description">DIRECTOR OF PHOTOGRAPHY:</dt>
-                            <dd></dd>
-                        <dt class="description">2ND CAMERA OPERATOR:</dt>
-                            <dd></dd>
-                        <dt class="description">Production Services:</dt>
-                            <dd> Manhattan Place Entertainment</dd>
-                    </dl>
-                </li>-->
         <!-- case study -->
                 <li>
                     <div class="gallery-images">
                         <a class="gallery_overlay" href="images/commercial/st-vincent-miracle2.jpg"></a>
                         <img src="images/commercial/st-vincent-miracle-thumb2.jpg" alt="Miracles"/>
                     </div>
-                    <a href="commercial/st-vincents-miracles/video.html"></a> 
+                    <a href="commercial/st-vincents-miracles/video.php"></a> 
                     <dl>
                         <dt class="description">Title:</dt>
                             <dd>Miracles</dd>
@@ -254,7 +230,7 @@ $menu->special ="Special";
                         <a class="gallery_overlay" href="images/commercial/acc-football.jpg"></a>
                         <img src="images/commercial/acc-football-thumb.jpg" alt="ACC Football"/>
                     </div>
-                    <a href="commercial/acc-football/video.html"></a> 
+                    <a href="commercial/acc-football/video.php"></a> 
                     <dl>
                         <dt class="description">Title:</dt>
                             <dd>ACC Football</dd>
@@ -272,37 +248,13 @@ $menu->special ="Special";
                             <dd> Manhattan Place Entertainment</dd>
                     </dl>
                 </li>
-        <!-- case study 
-                <li>
-                    <div class="gallery-images">
-                        <a class="gallery_overlay" href="images/pac-12.jpg"></a>
-                        <img src="images/pac-12-thumb.jpg" alt="PAC-12"/>
-                    </div>
-                    <a href="/commercial/pac-12/video.html"></a> 
-                    <dl>
-                        <dt class="description">Title:</dt>
-                            <dd>PAC-12</dd>
-                        <dt class="description">AGENCY:</dt>
-                            <dd></dd>
-                        <dt class="description">PRODUCTION COMPANY:</dt>
-                            <dd></dd>
-                        <dt class="description">DIRECTOR:</dt>
-                            <dd></dd>
-                        <dt class="description">DIRECTOR OF PHOTOGRAPHY:</dt>
-                            <dd></dd>
-                        <dt class="description">2ND CAMERA OPERATOR:</dt>
-                            <dd></dd>
-                        <dt class="description">Production Services:</dt>
-                            <dd> Manhattan Place Entertainment</dd>
-                    </dl>
-                </li>
     <!-- case study  -->
                 <li>
                     <div>
                         <a class="gallery_overlay" href="images/case_study_bush_clinton.jpg">
                         <img src="images/thumbs/case_study_bushclinton.jpg" alt="Hurricane Katrina"/></a>
                     </div>
-                    <a href="commercial/katrina/video.html"></a>
+                    <a href="commercial/katrina/video.php"></a>
                     <dl>
                         <dt class="description">Title</dt> 
                             <dd>Hurricane Katrina</dd>
@@ -323,7 +275,7 @@ $menu->special ="Special";
                         <a class="gallery_overlay" href="images/keurig.jpg">
                         <img src="images/thumbs/keurig.jpg" alt="Keurig 'Journey Across America'"/></a>
                     </div>
-                    <a href="commercial/keurig/video.html"></a>
+                    <a href="commercial/keurig/video.php"></a>
                     <dl>
                         <dt class="description">Title:</dt>
                             <dd>Keurig "Journey Across America"</dd> 
@@ -347,7 +299,7 @@ $menu->special ="Special";
                         <a class="gallery_overlay" href="images/pooch.jpg"></a>
                         <img src="images/pooch-thumb.jpg" alt="ESPN SportsCenter Spot"/>
                     </div>
-                    <a href="commercial/espn-sports-center/video.html"></a> 
+                    <a href="commercial/espn-sports-center/video.php"></a> 
                     <dl>
                         <dt class="description">Title:</dt>
                             <dd>ESPN "SportsCenter Spot"</dd>
@@ -367,7 +319,7 @@ $menu->special ="Special";
                         <a class="gallery_overlay" href="images/case-study-bob-papa.jpg">
                         <img src="images/thumbs/case-study-bob-papa.jpg" alt="Giants Rewind"/></a>
                     </div>
-                    <a href="commercial/papa/video-papa.html"></a>
+                    <a href="commercial/papa/video-papa.php"></a>
                     <dl>
                         <dt class="description">Title:</dt> 
                             <dd>"Giants Rewind"</dd> 
@@ -389,7 +341,7 @@ $menu->special ="Special";
                         <a class="gallery_overlay" href="images/case-study-mike-breen.jpg">
                         <img src="images/thumbs/case-study-mike-breen.jpg" alt="MSG"/></a>
                     </div>
-                    <a href="commercial/taxi-mike_breen/video.html"></a>
+                    <a href="commercial/taxi-mike_breen/video.php"></a>
                     <dl>
                         <dt class="description">Title:</dt> 
                             <dd>Mike Breen "In the Zone"</dd> 
@@ -409,7 +361,7 @@ $menu->special ="Special";
                         <a class="gallery_overlay" href="images/case-study-al-trautwig.jpg">
                         <img src="images/thumbs/case-study-al-trautwig.jpg" alt="Al Trautwig"/></a>
                     </div>
-                    <a href="commercial/taxi-control_room/video.html"></a>
+                    <a href="commercial/taxi-control_room/video.php"></a>
                     <dl>
                         <dt class="description">Title:</dt>
                             <dd>Al Trautwig "Whatever He Wants"</dd> 
@@ -429,7 +381,7 @@ $menu->special ="Special";
                         <a class="gallery_overlay" href="images/commercial/test-of-a-champion.jpg"></a>
                         <img src="images/commercial/test-of-a-champion-thumb.jpg" alt="The Test of the Champion"/>
                     </div>
-                    <a href="commercial/nyra-test/video.html"></a> 
+                    <a href="commercial/nyra-ny-adrenaline/video.php"></a> 
                     <dl>
                         <dt class="description">Title:</dt>
                             <dd>NYRA "The Test of the Champion"</dd>
@@ -447,7 +399,7 @@ $menu->special ="Special";
                         <a class="gallery_overlay" href="images/case-study-banks.jpg">
                         <img src="images/thumbs/case-study-banks.jpg" alt="MSG"/></a>
                     </div>
-                    <a href="commercial/banks/video-banks.html"></a>
+                    <a href="commercial/banks/video-banks.php"></a>
                     <dl>
                         <dt class="description">Title:</dt> 
                             <dd>"Opening Drive Live"</dd> 
@@ -469,7 +421,7 @@ $menu->special ="Special";
                         <a class="gallery_overlay" href="images/case_study_insperity-kids-save.jpg">
                         <img src="images/thumbs/case_study_insperity-kids-save.jpg" alt="Insperity Kids Save"/></a>
                     </div>
-                    <a href="commercial/insperity-kids-save/video.html"></a>
+                    <a href="commercial/insperity-kids-save/video.php"></a>
                     <dl>
                         <dt class="description">Title:</dt>
                             <dd>Insperity "Kids Save"</dd> 
@@ -489,7 +441,7 @@ $menu->special ="Special";
                         <a class="gallery_overlay" href="images/case-study-ryan-howard.jpg">
                         <img src="images/thumbs/case-study-ryan-howard.jpg" alt="Ryan Howard"/></a>
                     </div>
-                    <a href="commercial/ryan-howard/video.html"></a>
+                    <a href="commercial/ryan-howard/video.php"></a>
                     <dl>
                         <dt class="description">Title:</dt>
                             <dd>Stand Up For Cancer</dd>
@@ -508,7 +460,7 @@ $menu->special ="Special";
                         <a class="gallery_overlay" href="images/case-study-bill-pidto.jpg">
                         <img src="images/thumbs/case-study-bill-pidto.jpg" alt="Bill Pidto"/></a>
                     </div>
-                    <a href="commercial/taxi-bill/video.html"></a>
+                    <a href="commercial/taxi-bill/video.php"></a>
                     <dl>
                         <dt class="description">Title:</dt> 
                             <dd>Bill Pidto "Not His Coffee"</dd>
@@ -528,7 +480,7 @@ $menu->special ="Special";
                         <a class="gallery_overlay" href="images/case-study-noiinpen.jpg">
                         <img src="images/thumbs/case-study-noiinpen.jpg" alt="Al/Kelly 'No I in Pen'"/></a>
                     </div>
-                    <a href="commercial/taxi-kelly_ai/video.html"></a>
+                    <a href="commercial/taxi-kelly_ai/video.php"></a>
                     <dl>
                         <dt class="description">Title:</dt>
                             <dd>Al and Kelly "No I in Pen"</dd> 
@@ -548,7 +500,7 @@ $menu->special ="Special";
                         <a class="gallery_overlay" href="images/case_study_spiderwick_jared.jpg">
                         </a><img src="images/thumbs/case_study_spiderwick_jared.jpg" alt="Man stands in front of globe"/>
                     </div>
-                    <a href="commercial/spiderwick_jared/jared.html"></a>
+                    <a href="commercial/spiderwick_jared/jared.php"></a>
                     <dl>
                         <dt class="description">Title:</dt>
                             <dd>The Spiderwick Chronicles - Jared</dd>
@@ -570,7 +522,7 @@ $menu->special ="Special";
                         <a class="gallery_overlay" href="images/case_study_spiderwick_mallory.jpg">
                         </a><img src="images/thumbs/case_study_spiderwick_mallory.jpg" alt="NY Knicks Nate Robinson"/>
                     </div>
-                    <a href="commercial/spiderwick_mallory/video.html"></a>
+                    <a href="commercial/spiderwick_mallory/video.php"></a>
                     <dl>
                         <dt class="description">Title:</dt>
                             <dd>The Spiderwick Chronicles - Mallory</dd> 
@@ -592,7 +544,7 @@ $menu->special ="Special";
                         <a class="gallery_overlay" href="images/case-study-jimmy-rollins.jpg">
                         <img src="images/thumbs/case-study-jimmy-rollins.jpg" alt="Jimmy Rollins"/></a>
                     </div>
-                    <a href="commercial/jimmy-rollins/video.html"></a>
+                    <a href="commercial/jimmy-rollins/video.php"></a>
                     <dl>
                         <dt class="description">Title:</dt>
                             <dd>Stand Up For Cancer</dd>
@@ -611,7 +563,7 @@ $menu->special ="Special";
                         <a class="gallery_overlay" href="images/case_study_our_neighborhood-2.jpg">
                         <img src="images/thumbs/case_study_our_neighborhood-2.jpg" alt="Cablevision - This is Our Neighborhood"/></a>
                     </div>
-                    <a href="commercial/neighborhood/video.html"></a>
+                    <a href="commercial/neighborhood/video.php"></a>
                     <dl>
                         <dt class="description">Title:</dt>
                             <dd>This Is Our Neighborhood</dd> 
@@ -631,7 +583,7 @@ $menu->special ="Special";
                         <a class="gallery_overlay" href="images/commercial/theresa-yony.jpg">
                         <img src="images/commercial/theresa-yony-thumb.jpg" alt="Theresa Yoney"/></a>
                     </div>
-                    <a href="commercial/st-vincent-theresa-yoney/video.html"></a>
+                    <a href="commercial/st-vincent-theresa-yoney/video.php"></a>
                     <dl>
                         <dt class="description">Title:</dt>
                             <dd> Theresa Yoney</dd> 
@@ -653,7 +605,7 @@ $menu->special ="Special";
                         <a class="gallery_overlay" href="images/case_study_novalis-2.jpg">
                         <img src="images/thumbs/case_study_novalis-2.jpg" alt="St. Vincent's Medical Center - Novalis"/></a>
                     </div>
-                    <a href="commercial/st-vincent-medical-center-novalis/video.html"></a>
+                    <a href="commercial/st-vincent-medical-center-novalis/video.php"></a>
                     <dl>
                         <dt class="description">Title:</dt>
                             <dd>"Novalis"</dd>
@@ -675,7 +627,7 @@ $menu->special ="Special";
                         <a class="gallery_overlay" href="images/case_study_arvetta-2.jpg">
                         <img src="images/thumbs/case_study_arvetta-2.jpg" alt="St. Vincent's Medical Center - Arvetta"/></a>
                     </div>
-                    <a href="commercial/st-vincent-medical-center-arvetta/video.html"></a>
+                    <a href="commercial/st-vincent-medical-center-arvetta/video.php"></a>
                     <dl>
                         <dt class="description">Title:</dt> 
                             <dd>"Arvetta"</dd>
@@ -697,7 +649,7 @@ $menu->special ="Special";
                         <a class="gallery_overlay" href="images/case_study_darren-2.jpg">
                         <img src="images/thumbs/case_study_darren-2.jpg" alt="St. Vincent's Medical Center - Darren"/></a>
                     </div>
-                    <a href="commercial/st-vincent-medical-center-darren/video.html"></a>
+                    <a href="commercial/st-vincent-medical-center-darren/video.php"></a>
                     <dl>
                         <dt class="description">Title:</dt>
                             <dd>"Darren"</dd>
@@ -719,7 +671,7 @@ $menu->special ="Special";
                         <a class="gallery_overlay" href="images/case-study-nyra-breeders.jpg">
                         <img src="images/thumbs/case-study-nyra-breeders.jpg" alt="NYRA NY Breeder"/></a>
                     </div>
-                    <a href="commercial/nyra-ny-breeders/video.html"></a>
+                    <a href="commercial/nyra-ny-breeders/video.php"></a>
                     <dl>
                         <dt class="description">Title:</dt>
                             <dd>NYRA NY Breeder</dd>
@@ -739,7 +691,7 @@ $menu->special ="Special";
                         <a class="gallery_overlay" href="images/case-study-nyra-adrenaline.jpg">
                         <img src="images/thumbs/case-study-nyra-adrenaline.jpg" alt="NYRA NY Adrenaline"/></a>
                     </div>
-                    <a href="commercial/nyra-ny-adrenaline/video.html"></a>
+                    <a href="commercial/nyra-ny-adrenaline/video.php"></a>
                     <dl>
                         <dt class="description">Title:</dt>
                             <dd>NYRA NY Adrenaline</dd>
@@ -757,7 +709,7 @@ $menu->special ="Special";
                         <a class="gallery_overlay" href="images/case_study_victorys_secret.jpg">
                         <img src="images/thumbs/case_study_victorys_secret.jpg" alt="Victoria's Secret"/></a>
                     </div>
-                <a href="commercial/victorias_secret/video.html"></a> 
+                <a href="commercial/victorias_secret/video.php"></a> 
                 <dl>
                     <dt class="description">Title:</dt> 
                         <dd>Victoria's Secret</dd>
