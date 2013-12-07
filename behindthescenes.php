@@ -1,5 +1,5 @@
 <?php
-include '../menu.class.php';
+include 'menu.class.php';
 $menu = new Menu("menu");
 $super_menu = new Menu("super_menu");
 $social = new Menu("social");
@@ -16,35 +16,23 @@ $menu->special ="Special";
 <!--[if IE 7]>
 <link rel="stylesheet" type="text/css" href="_css/ie.css" media="screen"/>
 <![endif]-->
-<link rel="stylesheet" type="text/css" href="_css/main.css" media="screen"/>
+<link rel="stylesheet" type="text/css" href="/css/styles.css" media="screen"/>
 <script src="js/modernizr.2.0.6.js"></script>
 <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,600,700,800,300' rel='stylesheet' type='text/css'>
 <link href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700' rel='stylesheet' type='text/css'>
 </head>
 <body>
-    <header>
-        <nav>
-            <ul class="menu-social">
-                <?php $social->makeMenu(); ?>
-            </ul>
-            <ul class="menu-info">
-                <?php $super_menu->makeMenu(); ?>
-            </ul>        
-            <ul class="menu-main">
-                <?php $menu->makeMenu(); ?>
-            </ul>
-        </nav>
-    </header>
-<div class="panel rw">
+    <?php include '_header.php'; ?>
+    <div class="panel rw">
             <div id="logo">
-                <a href="index.html">
+                <a href="index.php">
                 <h1>Manhattan Place Entertainment - Video and Film Production Services</h1>
                 </a>
             </div>
             <h3 class="library">Recent Work</h3>
     <div class="wrapper">
         <ul class="bread_crumb">
-            <li><a href="index.html">home</a> </li>
+            <li><a href="index.php">home</a> </li>
             <li>&raquo;</li>
             <li>Recent Work</li>
         </ul>
@@ -132,7 +120,7 @@ $menu->special ="Special";
             <p>Director of photography Chris Bierlein commented "The approach for these spots was indeed to shoot in the actual hospital environment as opposed to on a soundstage. We used the real operating rooms and real doctors, nurses, and administrators as opposed to casting professional actors. By doing so, I think we were able to more effectively convey the sensibility of the hospital's messaging, in a very genuine way". Cohen added "Taking that approach can present some challenges. For instance, sometimes the operating room that you plan on shooting in, or a doctor that was scheduled to work with you, suddenly become unavailable because they are needed in cases of emergency. These are challenges that must be dealt with from a production standpoint, challenges that you have to expect and prepare for if you are going to choose to work in an environment and with the people from that environment that serve to help others every day. Challenging for us maybe, but it is easy to put things in perspective pretty quickly when you see what the hospital staff and medical staff are faced with every day".</p>
             <p>The campaign was created by Franklin Street, an advertising agency based out of Richmond Virginia that specializes in Healthcare Marketing and Advertising.</p>
             <p>The spots begin airing regionally in Connecticut on October 21st.</p>
-            <p><a href="http://www.manhattanplace.tv/commercial/st-vincents-miracles/video.html">"Miracles"</a></p>
+            <p><a href="http://www.manhattanplace.tv/commercial/st-vincents-miracles/video.php">"Miracles"</a></p>
             <p><a href="http://manhattanplace.tv/specials/st-vincent-extraordinary/st-vincent-extraordinary.">"Extraordinary"</a></p>
             <a class="back-to-top" href="#top">Back to Top</a>       
         </div>
@@ -253,7 +241,7 @@ Gus Johnson!</p>
             <p>This reel will exhibit the very same work that MPE has done for clients like Ford, Samsung, Kohl's, Intel, Tiffany, Keurig, and ebay, and it showcases our wide array of skills in the moving video world across all platforms, from traditional commercials to rebranding programs to branded web content to episodic product placement to the production of live events.</p>
             <p>But don't take our word for it - simply slide your mouse over this blue wording below and strike the button twice, using a quick thrust of your index finger and begin watching- it's that simple!</p>
             <p>Simpler still is contacting us to help provide a production solution that fits your needs, however large or small --- let us give you the quality of production services we are known for and is shown on our "sizzle" reel, and you can prepare to be seen on next years version!</p>
-            <p>Because we at MPE feel that the World Wide Web is here to stay. http://www.manhattanplace.tv/samplereel/sizzle-2013/video.html</p>
+            <p>Because we at MPE feel that the World Wide Web is here to stay. http://www.manhattanplace.tv/samplereel/sizzle-2013/video.php</p>
             <a class="back-to-top" href="#top">Back to Top</a>       
         </article>
         <!-- end article -->
@@ -261,12 +249,12 @@ Gus Johnson!</p>
         <article class="article">
             <h1><a name="ford" class="anchor">Glam-Ford Escape</a></h1>
             <p class="date">1/7/13</p><hr/>
-            <a href="../digital/escape-to-nyc/video.html"><img class="float_right" src="_img/recent-work/glam-ford-01.jpg" alt="Glam-Ford Escape"  /></a>
+            <a href="/digital/escape-to-nyc/video.php"><img class="float_right" src="_img/recent-work/glam-ford-01.jpg" alt="Glam-Ford Escape"  /></a>
             <p>With the exception of the 3.5 million dollar Super Bowl commercials these days, most of the time, we miss them ---- commercials, that is ---- we DVR, TiVo or Netflix our way right past them.  The solution for a brand to get its message across? Product placement!</p>
             <p>In a way, we've come full circle - in the old days Art Linkletter, Gary Moore and even Johnny Carson would hold up a product right within the body of the show and begin pitching-Product placement in its most basic form.</p>
             <p>In this, the "DVR" era, Product placement has become infinitely crucial to branding efforts - "Modern Family" does it, "Skyfall" does it, almost all forms of reality programming do it - and more and more of them, including some on that list, call on Manhattan Place Entertainment to execute the vision.</p>
             <p>One such recent  example was with Ford and its superior utility vehicle, the "Escape".</p>
-            <a href="../digital/escape-to-nyc/video.html"><img class="float_left" src="_img/recent-work/glam-ford-02.jpg" alt="Glam-Ford Escape"  /></a>
+            <a href="/digital/escape-to-nyc/video.php"><img class="float_left" src="_img/recent-work/glam-ford-02.jpg" alt="Glam-Ford Escape"  /></a>
             <p>Ford reached out to Glam.com to consider exposure within its popular webisodes with Lauren Messiah, an L.A. based stylist and fashion blogger.</p>
             <p>Seamless integration of the "Escape" was employed with MPE's unique field production and post production skills to create a viewing experience that was informative to watch and equally effective for Ford's messaging - a double win for the viewer and the client, always MPE's ultimate goal.</p>
             <p>Working with Manhattan Place is always a joy, said Robert McConnell, the Director of Ad Solutions for Glam.com. The team is dedicated to turning out an excellent end product, making the planning and shooting process easy and seamless, and lastly providing excellent value."</p>
@@ -278,11 +266,11 @@ Gus Johnson!</p>
         <article class="article">
             <h1><a name="glamE" class="anchor">Glam eBay</a></h1>
             <p class="date">1/31/13</p><hr/>
-            <a href="/digital/nola-weinstein/video.html"><img class="float_left" src="_img/recent-work/glam-ebay.png" alt="Glam eBay"  /></a>
+            <a href="/digital/nola-weinstein/video.php"><img class="float_left" src="_img/recent-work/glam-ebay.png" alt="Glam eBay"  /></a>
             <p>When you hear the brand "E Bay", do you think fashion? Well you may be doing that now, since the popular site has been working with major retailers to market high end apparel.</p>
             <p>Manhattan Place Entertainment, through its long standing partnership with <a href="http://www.glam.com">Glam.com</a>, produced a series of vignettes showcasing Fall and Winter fashion for women earlier this season.</p>
             <p>The link below shows one of the segments that confirms, again, MPE will over deliver for its partners!</p>
-            <p><a href="/digital/nola-weinstein/video.html">Glam eBay</a></p>
+            <p><a href="/digital/nola-weinstein/video.php">Glam eBay</a></p>
             <a class="back-to-top" href="#top">Back to Top</a>       
         </article>
         <!-- end article -->
@@ -504,7 +492,7 @@ When asked if he "solemnly swears", he starts swearing at his opponent, only to 
         <article class="article">
             <h1><a name="nyra" class="anchor">NYRA Hands the Reins to Manhattan Place Entertainment</a></h1>
             <p class="date">August 7 2012</p><hr/>
-            <a href="commercial/nyra-ny-adrenaline/video.html">
+            <a href="commercial/nyra-ny-adrenaline/video.php">
                 <img class="float_right" src="_img/recent-work/nyra.jpg" alt="NYRA Hands the Reins to Manhattan Place Entertainment"  />
             </a>
             <p>The New York Racing Association (NYRA) was not "horsing" around when they retained Manhattan Place Entertainment (MPE) to produce their latest series of branded video content. The campaign included multiple commercial spots and a long form video for the web.</p>  
@@ -522,7 +510,7 @@ When asked if he "solemnly swears", he starts swearing at his opponent, only to 
         <article class="article">
             <h1><a name="euro" class="anchor">Manhattan Place Entertainment Partners up with Euro RSCG on the "DO AC" Campaign!</a></h1>
             <p class="date">July 26 2012</p><hr/>
-            <a href="digital/ac-lightup-boardwalk/video.html">
+            <a href="digital/ac-lightup-boardwalk/video.php">
                 <img class="float_left" src="_img/recent-work/atlantic-city.jpg" alt=""  />
             </a>
             <p>By now, you've probably seen or heard the "DO EVERYTHING. DO ANYTHING.  DO AC." campaign, inviting visitors to come to Atlantic City.</p>  
@@ -574,7 +562,7 @@ After the sights and sounds of the music and fireworks, the night was topped off
         <article class="article">
             <h1><a name="dunk" class="anchor">Slam Dunk for MPE!</a></h1>
             <p class="date">June 21 2012</p><hr/>
-            <a href="opens/nyk-tease/video.html">
+            <a href="opens/nyk-tease/video.php">
                 <img class="float_right" src="_img/recent-work/slam-dunk.jpg" alt="Slam Dunk for MPE!"  />
             </a>
             <p>Manhattan Place Entertainment adds to its growing list of industry honors, with a 2012 Telly Award for its pregame introduction for the New York Knicks.</p>  
@@ -594,7 +582,7 @@ After the sights and sounds of the music and fireworks, the night was topped off
         <article class="article">
             <h1><a name="gardenparty" class="anchor">A Madison Square "Garden Party" with Supermodel Chrissy Teigen</a></h1>
             <p class="date">June 14 2012</p><hr/>
-            <a href="promos/block-party-music/video.html#">
+            <a href="promos/block-party-music/video.php#">
                 <img class="float_right" src="_img/recent-work/garden-party.jpg" alt=""  />
             </a>
             <p>Manhattan Place Entertainment (MPE) recently shot on-camera segments with Chrissy Teigen and Allison Hagendorf, for MSG's "Summer Block Party Music Friday". The two "hotties" host MSG's music lineup every Friday night.</p>  
@@ -605,7 +593,7 @@ After the sights and sounds of the music and fireworks, the night was topped off
             <p>With that said, a bit of a makeover was required before we could shoot.</p>
             <p>The before and after photos (above) show how we tapped into our art direction capabilities and transformed the area from just a plain courtyard space into a festive and colorful party setting.</p>
             <p>We needed to acheive a look that visually conveyed the sensibility of an outdoor summer party in New York, and I think we successfully accomplished that."</p>
-            <p>So feel free to drop in on our block party all summer long, every Friday night at 9 p.m. on MSG, or take a look at this video on our <a href="promos/block-party-music/video.html">website</a>.</p>
+            <p>So feel free to drop in on our block party all summer long, every Friday night at 9 p.m. on MSG, or take a look at this video on our <a href="promos/block-party-music/video.php">website</a>.</p>
             <a class="back-to-top" href="#top">Back to Top</a>       
         </article>
         <!-- end article -->
@@ -630,13 +618,13 @@ After the sights and sounds of the music and fireworks, the night was topped off
         <article class="article">
             <h1><a name="leary" class="anchor">Denis Leary Joins the Fight for Pancreatic Cancer</a></h1>
             <p class="date">May 25 2012</p><hr/>
-            <a href="commercial/lustgarten-foundation-psa/video.html">
+            <a href="commercial/lustgarten-foundation-psa/video.php">
                 <img class="float_right" src="_img/recent-work/denis-leary.jpg" alt="Denis Leary Joins the Fight for Pancreatic Cancer"  />
             </a>
             <p>As part of its continuing collaboration with Cablevision and The Lustgarten Foundation, Manhattan Place Entertainment produced a public service announcement for the curePC campaign to raise awareness of pancreatic cancer.</p>  
             <p>The new spot, featuring actor/comedian Denis Leary, was directed by Steve Cohen.</p>
             <p>The spot was shot on the ARRI Alexa digital camera."Choosing the Alexa was a no brainer" said Cohen, "we wanted the most cinematic look available in a digital format and in my opinion there is no camera that does that better right now than the Alexa."</p>
-            <p>In this compelling spot, Leary talks about losing a friend to pancreatic cancer, and urges viewers to join the fight against the deadly disease by visiting <a href="http://www.curepc.org/">curePC.org</a>. You can also view the PSA on our <a href="commercial/lustgarten-foundation-psa/video.html">website</a>.</p>
+            <p>In this compelling spot, Leary talks about losing a friend to pancreatic cancer, and urges viewers to join the fight against the deadly disease by visiting <a href="http://www.curepc.org/">curePC.org</a>. You can also view the PSA on our <a href="commercial/lustgarten-foundation-psa/video.php">website</a>.</p>
             <p>Cablevision's support of The Lustgarten Foundation ensures that 100 percent of every dollar donated to the Foundation goes directly to pancreatic cancer research. </p>
             <a class="back-to-top" href="#top">Back to Top</a>       
         </article>
@@ -659,7 +647,7 @@ After the sights and sounds of the music and fireworks, the night was topped off
         <article class="article">
             <h1><a name="goglam" class="anchor">Manhattan Place Goes Glam</a></h1>
             <p class="date">May 16 2012</p><hr/>
-            <a href="digital/kohls-rock-republic/video.html">
+            <a href="digital/kohls-rock-republic/video.php">
                 <img class="float_right" src="_img/recent-work/rw-go-glam.jpg" alt="Glam"  />
             </a>
             <p>Manhattan Place Entertainment turns its focus to fashion, collaborating with <a href="//www.glam.com">GLAM.com</a> to produce a series of web videos  for the Kohl's Rock and Republic line of apparel.</p>  
@@ -673,7 +661,7 @@ After the sights and sounds of the music and fireworks, the night was topped off
         <article class="article">
             <h1><a name="tellys" class="anchor">Manhattan Place Entertainment Wins 2 Tellys</a></h1>
             <p class="date">May 3 2012</p><hr/>
-            <a href="teases/journey-911/video.html">
+            <a href="teases/journey-911/video.php">
                 <img class="float_left" src="_img/recent-work/rw-fdny.jpg" alt="FDNY"  />
             </a>
             <p>Manhattan Place Entertainment adds to its list of top industry honors with two 2012 Telly awards in the category of Sports Cinematography.</p>
@@ -690,7 +678,7 @@ After the sights and sounds of the music and fireworks, the night was topped off
         <article class="article">
             <h1><a name="beyonce" class="anchor">MPE On Target With Beyonce</a></h1>
             <p class="date">June 8 2011</p><hr/>
-            <a href="digital/beyonce-4/video.html">
+            <a href="digital/beyonce-4/video.php">
                 <img class="float_right" src="_img/recent-work/beyonce.jpg" alt="Beyonce"  />
             </a>
             <p>Manhattan Place Entertainment is called upon for another high-profile project, this one involving one of the biggest superstars in the world of music: Beyonce.</p>
@@ -706,11 +694,11 @@ After the sights and sounds of the music and fireworks, the night was topped off
         <article class="article">
             <h1><a name="spring" class="anchor">Spring Ahead with Glam.com</a></h1>
             <p class="date">April 26 2012</p><hr/>
-            <a href="digital/glam-smart-moms-connect/glam-video.html"><img class="float_left" src="_img/recent-work/rw-glam.jpg" alt="Spring Ahead with Glam.com"  /></a>
+            <a href="digital/glam-smart-moms-connect/glam-video.php"><img class="float_left" src="_img/recent-work/rw-glam.jpg" alt="Spring Ahead with Glam.com"  /></a>
             <p>Manhattan Place Entertainment in collaboration with <a href="//www.glam.com">GLAM.com</a> has created a series of new webisodes showcasing Kohl's hottest Spring Trends.</p>
             <p>The six videos showcase fashion bloggers undergoing "wardrobe" makeovers, using clothing from the Kohl's line to show off their favorite Spring styles.</p>
             <p>The bloggers describe how the clothes reflect their individual styles, and discuss some of the new trends, including color blocking and animal prints.</p>   
-            <p>Spring is in the air in MPE's makeover videos, viewable on our <a href="digital/glam-smart-moms-connect/glam-video.html">website</a> or on Kohl's Youtube channel: <a href="http://www.youtube.com/watch?v=ZwrhAhnCHGk&feature=plcp&context=C4288aaeVDvjVQa1PpcFMWr8LNpXCjCxcYNrb2cXw32v_sb-NR0IM%3D">here</a>.
+            <p>Spring is in the air in MPE's makeover videos, viewable on our <a href="digital/glam-smart-moms-connect/glam-video.php">website</a> or on Kohl's Youtube channel: <a href="http://www.youtube.com/watch?v=ZwrhAhnCHGk&feature=plcp&context=C4288aaeVDvjVQa1PpcFMWr8LNpXCjCxcYNrb2cXw32v_sb-NR0IM%3D">here</a>.
             </p>            
             <a href="#top">Back to Top</a>
         </article>
@@ -720,7 +708,7 @@ After the sights and sounds of the music and fireworks, the night was topped off
         <article class="article">
             <h1><a name="backon" class="anchor">Manhattan Place Entertainment gets "Back On Track"!</a></h1>
             <p class="date">April 19 2012</p><hr/>
-            <a href="digital/kohls/video.html"><img class="float_right" src="_img/recent-work/rw-speed.jpg" alt="Back On Track"  /></a>
+            <a href="digital/kohls/video.php"><img class="float_right" src="_img/recent-work/rw-speed.jpg" alt="Back On Track"  /></a>
             <p>Manhattan place entertainment (MPE) recently got "Back on Track" with SPEED to execute a major production shoot this time involving the NASCAR Craftsmen Truck Series.</p> 
             <p>Working on location in Mooresville, NC, MPE handled all aspects of the field production.</p>
             <p>Through careful planning and proper execution, we were able to successfully acquire a wide variety of visual elements, that in-turn, will be implemented in a multitude of ways into SPEED's season long coverage of the NASCAR Craftsmen Truck Series.</p>
@@ -734,10 +722,10 @@ After the sights and sounds of the music and fireworks, the night was topped off
         <article class="article">
             <h1><a name="rocks" class="anchor">Kohl's Rocks a New Look</a></h1>
             <p class="date">April 13 2012</p><hr/>
-            <a href="digital/kohls/video.html"><img class="float_left" src="_img/recent-work/rw-kohls.jpg" alt="Kohl's Rocks a New Look"  /></a>
+            <a href="digital/kohls/video.php"><img class="float_left" src="_img/recent-work/rw-kohls.jpg" alt="Kohl's Rocks a New Look"  /></a>
             <p>Manhattan Place Entertainment, collaborating with <a href="//www.glam.com">Glam.com</a>, hit the runways during New York's Fashion Week to produce a video celebrating the launch of of Rock &amp; Republic, a new line available exclusively at Kohl's.</p> 
             <p>The edgy, fast paced video captures the show's flair and excitement and features backstage footage of the models getting ready, interviews about their love of Rock and Republic, and of course, a peek inside the star studded fashion show as the models strut their stuff and in the words of Kohl's, "Rock The Look".</p>
-            <p>You can see all the style, both ours and theirs, when you check out the video on our <a href="digital/kohls/video.html">website</a> or on Kohl's Youtube channel: <a href="http://www.youtube.com/watch?v=JDm1H632un4&feature=youtube_gdata_player%A0">here.</a></p>
+            <p>You can see all the style, both ours and theirs, when you check out the video on our <a href="digital/kohls/video.php">website</a> or on Kohl's Youtube channel: <a href="http://www.youtube.com/watch?v=JDm1H632un4&feature=youtube_gdata_player%A0">here.</a></p>
             <a href="#top">Back to Top</a>
         </article>
         <!-- end Article -->
@@ -746,7 +734,7 @@ After the sights and sounds of the music and fireworks, the night was topped off
         <article class="article">
             <h1><a name="nyr2012" class="anchor">2011-2012 NY Rangers Video Introduction</a></h1>
             <p class="date">April 5 2012</p><hr/>
-            <a href="opens/nyr-2012-open/video.html"><img class="float_right" src="_img/recent-work/rw-nyr.jpg" alt="NY Rangers Video Introduction"  /></a>
+            <a href="opens/nyr-2012-open/video.php"><img class="float_right" src="_img/recent-work/rw-nyr.jpg" alt="NY Rangers Video Introduction"  /></a>
             <p>As the New York Rangers head for the playoffs and the chase for the Stanley Cup, Manhattan Place Entertainment is helping to heat things up on the ice at Madison Square Garden.</p>  
             <p>Manhattan Place teamed up with the Rangers on the open that is being played on the Madison Square Garden video screen before every home game at MSG.</p>  
             <p>Using Manhattan Place's signature style of sports cinematography, a montage of original player images was incorporated with game action, New York City scenics, and dramatic music to create an electrifying pre-game intro.</p>
@@ -758,7 +746,7 @@ After the sights and sounds of the music and fireworks, the night was topped off
         <article class="article">
             <h1><a name="brew" class="anchor">Keurig Brews New Coffee Campaign ... with the help of Manhattan Place!</a></h1>
             <p class="date">March 29 2012</p><hr/>
-            <a href="commercial/keurig/video.html"><img class="float_left" src="_img/recent-work/rw-vue.jpg" alt="Keurig Brews New Coffee"  /></a>
+            <a href="commercial/keurig/video.php"><img class="float_left" src="_img/recent-work/rw-vue.jpg" alt="Keurig Brews New Coffee"  /></a>
             <p>Manhattan Place Entertainment is on the road again, going coast to coast for a new campaign for Keurig coffee makers.</p>
             <p>Acquirgy, a leading direct response marketing agency, along with Heads-Up Creative, turned to MPE to provide comprehensive production services on the location shoots that took place in New York and Chicago for an infomercial promoting the new Keurig Vue Brewer.</p>
             <p>It features Jennie Garth, best-known as one of the stars of the TV series 'Beverly Hills 90210'.</p>
@@ -773,7 +761,7 @@ After the sights and sounds of the music and fireworks, the night was topped off
         <article class="article">
             <h1><a name="nyscf" class="anchor">MPE Produces Video For New York Stem Cell Foundation</a></h1>
             <p class="date">March 22 2012</p><hr/>
-            <a href="digital/nyscf/video.html"><img class="float_right" src="_img/recent-work/nyscr.jpg" alt="New York Stem Cell Foundation"  /></a>
+            <a href="digital/nyscf/video.php"><img class="float_right" src="_img/recent-work/nyscr.jpg" alt="New York Stem Cell Foundation"  /></a>
             <p>Manhattan Place Entertainment partnered with the New York Stem Cell Foundation, to produce a video highlighting the foundation's groundbreaking work.</p> 
             <div><p>The video outlined the mission of NYSCF in accelerating cures for the major diseases of our time through stem cell research. It featured scientists who are at the forefront of this research and some of their exciting breakthroughs.</p>  
             <p>In producing this video, MPE interviewed the most prominent leaders and supporters of the foundation, shot extensive footage of stem cell research in the lab, and consulted closely with NYSCF on all aspects of the editorial content.</p>   
@@ -787,7 +775,7 @@ After the sights and sounds of the music and fireworks, the night was topped off
         <article class="article">
             <h1><a name="nykp" class="anchor">2011/2012 NY Knicks Video Introduction</a></h1>
             <p class="date">March 15 2012</p><hr/>
-            <a href="opens/nyk-tease/video.html">
+            <a href="opens/nyk-tease/video.php">
                 <img class="float_left" src="_img/recent-work/ny-knicks-2012.jpg" alt="New York Knicks"  />
             </a>
             <p>Manhattan Place Entertainment is helping to get fans fired up for each game of New York Knicks basketball this season.</p> 
@@ -822,7 +810,7 @@ After the sights and sounds of the music and fireworks, the night was topped off
         <article class="article">
             <h1><a name="bhm" class="anchor">MPE Celebrates Black History Month</a></h1>
             <p class="date">February 24 2012</p><hr/>
-            <a href="psa/bhm-katherine/video.html">
+            <a href="psa/bhm-katherine/video.php">
                 <img class="float_left" src="_img/recent-work/black-history.jpg" alt="Voices of Harlem"  />
             </a>
             <p>For a series of vignettes to celebrate Black History Month, MSG Network turned to its long-time partner Manhattan Place Entertainment to handle production, lighting and cinematography.</p>
@@ -852,7 +840,7 @@ After the sights and sounds of the music and fireworks, the night was topped off
         <article class="article">
             <h1><a name="oral" class="anchor">MPE Provides New 'View' of Oral B<small>&#174;</small></a></h1>
             <p class="date">January 6 2012</p><hr/>
-            <a href="digital/sherri-oral-b/video-sherri.html">
+            <a href="digital/sherri-oral-b/video-sherri.php">
                 <img class="float_left" src="_img/recent-work/oral-b.jpg" alt="Sherri Sheppard"  />
             </a>
             <p>Manhattan Place Entertainment collaborated with The Creative Group on a series of web spots for Oral B® electric toothbrushes.</p> 
@@ -873,7 +861,7 @@ After the sights and sounds of the music and fireworks, the night was topped off
         <article class="article">
             <h1><a name="year" class="anchor">It's The Most Wonderful Time of the Year</a></h1>
             <p class="date">November 23 2011</p><hr/>
-            <a href="sizzle.html">
+            <a href="sizzle.php">
                 <div class="view">
                     <img src="_img/recent-work/sunset-liberty.jpg" alt="Sunset in New York" />
                     <p>View our reel</p>
@@ -914,7 +902,7 @@ After the sights and sounds of the music and fireworks, the night was topped off
         <article class="article">
             <h1><a name="mort" class="anchor">MPE Gets 'Mortified'</a></h1>
             <p class="date">November 17 2011</p><hr/>
-            <a href="episodic/burns/video.html">
+            <a href="episodic/burns/video.php">
                 <img class="float_right" src="_img/recent-work/ed-burns.jpg" alt="Ed Burns"  />
             </a>
             <p>Manhattan Place Entertainment heads down memory lane with the Sundance Channel on its popular new show, "The Mortified Sessions".</p>
@@ -930,7 +918,7 @@ After the sights and sounds of the music and fireworks, the night was topped off
         <article class="article">
             <h1><a name="vets" class="anchor">MPE's Veteran's Day tease honors heroic pioneers on Fox NFL Sunday</a></h1>
             <p class="date">November 11 2011</p><hr/>
-            <a href="teases/airmen/video.html">
+            <a href="teases/airmen/video.php">
                 <img class="float_right" src="_img/recent-work/veterns-day.jpg" alt="The famed Tuskegee Airmen"  />
             </a>
             <p>In recognition of Veteran's Day, Manhattan Place Entertainment collaborated with Fox Sports in a salute to a group of American heroes.</p>
@@ -944,9 +932,9 @@ After the sights and sounds of the music and fireworks, the night was topped off
     
         <!-- Begin Article -->  
         <article class="article">
-            <h1><a href="/promos/dan-patrick/video-dan-patrick.html" name="close" class="anchor">MPE Gets Up Close with Dan Patrick</a></h1>
+            <h1><a href="/promos/dan-patrick/video-dan-patrick.php" name="close" class="anchor">MPE Gets Up Close with Dan Patrick</a></h1>
             <p class="date">November 4 2011</p><hr/>
-            <a href="promos/dan-patrick/video-dan-patrick.html">
+            <a href="promos/dan-patrick/video-dan-patrick.php">
                 <img class="float_left" src="_img/recent-work/bts-dan-patrick.jpg" alt="Dan patrick"  />
             </a>
             <p>Manhattan Place Entertainment went behind the scenes with one of the country's most prominent sports broadcasters, Dan Patrick.</p>
@@ -978,14 +966,14 @@ After the sights and sounds of the music and fireworks, the night was topped off
         <article class="article">
             <h1><a name="giant" class="anchor">MPE Takes "Giant" Steps</a></h1>
             <p class="date">October 12 2011</p><hr/>
-            <a href="promos/banks/video-banks.html">
+            <a href="promos/banks/video-banks.php">
                 <img class="float_left" src="_img/recent-work/bts-giants.jpg" alt="MPE Takes 'Giant' Steps" />
             </a>
             <p>With the NFL season underway, Manhattan Place Entertainment helped MSG Network kick off its coverage of New York Giants football.</p> 
             <p>The lighthearted spots featured play-by-play man Bob Papa taking the field at MetLife Stadium, and former Giants linebacker-turned-radio analyst Carl Banks studying intently for an upcoming broadcast.</p>
             <p>Acting as Director of Photography, MPE's Steve Cohen was on location at the Giants complex shooting the two MSG promos.</p>
             <p>The promos will air throughout the season on MSG Network.</p>
-            <a class="more" href="promos/banks/video-banks.html">See the 'MPE Takes "Giant" Steps' spot &raquo;</a>
+            <a class="more" href="promos/banks/video-banks.php">See the 'MPE Takes "Giant" Steps' spot &raquo;</a>
             <a class="back-to-top" href="#top">Back to Top</a>
         </article>
         <!-- end article -->
@@ -1002,7 +990,7 @@ After the sights and sounds of the music and fireworks, the night was topped off
             <p>The piece features scenes from the rebuilding at Ground Zero, along with emotional interviews with members of the New York City Police and Fire Departments, as well as the Port Authority Police.</p>
             <p>Recalling how the NFL was the first sport to return after 9/11, they reflect on how football served as a much-needed distraction, after the tragic events they had witnessed and the losses they suffered.</p>
             <p>Shot and directed by MPE's Steve Cohen, the feature will air as part of FOX's special pre-game tribute on September 11th, the first Sunday of the 2011 NFL season.</p>
-            <a class="more" href="teases/journey-911/video.html ">See the 'Commemorating 9/11' spot &raquo;</a>
+            <a class="more" href="teases/journey-911/video.php ">See the 'Commemorating 9/11' spot &raquo;</a>
             <a class="back-to-top" href="#top">Back to Top</a>
         </article>
         <!-- end article -->
@@ -1016,9 +1004,9 @@ After the sights and sounds of the music and fireworks, the night was topped off
             <p>One of the world's leading providers of high-quality children's programming, HIT Entertainment, selected MPE to produce two instructional videos for HIT's most recent Thomas &amp; Friends™ apps, compatible for iPad®, iPhone® and iPod Touch®. The videos are now available for the story-inspired apps, Thomas &amp; Friends™: Misty Island Rescue and Thomas &amp; Friends™: Hero of the Rails.</p> 
             <p>With its latest project, MPE helps little engineers fully experience all of the adventure on the rails offered by these innovative, interactive apps. The videos help guide users on how to read, watch, and play with the many features of the apps, including multi-touch animation, CGI video, painting, puzzles, and games.</p>
             <p>MPE is thrilled to help Thomas fans move full steam ahead and we hope you enjoy the exciting new apps.</p>
-            <a class="more" href="specials/hotr99/hotr99.html">See the 'All Aboard With Thomas &amp; Friends™' spot &raquo;</a>
+            <a class="more" href="specials/hotr99/hotr99.php">See the 'All Aboard With Thomas &amp; Friends™' spot &raquo;</a>
             <br />
-            <a class="more" href="specials/misty-island-rescue/misty-island-rescue.html">See our other 'Thomas &amp; Friends™' spot &raquo;</a>
+            <a class="more" href="specials/misty-island-rescue/misty-island-rescue.php">See our other 'Thomas &amp; Friends™' spot &raquo;</a>
             <a class="back-to-top" href="#top">Back to Top</a>
         </article>
         <!-- end article -->
@@ -1043,7 +1031,7 @@ After the sights and sounds of the music and fireworks, the night was topped off
             <p class="date">July 27 2011</p><hr/>
             <a><img class="float_right" src="_img/recent-work/bts-boys.jpg" alt="Boys in the Hall"  /></a>
             <p>Manhattan Place Entertainment is proud to be associated with a new series that brings baseball history to life for fans across the country.  "The Boys in the Hall", a weekly half-hour series, has been airing on Fox Sports Net.  Hosted by former NBC News anchor Tom Brokaw, the 13 episode series features revealing interviews conducted by former baseball commissioner Fay Vincent with some of the greatest players of all-time.  MPE provided production services including art direction, design and construction of all the studio sets, with Steve Cohen serving as the Director of Photography.  In this project, MPE collaborated with Flagstaff Productions, the producers of well known sports documentary shows for HBO including "When it was a Game", "Mantle", and "Babe Ruth". Check your local listings for "Boys in the Hall" on Fox Sports Net.</p>
-            <a class="more" href="episodic/boys-in-the-hall/boys.html">See the 'Boys in the Hall' spot &raquo;</a>
+            <a class="more" href="episodic/boys-in-the-hall/boys.php">See the 'Boys in the Hall' spot &raquo;</a>
             <a class="back-to-top" href="#top">Back to Top</a>
         </article>
         <!-- end article -->
@@ -1052,13 +1040,13 @@ After the sights and sounds of the music and fireworks, the night was topped off
         <article class="article">
             <h1><a name="telly" class="anchor">MPE Wins 2 More Telly Awards for "Eyes Wide Shut" &amp; "Lombardi" Super Bowl XLV</a></h1>
             <p class="date">June 29 2011</p><hr/>
-            <a class="more" href="teases/lombardi-superbowl-xlv/video.html">
+            <a class="more" href="teases/lombardi-superbowl-xlv/video.php">
                 <img class="float_left" src="_img/recent-work/bts-lombardi.jpg" alt="Lombardi"  />
             </a>
             <p>And the winner is: Manhattan Place Entertainment.  MPE is proud to announce that our work was recently recognized with two 2011 Telly Awards.  The awards honor the best local, regional and cable television commercials, as well as the finest video and film productions.</p>
             
             <p>Taking home a Telly Award in the category of Best Sports TV Segment and Promotional Piece was our spot featuring Dan Lauria, who starred as legendary Green Bay Packers coach Vince Lombardi in the Broadway show 'Lombardi'.   The piece aired in the pregame show for Fox Sports leading into its coverage of this year's Super Bowl.  In his acclaimed portrayal of Lombardi, Lauria delivers a powerful pre-game speech, exhorting his beloved Packers to play their best in the 2011 Super Bowl against Pittsburgh.  Steve Cohen shot and directed the spot, filmed in the theatre where the show was staged, New York's Circle in the Square.</p>
-            <a class="more" href="promos/IRL01/video.html">
+            <a class="more" href="promos/IRL01/video.php">
                 <img class="float_right" src="_img/recent-work/bts-versus.jpg" alt="Indy Racing League"  />
             </a>
             <p>MPE's other Telly came in the category of Best Regional TV &amp; Multi Market Cable Sports Commercial.  The award is for a commercial promoting Versus's coverage of the Texas Indy 550.  The spot, titled 'Eyes Wide Shut', was produced as part of MPE's partnership with Versus for its 2010 coverage of the Indy Racing League.   MPE shot all of the world's most well known Indy Car drivers and created specialized elements for use in Versus show teases, driver profiles, and on-air promotional spots.  MPE was responsible for handling the directing, cinematography, lighting, art direction, set construction, and all other technical aspects of the shoots, and contributed to the creative as well.</p>
@@ -1071,7 +1059,7 @@ After the sights and sounds of the music and fireworks, the night was topped off
         <article class="article">
             <h1><a name="damages" class="anchor">MPE Doing Some 'Damages'</a></h1>
             <p class="date">June 28 2011</p><hr/>
-            <a href="promos/damages-redcarpet/video.html">
+            <a href="promos/damages-redcarpet/video.php">
                 <img class="float_left" src="_img/recent-work/damages.jpg" alt="Glenn Close"  />
             </a>
             <p>Manhattan Place Entertainment was on the case of the legal drama, 'Damages', on DirecTV.</p>
@@ -1146,7 +1134,7 @@ After the sights and sounds of the music and fireworks, the night was topped off
         <article class="article">
             <h1><a href="" class="anchor" name="ten">Manhattan Place Entertainment Wins 10 More Telly Awards!</a></h1>
             <p class="date">April 30 2010</p><hr/>
-            <a href="psa/michaeljfox/video.html"><img class="float_left" src="_img/recent-work/rw-mjf.jpg" alt="Michael J. Fox"  /></a>
+            <a href="psa/michaeljfox/video.php"><img class="float_left" src="_img/recent-work/rw-mjf.jpg" alt="Michael J. Fox"  /></a>
             <p>Michael J Fox Foundation PSA</p>
             <p>Manhattan Place Entertainment is the proud recipient of 10 more Telly Awards.  These latest Telly's were received for projects that were produced in the second half of 2009.</p>  
             <p> Tellys were awarded for the "Michael J. Fox Foundation" PSA in the categories of Public Service announcement, Videography/Cinematography and Lighting.  "United We Play" produced for the New York Liberty also earned 3 awards for Videography/Cinematography, Editing, and Copywriting.  The third award winning spot was the Lustgarten Foundation Public Service announcement for pancreatic cancer featuring well known Actor Bryan Cranston ("Breaking Bad"). This was recognized for best Public Service announcement, Lighting, and Set Design. Completing the list of winners was "Baby by Me," featuring rap Superstar "50 Cent" which won for best Videography/Cinematography.  All told MPE received a whopping 14 Telly Awards for 2009.</p> 
@@ -1196,7 +1184,7 @@ After the sights and sounds of the music and fireworks, the night was topped off
         <article class="article">
             <h1><a href="" class="anchor" name="50cent">Manhattan Place Shoots "Baby By Me" with 50 Cent</a></h1>
             <p class="date">January 11 2010</p><hr/>
-            <a href="promos/50cent/50cent.html"><img class="float_left" src="_img/recent-work/bts_50cent.jpg" alt="bts_01"  /></a>
+            <a href="promos/50cent/50cent.php"><img class="float_left" src="_img/recent-work/bts_50cent.jpg" alt="bts_01"  /></a>
             <p>Manhattan Place Entertainment recently produced and shot "Baby By Me" a :60 second TV spot for Vitamin Water starring hip-hop superstar 50 Cent.</p> 
             <p>The spot was part of a campaign to promote the release of the artists new album, "Before I Self Destruct".</p>
             <p>Steve Cohen of Manhattan Place Entertainment produced and directed.</p>

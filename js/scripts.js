@@ -60,7 +60,6 @@ $(document).ready(function() {
     //video modal
     $('.directors .main-screen').on('click', 'a',  function() { 
         var video =  $(this).attr('href');
-        console.log(' '+video+' ');
         $(this).parents('.directors').find('"'+video+'"').show();
         $(this).parents('.panel').next('.modal-backdrop').show();
         $(' '+video+' video').get(0).play();

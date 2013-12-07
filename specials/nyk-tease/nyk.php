@@ -16,7 +16,7 @@ $menu->special ="Special";
 <!--[if IE 7]>
 <link rel="stylesheet" type="text/css" href="../../_css/ie.css" media="screen"/>
 <![endif]-->
-<link rel="stylesheet" type="text/css" href="../../_css/main.css" media="screen"/>
+<link rel="stylesheet" type="text/css" href="/css/styles.css" media="screen"/>
 <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,600,700,800,300' rel='stylesheet' type='text/css'>
 <link href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700' rel='stylesheet' type='text/css'>
 <script src="http://www.apple.com/library/quicktime/scripts/ac_quicktime.js" language="JavaScript" type="text/javascript"></script>
@@ -27,15 +27,15 @@ $menu->special ="Special";
     <header>
     	<nav>
         <nav>
-            <ul class="menu-social">
+            <span class="menu-social">
                 <?php $social->makeMenu(); ?>
-            </ul>
-            <ul class="menu-info">
+            </span>
+            <span class="menu-info">
                 <?php $super_menu->makeMenu(); ?>
-            </ul>        
-            <ul class="menu-main">
+            </span>        
+            <span class="menu-main">
                 <?php $menu->makeMenu(); ?>
-            </ul>
+            </span>
         </nav>
     </header>
     <div class="panel">

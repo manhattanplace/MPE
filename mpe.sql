@@ -3,7 +3,7 @@
 -- http://www.phpmyadmin.net
 --
 -- Host: localhost
--- Generation Time: Dec 03, 2013 at 05:07 PM
+-- Generation Time: Dec 05, 2013 at 12:13 AM
 -- Server version: 5.5.25
 -- PHP Version: 5.4.4
 
@@ -93,6 +93,6 @@ CREATE TABLE `super_menu` (
 --
 
 INSERT INTO `super_menu` (`id`, `label`, `link_url`, `parent_id`, `has_child`, `order`, `order_temp`) VALUES
-(1, 'recent work', '/behindthescenes.html', 0, '0', 1, 0),
-(2, 'about', '/about.html', 0, '0', 2, 0),
-(3, 'contact', '/contact.html', 0, '0', 3, 0);
+(1, 'recent work', '/behindthescenes.php', 0, '0', 1, 0),
+(2, 'about', '/about.php', 0, '0', 2, 0),
+(3, 'contact', '/contact.php', 0, '0', 3, 0);

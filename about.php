@@ -1,18 +1,13 @@
 <?php
-//This is the file to be included:
-include '../menu.class.php';
-//This is the class initialization (with the table name as a parameter)
+include 'menu.class.php';
 $menu = new Menu("menu");
 $super_menu = new Menu("super_menu");
 $social = new Menu("social");
-//I don't need any class to display my menu, I disable it like so
 $menu->css_class ="0";
 $menu->css_id ="0";
-//With this option I set a special menu item
 $menu->special ="Special";
 ?>
 <!DOCTYPE HTML>
-
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -21,35 +16,22 @@ $menu->special ="Special";
 <!--[if IE 7]>
 <link rel="stylesheet" type="text/css" href="_css/ie.css" media="screen"/>
 <![endif]-->
-<link rel="stylesheet" type="text/css" href="_css/main.css" media="screen"/>
+<link rel="stylesheet" type="text/css" href="/css/styles.css" media="screen"/>
 <script src="js/modernizr.2.0.6.js"></script>
 <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,600,700,800,300' rel='stylesheet' type='text/css'>
 <link href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700' rel='stylesheet' type='text/css'>
 </head>
 <body>
-    <header>
-        <nav>
-            <ul class="menu-social">
-                <?php $social->makeMenu(); ?>
-            </ul>
-            <ul class="menu-info">
-                <?php $super_menu->makeMenu(); ?>
-            </ul>        
-            <ul class="menu-main">
-                <?php $menu->makeMenu(); ?>
-            </ul>
-        </nav>
-        </nav>
-    </header>
-<div class="panel">
+    <?php include '_header.php'; ?>
+    <div class="panel">
         <div id="logo">
-            <a href="index.html"><h1>Manhattan Place Entertainment - Video and Film Production Services</h1></a>
+            <a href="index.php"><h1>Manhattan Place Entertainment - Video and Film Production Services</h1></a>
         </div>
         <h3 class="library">ABOUT US</h3>
     <div class="container">
         <div class="wrapper talent">
             <ul class="bread_crumb">
-                <li><a href="index.html">home</a> </li>
+                <li><a href="index.php">home</a> </li>
                 <li>&raquo;</li>
                 <li>talent </li>
             </ul>   
@@ -82,7 +64,7 @@ $menu->special ="Special";
             <!-- Bio -->
             <div class="article">
                 <h1>
-                    <a href="talent/steve_cohen.html" class="anchor" name="steve">Steve Cohen</a>
+                    <a href="talent/steve_cohen.php" class="anchor" name="steve">Steve Cohen</a>
                 </h1>
                     <p class="date">Founder and Chairman</p>
                 <hr/>
@@ -90,7 +72,7 @@ $menu->special ="Special";
                 
                 <p>In his professional career Steve Cohen has successfully worn almost every hat imaginable in video, television, and commercial production.</p>
                 <p>A five time Emmy Award winner, Steve has been the recipient of dozens of other industry awards including the Promax, Tellys, Cine Eagles and more.</p>
-                <a class="readmore" href="talent/steve_cohen.html">Continue Reading Steve Cohen's Bio Here &raquo;</a>
+                <a class="readmore" href="talent/steve_cohen.php">Continue Reading Steve Cohen's Bio Here &raquo;</a>
             </div>
             <!-- Bio -->
             <div class="article">
@@ -108,24 +90,24 @@ $menu->special ="Special";
             <!-- Bio -->
             <div class="article">
                 <h1>
-                    <a href="talent/christopher_bierlein.html" class="anchor" name="chris">Christopher Bierlein</a>
+                    <a href="talent/christopher_bierlein.php" class="anchor" name="chris">Christopher Bierlein</a>
                 </h1>
                     <p class="date">Director - DP</p>
                 <hr />
                 <img class="float_left" src="_img/talent_christopher_bierlein.jpg" alt="Christopher Bierlein" width="150"  /><p>Since shifting into moving images from still photography in the early '90s, Chris has worked around the world, shooting everything from commercials and music videos to documentaries and web content, shorts and art films.</p>
-                <a class="readmore" href="talent/christopher_bierlein.html">Continue Reading Christopher Bierlein's Bio Here &raquo;</a>
+                <a class="readmore" href="talent/christopher_bierlein.php">Continue Reading Christopher Bierlein's Bio Here &raquo;</a>
             </div>
             <!-- Bio -->
             <div class="article">
                 <h1>
-                    <a href="talent/axel_baumann.html" class="anchor" name="axel">Axel Baumann</a>
+                    <a href="talent/axel_baumann.php" class="anchor" name="axel">Axel Baumann</a>
                 </h1>
                     <p class="date">Director - DP</p>
                 <hr/>
                 <img class="float_right" src="_img/talent_axel_baumann.jpg" alt="Axel Baumann" width="150"  />
                 <p>Axel Baumann began his career as a cinematographer in 1997 when he shot his first feature film, Creation, directed by Thomas Roth.</p>
                 <p>Since then he has shot five feature films as well as numerous documentaries for National Geographic, Discovery Channel, The History Channel, The Sundance Channel, PBS, A&E, as well as commercials for Adidas, G.E., Execjets, Sony, IBM and Allstate.</p>
-                <a href="talent/axel_baumann.html">Continue Reading Axel Baumann's Bio Here &raquo;</a>
+                <a href="talent/axel_baumann.php">Continue Reading Axel Baumann's Bio Here &raquo;</a>
             </div>
         </div>  
     </div><!-- end container -->

@@ -11,35 +11,23 @@ $menu->special ="Special";
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<title>Director: Evan Langely Laffin</title>
+<title>Director: Evan Langley Laffin</title>
 <meta name="description" content="Digital Video Library">
 <!--[if IE 7]>
 <link rel="stylesheet" type="text/css" href="_css/ie.css" media="screen"/>
 <![endif]-->
-<link rel="stylesheet" type="text/css" href="../_css/main.css" media="screen"/>
-<script src="../js/modernizr.2.0.6.js"></script>
+<link rel="stylesheet" type="text/css" href="main.css" media="screen"/>
+<script src="/js/modernizr.2.0.6.js"></script>
 <script src="http://www.apple.com/library/quicktime/scripts/ac_quicktime.js"></script>
 <script src="http://www.apple.com/library/quicktime/scripts/qtp_library.js"></script>
 <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,600,700,800,300' rel='stylesheet' type='text/css'>
 <link href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700' rel='stylesheet' type='text/css'>
 </head>
 <body>
-    <header>
-        <nav>
-            <ul class="menu-social">
-                <?php $social->makeMenu(); ?>
-            </ul>
-            <ul class="menu-info">
-                <?php $super_menu->makeMenu(); ?>
-            </ul>        
-            <ul class="menu-main">
-                <?php $menu->makeMenu(); ?>
-            </ul>
-        </nav>
-    </header>
+    <?php include '../_header.php'; ?>
     <div class="panel">
         <div id="logo">
-            <a href="../index.html"><h1>Manhattan Place Entertainment - Video and Film Production Services</h1></a>
+            <a href="/index.php"><h1>Manhattan Place Entertainment - Video and Film Production Services</h1></a>
         </div>
         <h3 class="library">DIRECTORS</h3>
         <div class="container directors">
@@ -47,7 +35,7 @@ $menu->special ="Special";
                 <div class="panel-heading">
                     <h3 class="panel-title">
                     <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne" class="">
-                    <span class="plus-minus"></span> Evan Langely Laffin Bio
+                    <span class="plus-minus"></span> Evan Langley Laffin Bio
                     </a>
                     </h3>
                 </div>
@@ -62,22 +50,22 @@ $menu->special ="Special";
             </div>            
             <div class="wt-gallery">
                 <div class="main-screen">
-                    <img class="click-to-play" src="../_img/click-to-play.png" alt="click to play" title="click to play">
-                    <a href="#"><img id="main-img" src="../images/case-study.jpg" alt="placeholder"/></a>
+                    <img class="click-to-play" src="/_img/click-to-play.png" alt="click to play" title="click to play">
+                    <a href="#"><img id="main-img" src="/images/case-study.jpg" alt="placeholder"/></a>
                     <dl class="desc"></dl>
                     <div class="tmp-desc"></div>
                     <div class="info-pane">--&nbsp;/&nbsp;--</div>
-                    <div class="preloader"><img src="../assets/loader.gif" alt="spiny thing"/></div>
+                    <div class="preloader"><img src="/assets/loader.gif" alt="spiny thing"/></div>
                 </div>
-                <div class="c-panel">
-                    <div id="thumbs-back"><img src="../assets/prev_thumb.png" alt="back button"/></div>
+                <div class="c-panel evan">
+                    <div id="thumbs-back"><img src="/assets/prev_thumb.png" alt="back button"/></div>
                     <div class="thumbnails">
                         <ul>
                         <!-- case study -->
                             <li>
                                 <div class="gallery-images">
-                                    <a class="gallery_overlay" href="../directors/images/oblivion.jpg">
-                                    <img src="../directors/images/oblivion.jpg" alt="Oblivion Trailer"/></a>
+                                    <a class="gallery_overlay" href="/directors/images/oblivion.jpg">
+                                    <img src="/directors/images/oblivion.jpg" alt="Oblivion Trailer"/></a>
                                 </div>
                                 <a href="#one"></a> 
                                 <dl>
@@ -88,8 +76,8 @@ $menu->special ="Special";
                         <!-- case study -->
                             <li>
                                 <div class="gallery-images">
-                                    <a class="gallery_overlay" href="../directors/images/toyota.jpg">
-                                    <img src="../directors/images/toyota.jpg" alt="Toyota"/></a>
+                                    <a class="gallery_overlay" href="/directors/images/toyota.jpg">
+                                    <img src="/directors/images/toyota.jpg" alt="Toyota"/></a>
                                 </div>
                                 <a href="#two"></a> 
                                 <dl>
@@ -100,8 +88,8 @@ $menu->special ="Special";
                         <!-- case study -->
                             <li>
                                 <div class="gallery-images">
-                                    <a class="gallery_overlay" href="../directors/images/call-of-duty.jpg">
-                                    <img src="../directors/images/call-of-duty.jpg" alt="Call of Duty"/></a>
+                                    <a class="gallery_overlay" href="/directors/images/call-of-duty.jpg">
+                                    <img src="/directors/images/call-of-duty.jpg" alt="Call of Duty"/></a>
                                 </div>
                                 <a href="#three"></a> 
                                 <dl>
@@ -111,32 +99,32 @@ $menu->special ="Special";
                             </li>
                         </ul>
                     </div>
-                    <div id="thumbs-fwd"><img src="../assets/next_thumb.png" alt="Next Thumb"/></div> 
+                    <div id="thumbs-fwd"><img src="/assets/next_thumb.png" alt="Next Thumb"/></div> 
                     <div class="pagination"></div>
                 </div>
             </div>
             <div id="one" class="modal">
                 <a class="close" href="">close</a>
-                <video width="640" controls>
-                  <source src="../videos/oblivion/oblivion.mp4" type="video/mp4">
-                  <source src="../videos/oblivion/oblivion.ogg" type="video/ogg">
-                  <source src="../videos/oblivion/oblivion.webm" type="video/webm">
+                <video width="640" height="364" controls>
+                  <source src="/videos/oblivion/oblivion.mp4" type="video/mp4">
+                  <source src="/videos/oblivion/oblivion.ogg" type="video/ogg">
+                  <source src="/videos/oblivion/oblivion.webm" type="video/webm">
                 </video> 
             </div>
             <div id="two" class="modal">
                 <a class="close" href="">close</a>
-                <video width="640" controls>
-                  <source src="../videos/toyota/toyota.mp4" type="video/mp4">
-                  <source src="../videos/toyota/toyota.ogg" type="video/ogg">
-                  <source src="../videos/toyota/toyota.webm" type="video/webm">
+                <video width="640" height="364" controls>
+                  <source src="/videos/toyota/toyota.mp4" type="video/mp4">
+                  <source src="/videos/toyota/toyota.ogg" type="video/ogg">
+                  <source src="/videos/toyota/toyota.webm" type="video/webm">
                 </video> 
             </div>
             <div id="three" class="modal">
                 <a class="close" href="">close</a>
-                <video width="640" controls>
-                  <source src="../videos/call-of-duty/call-of-duty.mp4" type="video/mp4">
-                  <source src="../videos/call-of-duty/call-of-duty.ogg" type="video/ogg">
-                  <source src="../videos/call-of-duty/call-of-duty.webm" type="video/webm">
+                <video width="640" height="364" controls>
+                  <source src="/videos/call-of-duty/call-of-duty.mp4" type="video/mp4">
+                  <source src="/videos/call-of-duty/call-of-duty.ogg" type="video/ogg">
+                  <source src="/videos/call-of-duty/call-of-duty.webm" type="video/webm">
                 </video> 
             </div>
         </div>
@@ -148,9 +136,9 @@ $menu->special ="Special";
             <li class="org">Manhattan Place Entertainment.  All Rights Reserved.</li>
             <li class="tel">Phone: 212-682-2000</li>  
             <li>Fax: 212-682-2058</li>
-            <li><a href="../Manhattan_Place.vcf">Download vCard </a></li>
+            <li><a href="/Manhattan_Place.vcf">Download vCard </a></li>
             <li>Terms of Service and MPE General Policy for Field Shoots. &nbsp;
-                <a href="../tos.pdf">Click here for PDF</a>
+                <a href="/tos.pdf">Click here for PDF</a>
             </li>
         </ul>
     </footer>
@@ -164,8 +152,8 @@ $menu->special ="Special";
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 </script>
-<script src="../js/jquery-1.7.1.min.js"></script>
-<script src="../js/plugins.js"></script>
-<script src="../js/scripts.js"></script>
+<script src="/js/jquery-1.7.1.min.js"></script>
+<script src="/js/plugins.js"></script>
+<script src="/js/scripts.js"></script>
 </body>
 </html>

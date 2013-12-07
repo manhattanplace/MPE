@@ -16,77 +16,65 @@ $menu->special ="Special";
 <!--[if IE 7]>
 <link rel="stylesheet" type="text/css" href="_css/ie.css" media="screen"/>
 <![endif]-->
-<link rel="stylesheet" type="text/css" href="_css/main.css" media="screen"/>
+<link rel="stylesheet" type="text/css" href="/css/styles.css" media="screen"/>
 <script src="js/modernizr.2.0.6.js"></script>
 <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,600,700,800,300' rel='stylesheet' type='text/css'>
 <link href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700' rel='stylesheet' type='text/css'>
 <!-- place javascript in scripts.js -->
 </head>
 <body>
-    <header>
-        <nav>
-            <ul class="menu-social">
-                <?php $social->makeMenu(); ?>
-            </ul>
-            <ul class="menu-info">
-                <?php $super_menu->makeMenu(); ?>
-            </ul>        
-            <ul class="menu-main">
-                <?php $menu->makeMenu(); ?>
-            </ul>
-        </nav>
-    </header>
-	<div class="panel">
+    <?php include '_header.php'; ?>
+    <div class="panel">
             <div id="logo">
-            	<a href="index.html">
+            	<a href="index.php">
             	<h1>Manhattan Place Entertainment - Video and Film Production Services</h1>
             	</a>
             </div>
             <ul id="filmstrip">
                 <li>
-                    <a  href="sizzle.html" title="PSA's">
+                    <a  href="sizzle.php" title="PSA's">
                         <img class="flimstrip_thumb" src="_img/film-strip-images-samplereel-223x140.jpg" alt="Sample Reel"  />
                         <p>SIZZLE REELS</p>
                     </a>
                 </li>
                 <li>
-                    <a  href="commercial.html" title="COMMERCIALS">
+                    <a  href="commercial.php" title="COMMERCIALS">
                         <img src="_img/film-strip-images-commercial-223x140.jpg" alt="Commercials"  />
                         <p>COMMERCIALS</p>
                     </a>
                 </li>
                 <li>
-                    <a  href="promos.html" title="PROMOS">
+                    <a  href="promos.php" title="PROMOS">
                         <img src="_img/film-strip-images-promos-223x140.jpg" alt="Promos" />
                         <p>PROMOS</p>
                     </a>
                 </li>
                 <li>
-                    <a  href="digital.html" title="DIGITAL / WEB">
+                    <a  href="digital.php" title="DIGITAL / WEB">
                         <img src="_img/film-strip-images-digital-223x140.jpg"  alt="Digital and Web" />
                         <p>DIGITAL / WEB</p>
                     </a>
                 </li>
                 <li>
-                    <a href="teases.html" title="TEASES">
+                    <a href="teases.php" title="TEASES">
                         <img src="_img/film-strip-images-teases-223x140.jpg"   alt="Teases" />
                         <p>TEASES</p>
                     </a>
                 </li>
                 <li>
-                    <a  href="opens.html" title="OPENS">
+                    <a  href="opens.php" title="OPENS">
                         <img class="flimstrip_thumb" src="_img/film-strip-images-opens-223x140.jpg" alt="Opens"  />
                         <p>OPENS</p>
                     </a>
                 </li>
                 <li>
-                    <a  href="psa.html" title="PSA's">
+                    <a  href="psa.php" title="PSA's">
                         <img src="_img/film-strip-images-psa-223x140.jpg"   alt="PSA's"  />
                         <p>PSA'S</p>
                     </a>
                 </li>
                 <li>
-                    <a  href="episodic.html" title="EPISODIC">
+                    <a  href="episodic.php" title="EPISODIC">
                         <img src="_img/film-strip-images-episodic-223x140.png" alt="Episodic" />
                         <p>EPISODIC</p>
                     </a>

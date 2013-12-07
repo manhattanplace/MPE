@@ -14,40 +14,17 @@ $menu->special ="Special";
 <meta name="description" content="video">
 <meta charset="UTF-8">    
 <!--[if IE 7]>
-<link rel="stylesheet" type="text/css" href="../../_css/ie.css" media="screen"/>
+<link rel="stylesheet" type="text/css" href="/_css/ie.css" media="screen"/>
 <![endif]-->
-<link rel="stylesheet" type="text/css" href="../../_css/main.css" media="screen"/>
+<link rel="stylesheet" type="text/css" href="/css/styles.css" media="screen"/>
 <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,600,700,800,300' rel='stylesheet' type='text/css'>
 <link href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700' rel='stylesheet' type='text/css'>
 <script src="http://www.apple.com/library/quicktime/scripts/ac_quicktime.js" ></script>
 <script src="http://www.apple.com/library/quicktime/scripts/qtp_library.js" ></script>
-<script src="../../js/modernizr.2.0.6.js"></script>
+<script src="/js/modernizr.2.0.6.js"></script>
 </head>
 <body>
-    <header>
-        <nav>
-            <ul class="menu-social">
-                <li><a href="http://www.facebook.com/pages/New-York-NY/Manhattan-Place-Entertainment-Inc/122695861097251?ref=ts"><img src="../../_img/sm_facebook.png" alt="Facebook" width="16" height="16" /></a></li>
-                <li><a href="https://twitter.com/manhattanplace"><img src="../../_img/sm_twitter.png" alt="Twitter" width="16" height="16" /></a></li>
-            </ul>
-            <ul class="menu-info">
-                <li class="nav-recent"><a href="../../behindthescenes.html">recent work</a></li>
-                <li class="nav-about"><a href="../../about.html">about</a></li>
-                <li class="nav-contact"><a href="../../contact.html">contact</a></li>
-            </ul>       
-            <ul class="menu-main">
-                <li class="nav-home"><a href="../../index.php">home</a></li>
-                <li class="nav-commercial"><a href="../../commercial.php">commercial</a></li>
-                <li class="nav-promos"><a href="../../promos.html">promos</a></li> 
-                <li class="nav-digital"><a href="../../digital.html">digital/web</a></li>
-                <li class="nav-teases"><a href="../../teases.html">teases</a></li>
-                <li class="nav-opens"><a href="../../opens.html">opens</a></li>
-                <li class="nav-psa"><a href="../../psa.html">psa's</a></li>
-                <li class="nav-episodic"><a href="../../episodic.html">episodic</a></li>
-                <li class="nav-episodic"><a href="../../directors.html">directors</a></li>
-            </ul>
-        </nav>
-    </header>
+    <?php include '../../_header.php'; ?>
     <div class="panel">
         <div class="section">
             <div id="logo">
@@ -56,13 +33,13 @@ $menu->special ="Special";
             <h3 class="library">COMMERCIALS</h3>
             <div class="container">
                 <div class="back_button1">
-                    <a href="../../commercial.php">&laquo; Back to Commercials</a>
+                    <a href="/commercial.php">&laquo; Back to Commercials</a>
                 </div>
                 <div id="video-426">
                     <script>QT_WriteOBJECT('derek-jeter.mov','426', '256', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
                 </div>
                 <div class="back_button2">
-                    <a href="../../commercial.php">&laquo; Back to Commercials</a>
+                    <a href="/commercial.php">&laquo; Back to Commercials</a>
                 </div>
             </div>
         </div>
@@ -73,9 +50,9 @@ $menu->special ="Special";
             <li class="org">Manhattan Place Entertainment.  All Rights Reserved.</li>
             <li class="tel">Phone: 212-682-2000</li>  
             <li>Fax: 212-682-2058</li>
-            <li><a href="../../Manhattan_Place.vcf">Download vCard </a></li>
+            <li><a href="/Manhattan_Place.vcf">Download vCard </a></li>
             <li>Terms of Service and MPE General Policy for Field Shoots. &nbsp;
-                <a href="../../tos.pdf">Click here for PDF</a>
+                <a href="/tos.pdf">Click here for PDF</a>
             </li>
         </ul>
     </footer>
@@ -90,8 +67,8 @@ $menu->special ="Special";
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 </script>
-<script src="../../js/jquery-1.7.1.min.js"></script>
-<script src="../../js/plugins.js"></script>
-<script src="../../js/scripts.js"></script>
+<script src="/js/jquery-1.7.1.min.js"></script>
+<script src="/js/plugins.js"></script>
+<script src="/js/scripts.js"></script>
 </body>
 </html>

@@ -15,28 +15,16 @@ $menu->special ="Special";
 <!--[if IE 7]>
 <link rel="stylesheet" type="text/css" href="_css/ie.css" media="screen"/>
 <![endif]-->
-<link rel="stylesheet" type="text/css" href="_css/main.css" media="screen"/>
+<link rel="stylesheet" type="text/css" href="/css/styles.css" media="screen"/>
 <script src="js/modernizr.2.0.6.js"></script>
 <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,600,700,800,300' rel='stylesheet' type='text/css'>
 <link href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700' rel='stylesheet' type='text/css'>
 </head>
 <body>
-    <header>
-        <nav>
-            <ul class="menu-social">
-                <?php $social->makeMenu(); ?>
-            </ul>
-            <ul class="menu-info">
-                <?php $super_menu->makeMenu(); ?>
-            </ul>        
-            <ul class="menu-main">
-                <?php $menu->makeMenu(); ?>
-            </ul>
-        </nav>
-    </header>
+    <?php include '_header.php'; ?>
     <div class="panel">
         <div id="logo">
-            <a href="index.html"><h1>Manhattan Place Entertainment - Video and Film Production Services</h1></a>
+            <a href="index.php"><h1>Manhattan Place Entertainment - Video and Film Production Services</h1></a>
         </div>
         <h3 class="library">OPENS</h3>
         <div class="container">
@@ -61,7 +49,7 @@ $menu->special ="Special";
                             <a class="gallery_overlay" href="images/opens/knicks-2012-intro.jpg">
                                <img src="images/opens/knicks-2012-intro-thumb.jpg" alt="2012 NY Knicks Introduction - Video" ></a>
                           </div>
-                           <a href="opens/knicks-open-final/video.html"></a>
+                           <a href="opens/knicks-open-final/video.php"></a>
                         <dl>   
                             <dt class="description">Title:</dt> 
                                 <dd>2012 NY Knicks Introduction - Video</dd> 
@@ -83,7 +71,7 @@ $menu->special ="Special";
                             <a class="gallery_overlay" href="images/case-study-nyk.jpg">
                                <img src="images/thumbs/case-study-nyk.jpg" alt="NY Knicks Introduction"/></a>
                           </div>
-                           <a href="opens/nyk-tease/video.html"></a>
+                           <a href="opens/nyk-tease/video.php"></a>
                         <dl>   
                             <dt class="description">Title:</dt> 
                                 <dd>NY Knicks Introduction - Video</dd> 
@@ -105,7 +93,7 @@ $menu->special ="Special";
                             <a class="gallery_overlay" href="images/case-study-nyr-2012.jpg">
                             </a><img src="images/thumbs/case-study-nyr-2012.jpg" alt="NY Rangers"/>
                         </div>
-                        <a href="opens/nyr-open-2012r/video.html"></a>
+                        <a href="opens/nyr-open-2012r/video.php"></a>
                         <dl>
                             <dt class="description">TITLE:</dt> 
                                 <dd> "This Is New York Hockey"</dd>
@@ -131,7 +119,7 @@ $menu->special ="Special";
                             <a class="gallery_overlay" href="images/case_study_rangers_75.jpg">
                             </a><img src="images/thumbs/case_study_rangers_75.jpg" alt="New York Rangers"/>
                         </div>
-                        <a href="opens/rangers_75th/video.html"></a>
+                        <a href="opens/rangers_75th/video.php"></a>
                             <dl>
                                 <dt class="description">TITLE:</dt> 
                                     <dd>"A 75 Year Legacy"</dd>
@@ -155,7 +143,7 @@ $menu->special ="Special";
                             <a class="gallery_overlay" href="images/case_study_superbowl_xlii.jpg">
                             </a><img src="images/thumbs/case_study_superbowl_xlii.jpg" alt="Super Bowl XLII"/>
                         </div>  
-                        <a href="opens/giants_superbowl/video.html"></a>
+                        <a href="opens/giants_superbowl/video.php"></a>
                         <dl>
                             <dt class="description">Title:</dt> 
                                 <dd>Super Bowl XLII</dd>
@@ -176,7 +164,7 @@ $menu->special ="Special";
                             <a class="gallery_overlay" href="images/case_study_rangers_arena.jpg">
                             </a><img src="images/thumbs/case_study_rangers_arena.jpg" alt="New York Rangers"/>
                         </div>
-                        <a href="opens/rangers_in_arena/video.html"></a>
+                        <a href="opens/rangers_in_arena/video.php"></a>
                         <dl>
                             <dt class="description">Title:</dt> 
                                 <dd>Honor, Tradition, Respect</dd> 
@@ -196,7 +184,7 @@ $menu->special ="Special";
                             <a class="gallery_overlay" href="images/case_study_imaranger02.jpg">
                                </a><img src="images/thumbs/case_study_imaranger02.jpg" alt="New York Rangers"/>
                           </div>
-                        <a href="opens/iam_a_ranger02/video.html"></a>
+                        <a href="opens/iam_a_ranger02/video.php"></a>
                         <dl>
                             <dt class="description">Title:</dt> 
                                 <dd>I am a Ranger</dd>
@@ -219,7 +207,7 @@ $menu->special ="Special";
                             <a class="gallery_overlay" href="images/case_study_iamaranger_location.jpg">
                                </a><img src="images/thumbs/case_study_iamaranger_location.jpg" alt="New York Rangers"/>
                           </div>
-                           <a href="opens/iamaranger_location/video.html"></a>
+                           <a href="opens/iamaranger_location/video.php"></a>
                         <dl>
                             <dt class="description">Title:</dt> 
                                 <dd>I am a Ranger</dd>
@@ -242,7 +230,7 @@ $menu->special ="Special";
                             <a class="gallery_overlay" href="images/case_study_knicks_new_era.jpg">
                             </a><img src="images/thumbs/case_study_knicks_new_era.jpg" alt="New York Knicks"/>
                         </div>
-                        <a href="opens/knicks_arena/video.html"></a>
+                        <a href="opens/knicks_arena/video.php"></a>
                         <dl>
                             <dt class="description">Title:</dt> 
                                 <dd>"A New Era"</dd>
@@ -264,7 +252,7 @@ $menu->special ="Special";
                             <a class="gallery_overlay" href="images/case_study_qtip.jpg">
                             </a><img src="images/thumbs/case_study_qtip.jpg" alt="New York Knicks"/>
                         </div>
-                        <a href="opens/qtip_go_ny/video.html"></a>
+                        <a href="opens/qtip_go_ny/video.php"></a>
                         <dl>
                            <dt class="description">Title:</dt> 
                                 <dd> "Go New York Go"</dd> 

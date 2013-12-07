@@ -30,7 +30,7 @@ class Menu {
 	*/
 	//<ul> that wraps menu
 	var $css_id = ""; //id
-	var $css_class = "mrmenu_hor"; //class
+	var $css_class = "menu"; //class
 	//menu classes
 	var $css_active = "active"; //active link
 	var $css_parent = "parent"; //parent item

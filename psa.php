@@ -16,28 +16,16 @@ $menu->special ="Special";
 <!--[if IE 7]>
 <link rel="stylesheet" type="text/css" href="_css/ie.css" media="screen"/>
 <![endif]-->
-<link rel="stylesheet" type="text/css" href="_css/main.css" media="screen"/>
+<link rel="stylesheet" type="text/css" href="/css/styles.css" media="screen"/>
 <script src="js/modernizr.2.0.6.js"></script>
 <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,600,700,800,300' rel='stylesheet' type='text/css'>
 <link href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700' rel='stylesheet' type='text/css'>
 </head>
 <body>
-    <header>
-        <nav>
-            <ul class="menu-social">
-                <?php $social->makeMenu(); ?>
-            </ul>
-            <ul class="menu-info">
-                <?php $super_menu->makeMenu(); ?>
-            </ul>        
-            <ul class="menu-main">
-                <?php $menu->makeMenu(); ?>
-            </ul>
-        </nav>
-    </header>
+    <?php include '_header.php'; ?>
     <div class="panel">
         <div id="logo">
-            <a href="index.html"><h1>Manhattan Place Entertainment - Video and Film Production Services</h1></a>
+            <a href="index.php"><h1>Manhattan Place Entertainment - Video and Film Production Services</h1></a>
         </div>
         <h3 class="library">PSA'S</h3>
         <div class="container">
@@ -62,7 +50,7 @@ $menu->special ="Special";
                             <a class="gallery_overlay" href="images/case-study-dennis-leary.jpg">
                             <img src="images/thumbs/case-study-dennis-leary.jpg" alt="Dennis Leary"/></a>
                         </div>
-                        <a href="psa/lustgarten-foundation-psa/video.html"></a>
+                        <a href="psa/lustgarten-foundation-psa/video.php"></a>
                         <dl>
                             <dt class="description">Title:</dt>
                                 <dd>Cure PC - Denis Leary</dd>
@@ -82,7 +70,7 @@ $menu->special ="Special";
                             <a class="gallery_overlay" href="images/case-study-mjf.jpg">
                             <img src="images/thumbs/case_study_michaeljfox.jpg" alt="Take a Swing at Parkinsons"/></a>
                         </div>
-                        <a href="psa/michaeljfox/video.html"></a>
+                        <a href="psa/michaeljfox/video.php"></a>
                         <dl>
                             <dt class="description">Title:</dt>
                                 <dd>Take a Swing at Parkinsons</dd>
@@ -108,7 +96,7 @@ $menu->special ="Special";
                             <a class="gallery_overlay" href="images/case_study_pc_cure.jpg">
                             <img src="images/thumbs/case_study_pc_cure.jpg" alt="Cablevision - Cure PC"/></a>
                         </div>
-                        <a href="psa/curePC/video.html"></a>
+                        <a href="psa/curePC/video.php"></a>
                         <dl>
                             <dt class="description">Title:</dt>
                                 <dd>Cure PC </dd> 
@@ -138,7 +126,7 @@ $menu->special ="Special";
                             <a class="gallery_overlay" href="images/case_study_venus_serena.jpg">
                             <img src="images/thumbs/case_study_venus_serena.jpg" alt="Venus and Serena Serving Others"/></a>
                         </div>
-                        <a href="psa/serena-venus/video.html"></a>
+                        <a href="psa/serena-venus/video.php"></a>
                         <dl>
                             <dt class="description">Title:</dt>
                                 <dd>"Serving Others" - Serena And Venus</dd> 
@@ -158,7 +146,7 @@ $menu->special ="Special";
                             <a class="gallery_overlay" href="images/case-study-derek-jeter.jpg">
                             <img src="images/thumbs/case-study-derek-jeter.jpg" alt="Derek Jeter"/></a>
                         </div>
-                        <a href="psa/derek-jeter/video.html"></a>
+                        <a href="psa/derek-jeter/video.php"></a>
                         <dl>
                             <dt class="description">Title:</dt>
                                 <dd>Stand Up For Cancer</dd> 
@@ -177,7 +165,7 @@ $menu->special ="Special";
                             <a class="gallery_overlay" href="images/case_study_bush_clinton.jpg">
                             <img src="images/thumbs/case_study_bushclinton.jpg" alt="Hurricane Katrina"/></a>
                         </div>
-                        <a href="psa/katrina/video.html"></a>
+                        <a href="psa/katrina/video.php"></a>
                         <dl>
                             <dt class="description">Title:</dt>
                                 <dd>  Hurricane Katrina</dd> 
@@ -200,7 +188,7 @@ $menu->special ="Special";
                             <a class="gallery_overlay" href="images/case-study-bhm-mega.jpg">
                             <img src="images/thumbs/case-study-bhm-mega.jpg" alt="Black History Month"/></a>
                         </div>
-                        <a href="psa/bhm-mega/video.html"></a>
+                        <a href="psa/bhm-mega/video.php"></a>
                         <dl>
                             <dt class="description">Title:</dt>
                                 <dd>Voices of Harlem - Mega</dd> 
@@ -222,7 +210,7 @@ $menu->special ="Special";
                             <a class="gallery_overlay" href="images/case-study-bhm-maurisa.jpg">
                             <img src="images/thumbs/case-study-bhm-maurisa.jpg" alt="Black History Month"/></a>
                         </div>
-                        <a href="psa/bhm-maurisa/video.html"></a>
+                        <a href="psa/bhm-maurisa/video.php"></a>
                         <dl>
                             <dt class="description">Title:</dt>
                                 <dd>Voices of Harlem - Maurisa</dd> 
@@ -244,7 +232,7 @@ $menu->special ="Special";
                             <a class="gallery_overlay" href="images/case-study-bhm-katherine.jpg">
                             <img src="images/thumbs/case-study-bhm-katherine.jpg" alt="Black History Month"/></a>
                         </div>
-                        <a href="psa/bhm-katherine/video.html"></a>
+                        <a href="psa/bhm-katherine/video.php"></a>
                         <dl>
                             <dt class="description">Title:</dt>
                                 <dd>Voices of Harlem - Katherine</dd> 
@@ -266,7 +254,7 @@ $menu->special ="Special";
                             <a class="gallery_overlay" href="images/case-study-bhm-gabriel.jpg">
                             <img src="images/thumbs/case-study-bhm-gabriel.jpg" alt="Black History Month"/></a>
                         </div>
-                        <a href="psa/bhm-gabriel/video.html"></a>
+                        <a href="psa/bhm-gabriel/video.php"></a>
                         <dl>
                             <dt class="description">Title:</dt>
                                 <dd>Voices of Harlem - Gabriel</dd> 
@@ -288,7 +276,7 @@ $menu->special ="Special";
                             <a class="gallery_overlay" href="images/case-study-jimmy-rollins.jpg">
                             <img src="images/thumbs/case-study-jimmy-rollins.jpg" alt="Jimmy Rollins"/></a>
                         </div>
-                        <a href="psa/jimmy-rollins/video.html"></a>
+                        <a href="psa/jimmy-rollins/video.php"></a>
                         <dl>
                             <dt class="description">Title:</dt>
                                 <dd>  Stand Up For Cancer </dd> 
@@ -307,7 +295,7 @@ $menu->special ="Special";
                             <a class="gallery_overlay" href="images/case-study-sarah-fergeson.jpg">
                             <img src="images/thumbs/case-study-sarah-fergeson.jpg" alt="Sarah Fergeson"/></a>
                         </div>
-                        <a href="psa/sarah/video.html"></a>
+                        <a href="psa/sarah/video.php"></a>
                         <dl>
                             <dt class="description">Title:</dt>
                                 <dd>Ronald McDonald House-Dutchess Of York</dd>

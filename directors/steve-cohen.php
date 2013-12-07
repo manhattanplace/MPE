@@ -17,29 +17,16 @@ $menu->special ="Special";
 <link rel="stylesheet" type="text/css" href="_css/ie.css" media="screen"/>
 <![endif]-->
 <link rel="stylesheet" type="text/css" href="main.css" media="screen"/>
-<script src="../js/modernizr.2.0.6.js"></script>
+<script src="/js/modernizr.2.0.6.js"></script>
 <script src="http://www.apple.com/library/quicktime/scripts/ac_quicktime.js"></script>
 <script src="http://www.apple.com/library/quicktime/scripts/qtp_library.js"></script>
 <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,600,700,800,300' rel='stylesheet' type='text/css'>
 <link href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700' rel='stylesheet' type='text/css'>
 </head>
 <body>
-    <header>
-        <nav>
-            <ul class="menu-social">
-                <?php $social->makeMenu(); ?>
-            </ul>
-            <ul class="menu-info">
-                <?php $super_menu->makeMenu(); ?>
-            </ul>        
-            <ul class="menu-main">
-                <?php $menu->makeMenu(); ?>
-            </ul>
-        </nav>
-    </header>
-    <div class="panel">
+<?php include '../_header.php'; ?>    <div class="panel">
         <div id="logo">
-            <a href="../index.html"><h1>Manhattan Place Entertainment - Video and Film Production Services</h1></a>
+            <a href="/index.php"><h1>Manhattan Place Entertainment - Video and Film Production Services</h1></a>
         </div>
         <h3 class="library">DIRECTORS</h3>
         <div class="container directors">
@@ -62,22 +49,22 @@ $menu->special ="Special";
             </div>            
             <div class="wt-gallery">
                 <div class="main-screen">
-                    <img class="click-to-play" src="../_img/click-to-play.png" alt="click to play" title="click to play">
-                    <a href="#"><img id="main-img" src="../images/case-study.jpg" alt="placeholder"/></a>
+                    <img class="click-to-play" src="/_img/click-to-play.png" alt="click to play" title="click to play">
+                    <a href="#"><img id="main-img" src="/images/case-study.jpg" alt="placeholder"/></a>
                     <dl class="desc"></dl>
                     <div class="tmp-desc"></div>
                     <div class="info-pane">--&nbsp;/&nbsp;--</div>
-                    <div class="preloader"><img src="../assets/loader.gif" alt="spiny thing"/></div>
+                    <div class="preloader"><img src="/assets/loader.gif" alt="spiny thing"/></div>
                 </div>
                 <div class="c-panel">
-                    <div id="thumbs-back"><img src="../assets/prev_thumb.png" alt="back button"/></div>
+                    <div id="thumbs-back"><img src="/assets/prev_thumb.png" alt="back button"/></div>
                     <div class="thumbnails">
                         <ul>
                         <!-- case study -->
                             <li>
                                 <div class="gallery-images">
-                                    <a class="gallery_overlay" href="../directors/images/brian-cranston.jpg">
-                                    <img src="../directors/images/brian-cranston.jpg" alt="Brian Cranston - Cure PC"/></a>
+                                    <a class="gallery_overlay" href="/directors/images/brian-cranston.jpg">
+                                    <img src="/directors/images/brian-cranston.jpg" alt="Brian Cranston - Cure PC"/></a>
                                 </div>
                                 <a href="#one"></a> 
                                 <dl>
@@ -88,8 +75,8 @@ $menu->special ="Special";
                         <!-- case study -->
                             <li>
                                 <div class="gallery-images">
-                                    <a class="gallery_overlay" href="../directors/images/dennis-leary.jpg">
-                                    <img src="../directors/images/dennis-leary.jpg" alt="Dennis Leary"/></a>
+                                    <a class="gallery_overlay" href="/directors/images/dennis-leary.jpg">
+                                    <img src="/directors/images/dennis-leary.jpg" alt="Dennis Leary"/></a>
                                 </div>
                                 <a href="#two"></a> 
                                 <dl>
@@ -100,8 +87,8 @@ $menu->special ="Special";
                         <!-- case study -->
                             <li>
                                 <div class="gallery-images">
-                                    <a class="gallery_overlay" href="../directors/images/dan-patrick.jpg">
-                                    <img src="../directors/images/dan-patrick.jpg" alt="Dan Patrick"/></a>
+                                    <a class="gallery_overlay" href="/directors/images/dan-patrick.jpg">
+                                    <img src="/directors/images/dan-patrick.jpg" alt="Dan Patrick"/></a>
                                 </div>
                                 <a href="#three"></a> 
                                 <dl>
@@ -112,8 +99,8 @@ $menu->special ="Special";
                         <!-- case study -->
                             <li>
                                 <div class="gallery-images">
-                                    <a class="gallery_overlay" href="../directors/images/anderson-cooper.jpg">
-                                    <img src="../directors/images/anderson-cooper.jpg" alt="Backstage with Anderson Cooper"/></a>
+                                    <a class="gallery_overlay" href="/directors/images/anderson-cooper.jpg">
+                                    <img src="/directors/images/anderson-cooper.jpg" alt="Backstage with Anderson Cooper"/></a>
                                 </div>
                                 <a href="#four"></a> 
                                 <dl>
@@ -124,8 +111,8 @@ $menu->special ="Special";
                         <!-- case study -->
                             <li>
                                 <div class="gallery-images">
-                                    <a class="gallery_overlay" href="../directors/images/50cent.jpg">
-                                    <img src="../directors/images/50cent.jpg" alt="50 Cent"/></a>
+                                    <a class="gallery_overlay" href="/directors/images/50cent.jpg">
+                                    <img src="/directors/images/50cent.jpg" alt="50 Cent"/></a>
                                 </div>
                                 <a href="#five"></a> 
                                 <dl>
@@ -136,8 +123,8 @@ $menu->special ="Special";
                         <!-- case study -->
                             <li>
                                 <div class="gallery-images">
-                                    <a class="gallery_overlay" href="../directors/images/atlantic-city.jpg">
-                                    <img src="../directors/images/atlantic-city.jpg" alt="AC Lights Up The Boardwalk"/></a>
+                                    <a class="gallery_overlay" href="/directors/images/atlantic-city.jpg">
+                                    <img src="/directors/images/atlantic-city.jpg" alt="AC Lights Up The Boardwalk"/></a>
                                 </div>
                                 <a href="#six"></a> 
                                 <dl>
@@ -148,8 +135,8 @@ $menu->special ="Special";
                         <!-- case study -->
                             <li>
                                 <div class="gallery-images">
-                                    <a class="gallery_overlay" href="../directors/images/a-75-year-legacy.jpg">
-                                    <img src="../directors/images/a-75-year-legacy.jpg" alt="A 75 Year Legacy"/></a>
+                                    <a class="gallery_overlay" href="/directors/images/a-75-year-legacy.jpg">
+                                    <img src="/directors/images/a-75-year-legacy.jpg" alt="A 75 Year Legacy"/></a>
                                 </div>
                                 <a href="#seven"></a> 
                                 <dl>
@@ -160,8 +147,8 @@ $menu->special ="Special";
                         <!-- case study -->
                             <li>
                                 <div class="gallery-images">
-                                    <a class="gallery_overlay" href="../directors/images/pooch.jpg">
-                                    <img src="../directors/images/pooch.jpg" alt="ESPN SportsCenter Spot"/></a>
+                                    <a class="gallery_overlay" href="/directors/images/pooch.jpg">
+                                    <img src="/directors/images/pooch.jpg" alt="ESPN SportsCenter Spot"/></a>
                                 </div>
                                 <a href="#eight"></a> 
                                 <dl>
@@ -173,8 +160,8 @@ $menu->special ="Special";
                         <!-- case study -->
                             <li>
                                 <div class="gallery-images">
-                                    <a class="gallery_overlay" href="../directors/images/giants-rewind.jpg">
-                                    <img src="../directors/images/giants-rewind.jpg" alt="Giants Rewind"/></a>
+                                    <a class="gallery_overlay" href="/directors/images/giants-rewind.jpg">
+                                    <img src="/directors/images/giants-rewind.jpg" alt="Giants Rewind"/></a>
                                 </div>
                                 <a href="#nine"></a> 
                                 <dl>
@@ -185,8 +172,8 @@ $menu->special ="Special";
                         <!-- case study -->
                             <li>
                                 <div class="gallery-images">
-                                    <a class="gallery_overlay" href="../directors/images/al-trautwig.jpg">
-                                    <img src="../directors/images/al-trautwig.jpg" alt="Al Trautwig"/></a>
+                                    <a class="gallery_overlay" href="/directors/images/al-trautwig.jpg">
+                                    <img src="/directors/images/al-trautwig.jpg" alt="Al Trautwig"/></a>
                                 </div>
                                 <a href="#ten"></a> 
                                 <dl>
@@ -197,8 +184,8 @@ $menu->special ="Special";
                         <!-- case study -->
                             <li>
                                 <div class="gallery-images">
-                                    <a class="gallery_overlay" href="../directors/images/hockey-night-live.jpg">
-                                    <img src="../directors/images/hockey-night-live.jpg" alt="Hockey Night Live"/></a>
+                                    <a class="gallery_overlay" href="/directors/images/hockey-night-live.jpg">
+                                    <img src="/directors/images/hockey-night-live.jpg" alt="Hockey Night Live"/></a>
                                 </div>
                                 <a href="#eleven"></a> 
                                 <dl>
@@ -208,54 +195,53 @@ $menu->special ="Special";
                             </li>
                         </ul>
                     </div>
-                    <div id="thumbs-fwd"><img src="../assets/next_thumb.png" alt="Next Thumb"/></div> 
+                    <div id="thumbs-fwd"><img src="/assets/next_thumb.png" alt="Next Thumb"/></div> 
                     <div class="pagination"></div>
                 </div>
             </div>
             <div id="one" class="modal">
                 <a class="close" href="">close</a>
-                <script>QT_WriteOBJECT('../videos/curePC/cranston.mov', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
+                <script>QT_WriteOBJECT('/videos/curePC/cranston.mov', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
             </div>
             <div id="two" class="modal">
                 <a class="close" href="">close</a>
-                <script>QT_WriteOBJECT('../videos/lustgarten-foundation-psa/lustgarten-foundation-psa.mov', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
+                <script>QT_WriteOBJECT('/videos/lustgarten-foundation-psa/lustgarten-foundation-psa.mov', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
             </div>
             <div id="three" class="modal">
                 <a class="close" href="">close</a>
-                <script>QT_WriteOBJECT('../videos/dan-patrick/dan-patrick.mov', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
+                <script>QT_WriteOBJECT('/videos/dan-patrick/dan-patrick.mov', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
             </div>
             <div id="four" class="modal">
                 <a class="close" href="">close</a>
-                <script>QT_WriteOBJECT('../videos/anderson-cooper/anderson-cooper.mov', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
+                <script>QT_WriteOBJECT('/videos/anderson-cooper/anderson-cooper.mov', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
             </div>
             <div id="five" class="modal">
                 <a class="close" href="">close</a>
-                <script>QT_WriteOBJECT('../videos/50cent/50cent.mov', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
+                <script>QT_WriteOBJECT('/videos/50cent/50cent.mov', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
             </div>
             <div id="six" class="modal">
                 <a class="close" href="">close</a>
-               <script>QT_WriteOBJECT('../videos/ac-lightup-boardwalk/ac-lightup-boardwalk.mov', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
+               <script>QT_WriteOBJECT('/videos/ac-lightup-boardwalk/ac-lightup-boardwalk.mov', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
             </div>
             <div id="seven" class="modal">
                 <a class="close" href="">close</a>
-                <script>QT_WriteOBJECT('../videos/rangers-75th/rangers_75th.mov', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
+                <script>QT_WriteOBJECT('/videos/rangers-75th/rangers_75th.mov', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
             </div>
             <div id="eight" class="modal">
                 <a class="close" href="">close</a>
-                <script>QT_WriteOBJECT('../videos/espn-camp-canine-groovin/espn-camp-canine-groovin.mov', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
+                <script>QT_WriteOBJECT('/videos/espn-camp-canine-groovin/espn-camp-canine-groovin.mov', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
             </div>
             <div id="nine" class="modal">
                 <a class="close" href="">close</a>
-                <script>QT_WriteOBJECT('../videos/giants-rewind/papa.mov', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
+                <script>QT_WriteOBJECT('/videos/giants-rewind/papa.mov', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
             </div>
             <div id="ten" class="modal">
                 <a class="close" href="">close</a>
-                <video  controls>
-                   <script>QT_WriteOBJECT('../videos/whatever-he-wants/Control_room.mov', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
+                <script>QT_WriteOBJECT('/videos/whatever-he-wants/Control_room.mov', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
             </div>
             <div id="eleven" class="modal">
                 <a class="close" href="">close</a>
-                <script>QT_WriteOBJECT('../videos/hnl01/hnl01.mov', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
+                <script>QT_WriteOBJECT('/videos/hnl01/hnl01.mov', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
             </div>
         </div>
     </div>
@@ -266,9 +252,9 @@ $menu->special ="Special";
             <li class="org">Manhattan Place Entertainment.  All Rights Reserved.</li>
             <li class="tel">Phone: 212-682-2000</li>  
             <li>Fax: 212-682-2058</li>
-            <li><a href="../Manhattan_Place.vcf">Download vCard </a></li>
+            <li><a href="/Manhattan_Place.vcf">Download vCard </a></li>
             <li>Terms of Service and MPE General Policy for Field Shoots. &nbsp;
-                <a href="../tos.pdf">Click here for PDF</a>
+                <a href="/tos.pdf">Click here for PDF</a>
             </li>
         </ul>
     </footer>
@@ -282,8 +268,8 @@ $menu->special ="Special";
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 </script>
-<script src="../js/jquery-1.7.1.min.js"></script>
-<script src="../js/plugins.js"></script>
-<script src="../js/scripts.js"></script>
+<script src="/js/jquery-1.7.1.min.js"></script>
+<script src="/js/plugins.js"></script>
+<script src="/js/scripts.js"></script>
 </body>
 </html>

@@ -12,25 +12,18 @@ $menu->special ="Special";
 <head>
 <meta charset="UTF-8">
 <title>Talent - Steve Cohen</title>
-<link rel="stylesheet" type="text/css" href="../_css/main.css" media="screen"/>    
+<link rel="stylesheet" type="text/css" href="/css/styles.css" media="screen"/>    
 <!--[if IE 7]>
 <link rel="stylesheet" type="text/css" href="_css/ie.css" media="screen"/>
 <![endif]-->
+<script src="/js/modernizr.2.0.6.js"></script>
+<script src="http://www.apple.com/library/quicktime/scripts/ac_quicktime.js"></script>
+<script src="http://www.apple.com/library/quicktime/scripts/qtp_library.js"></script>
+<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,600,700,800,300' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700' rel='stylesheet' type='text/css'>
 </head>
 <body>
-    <header>
-        <nav>
-            <ul class="menu-social">
-                <?php $social->makeMenu(); ?>
-            </ul>
-            <ul class="menu-info">
-                <?php $super_menu->makeMenu(); ?>
-            </ul>        
-            <ul class="menu-main">
-                <?php $menu->makeMenu(); ?>
-            </ul>
-        </nav>
-    </header>
+    <?php include '../_header.php'; ?>
 
 <div class="panel ">
 <div class="section">
@@ -43,20 +36,20 @@ $menu->special ="Special";
 </div><!-- end .section -->
 <div class="wrapper">
     <ul class="bread_crumb">
-        <li><a href="../index.php">home</a> </li>
+        <li><a href="/index.php">home</a> </li>
         <li>&raquo;</li>
-        <li><a href="../about.php">about</a> </li>
+        <li><a href="/about.php">about</a> </li>
         <li>&raquo;</li>
         <li>steve cohen</li>
     </ul>   
 
     <ul id="nav_tertiary">
         <h3 class="dp">Talent List</h3> 
-		<li><a href="steve_cohen.php">Steve Cohen</a></li>
-		<li><a href="michael-mccarthy.php">Michael McCarthy</a></li>
-		<li><a href="john-oliver.php">John Oliver</a></li>
-		<li><a href="christopher_bierlein.php">Christopher Bierlein</a></li>
-		<li><a href="axel_baumann.php">Axel Baumann</a></li>
+        <li><a href="steve_cohen.php">Steve Cohen</a></li>
+        <li><a href="michael-mccarthy.php">Michael McCarthy</a></li>
+        <li><a href="john-oliver.php">John Oliver</a></li>
+        <li><a href="christopher_bierlein.php">Christopher Bierlein</a></li>
+        <li><a href="axel_baumann.php">Axel Baumann</a></li>
     </ul>   
 <div class="article">
     <h1>
@@ -64,7 +57,7 @@ $menu->special ="Special";
     </h1>
         <p class="date">Founder and Chairman</p>
         <hr/>
-        <img class="float_left" src="../_img/talent_steve_cohen.jpg" alt="talent_steve_cohen" width="250" />
+        <img class="float_left" src="/_img/talent_steve_cohen.jpg" alt="talent_steve_cohen" width="250" />
         <p>In his professional career Steve Cohen has successfully worn almost every hat imaginable in video, television, and commercial production.</p>
 <p>A five time Emmy Award winner, Steve has been the recipient of dozens of other industry awards including the Promax , Tellys, Cine Eagles and more.</p>
 <p>In 1982 Steve helped establish NBA Entertainment's reputation as a top production entity and in 1985 was nominated for his first (and NBAE's first) Sports Emmy award for producing and editing a profile about Magic Johnson.</p>
@@ -83,7 +76,7 @@ $menu->special ="Special";
 <p>Steve has successfully positioned Manhattan Place Entertainment as a direct source for production and creative services with the unique capability of providing exceptionally high production quality without exceptionally high pricing.</p>
 
 <p>He has been a member of the Directors Guild of America in good standing since 1985 and is also affiliated with IATSE Local 600.</p>
-        <a class="more" href="../about.php">Return to our About Page &raquo;</a> </div>
+        <a class="more" href="/about.php">Return to our About Page &raquo;</a> </div>
 </div><!-- end container -->
 </div><!--end panel-->
     <footer>
@@ -92,9 +85,9 @@ $menu->special ="Special";
             <li class="org">Manhattan Place Entertainment.  All Rights Reserved.</li>
             <li class="tel">Phone: 212-682-2000</li>  
             <li>Fax: 212-682-2058</li>
-            <li><a href="../Manhattan_Place.vcf">Download vCard </a></li>
+            <li><a href="/Manhattan_Place.vcf">Download vCard </a></li>
             <li>Terms of Service and MPE General Policy for Field Shoots. &nbsp;
-                <a href="../tos.pdf">Click here for PDF</a>
+                <a href="/tos.pdf">Click here for PDF</a>
             </li>
         </ul>
     </footer>
@@ -109,8 +102,8 @@ $menu->special ="Special";
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 </script>
-<script src="../js/jquery-1.7.1.min.js"></script>
-<script src="../js/plugins.js"></script>
-<script src="../js/scripts.js"></script>
+<script src="/js/jquery-1.7.1.min.js"></script>
+<script src="/js/plugins.js"></script>
+<script src="/js/scripts.js"></script>
 </body>
 </html>

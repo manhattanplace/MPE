@@ -16,28 +16,16 @@ $menu->special ="Special";
 <!--[if IE 7]>
 <link rel="stylesheet" type="text/css" href="_css/ie.css" media="screen"/>
 <![endif]-->
-<link rel="stylesheet" type="text/css" href="_css/main.css" media="screen"/>
+<link rel="stylesheet" type="text/css" href="/css/styles.css" media="screen"/>
 <script src="js/modernizr.2.0.6.js"></script>
 <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,600,700,800,300' rel='stylesheet' type='text/css'>
 <link href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700' rel='stylesheet' type='text/css'>
 </head>
 <body>
-    <header>
-        <nav>
-            <ul class="menu-social">
-                <?php $social->makeMenu(); ?>
-            </ul>
-            <ul class="menu-info">
-                <?php $super_menu->makeMenu(); ?>
-            </ul>        
-            <ul class="menu-main">
-                <?php $menu->makeMenu(); ?>
-            </ul>
-        </nav>
-    </header>
+    <?php include '_header.php'; ?>
     <div class="panel">
         <div id="logo">
-            <a href="index.html"><h1>Manhattan Place Entertainment - Video and Film Production Services</h1></a>
+            <a href="index.php"><h1>Manhattan Place Entertainment - Video and Film Production Services</h1></a>
         </div>
         <h3 class="library">EPISODIC</h3>
         <div class="container">
@@ -61,7 +49,7 @@ $menu->special ="Special";
                         <a class="gallery_overlay" href="images/episodic/sydney-ultrabook-new-poster.jpg"></a>
                         <img src="images/episodic/sydney-ultrabook-new-thumb.jpg" alt="Sydney Ultrabook Race"/>
                     </div>
-                    <a href="episodic/ultrabook-sydney/video.html"></a>
+                    <a href="episodic/ultrabook-sydney/video.php"></a>
                     <dl>
                         <dt class="description">Title:</dt>
                             <dd>Sydney Ultrabook Race</dd>
@@ -77,7 +65,7 @@ $menu->special ="Special";
                         <a class="gallery_overlay" href="images/episodic/ultrabook-st-petersburg.jpg"></a>
                         <img src="images/episodic/ultrabook-st-petersburg-thumb.jpg" alt="St. Petersburg Ultrabook Race"/>
                     </div>
-                    <a href="episodic/st-petersburg-ultrabook/video.html"></a>
+                    <a href="episodic/st-petersburg-ultrabook/video.php"></a>
                     <dl>
                         <dt class="description">Title:</dt>
                             <dd>St. Petersburg Ultrabook Race</dd>
@@ -94,7 +82,7 @@ $menu->special ="Special";
                                <img src="images/thumbs/boys-in-the-hall2.jpg" alt="Boys in the Hall"/>
                             </a>
                           </div>
-                           <a href="episodic/boys-in-the-hall/boys.html"></a>
+                           <a href="episodic/boys-in-the-hall/boys.php"></a>
                         <dl>
                             <dt class="description">Title:</dt>
                                 <dd>Boys in the Hall</dd>
@@ -117,7 +105,7 @@ $menu->special ="Special";
                                 <img src="images/thumbs/case_study_srtc_casting.jpg" alt="Speed Road Tour Challenge"/>
                             </a>
                         </div>
-                        <a href="episodic/srtc_casting/video.html"></a>
+                        <a href="episodic/srtc_casting/video.php"></a>
                         <dl>
                             <dt class="description">TITLE:</dt>
                                 <dd>Speed Road Tour Challenge</dd>
@@ -143,7 +131,7 @@ $menu->special ="Special";
                                 <img src="images/thumbs/case-study-miranda-cosgrove.jpg" alt="Miranda Cosgrove on Stage"/>
                             </a>
                         </div>
-                        <a href="episodic/miranda-cosgrove/video.html"></a>
+                        <a href="episodic/miranda-cosgrove/video.php"></a>
                         <dl>
                             <dt class="description">Title:</dt>
                                 <dd>"Dancing Crazy"<span style="text-transform:none;"> with</span> Miranda Cosgrove</dd>
@@ -164,7 +152,7 @@ $menu->special ="Special";
                                <img src="images/thumbs/case_study_sponge_bob.jpg" alt="Spongebob Special"/>
                             </a>
                           </div>
-                           <a href="episodic/sponge_bob/video.html"></a>
+                           <a href="episodic/sponge_bob/video.php"></a>
                         <dl>
                             <dt class="description">Title:</dt>
                                 <dd>Spongebob Special</dd>
@@ -184,7 +172,7 @@ $menu->special ="Special";
                             <a class="gallery_overlay" href="images/case-study-depth-chart.jpg">
                                <img src="images/thumbs/case-study-depth-chart.jpg" alt="The Depth Chart"/> </a>
                           </div>
-                           <a href="episodic/depth-chart/video.html"></a>
+                           <a href="episodic/depth-chart/video.php"></a>
                         <dl>
                         <dt class="description">Title:</dt>
                             <dd>The Depth Chart</dd>
@@ -205,7 +193,7 @@ $menu->special ="Special";
                             <a class="gallery_overlay" href="images/case-study-jeremy-lin.jpg">
                                <img src="images/thumbs/case-study-jeremy-lin.jpg" alt="Jeremy Lin"/> </a>
                           </div>
-                           <a href="episodic/jeremy-lin/video.html"></a>
+                           <a href="episodic/jeremy-lin/video.php"></a>
                         <dl>
                             <dt class="description">Title:</dt>
                                 <dd>To the Point - Jeremy Lin</dd>
@@ -226,7 +214,7 @@ $menu->special ="Special";
                                 <img src="images/thumbs/case_study_halo.jpg" alt="Halo Awards"/>
                             </a>
                         </div>
-                        <a href="episodic/halo/video.html"></a>
+                        <a href="episodic/halo/video.php"></a>
                         <dl>
                             <dt class="description">Title:</dt>
                                 <dd>Halo Awards</dd>
@@ -251,7 +239,7 @@ $menu->special ="Special";
                                 <img src="images/thumbs/case_study-rough-riders.jpg" alt="Rough Riders"/>
                             </a>
                         </div>
-                        <a href="episodic/rough-rider/video-rough-rider.html"></a>
+                        <a href="episodic/rough-rider/video-rough-rider.php"></a>
                         <dl>
                             <dt class="description">TITLE:</dt>
                                 <dd>Rough Riders</dd>
@@ -274,7 +262,7 @@ $menu->special ="Special";
                                 <img src="images/thumbs/case-study-burns.jpg" alt="Ed Burns"/>
                             </a>
                         </div>
-                        <a href="episodic/burns/video.html"></a>
+                        <a href="episodic/burns/video.php"></a>
                         <dl>
                             <dt class="description">TITLE:</dt>
                                 <dd>The Mortified Sessions - Ed Burns</dd>
@@ -295,7 +283,7 @@ $menu->special ="Special";
                                 <img src="images/thumbs/case-study-mommy.jpg" alt="Mommy Double"/>
                             </a>
                         </div>
-                        <a href="episodic/mommy-double/video.html"></a>
+                        <a href="episodic/mommy-double/video.php"></a>
                         <dl>
                             <dt class="description">TITLE:</dt>
                                 <dd>Mommy Double</dd>
@@ -316,7 +304,7 @@ $menu->special ="Special";
                                 <img src="images/thumbs/case_study_srtc_casting.jpg" alt="Speed Road Tour Challenge"/>
                             </a>
                         </div>
-                        <a href="episodic/srtc_daytona/video.html"></a>
+                        <a href="episodic/srtc_daytona/video.php"></a>
                         <dl>
                             <dt class="description">Title:</dt>
                                 <dd>Speed Road Tour Challenge</dd>
@@ -342,7 +330,7 @@ $menu->special ="Special";
                                 <img src="images/thumbs/case_study_srtc_casting.jpg" alt="Speed Road Tour Challenge"/>
                             </a>
                         </div>
-                        <a href="episodic/srtc_richmond/video.html"></a>
+                        <a href="episodic/srtc_richmond/video.php"></a>
                         <dl>
                             <dt class="description">Title:</dt>
                                 <dd>Speed Road Tour Challenge</dd>
@@ -368,7 +356,7 @@ $menu->special ="Special";
                                 <img src="images/thumbs/case_study_bestbuddies.jpg" alt="Best Buddies"/>
                             </a>
                         </div>
-                        <a href="episodic/bestbuddies/video.html"></a>
+                        <a href="episodic/bestbuddies/video.php"></a>
                         <dl>
                             <dt class="description">Title:</dt>
                                 <dd>Best Buddies</dd>
@@ -387,7 +375,7 @@ $menu->special ="Special";
                                <img src="images/thumbs/case_study_fif.jpg" alt="Five Ingredient Fix"/>
                             </a>
                         </div>
-                           <a href="episodic/five-ingredient-fix/video.html"></a>
+                           <a href="episodic/five-ingredient-fix/video.php"></a>
                         <dl>
                             <dt class="description">Title:</dt>
                                 <dd>Five Ingredients Fix</dd>
@@ -406,7 +394,7 @@ $menu->special ="Special";
                                 <img src="images/thumbs/case_study_mocap.jpg" alt="MoCap"/>
                             </a>
                         </div>
-                        <a href="episodic/MOCAP/video.html"></a>
+                        <a href="episodic/MOCAP/video.php"></a>
                         <dl>
                             <dt class="description">Title:</dt>
                                 <dd>MoCap</dd>
@@ -434,7 +422,7 @@ $menu->special ="Special";
                             <img src="images/thumbs/case_study_bet_the_house.jpg" alt="Bet the House"/>
                         </a>
                         </div>
-                        <a href="episodic/bet_the_house/video.html"></a>
+                        <a href="episodic/bet_the_house/video.php"></a>
                         <dl>
                             <dt class="description">Title:</dt>
                                 <dd>Bet The House</dd>
@@ -455,7 +443,7 @@ $menu->special ="Special";
                             <img src="images/thumbs/case_study_hunt.jpg" alt="The Hunt"/>
                         </a>
                         </div>
-                        <a href="episodic/hunt/video.html"></a>
+                        <a href="episodic/hunt/video.php"></a>
                         <dl>
                             <dt class="description">Title:</dt>
                                 <dd>The Hunt</dd>
@@ -476,7 +464,7 @@ $menu->special ="Special";
                                 <img src="images/thumbs/case_study_pups.jpg" alt="A Pup Grows Up"/>
                             </a>
                         </div>
-                        <a href="episodic/pup/video.html"></a>
+                        <a href="episodic/pup/video.php"></a>
                         <dl>
                             <dt class="description">Title:</dt>
                                 <dd>A Pup Grows Up</dd>
@@ -497,7 +485,7 @@ $menu->special ="Special";
                             <img src="images/thumbs/case_study_madden.jpg" alt="John Madden"/>
                         </a>
                         </div>
-                        <a href="episodic/madden/video.html"></a>
+                        <a href="episodic/madden/video.php"></a>
                         <dl>
                             <dt class="description">Title:</dt>
                                 <dd>John Madden &ndash; </dd>

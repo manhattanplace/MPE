@@ -16,28 +16,16 @@ $menu->special ="Special";
 <!--[if IE 7]>
 <link rel="stylesheet" type="text/css" href="_css/ie.css" media="screen"/>
 <![endif]-->
-<link rel="stylesheet" type="text/css" href="_css/main.css" media="screen"/>
+<link rel="stylesheet" type="text/css" href="/css/styles.css" media="screen"/>
 <script src="js/modernizr.2.0.6.js"></script>
 <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,600,700,800,300' rel='stylesheet' type='text/css'>
 <link href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700' rel='stylesheet' type='text/css'>
 </head>
 <body>
-    <header>
-        <nav>
-            <ul class="menu-social">
-                <?php $social->makeMenu(); ?>
-            </ul>
-            <ul class="menu-info">
-                <?php $super_menu->makeMenu(); ?>
-            </ul>        
-            <ul class="menu-main">
-                <?php $menu->makeMenu(); ?>
-            </ul>
-        </nav>
-    </header>
+    <?php include '_header.php'; ?>
     <div class="panel">
         <div id="logo">
-            <a href="index.html"><h1>Manhattan Place Entertainment - Video and Film Production Services</h1></a>
+            <a href="index.php"><h1>Manhattan Place Entertainment - Video and Film Production Services</h1></a>
         </div>
         <h3 class="library">Sizzle Reels</h3>
         <div class="container">
@@ -62,7 +50,7 @@ $menu->special ="Special";
                             <a class="gallery_overlay" href="images/sizzle/sizzle-1.jpg">
                             </a><img src="images/sizzle/sizzle-1-thumb.jpg" alt="sizzle reel"/>
                         </div>
-                        <a href="samplereel/sizzle/video.html"></a>
+                        <a href="samplereel/sizzle/video.php"></a>
                         <dl>
                             <dt class="description">Title</dt>
                                 <dd>Sizzle Reel </dd>
@@ -76,7 +64,7 @@ $menu->special ="Special";
                             <a class="gallery_overlay" href="images/sizzle/sizzle-3.jpg">
                             <img src="images/sizzle/sizzle-3-thumb.jpg" alt="sizzle reel"/></a>
                         </div>
-                        <a href="samplereel/sizzle-2013/video.html"></a>
+                        <a href="samplereel/sizzle-2013/video.php"></a>
                         <dl>
                             <dt class="description">Title:</dt> 
                                 <dd>Branded Content</dd>

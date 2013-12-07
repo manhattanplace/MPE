@@ -14,28 +14,16 @@ $menu->special ="Special";
 <meta name="description" content="video">
 <meta charset="UTF-8">    
 <!--[if IE 7]>
-<link rel="stylesheet" type="text/css" href="../../_css/ie.css" media="screen"/>
+<link rel="stylesheet" type="text/css" href="/_css/ie.css" media="screen"/>
 <![endif]-->
-<link rel="stylesheet" type="text/css" href="../../_css/main.css" media="screen"/>
-<script src="../../js/modernizr.2.0.6.js"></script>
+<link rel="stylesheet" type="text/css" href="/css/styles.css" media="screen"/>
+<script src="/js/modernizr.2.0.6.js"></script>
 <!-- Quicktime -->
 <script src="http://www.apple.com/library/quicktime/scripts/ac_quicktime.js" ></script>
 <script src="http://www.apple.com/library/quicktime/scripts/qtp_library.js" ></script>  
 </head>
 <body>
-    <header>
-        <nav>
-            <ul class="menu-social">
-                <?php $social->makeMenu(); ?>
-            </ul>
-            <ul class="menu-info">
-                <?php $super_menu->makeMenu(); ?>
-            </ul>        
-            <ul class="menu-main">
-                <?php $menu->makeMenu(); ?>
-            </ul>
-        </nav>
-    </header>
+    <?php include '../../_header.php'; ?>
     <div class="panel">
     	<div id="logo">
     		<a href="../index.php"><h1>Manhattan Place Entertainment - Video and Film Production Services</h1></a>
@@ -43,14 +31,14 @@ $menu->special ="Special";
     	<h3 class="library">ERIC HALBERSTADT <br /> DP <br /> EXTREME SPORTS REEL<br /></h3>
         <div class="container">
             <div class="back_button1">
-            	<a href="../../index.php">&laquo; Back to Home</a>
+            	<a href="/index.php">&laquo; Back to Home</a>
             </div>
             <div id="video_720">
                 <script>QT_WriteOBJECT('eric.mov','720', '421', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
             </div>
             </div>
             <div class="back_button2">
-            	<a href="../../index.php">&laquo; Back to Home</a>
+            	<a href="/index.php">&laquo; Back to Home</a>
             </div>
         </div>
     </div>
@@ -77,8 +65,8 @@ $menu->special ="Special";
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 </script>
-<script src="../../js/jquery-1.7.1.min.js"></script>
-<script src="../../js/plugins.js"></script>
-<script src="../../js/scripts.js"></script>
+<script src="/js/jquery-1.7.1.min.js"></script>
+<script src="/js/plugins.js"></script>
+<script src="/js/scripts.js"></script>
 </body>
 </html>
