@@ -16,7 +16,7 @@ $menu->special ="Special";
 <!--[if IE 7]>
 <link rel="stylesheet" type="text/css" href="_css/ie.css" media="screen"/>
 <![endif]-->
-<link rel="stylesheet" type="text/css" href="main.css" media="screen"/>
+<link rel="stylesheet" type="text/css" href="/css/styles.css" media="screen"/>
 <script src="/js/modernizr.2.0.6.js"></script>
 <script src="http://www.apple.com/library/quicktime/scripts/ac_quicktime.js"></script>
 <script src="http://www.apple.com/library/quicktime/scripts/qtp_library.js"></script>
@@ -128,7 +128,7 @@ He then became the Executive Producer for the seminal Spotwise Agency, one of th
             </div>
             <div id="one" class="modal">
                 <a class="close" href="">close</a>
-                <video width="640" height="364" controls>
+                <video width="640" height="480" width="640" controls>
                   <source src="/videos/sinupret/sinupret.mp4" type="video/mp4">
                   <source src="/videos/sinupret/sinupret.ogg" type="video/ogg">
                   <source src="/videos/sinupret/sinupret.webm" type="video/webm">
@@ -136,7 +136,7 @@ He then became the Executive Producer for the seminal Spotwise Agency, one of th
             </div>
             <div id="two" class="modal">
                 <a class="close" href="">close</a>
-                <video width="640" height="364" controls>
+                <video width="640" height="480" width="640" controls>
                   <source src="/videos/sprite-24/sprite-24.mp4" type="video/mp4">
                   <source src="/videos/sprite-24/sprite-24.ogg" type="video/ogg">
                   <source src="/videos/sprite-24/sprite-24.webm" type="video/webm">
@@ -144,7 +144,7 @@ He then became the Executive Producer for the seminal Spotwise Agency, one of th
             </div>
             <div id="three" class="modal">
                 <a class="close" href="">close</a>
-                <video width="640" height="364" controls>
+                <video width="640" height="480" width="640" controls>
                   <source src="/videos/sprite-hospital/sprite.mp4" type="video/mp4">
                   <source src="/videos/sprite-hospital/sprite.ogg" type="video/ogg">
                   <source src="/videos/sprite-hospital/sprite.webm" type="video/webm">
@@ -152,7 +152,7 @@ He then became the Executive Producer for the seminal Spotwise Agency, one of th
             </div>
             <div id="four" class="modal">
                 <a class="close" href="">close</a>
-                <video width="640" height="364" controls>
+                <video width="640" height="480" width="640" controls>
                   <source src="/videos/kozmo/kozmo.mp4" type="video/mp4">
                   <source src="/videos/kozmo/kozmo.ogg" type="video/ogg">
                   <source src="/videos/kozmo/kozmo.webm" type="video/webm">
@@ -160,7 +160,7 @@ He then became the Executive Producer for the seminal Spotwise Agency, one of th
             </div>
             <div id="five" class="modal">
                 <a class="close" href="">close</a>
-                <video width="640" height="364" controls>
+                <video width="640" height="480" width="640" controls>
                   <source src="/videos/cheerleader/cheerleader.mp4" type="video/mp4">
                   <source src="/videos/cheerleader/cheerleader.ogg" type="video/ogg">
                   <source src="/videos/cheerleader/cheerleader.webm" type="video/webm">

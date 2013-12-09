@@ -16,7 +16,7 @@ $menu->special ="Special";
 <!--[if IE 7]>
 <link rel="stylesheet" type="text/css" href="_css/ie.css" media="screen"/>
 <![endif]-->
-<link rel="stylesheet" type="text/css" href="main.css" media="screen"/>
+<link rel="stylesheet" type="text/css" href="/css/styles.css" media="screen"/>
 <script src="/js/modernizr.2.0.6.js"></script>
 <script src="http://www.apple.com/library/quicktime/scripts/ac_quicktime.js"></script>
 <script src="http://www.apple.com/library/quicktime/scripts/qtp_library.js"></script>

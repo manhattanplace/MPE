@@ -16,7 +16,7 @@ $menu->special ="Special";
 <!--[if IE 7]>
 <link rel="stylesheet" type="text/css" href="_css/ie.css" media="screen"/>
 <![endif]-->
-<link rel="stylesheet" type="text/css" href="main.css" media="screen"/>
+<link rel="stylesheet" type="text/css" href="/css/styles.css" media="screen"/>
 <script src="/js/modernizr.2.0.6.js"></script>
 <script src="http://www.apple.com/library/quicktime/scripts/ac_quicktime.js"></script>
 <script src="http://www.apple.com/library/quicktime/scripts/qtp_library.js"></script>
@@ -133,7 +133,7 @@ $menu->special ="Special";
             </div>
             <div id="one" class="modal">
                 <a class="close" href="">close</a>
-                <video width="640" height="364" height="364" controls>
+                <video width="640" height="364" controls>
                   <source src="/videos/kmart/kmart.mp4" type="video/mp4">
                   <source src="/videos/kmart/kmart.ogg" type="video/ogg">
                   <source src="/videos/kmart/kmart.webm" type="video/webm">
@@ -141,7 +141,7 @@ $menu->special ="Special";
             </div>
             <div id="two" class="modal">
                 <a class="close" href="">close</a>
-                <video width="640" height="364" height="364" controls>
+                <video width="640" height="364" controls>
                   <source src="/videos/thq/thq-video-game.mp4" type="video/mp4">
                   <source src="/videos/thq/thq-video-game.ogg" type="video/ogg">
                   <source src="/videos/thq/thq-video-game.webm" type="video/webm">
@@ -149,7 +149,7 @@ $menu->special ="Special";
             </div>
             <div id="three" class="modal">
                 <a class="close" href="">close</a>
-                <video width="640" height="364" height="364" controls>
+                <video width="640" height="364" controls>
                   <source src="/videos/wowwee/wowwee.mp4" type="video/mp4">
                   <source src="/videos/wowwee/wowwee.ogg" type="video/ogg">
                   <source src="/videos/wowwee/wowwee.webm" type="video/webm">
@@ -157,7 +157,7 @@ $menu->special ="Special";
             </div>
             <div id="four" class="modal">
                 <a class="close" href="">close</a>
-                <video width="640" height="364" height="364" controls>
+                <video width="640" height="364" controls>
                   <source src="/videos/mania-few-good-men/a-few-good-men-parody.mp4" type="video/mp4">
                   <source src="/videos/mania-few-good-men/a-few-good-men-parody.ogg" type="video/ogg">
                   <source src="/videos/mania-few-good-mena-few-good-men-parody.webm" type="video/webm">
@@ -165,7 +165,7 @@ $menu->special ="Special";
             </div>
             <div id="five" class="modal">
                 <a class="close" href="">close</a>
-                <video width="640" height="364" height="364" controls>
+                <video width="640" height="364" controls>
                   <source src="/videos/mania-basic-instinct/basic-instinct-parody.mp4" type="video/mp4">
                   <source src="/videos/mania-basic-instinct/basic-instinct-parody.ogg" type="video/ogg">
                   <source src="/videos/mania-basic-instinct/basic-instinct-parody.webm" type="video/webm">
@@ -173,7 +173,7 @@ $menu->special ="Special";
             </div>
             <div id="six" class="modal">
                 <a class="close" href="">close</a>
-                <video width="640" height="364" height="364" controls>
+                <video width="640" height="364" controls>
                   <source src="/videos/mania-gladiator/gladiator-parody.mp4" type="video/mp4">
                   <source src="/videos/mania-gladiator/gladiator-parody.ogg" type="video/ogg">
                   <source src="/videos/mania-gladiator/gladiator-parody.webm" type="video/webm">

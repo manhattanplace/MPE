@@ -987,6 +987,7 @@ a,.contact a:link,.contact a:visited, {
 }
 .directors #main-img {
     padding: 10px!important;
+    top: 0!important;
 }
 .directors .thumbnails li div img {
     padding: 7px;
