@@ -31,11 +31,14 @@ $menu->special ="Special";
         </div>
         <h3 class="library">DIRECTORS</h3>
         <div class="container directors">
+    		<div class="back_button1">
+    			<a href="/directors.php">&laquo; Back to Directors</a>
+    		</div>
             <div class="panel-default" data-toggle="collapse">
                 <div class="panel-heading">
                     <h3 class="panel-title">
                     <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne" class="">
-                    <span class="plus-minus"></span> Avi Cohen Bio
+                    <span class="plus-minus"></span> Avi Cohen - Director/DP Bio
                     </a>
                     </h3>
                 </div>
@@ -140,51 +143,27 @@ $menu->special ="Special";
             </div>
             <div id="one" class="modal">
                 <a class="close" href="">close</a>
-                <video width="640" height="364" controls>
-                  <source src="/videos/doritos/doritos.mp4" type="video/mp4">
-                  <source src="/videos/doritos/doritos.ogg" type="video/ogg">
-                  <source src="/videos/doritos/doritos.webm" type="video/webm">
-                </video> 
+                <script>QT_WriteOBJECT('/videos/doritos/doritos.mov', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'TOFIT');</script>
             </div>
             <div id="two" class="modal">
                 <a class="close" href="">close</a>
-                <video width="640" height="364" controls>
-                  <source src="/videos/goosha/goosha-round-run.mp4" type="video/mp4">
-                  <source src="/videos/goosha/goosha-round-run.ogg" type="video/ogg">
-                  <source src="/videos/goosha/goosha-round-run.webm" type="video/webm">
-                </video> 
+                <script>QT_WriteOBJECT('/videos/goosha-round-run/goosha-round-run.mov', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'TOFIT');</script>
             </div>
             <div id="three" class="modal">
                 <a class="close" href="">close</a>
-                <video width="640" height="364" controls>
-                  <source src="/videos/forgiato-grill/forgiato-grill.mp4" type="video/mp4">
-                  <source src="/videos/forgiato-grill/forgiato-grill.ogg" type="video/ogg">
-                  <source src="/videos/forgiato-grill/forgiato-grill.webm" type="video/webm">
-                </video> 
+                <script>QT_WriteOBJECT('/videos/forgiato-grill/forgiato-grill.mov', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'TOFIT');</script>
             </div>
             <div id="four" class="modal">
                 <a class="close" href="">close</a>
-                <video width="640" height="364" controls>
-                  <source src="/videos/forgiato-desire/forgiato-desire.mp4" type="video/mp4">
-                  <source src="/videos/forgiato-desire/forgiato-desire.ogg" type="video/ogg">
-                  <source src="/videos/forgiato-desire/forgiato-desire.webm" type="video/webm">
-                </video> 
+                <script>QT_WriteOBJECT('/videos/forgiato-desire/forgiato-desire.mov', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'TOFIT');</script>
             </div>
             <div id="five" class="modal">
                 <a class="close" href="">close</a>
-                <video width="640" height="364" controls>
-                  <source src="/videos/casio/casio.mp4" type="video/mp4">
-                  <source src="/videos/casio/casio.ogg" type="video/ogg">
-                  <source src="/videos/casio/casio.webm" type="video/webm">
-                </video> 
+                <script>QT_WriteOBJECT('/videos/casio/casio.mov', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'TOFIT');</script>
             </div>
             <div id="six" class="modal">
                 <a class="close" href="">close</a>
-                <video width="640" height="364" controls>
-                  <source src="/videos/forgiato-freedom/forgotto-a-push-toward-freedom.mp4" type="video/mp4">
-                  <source src="/videos/forgiato-freedom/forgotto-a-push-toward-freedom.ogg" type="video/ogg">
-                  <source src="/videos/forgiato-freedom/forgotto-a-push-toward-freedom.webm" type="video/webm">
-                </video> 
+                <script>QT_WriteOBJECT('/videos/forgiato-freedom/forgiato-freedom.mov', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'TOFIT');</script>
             </div>
         </div>
     </div>

@@ -30,11 +30,14 @@ $menu->special ="Special";
         </div>
         <h3 class="library">DIRECTORS</h3>
         <div class="container directors">
+    		<div class="back_button1">
+    			<a href="/directors.php">&laquo; Back to Directors</a>
+    		</div>
             <div class="panel-default" data-toggle="collapse">
                 <div class="panel-heading">
                     <h3 class="panel-title">
                     <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne" class="">
-                    <span class="plus-minus"></span> Steve Cohen Bio
+                    <span class="plus-minus"></span> Steve Cohen - Director/DP Bio
                     </a>
                     </h3>
                 </div>

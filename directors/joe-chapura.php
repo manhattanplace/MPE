@@ -30,11 +30,14 @@ $menu->special ="Special";
         </div>
         <h3 class="library">DIRECTORS</h3>
         <div class="container directors">
+    		<div class="back_button1">
+    			<a href="/directors.php">&laquo; Back to Directors</a>
+    		</div>
             <div class="panel-default" data-toggle="collapse">
                 <div class="panel-heading">
                     <h3 class="panel-title">
                     <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne" class="">
-                    <span class="plus-minus"></span> Joe Chapura Bio
+                    <span class="plus-minus"></span> Joe Chapura - Director/DP Bio
                     </a>
                     </h3>
                 </div>
@@ -128,43 +131,23 @@ He then became the Executive Producer for the seminal Spotwise Agency, one of th
             </div>
             <div id="one" class="modal">
                 <a class="close" href="">close</a>
-                <video width="640" height="480" width="640" controls>
-                  <source src="/videos/sinupret/sinupret.mp4" type="video/mp4">
-                  <source src="/videos/sinupret/sinupret.ogg" type="video/ogg">
-                  <source src="/videos/sinupret/sinupret.webm" type="video/webm">
-                </video> 
+                <script>QT_WriteOBJECT('/videos/sinupret/sinupret.mov', '640', '480', '', 'AUTOPLAY', 'True', 'SCALE', 'TOFIT');</script>
             </div>
             <div id="two" class="modal">
                 <a class="close" href="">close</a>
-                <video width="640" height="480" width="640" controls>
-                  <source src="/videos/sprite-24/sprite-24.mp4" type="video/mp4">
-                  <source src="/videos/sprite-24/sprite-24.ogg" type="video/ogg">
-                  <source src="/videos/sprite-24/sprite-24.webm" type="video/webm">
-                </video> 
+                <script>QT_WriteOBJECT('/videos/sprite-24/sprite-24.mov', '640', '480', '', 'AUTOPLAY', 'True', 'SCALE', 'TOFIT');</script>
             </div>
             <div id="three" class="modal">
                 <a class="close" href="">close</a>
-                <video width="640" height="480" width="640" controls>
-                  <source src="/videos/sprite-hospital/sprite.mp4" type="video/mp4">
-                  <source src="/videos/sprite-hospital/sprite.ogg" type="video/ogg">
-                  <source src="/videos/sprite-hospital/sprite.webm" type="video/webm">
-                </video> 
+                <script>QT_WriteOBJECT('/videos/sprite-hospital/sprite-hospital.mov', '640', '480', '', 'AUTOPLAY', 'True', 'SCALE', 'TOFIT');</script>
             </div>
             <div id="four" class="modal">
                 <a class="close" href="">close</a>
-                <video width="640" height="480" width="640" controls>
-                  <source src="/videos/kozmo/kozmo.mp4" type="video/mp4">
-                  <source src="/videos/kozmo/kozmo.ogg" type="video/ogg">
-                  <source src="/videos/kozmo/kozmo.webm" type="video/webm">
-                </video> 
+                <script>QT_WriteOBJECT('/videos/kozmo/kozmo.mov', '640', '480', '', 'AUTOPLAY', 'True', 'SCALE', 'TOFIT');</script>
             </div>
             <div id="five" class="modal">
                 <a class="close" href="">close</a>
-                <video width="640" height="480" width="640" controls>
-                  <source src="/videos/cheerleader/cheerleader.mp4" type="video/mp4">
-                  <source src="/videos/cheerleader/cheerleader.ogg" type="video/ogg">
-                  <source src="/videos/cheerleader/cheerleader.webm" type="video/webm">
-                </video> 
+                <script>QT_WriteOBJECT('/videos/cheerleader/cheerleader.mov', '640', '480', '', 'AUTOPLAY', 'True', 'SCALE', 'TOFIT');</script>
             </div>
         </div>
     </div>

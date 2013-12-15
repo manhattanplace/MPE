@@ -31,11 +31,14 @@ $menu->special ="Special";
         </div>
         <h3 class="library">DIRECTORS</h3>
         <div class="container directors">
+    		<div class="back_button1">
+    			<a href="/directors.php">&laquo; Back to Directors</a>
+    		</div>
             <div class="panel-default" data-toggle="collapse">
                 <div class="panel-heading">
                     <h3 class="panel-title">
                     <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne" class="">
-                    <span class="plus-minus"></span> Evan Langley Laffin Bio
+                    <span class="plus-minus"></span> Evan Langley Laffin - Director/DP Bio
                     </a>
                     </h3>
                 </div>
@@ -43,8 +46,7 @@ $menu->special ="Special";
                 <div class="panel-body">
                     <p>Visionary Director/Visual Effects Supervisor</p>
                     <p>With a strong background in visual effects, Evan has a wide range of experience leading creative teams. Starting off as a commercial artist, Evan gained recognition at major studios including the Mill and Digital Domain, eventually moving from commercials to feature films.</p>
-                    <p>Following his work on Oblivion, Evan has worked internationally, both directing and supervising visual effects for major commercial projects. His body of work includes commercials for Disney, DreamWorks Animation, Toyota, Volkswagen, Activision, and many others.</p>
-                    <p>Recently nominated for a VMA, Evan is pursuing further experience in commercial directing and visual effects supervision.</p>
+                    <p>Following his work on Oblivion, Evan has worked internationally, both directing and supervising visual effects for major commercial projects. His body of work includes commercials for Disney, DreamWorks Animation, Toyota, Volkswagen, Activision, and many others. In 2013 Evan received his first VMA nomination.</p>
                 </div>
                 </div>
             </div>            
@@ -105,27 +107,15 @@ $menu->special ="Special";
             </div>
             <div id="one" class="modal">
                 <a class="close" href="">close</a>
-                <video width="640" height="364" controls>
-                  <source src="/videos/oblivion/oblivion.mp4" type="video/mp4">
-                  <source src="/videos/oblivion/oblivion.ogg" type="video/ogg">
-                  <source src="/videos/oblivion/oblivion.webm" type="video/webm">
-                </video> 
+                <script>QT_WriteOBJECT('/videos/oblivion/oblivion.mov', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'TOFIT');</script>
             </div>
             <div id="two" class="modal">
                 <a class="close" href="">close</a>
-                <video width="640" height="364" controls>
-                  <source src="/videos/toyota/toyota.mp4" type="video/mp4">
-                  <source src="/videos/toyota/toyota.ogg" type="video/ogg">
-                  <source src="/videos/toyota/toyota.webm" type="video/webm">
-                </video> 
+                <script>QT_WriteOBJECT('/videos/toyota/toyota.mov', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'TOFIT');</script>
             </div>
             <div id="three" class="modal">
                 <a class="close" href="">close</a>
-                <video width="640" height="364" controls>
-                  <source src="/videos/call-of-duty/call-of-duty.mp4" type="video/mp4">
-                  <source src="/videos/call-of-duty/call-of-duty.ogg" type="video/ogg">
-                  <source src="/videos/call-of-duty/call-of-duty.webm" type="video/webm">
-                </video> 
+                <script>QT_WriteOBJECT('/videos/call-of-duty/call-of-duty.mov', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'TOFIT');</script>
             </div>
         </div>
     </div>

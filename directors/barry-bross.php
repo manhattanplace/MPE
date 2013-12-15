@@ -31,9 +31,12 @@ $menu->special ="Special";
         </div>
         <h3 class="library">DIRECTORS</h3>
         <div class="container directors">
+    		<div class="back_button1">
+    			<a href="/directors.php">&laquo; Back to Directors</a>
+    		</div>
             <div class="panel-default" data-toggle="collapse">
                 <div class="panel-heading">
-                    <h3 class="panel-title" style="margin-left:5px;">Barry Bross</h3>
+                    <h3 class="panel-title" style="margin-left:5px;">Barry - Director/DP</h3>
                 </div>
                 <div id="collapseOne" class="panel-collapse in" style="height: auto;" data-target="collapse" style="display:none;">
                 <div class="panel-body">
@@ -133,51 +136,27 @@ $menu->special ="Special";
             </div>
             <div id="one" class="modal">
                 <a class="close" href="">close</a>
-                <video width="640" height="364" controls>
-                  <source src="/videos/kmart/kmart.mp4" type="video/mp4">
-                  <source src="/videos/kmart/kmart.ogg" type="video/ogg">
-                  <source src="/videos/kmart/kmart.webm" type="video/webm">
-                </video> 
+                <script>QT_WriteOBJECT('/videos/kmart/kmart.mov', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'TOFIT');</script>
             </div>
             <div id="two" class="modal">
                 <a class="close" href="">close</a>
-                <video width="640" height="364" controls>
-                  <source src="/videos/thq/thq-video-game.mp4" type="video/mp4">
-                  <source src="/videos/thq/thq-video-game.ogg" type="video/ogg">
-                  <source src="/videos/thq/thq-video-game.webm" type="video/webm">
-                </video> 
+                <script>QT_WriteOBJECT('/videos/thq-video-game/thq-video-game.mov', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'TOFIT');</script>
             </div>
             <div id="three" class="modal">
                 <a class="close" href="">close</a>
-                <video width="640" height="364" controls>
-                  <source src="/videos/wowwee/wowwee.mp4" type="video/mp4">
-                  <source src="/videos/wowwee/wowwee.ogg" type="video/ogg">
-                  <source src="/videos/wowwee/wowwee.webm" type="video/webm">
-                </video> 
+                <script>QT_WriteOBJECT('/videos/wowwee/wowwee.mov', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'TOFIT');</script>
             </div>
             <div id="four" class="modal">
                 <a class="close" href="">close</a>
-                <video width="640" height="364" controls>
-                  <source src="/videos/mania-few-good-men/a-few-good-men-parody.mp4" type="video/mp4">
-                  <source src="/videos/mania-few-good-men/a-few-good-men-parody.ogg" type="video/ogg">
-                  <source src="/videos/mania-few-good-mena-few-good-men-parody.webm" type="video/webm">
-                </video> 
+                <script>QT_WriteOBJECT('/videos/mania-few-good-men/mania-few-good-men.mov', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'TOFIT');</script>
             </div>
             <div id="five" class="modal">
                 <a class="close" href="">close</a>
-                <video width="640" height="364" controls>
-                  <source src="/videos/mania-basic-instinct/basic-instinct-parody.mp4" type="video/mp4">
-                  <source src="/videos/mania-basic-instinct/basic-instinct-parody.ogg" type="video/ogg">
-                  <source src="/videos/mania-basic-instinct/basic-instinct-parody.webm" type="video/webm">
-                </video> 
+                <script>QT_WriteOBJECT('/videos/mania-basic-instinct/mania-basic-instinct.mov', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'TOFIT');</script>
             </div>
             <div id="six" class="modal">
                 <a class="close" href="">close</a>
-                <video width="640" height="364" controls>
-                  <source src="/videos/mania-gladiator/gladiator-parody.mp4" type="video/mp4">
-                  <source src="/videos/mania-gladiator/gladiator-parody.ogg" type="video/ogg">
-                  <source src="/videos/mania-gladiator/gladiator-parody.webm" type="video/webm">
-                </video> 
+                <script>QT_WriteOBJECT('/videos/mania-gladiator-parody/mania-gladiator-parody.mov', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'TOFIT');</script>
             </div>
         </div>
     </div>
