@@ -44,8 +44,6 @@ $menu->special ="Special";
     <ul id="nav_tertiary">
         <h3 class="dp">Talent List</h3> 
         <li><a href="steve_cohen.php">Steve Cohen</a></li>
-        <li><a href="michael-mccarthy.php">Michael McCarthy</a></li>
-        <li><a href="john-oliver.php">John Oliver</a></li>
         <li><a href="christopher_bierlein.php">Christopher Bierlein</a></li>
         <li><a href="axel_baumann.php">Axel Baumann</a></li>
     </ul>   

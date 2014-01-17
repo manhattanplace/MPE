@@ -37,78 +37,65 @@ $menu->special ="Special";
             </ul>   
             <ul id="nav_tertiary">
                 <h3 class="dp">About Us</h3>
-                <li><a href="#steve">Steve Cohen</a></li>
-                <li><a href="#chris">Christopher Bierlein</a></li>
-                <li><a href="#axel">Axel Baumann</a></li>
+                <li><a href="/talent/steve_cohen.php">Steve Cohen</a></li>
+                <li><a href="/talent/christopher_bierlein.php">Christopher Bierlein</a></li>
+                <li><a href="/talent/axel_baumann.php">Axel Baumann</a></li>
             </ul>   
-            <div class="article">
-                <h1 class="why">About Manhattan Place Entertainment</h1>
-                <p>Since its inception in 1987 Manhattan Place Entertainment has evolved into a production entity that has at its disposal a collection of extraordinarily talented individuals who specialize in virtually every aspect of the production and creative services industry.</p> <img class="float_right" src="_img/danica_patrick.jpg" alt="Danic Patrick"  />
-                <p>We are a direct source for creative services, technical services, and comprehensive production support, and have long been known for providing an <span class="highlight">exceptionally high quality product without the exceptionally high price tag.</span></p>  
-                
-                <p>We conceptualize, we write, we produce, we direct, we shoot, we light, we edit &hellip; we are the people who do the actual work.</p>
-                
-                <p>From advertising and marketing campaigns to episodic television series, commercials, on-air promotions, public service announcements, and branded content, and across all forms of media, Manhattan Place Entertainment has produced award winning content that has been viewed by audiences literally in the tens of millions.</p>
-                <p>Along the way we have garnered dozens of the industry's top honors including multiple <span class="highlight">Emmy Awards, Promax Awards, Telly Awards, and Cine Eagles,</span> while helping our clients win dozens and dozens more.</p>
-                
-                <p>Manhattan Place Entertainment owns an extensive inventory of state of the art camera, lighting, and sound packages for field acquisition, and has a full fledged post production editing and duplication facility.</p>
-                
-                <p>With the rapid changes in technology, we have positioned ourselves to stay one step ahead of the curve by having easy access to any equipment that we don't own. We receive preferential treatment and pricing from our industry partners which literally enables us to be equipped for any possible production scenario.</p>
-                <h3 class="why">Our successful actions</h3>
-                <ol>
-                    <li>Making ourselves fully accessible and recognizing the importance of being in total communication with our clients about what is most needed and wanted from them.</li>
-                    <li>Having a uniquely talented group of specialized professionals experienced in providing direct creative and production services of an exceptionally high quality, without exceptionally high pricing.</li>
-                    <li>Repeating steps (1) and (2) time and again for all of our clients since 1987</li>
-                </ol>
-            </div>
-            <!-- Bio -->
-            <div class="article">
-                <h1>
-                    <a href="talent/steve_cohen.php" class="anchor" name="steve">Steve Cohen</a>
-                </h1>
-                    <p class="date">Founder and Chairman</p>
-                <hr/>
-                <img class="float_left" src="_img/talent_steve_cohen.jpg" alt="Steve Cohen" width="150" />
-                
-                <p>In his professional career Steve Cohen has successfully worn almost every hat imaginable in video, television, and commercial production.</p>
-                <p>A five time Emmy Award winner, Steve has been the recipient of dozens of other industry awards including the Promax, Tellys, Cine Eagles and more.</p>
-                <a class="readmore" href="talent/steve_cohen.php">Continue Reading Steve Cohen's Bio Here &raquo;</a>
-            </div>
-            <!-- Bio -->
-            <div class="article">
-                <h1>Michael McCarthy</h1>
-                <hr/>
-                <p style="text-transform:uppercase;">Mike McCarthy Moves Over To Legacy Group.</p>
-                <p>After a 10 month tenure with Manhattan Place Entertainment, Mike McCarthy has moved over to the The Legacy Group to act as their Head of Media Consulting.</p>
-                <p>His new contact information is:</p>
-                <p><a href="tel:1-646-380-5966">1 646.380.5966</a></p> 
-                <p><a href="mailto:mmccarthy@legacy-agency.com">mmccarthy@legacy-agency.com</a></p>
-                <p>We thank Mike for his service and wish him the very best in his new endeavor.</p>
-                
-            </div>
-            <!-- Bio -->
-            <!-- Bio -->
-            <div class="article">
-                <h1>
-                    <a href="talent/christopher_bierlein.php" class="anchor" name="chris">Christopher Bierlein</a>
-                </h1>
-                    <p class="date">Director - DP</p>
-                <hr />
-                <img class="float_left" src="_img/talent_christopher_bierlein.jpg" alt="Christopher Bierlein" width="150"  /><p>Since shifting into moving images from still photography in the early '90s, Chris has worked around the world, shooting everything from commercials and music videos to documentaries and web content, shorts and art films.</p>
-                <a class="readmore" href="talent/christopher_bierlein.php">Continue Reading Christopher Bierlein's Bio Here &raquo;</a>
-            </div>
-            <!-- Bio -->
-            <div class="article">
-                <h1>
-                    <a href="talent/axel_baumann.php" class="anchor" name="axel">Axel Baumann</a>
-                </h1>
-                    <p class="date">Director - DP</p>
-                <hr/>
-                <img class="float_right" src="_img/talent_axel_baumann.jpg" alt="Axel Baumann" width="150"  />
-                <p>Axel Baumann began his career as a cinematographer in 1997 when he shot his first feature film, Creation, directed by Thomas Roth.</p>
-                <p>Since then he has shot five feature films as well as numerous documentaries for National Geographic, Discovery Channel, The History Channel, The Sundance Channel, PBS, A&E, as well as commercials for Adidas, G.E., Execjets, Sony, IBM and Allstate.</p>
-                <a href="talent/axel_baumann.php">Continue Reading Axel Baumann's Bio Here &raquo;</a>
-            </div>
+            <article class="article">
+                <h1 class="why">Who Are Those Guys”? - Butch Cassidy </h1>
+                <cite>(from Butch Cassidy and the Sundance Kid)</cite>
+                <p>Manhattan Place Entertainment (MPE) is a highly respected film/video production company that provides an extraordinary<sup>1</sup>  level of quality, expertise and experience, in every facet of content creation, <i>without providing</i> the extraordinary price tags to our clients</p>
+                <p>In that regard, we believe we are unique.</p>
+                <p>Since 1987, we have handled just about every single thing one can imagine in the realm of video/film production including: creating and producing episodic TV series, commercials, on-air promos, public service announcements, advertising and marketing campaigns, branded content, reality tv, web series, pilots, feature profiles, show teases, show opens, concerts, multi-camera productions, live events, and major corporate initiatives, delivered across all forms of media and in every conceivable platform.</p>
+                <p>We have been bestowed with the industry’s most prestigious awards including: multiple Emmy Awards, Promax Awards, Telly Awards and Cine Eagle Awards.</p>
+                <p>Simply put: Manhattan Place Entertainment has produced award winning content that has been viewed by audiences literally numbering in the <i>tens of millions</i>. (and yes, we’ll still do a sizzle reel for you or provide that ENG crew that you need in a pinch!)</p>
+                <cite class="cite"><sup>1</sup> extraordinary: extremely good or impressive, going beyond what is usual, regular, or customary</cite>
+            </article>
+            <article>
+                <h2>MPE IS A <b>COLLECTIVE</b></h2>
+                <p>A combination of above the line and below the line personnel who are at the very top of their fields in virtually every specialized area of production.</p>
+            </article>
+            
+            <article>
+                <h2>The Company We Keep</h2>
+                <p>We have worked with virtually every major television and cable network in the US, as well as many of the worlds biggest advertising and marketing agencies, public relations firms and events companies.</p>
+                <p>Along the way have produced content involving the most well known people in the world including the biggest stars from film, television, entertainment, sports, music, fashion, and politics. </p>
+                <p>On the corporate side we have created content with the most influential leaders of business and top executives for some of the largest corporations in the world including: General Electric, Walt Disney,  T-Mobile, CitiGroup,  Ford Motor Company, General Motors, Viacom, Cablevision, and News Corp, to name a few.</p>
+                <p>We’ve specialized in creating campaigns in the field of Healthcare, and have done extensive work for Montefiore Hospital, Mount Sinai Hospital,  and St. Vincent’s Hospital.</p>
+                <p>While we are extremely proud to have successfully delivered on these types of initiatives, some with budgets of up to 2 million dollars,  we <b>have not</b> and <b>never will</b> abandon the basic principles <i>or the basic services</i> that helped to establish us as a successful company.</p>
+                <p>From providing crews and/or equipment for field shoots and studio based productions, to any conceivable field or post production need, we are still very much in the game of helping our clients handle whatever they need, whenever they need it, regardless of the scope of work or budget.</p>
+            </article>
+            <article>
+                <h2>Comprehensive Production Capabilities</h2>
+                <p>When more is wanted from us, we are always ready, willing and <i>extremely able</i>!
+Our pre-production capabilities include: Conceptualization and ideation, storyline development, scriptwriting, casting, studio and location management, art direction, production design, wardrobe, props, and set construction, and complete production coordination. 
+</p>
+                <p>In terms of Field and Studio capabilities, MPE has a proven track record of providing an extraordinary level of production quality, while consistently delivering the most highly effective, extremely efficient, and hugely successful outcomes. </p>
+                <p>It all starts with a roster comprised of some of the most experienced and talented technical teams you will find anywhere (including Oscar nominees and Emmy Award winners) in conjunction with the latest state of the art equipment packages for camera, lighting and sound departments.</p>
+                <p>Above the line our producers, directors, assistant directors, writers and other production support team members are the finest around in terms of creativity and know-how.</p>
+                <p>As previously stated: we are a a collective.  A unique combination of above the line and below the line personnel who are at the very top of their fields in virtually every specialized area of production, and content creation.</p>
+                <p>While we have the capacity and capability to deliver any type of projects or productions from concept through to completion, we are often called upon <i>and gladly agree</i> to provide any of our services on an a`la carte basis.</p>
+                <p>We welcome and enjoy all forms of collaboration and have the unique ability to seamlessly blend-in our capabilities,  wherever and however they are wanted or needed.</p>
+            </article>
+            <article>
+                <h2>If  You Want To Get Technical About It!</h2>
+                <p>Manhattan Place Entertainment owns an extensive inventory of state of the art camera, lighting, and sound packages for field acquisition, and has full fledged post production capabilities. </p>
+                <p>We are proficient with all of the latest digital cameras including the ARRI Alexa, RED Epic (soon to be Dragon), SONY F55/F5, Canon C500/300, and all 2/3rd’s HD format cameras such as the Panasonic Varicam and Sony F-700/800 XDCam cameras, and their related post production work-flows.</p>
+                <p>We offer Final-Cut Pro and Avid editing in-house, as well as Adobe After Effects, Davinci Resolve, and Pro-Tools work stations.</p>
+                <p>OK. Yes!  We own state of the art camera, lighting, sound, and post-production facilities ... but these days a lot of people can make that claim.</p>
+                <p>We believe it’s much more about the people behind the facilities. They are the ones who truly make the difference.</p>
+                <p>In our early days we used to joke:  It’s not the camera, man!  It’s the cameraman!  We used to laugh about that, but that statement was true then, and it is still true today. And it applies to all facets of content creation.</p>
+            </article>
+            <article>
+                <h2>Union and Guild Affiliations</h2>
+                <p>MPE is proud to be affiliated with the Directors Guild of America, The IATSE, and the IBEW.</p>
+                <p>In this regard MPE  is uniquely positioned as a signatory production company for IATSE, IBEW and the Directors Guild of America.   </p>
+                <p>Our current agreements also provide us with the flexibility of producing content that is non-union affiliated as well. </p>
+            </article>
+            <article>
+                <h1 class="why">“Hey Butch, They’re Very Good!!” - The Sundance Kid</h1>
+                <cite>(from Butch Cassidy and the Sundance Kid)</cite>
+            </article>
         </div>  
     </div><!-- end container -->
 </div><!--end panel-->
