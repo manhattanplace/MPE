@@ -118,7 +118,6 @@ header #video {
 }
 
 .article, article {
-    /* font-family:Verdana,sans-serif; */
     float:right;
     width:625px;
     margin:0 40px 50px 0;

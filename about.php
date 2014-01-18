@@ -20,6 +20,7 @@ $menu->special ="Special";
 <script src="js/modernizr.2.0.6.js"></script>
 <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,600,700,800,300' rel='stylesheet' type='text/css'>
 <link href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Prata' rel='stylesheet' type='text/css'>
 </head>
 <body>
     <?php include '_header.php'; ?>
@@ -29,7 +30,7 @@ $menu->special ="Special";
         </div>
         <h3 class="library">ABOUT US</h3>
     <div class="container">
-        <div class="wrapper talent">
+        <div class="wrapper about">
             <ul class="bread_crumb">
                 <li><a href="index.php">home</a> </li>
                 <li>&raquo;</li>
@@ -42,7 +43,7 @@ $menu->special ="Special";
                 <li><a href="/talent/axel_baumann.php">Axel Baumann</a></li>
             </ul>   
             <article class="article">
-                <h1 class="why">Who Are Those Guys”? - Butch Cassidy </h1>
+                <h1>"Who Are Those Guys”? - Butch Cassidy </h1>
                 <cite>(from Butch Cassidy and the Sundance Kid)</cite>
                 <p>Manhattan Place Entertainment (MPE) is a highly respected film/video production company that provides an extraordinary<sup>1</sup> level of quality, expertise and experience, in every facet of content creation, <i>without providing</i>&nbsp; the extraordinary price tags to our clients.</p>
                 <p>In that regard, we believe we are unique.</p>
