@@ -118,7 +118,6 @@ $menu->special ="Special";
                                 <dd>Steve Cohen &amp; Chris Long </dd>
                             <dt class="description">Producers:</dt>
                                 <dd>BJ Acaley, Michael Strom, </dd>
-                                <dd class="single-line">&amp; John Oliver</dd>
                             <dt class="description">Production Services:</dt>
                                 <dd>Manhattan Place Entertainment</dd>
                                 <dd>&amp; Redline Films</dd>
@@ -245,8 +244,6 @@ $menu->special ="Special";
                                 <dd>Rough Riders</dd>
                             <dt class="description">Client:</dt>
                                 <dd>FUEL TV</dd>
-                            <dt class="description">PRODUCER:</dt>
-                                <dd>John Oliver</dd>
                             <dt class="description">DIRECTOR/DP:</dt>
                                 <dd>Steve Cohen</dd>
                             <dt class="description">Second Unit DP:</dt>
@@ -317,7 +314,6 @@ $menu->special ="Special";
                                 <dd>Steve Cohen &amp; Chris Long</dd>
                             <dt class="description">Producers:</dt>
                                 <dd>BJ Acaley, Michael Strom, </dd>
-                                <dd class="single-line">&amp; John Oliver</dd>
                             <dt class="description">Production Services:</dt>
                                 <dd>Manhattan Place Entertainment &amp;</dd>
                                 <dd class="single-line">Redline Films</dd>
@@ -343,7 +339,6 @@ $menu->special ="Special";
                                 <dd>Steve Cohen &amp; Chris Long</dd>
                             <dt class="description">Producers:</dt>
                                 <dd>BJ Acaley, Michael Strom,</dd>
-                                <dd class="single-line">&amp; John Oliver</dd>
                             <dt class="description">PRODUCTION SERVICES:</dt>
                                 <dd>Manhattan Place Entertainment &amp;</dd>
                                 <dd class="single-line">Redline Films</dd>
