@@ -24,13 +24,11 @@ $menu->special ="Special";
 </head>
 <body>
     <?php include '_header.php'; ?>
-    <div class="panel">
+<div class="panel">
         <div id="logo">
             <a href="index.php"><h1>Manhattan Place Entertainment - Video and Film Production Services</h1></a>
         </div>
         <h3 class="library">ABOUT US</h3>
-    <div class="container">
-        <div class="wrapper about">
             <ul class="bread_crumb">
                 <li><a href="index.php">home</a> </li>
                 <li>&raquo;</li>
@@ -42,9 +40,10 @@ $menu->special ="Special";
                 <li><a href="/talent/christopher_bierlein.php">Christopher Bierlein</a></li>
                 <li><a href="/talent/axel_baumann.php">Axel Baumann</a></li>
             </ul>   
-            <article class="article">
+    <div class="container about">
+            <article>
                 <h1>"Who Are Those Guys”? - Butch Cassidy </h1>
-                <cite>(from Butch Cassidy and the Sundance Kid)</cite>
+                <cite>(from "Butch Cassidy and the Sundance Kid")</cite>
                 <p>Manhattan Place Entertainment (MPE) is a highly respected film/video production company that provides an extraordinary<sup>1</sup> level of quality, expertise and experience, in every facet of content creation, <i>without providing</i>&nbsp; the extraordinary price tags to our clients.</p>
                 <p>In that regard, we believe we are unique.</p>
                 
@@ -57,7 +56,7 @@ $menu->special ="Special";
                 <cite class="cite"><sup>1</sup> extraordinary: extremely good or impressive, going beyond what is usual, regular, or customary</cite>
             </article>
             <article>
-                <h2>MPE IS A <b>COLLECTIVE</b></h2>
+                <h2>MPE IS A <i>COLLECTIVE</i></h2>
                 <p>A combination of above the line and below the line personnel possessing <i>unparalleled</i> experience and talent</p>
                 <p>In short, a collective of people who are at the very top of their fields in virtually every specialized area of production execution and content creation.</p>
             </article>
@@ -66,9 +65,9 @@ $menu->special ="Special";
                 <h2>The Company We Keep</h2>
                 <p>We have worked with virtually every major television and cable network in the U.S. including; CBS, NBC, FOX, ABC, HBO, Showtime, Nickelodeon, VH1, ESPN, and MSG Network.</p>
                 <p>We have produced content for many of the worlds biggest advertising agency’s and public relations firms including:  Saatchi and Saatchi, Havas, Edelman, Burson Marstellar, and the Jack Morton Company.</p>
-                <p>Along the way have produced content involving the most well known people in the world including the biggest stars from film, television, entertainment, sports, music, fashion, and politics.</p>
+                <p>Along the way we have produced content involving the most well known people in the world including the biggest stars from film, television, entertainment, sports, music, fashion, and politics.</p>
                 <p>We have delivered projects for Paramount Pictures, SONY Pictures, Nickelodeon Movies,  and Dreamworks.</p>
-                <p>On the corporate side we have created content with the most influential leaders of business and top executives for some of the largest corporations in the world including: General Electric, Walt Disney,  T-Mobile, CitiGroup,  Ford Motor Company, General Motors, Viacom, Cablevision, and News Corp, to name a few.</p>
+                <p>On the corporate side we have collaborated with the most influential leaders of business and top executives for some of the largest corporations in the world including: General Electric, Walt Disney,  T-Mobile, CitiGroup,  Ford Motor Company, General Motors, Viacom, Cablevision, and News Corp, to name a few.</p>
                 <p>We’ve specialized in creating campaigns in the field of Healthcare, and have done extensive work for Montefiore Hospital, Mount Sinai Hospital,  and St. Vincent’s Hospital.</p>
             </article>
             <article>
@@ -81,8 +80,7 @@ $menu->special ="Special";
             </article>
             <article>
                 <h2>Comprehensive Production Capabilities</h2>
-                <p>When more is wanted from us, we are always ready, willing and extremely able!
-Our pre-production capabilities include: Conceptualization and ideation, storyline development, scriptwriting, casting, studio and location management, art direction,  production design, wardrobe, props, and set construction, and complete production coordination.</p>
+                <p>When more is wanted from us, we are always ready, willing and <i>extremely able</i>&nbsp;! Our pre-production capabilities include: Conceptualization and ideation, storyline development, scriptwriting, casting, studio and location management, art direction,  production design, wardrobe, props, and set construction, and complete production coordination.</p>
 
                 <p>In terms of Field and Studio capabilities, MPE has always provided production quality that is world class.  Our knowledge and experience in this area is unparalleled, and our body of work speaks for itself.</p>
                 
@@ -90,7 +88,7 @@ Our pre-production capabilities include: Conceptualization and ideation, storyli
                 
                 <p>Above the line creative directors, producers, directors, assistant directors, writers and other production support team members are the finest there is,  in terms of creativity and know-how.</p>
                                 
-                <p>As previously stated: we are a a collective.  A unique combination of above the line and below the line personnel who are at the very top of their fields in virtually every specialized area of production execution, and content creation.</p>
+                <p>As previously stated: we are a collective.  A unique combination of above the line and below the line personnel who are at the very top of their fields in virtually every specialized area of production execution, and content creation.</p>
                 
                 <p>While we have the capacity and capability to deliver any type of projects or productions from concept through to completion, we are often called upon <i>and gladly agree</i> to provide any of our services on an a`la carte basis</p>
                 
@@ -99,7 +97,6 @@ Our pre-production capabilities include: Conceptualization and ideation, storyli
             <article>
                 <h2>If You Want To Get Technical About It!</h2>
                 <p>Manhattan Place Entertainment owns an extensive inventory of state of the art camera, lighting, and sound packages for field acquisition, and has full fledged post production capabilities.</p>
-                <p>In this regard MPE  is uniquely positioned as a signatory production company for IATSE, IBEW and the Directors Guild of America.   </p>
                 <p>We are proficient with all of the latest digital cameras including the ARRI Alexa, RED Epic (soon to be Dragon), SONY F55/F5, Canon C500/300, and all 2/3rd’s HD format cameras such as the Panasonic Varicam and Sony F-700/800 XDCam cameras, and their related post production work-flows.</p>
                 <p>We offer Final-Cut Pro and Avid editing in-house, as well as Adobe After Effects, Davinci Resolve, and Pro-Tools work stations.</p>
                 <p>OK. Yes!  We own state of the art camera, lighting, sound, and post-production facilities... but these days a lot of people can make that claim.</p>
@@ -114,9 +111,8 @@ Our pre-production capabilities include: Conceptualization and ideation, storyli
             </article>
             <article>
                 <h1 class="why">“Hey Butch, They’re Very Good!!” - The Sundance Kid</h1>
-                <cite>(from Butch Cassidy and the Sundance Kid)</cite>
+                <cite>(from "Butch Cassidy and the Sundance Kid")</cite>
             </article>
-        </div>  
     </div><!-- end container -->
 </div><!--end panel-->
 <footer>

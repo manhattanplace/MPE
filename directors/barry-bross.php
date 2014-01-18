@@ -36,7 +36,7 @@ $menu->special ="Special";
     		</div>
             <div class="panel-default" data-toggle="collapse">
                 <div class="panel-heading">
-                    <h3 class="panel-title" style="margin-left:5px;">Barry - Director/DP</h3>
+                    <h3 class="panel-title" style="margin-left:5px;">Barry Bross - Director/DP</h3>
                 </div>
                 <div id="collapseOne" class="panel-collapse in" style="height: auto;" data-target="collapse" style="display:none;">
                 <div class="panel-body">

@@ -117,7 +117,7 @@ header #video {
     margin:0 0 50px 40px;
 }
 
-.article, article {
+.article {
     float:right;
     width:625px;
     margin:0 40px 50px 0;
@@ -127,21 +127,12 @@ header #video {
     margin:0;
 }
 
-article h2 {
-    margin:0;
-    font-weight: 100;
-}
-
-.article a, article a {
+.article a {
     color:#fff;
     font-style:italic;
     text-decoration:none;
     border-bottom:1px solid #fff;
     margin:10px 0;
-}
-article sup {
-    font-size: smaller;
-    vertical-align: super;
 }
 h1 .anchor {
     color:#576db2;
@@ -213,23 +204,25 @@ hr {
     margin:4px 0 20px;
 }
 
-.about {
-    font-family:Verdana,sans-serif;
-    width:880px;
-    margin-left:50px;
+.container.about {
+    width:670px;
     line-height:1.3em;
 }
 
-.about h1 {
-    color:#fff;
-    font-weight:700;
-    border:none;
-    margin:0 0 10px;
+.about h1, .about h2 {
+    color: #576DB2;
 }
-
+.about article sup {
+    font-size: 7px;
+    vertical-align: super;
+}
+.about article {
+    margin-bottom: 50px;
+}
 .about p {
-    font-weight:100;
-    margin-bottom:.75em;
+    font: 100 14px/1.4 'Prata',serif;
+    letter-spacing: 0.05em;
+    line-height: 1.4;
 }
 
 .about blockquote {
