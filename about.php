@@ -57,7 +57,7 @@ $menu->special ="Special";
             </article>
             <article>
                 <h2>MPE IS A <i>COLLECTIVE</i></h2>
-                <p>A combination of above the line and below the line personnel possessing <i>unparalleled</i> experience and talent</p>
+                <p>A combination of above the line and below the line personnel possessing <i>unparalleled</i> experience and talent.</p>
                 <p>In short, a collective of people who are at the very top of their fields in virtually every specialized area of production execution and content creation.</p>
             </article>
             
@@ -65,7 +65,7 @@ $menu->special ="Special";
                 <h2>The Company We Keep</h2>
                 <p>We have worked with virtually every major television and cable network in the U.S. including; CBS, NBC, FOX, ABC, HBO, Showtime, Nickelodeon, VH1, ESPN, and MSG Network.</p>
                 <p>We have produced content for many of the worlds biggest advertising agency’s and public relations firms including:  Saatchi and Saatchi, Havas, Edelman, Burson-Marstellar, and the Jack Morton Company.</p>
-                <p>Along the way have worked one on one with the most well known people in the world including the biggest stars from film, television, entertainment, sports, music, fashion, and politics</p>
+                <p>Along the way we have worked one on one with the most well known people in the world including the biggest stars from film, television, entertainment, sports, music, fashion, and politics</p>
                 <p>We have delivered projects for Paramount Pictures, SONY Pictures, Nickelodeon Movies,  and Dreamworks.</p>
                 <p>On the corporate side we have collaborated with the most influential leaders of business and top executives for some of the largest corporations in the world including: General Electric, Walt Disney,  T-Mobile, CitiGroup,  Ford Motor Company, General Motors, Viacom, Cablevision, and News Corp, to name a few.</p>
                 <p>We’ve specialized in creating campaigns in the field of Healthcare, and have done extensive work for Montefiore Hospital NY, Mount Sinai Hospital NY, and St. Vincent’s Hospital Bridgeport Ct.</p>
@@ -82,13 +82,13 @@ $menu->special ="Special";
                 <h2>Comprehensive Production Capabilities</h2>
                 <p>When more is wanted from us, we are always ready, willing and <i>extremely able</i>&nbsp;! Our pre-production capabilities include: Conceptualization and ideation, storyline development, scriptwriting, casting, studio and location management, art direction,  production design, wardrobe, props, and set construction, and complete production coordination.</p>
 
-                <p>In terms of <b>field</b> and <b>studio capabilities</b>, MPE has always provided production quality that is world class.  Our knowledge and experience in this area is unparalleled, and our body of work speaks for itself.</p>
+                <p>In terms of <b>field</b> and <b>studio capabilities</b>, MPE has always provided production quality that is <b>world class</b>.  Our knowledge and experience in this area is unparalleled, and our body of work speaks for itself.</p>
                 
                 <p>It all starts with a roster comprised of some of the most experienced and talented technical teams you will find anywhere (including Oscar nominees and Emmy Award winners) in conjunction with the latest state of the art equipment packages for camera, lighting and sound departments.</p>
                 
                 <p>Above the line, creative directors, producers, directors, assistant directors, writers and other production support team members are the finest there is,  in terms of creativity and know-how.</p>
                                 
-                <p>As previously stated: we are a collective.  A unique combination of above the line and below the line personnel who are at the very top of their fields in virtually every specialized area of production execution, and content creation.</p>
+                <p>As previously stated: we are a collective.  A unique combination of above the line and below the line personnel who are at the very top of their fields in virtually <b>every</b> specialized area of production execution, and content creation.</p>
                 
                 <p>While we have the capacity and capability to deliver any type of projects or productions from concept through to completion, we are often called upon <i>and gladly agree</i> to provide any of our services on an a`la carte basis</p>
                 
@@ -101,7 +101,7 @@ $menu->special ="Special";
                 <p>We offer Final-Cut Pro and Avid editing in-house, as well as Adobe After Effects, Davinci Resolve, and Pro-Tools work stations.</p>
                 <p>OK. Yes!  We own state of the art camera, lighting, sound, and post-production facilities... but these days a lot of people can make that claim.</p>
                 <p>We believe it’s much more about the people behind the facilities. They are the ones who truly make the difference.</p>
-                <p>In our early days we used to joke:  It’s not the camera, man!  It’s the cameraman!  We used to laugh about that, but that statement was relevant then, and is just as relevant  today.  And it applies to all facets of content creation.</p>
+                <p>In our early days we used to joke:  It’s not the camera, man!  It’s the cameraman!  We used to laugh about that, but that statement was relevant then, and is just as relevant  today.  And it applies to <b>all</b> facets of content creation.</p>
             </article>
             <article>
                 <h2>Union and Guild Affiliations</h2>
