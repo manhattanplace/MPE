@@ -179,7 +179,7 @@ $menu->special ="Special";
                     <a href="commercial/kickass2/video.php"></a> 
                     <dl>
                         <dt class="description">Title:</dt>
-                            <dd style="text-transform:none;">"Kick Ass Promo"- truTV</dd>
+                            <dd style="text-transform:none;">"Kick Ass 2 Promo</dd>
                         <dt class="description">Client:</dt>
                             <dd>ElevenO2</dd>
                         <dt class="description">DIRECTOR:</dt>

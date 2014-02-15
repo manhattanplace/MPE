@@ -45,6 +45,23 @@ $menu->special ="Special";
                     <div class="thumbnails">
                       <ul>
             <!-- case study  -->
+                        <li>
+                            <div>
+                                <a class="gallery_overlay" href="images/opens/fox-superbowl.jpg">
+                                   <img src="images/opens/fox-superbowl-thumb.jpg" alt="Give My Regards to Broadway" ></a>
+                              </div>
+                               <a href="http://vimeo.com/86432448"></a>
+                           <p>
+                                <span>Superbowl XLVIII Pre Game Show Open</span> <br />
+                                <span>FOX NFL Sunday</span> <br />
+                                <span class="description">TITLE:</span> Give My Regards to Broadway<br/>
+                                <span class="description">CLIENT:</span> FOX Sports<br/>
+                                <span class="description">Producer/Director:</span> Bernie Kim<br/>
+                                <span class="description">DIRECTOR/DP:</span> Steve Cohen<br/>
+                                <span class="description">Production Services:<br/></span> Manhattan Place Entertainment<br/>
+                            </p>
+                        </li>
+            <!-- case study  -->
                          <li>
                              <div>
                                  <a class="gallery_overlay" href="images/case_study_lombardi.jpg">
