@@ -56,7 +56,7 @@ $menu->special ="Special";
                                 <span>FOX NFL Sunday</span> <br />
                                 <span class="description">TITLE:</span> Give My Regards to Broadway<br/>
                                 <span class="description">CLIENT:</span> FOX Sports<br/>
-                                <span class="description">Producer/Director:</span> Bernie Kim<br/>
+                                <span class="description">Producer:</span> Bernie Kim<br/>
                                 <span class="description">DIRECTOR/DP:</span> Steve Cohen<br/>
                                 <span class="description">Production Services:<br/></span> Manhattan Place Entertainment<br/>
                             </p>

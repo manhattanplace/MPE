@@ -57,7 +57,7 @@ $menu->special ="Special";
                                 <dd>Give My Regards to Broadway</dd> 
                             <dt class="description">CLIENT:</dt> 
                                 <dd>FOX Sports</dd>
-                            <dt class="description">Producer/Director:</dt> 
+                            <dt class="description">Producer:</dt> 
                                 <dd>Bernie Kim</dd>
                             <dt class="description">DIRECTOR/DP:</dt> 
                                 <dd>Steve Cohen </dd>
