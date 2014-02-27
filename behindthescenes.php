@@ -38,20 +38,53 @@ $menu->special ="Special";
         </ul>
         <h3 class="recent">Recent Articles</h3>
         <ul id="nav_tertiary">
+            <li><a href="#boheme">La Boheme at the Metropolitan Opera in NYC</a></li>
+            <li><a href="#Cmon">C’mon Man!</a></li>
+            <li><a href="#nyr-mc">New York Rangers - 2013/2014 Merchandise Catalog</a></li>
+            <li><a href="#nffaad">National Football Foundation Annual Awards Dinner</a></li>
+            <li><a href="#pf-sp">Playing Favorites - Series “Pilot”</a></li>
+            <li><a href="#ijkfc">Impractical Jokers &amp; KFC Sponsored Promotion</a></li>
+            <li><a href="#dsgpo">Drive Sober or Get Pulled Over - Public Service Announcement</a></li>
+            <li><a href="#cawl">CAWL TO ARMS/ESPN Special</a></li>
+            <li><a href="#tnflt">THE NFL TODAY - “Thanksgiving Day feature”</a></li>
+            <li><a href="#sons">Sons of Anarchy/Hurricane Sandy Fundraising Event</a></li>
+            <li><a href="#rao">“Rao’s A Seat At The Table”-Series- Pilot</a></li>
+            <li><a href="#tnflt-po">The NFL Today - Pregame Open</a></li>           
+            <li><a href="#macys">Macy’s Thanksgiving Day Parade</a></li>
+            <li><a href="#recruitment">WWE recruitment video</a></li>
+            <li><a href="#glory">Glory Sports International Promo</a></li>
+            <li><a href="#jokers">Impractical Jokers Marathon – Ride Along promotion</a></li>
+            <li><a href="#accpse">Atlantic Coast Conference “The ACC” - New PSA campaign</a></li>
+            <li><a href="#nykiap">New York Knicks</a></li>
+            <li><a href="#itn">INSIDE THE NFL</a></li>
+            <li><a href="#tmsc">T-Mobile - Shakira Concert</a></li>
+            <li><a href="#fnflsot">FOX NFL Sunday - Opening Tease</a></li>
+            <li><a href="#foxnfls">FOX NFL Sunday - Season Opener</a></li>
             <li><a href="#hand">Gentler Hands, Sharper Minds</a></li>
-            <li><a href="#before">Before and After</a></li>
+            <li><a href="#ttijbg">Tru TV Impractical Jokers (Bad Grandpa)</a></li>
+            <li><a href="#before">Tim McCarver All-Star Recollections</a></li>
             <li><a href="#times">Midnight Moment in Times Square</a></li>
             <li><a href="#fair">School's Out</a></li>
+            <li><a href="#rr">Rick Reilly</a></li>
+            <li><a href="#rdi">New York Rangers, New Jersey Devils, New York Islanders - Players shoot</a></li>
+            <li><a href="#nyriap">NY Rangers- In-Arena Presentations</a></li>
+            <li><a href="#sos">Stars on Sports</a></li>
+            <li><a href="#foxnflsot">FOX NFL Sunday - Opening Tease</a></li>
+            <li><a href="#vh1lhh">VH1: Love & Hip Hop - Show Open</a></li>
+            <li><a href="#usott">US Open Tennis Tournament</a></li>
+            <li><a href="#abtn">Aveeno - “Back to Nature”</a></li>
+            <li><a href="#rct">Rogers Cup Tennis</a></li>
+            <li><a href="#ka2">“Kick-Ass 2” - Promotional Spot</a></li>
+            <li><a href="#nyjppse">New York Jets- Player Portraits/Specialty elements</a></li>
+            <li><a href="#scsp">Sports Cook - Series Pilot</a></li>
+            <li><a href="#mariah">Mariah Carey- Central Park Concert</a></li>
+            <li><a href="#pac12">PAC-12 Football - On-Air Campaign</a></li>
             <li><a href="#theTest">The Test of the Champion</a></li>
-            <li><a href="#spring">Spring is in the Air</a></li>
-            <li><a href="#gus">Gus Johnson handles FOX Soccer duties</a></li>
-            <li><a href="#guru">Manhattan Place Entertainment retains PR Guru</a></li>
-            <li><a href="#web">Alliance with the World Wide Web</a></li>
+            <li><a href="#whd">White House Down - Experiential Video</a></li>
             <li><a href="#ford">Glam-Ford Escape</a></li>
             <li><a href="#glamE">Glam eBay</a></li>
             <li><a href="#Sandman">Enter Sandman</a></li>
             <li><a href="#Charity">A Real Charity for Real People</a></li>
-            <li><a href="#hockey">Psst-- Hockey is back!</a></li>
             <li><a href="#stones">WWE and MPE collaborate on Rolling Stones promotional shoot!</a></li>
             <li><a href="#dance">Dancing With WWE Superstars</a></li>       
             <li><a href="#down">Down The Stretch with the NYRA</a></li>
@@ -63,7 +96,6 @@ $menu->special ="Special";
             <li><a href="#coop">Backstage with Anderson Cooper</a></li>
             <li><a href="#nyra">NYRA Hands the Reins to Manhattan Place Entertainment</a></li>
             <li><a href="#euro">Manhattan Place Entertainment Partners up with Euro RSCG on the "DO AC" Campaign!</a></li>
-            <li><a href="#cover">"Tastefully" Done! Manhattan Place Entertainment "Covers" Tofutti</a></li>
             <li><a href="#grapple">Manhattan Place Entertainment Presents "The Grapple In The Apple"</a></li>
             <li><a href="#dunk">Slam Dunk for MPE!</a></li>
             <li><a href="#gardenparty">A Madison Square "Garden Party" with Supermodel Chrissy Teigen</a></li>
@@ -84,7 +116,6 @@ $menu->special ="Special";
             <li><a href="#bhm">MPE &amp; MSG Celebrates Black History Month</a></li>
             <li><a href="#ceelo">MPE Rings In New Year With Cee Lo</a></li>
             <li><a href="#oral">Oral B&reg; Power Moment</a></li>
-            <li><a href="#year">It's The Most Wonderful Time of the Year</a></li>
             <li><a href="#fsa">MPE Goes Full Speed Ahead</a></li>
             <li><a href="#mort">MPE Gets 'Mortified'</a></li>
             <li><a href="#vets">MPE Honors Veteran's Day</a></li>
@@ -108,6 +139,262 @@ $menu->special ="Special";
             <li><a href="#50cent">Manhattan Place Shoots "Baby By Me" with 50 Cent</a></li>
         </ul>
         
+        
+        <!-- Begin Article -->	
+        <div class="article">
+            <h1><a name="boheme" class="anchor">La Boheme at the Metropolitan Opera in NYC</a></h1>
+            <p class="date">1/10/14</p>
+            <p class="date">Client: EuroNews</p><hr/>
+            
+            <p>Zeffirelli’s timeless production of La Bohème. Scenes from the opera along with interviews with Metropolitan Opera singers Joseph Calleja and Maija Kovalevska who describe their personal connection to Puccini’s masterpiece.</p>
+            
+            <p><a target="_blank" href="http://www.euronews.com/2014/01/23/the-tragic-and-stormy-love-story-in-puccini-s-la-boheme-at-the-new-york-met/">La Boheme at the Metropolitan Opera in NYC Video Link</a></p>
+            <img class="float_left" src="images/recent-work/opera.jpg" alt="La Boheme at the Metropolitan Opera in NYC"  />
+            <a class="back-to-top" href="#top">Back to Top</a>       
+        </div>
+        <!-- end article -->
+        
+        <!-- Begin Article -->	
+        <div class="article">
+            <h1><a name="Cmon" class="anchor">C’mon Man!</a></h1>
+            <p class="date">1/26/14</p>
+            <p class="date">Client: ESPN</p><hr/>
+            <img class="float_right" src="images/recent-work/cmon.jpg" alt="C’mon Man!"  />
+            <p>NFL Countdown&#8217;s Cris Carter does a special New York City/Super Bowl edition of the fan favorite segment &#8220;C&#8217;mon Man.&#8221;
+MPE provided all field production services. Axel Baumann and Bob Hanna acted as DP’s. Shot on the Panasonic HDX&#8211;900 cameras</p>
+            <p><a target="_blank" href="http://espn.go.com/video/clip?id=10383420">C’mon Man! New York Edition Video Link</a></p>
+            <a class="back-to-top" href="#top">Back to Top</a>       
+        </div>
+        <!-- end article -->
+        
+        <!-- Begin Article -->	
+        <div class="article">
+            <h1><a name="nyr-mc" class="anchor">New York Rangers - 2013/2014 Merchandise Catalog</a></h1>
+            <p class="date">1/22/14</p><hr/>
+            <p>Each year, the New York Rangers feature all of their newest team merchandise in a catalogue that is available on-line and and in print. The catalogue features photographs of different Rangers players modelling the latest in team apparel. Jamie Cohen acted as lead photographer and director. MPE has shot various projects with the New York Rangers for both video and print since 1999.</p>
+            <a class="back-to-top" href="#top">Back to Top</a>       
+        </div>
+        <!-- end article -->
+        
+        <!-- Begin Article -->	
+        <div class="article">
+            <h1><a name="nffaad" class="anchor">National Football Foundation Annual Awards Dinner</a></h1>
+            <p class="date">12/9/143</p>
+        	<p class="date">Client: Kraft Sports</p><hr/>
+            
+            <p>Former New England Patriot all-star linebacker Teddy Bruschi and Robert Kraft, Chairman and owner of the Kraft Group and New England Patriots were honored at the National Football Foundation Annual Awards Dinner, held at the Waldorf Astoria in NYC.
+MPE provided all field production services including camera, sound, and lighting equipment and crew, as well as above the line production support.</p>
+            <a class="back-to-top" href="#top">Back to Top</a>       
+        </div>
+        <!-- end article -->       
+        
+        <!-- Begin Article -->	
+        <div class="article">
+            <h1><a name="pf-sp" class="anchor">Playing Favorites - Series “Pilot”</a></h1>
+            <p class="date">12/16/13</p>
+        	<p class="date">Client: NickMom</p><hr/>
+        	<p>MPE provided comprehensive pre-production and field production services in collaboration with Nickelodeon’s creative team. Heath Lumen Directed and co-created the series along with Bob Mittenthal.</p>
+            <p>Steve Cohen acted as director of photography. The pilot incorporated mock “studio” game-show components, real time cooking challenges in an actual restaurant kitchen, and a soccer field sized obstacle course with 3 competitors racing against one another simultaneously . This reality style multi-camera shoot demanded run and gun speed and efficiency, along with the need for creating/establishing a signature cinematic look and style for the series. Panasonic HDX&#8211;900 cameras were chosen because of their ability to employ zoom lenses, which enabled camera department to set-up and shoot extremely fast and capture events in real time, and stay ahead of the ambitious shooting schedule. Multiple wireless video village set-ups were provided, enabling the production team to have live viewing capabilities “on the fly”.</p>
+            <p>The Pilot was shot in three locations in two days and had more than 15 set-ups. In terms of work-flow, MPE incorporated on-board digital file recorders enabling acquisition that eliminated the need for any transcoding in post. MPE has collaborated on multiple pilots, branded content, and many other types of content creation for Nickelodeon since 1999.</p>
+            <p>Nick Mom is “the destination for all things funny” and TV shows just for moms.</p>
+            <a class="back-to-top" href="#top">Back to Top</a>       
+        </div>
+        <!-- end article -->
+        
+        
+        <!-- Begin Article -->	
+        <div class="article">
+            <h1><a name="ijkfc" class="anchor">Impractical Jokers &amp; KFC Sponsored Promotion</a></h1>
+            <p class="date">12/19/13</p>
+        	<p class="date">Client: Eleven 02 Creative</p><hr/>
+            
+            <p>This was a sponsored spot for KFC, featuring truTV’s very own Impractical Jokers.</p>
+            <p>KFC was promoting it’s new tag line, “How Do You KFC?”</p>
+            <p>Manhattan Place Entertainment acted as the co-production company and field production arm for these TruTV projects. Complete pre-and field production services were provided including location management, shooting crew, props, wardrobe, catering, various above the line responsibilities, and total production coordination. Barry Bross directed and Steve Cohen acted as director of photography.
+The 3 camera shoot featured The Sony F/5 35mm digital cameras. The promo material was shot in (2K) resolution and additional graphic elements were shot separately in 4K over green screen.</p>
+            <a class="back-to-top" href="#top">Back to Top</a>       
+        </div>
+        <!-- end article -->
+        
+        <!-- Begin Article -->	
+        <div class="article">
+            <h1><a name="macys" class="anchor">Macy’s Thanksgiving Day Parade</a></h1>
+            <p class="date">11/28/13</p>
+        	<p class="date">Client: Element Productions</p><hr/>
+            <p>Documentary coverage of the University of Massachusetts Minutemen Marching Band performing in the Macy’s Thanksgiving Day parade in NYC.</p>
+            <a class="back-to-top" href="#top">Back to Top</a>       
+        </div>
+        <!-- end article -->
+        
+        <!-- Begin Article -->	
+        <div class="article">
+            <h1><a name="recruitment" class="anchor">WWE recruitment video</a></h1>
+            <p class="date">11/22/13</p>
+        	<p class="date">Client: World Wrestling Entertainment</p><hr/>
+            <p>Shot on location at the WWE facilities in Stamford Connecticut. Through employee testimonials, the video reveals the positive aspects and personal experiences of those who have worked for the WWE. Shot on the Sony F5 camera.</p>
+            <a class="back-to-top" href="#top">Back to Top</a>       
+        </div>
+        <!-- end article -->
+        
+        <!-- Begin Article -->	
+        <div class="article">
+            <h1><a name="glory" class="anchor">Glory Sports International Promo</a></h1>
+            <p class="date">11/20/13</p>
+        	<p class="date">Client: The Creative Group</p><hr/>
+            <p>Glory Sports, the premier international kickboxing league, used this :30 second spot to promote the upcoming Glory 12 &amp; 13 events held in New York and Tokyo, respectively, as a means to enhance the Glory brand, and to further increase awareness of their product by featuring “The Glory Girls”.</p>
+            <p>The Glory Girls are models contracted by Glory as Ring Card girls who are good will ambassadors for the Glory brand. Glory Girl Elle Evans is known for her prominent appearance in Robin Thickes “Blurred Lines” video. Heavy weights Rico Verhoeven and Errol Zimmerman are the featured competitors.</p>
+            <p>The spot was executive produced by Doug Lebow, directed by Barry Bross and Steve Cohen was the director of photography. Manhattan Place Entertainment handled all field and studio production services including: Camera and lighting department, production design, set construction, props, wardrobe, hair and make-up, locations, transportation and catering.</p>
+            <a class="back-to-top" href="#top">Back to Top</a>       
+        </div>
+        <!-- end article -->
+        
+        <!-- Begin Article -->	
+        <div class="article">
+            <h1><a name="jokers" class="anchor">Impractical Jokers Marathon – Ride Along promotion</a></h1>
+            <p class="date">11/20/13</p>
+        	<p class="date">Client: Eleven 02 Creative</p><hr/>
+            <p>The spot was used to promote the Impractical Jokers upcoming “marathon” on truTV, where they would premiere an exclusive sneak peek of Universal Picture’s new movie, Ride Along, starring Ice Cube and Kevin Hart. Joe Chipura Directed. Axel Baumann was the Director of Photography. Through Eleven 02, Manhattan Place Entertainment coordinated the entire production and provided all field production services including camera, lighting, and sound equipment and manpower, as well as handling locations, props, wardrobe and catering. Multiple Sony F5 cameras and Fujinon cinema zoom lenses were chosen to shoot the spots, utilizing the 120fps feature for selective slow motion.</p>
+            <a class="back-to-top" href="#top">Back to Top</a>       
+        </div>
+        <!-- end article -->
+        
+        <!-- Begin Article -->	
+        <div class="article">
+            <h1><a name="dsgpo" class="anchor">Drive Sober or Get Pulled Over - Public Service Announcement</a></h1>
+            <p class="date">11/18/13</p>
+        	<p class="date">Client: Eleven 02 Creative</p><hr/>
+        	<!-- <img class="float_left" src="images/recent-work/.jpg" alt="Drive Sober or Get Pulled Over - Public Service Announcement"  /> -->
+            <p>Shot on location in Wendell, North Carolina, this spot was produced for the NHTSA’s PSA campaign and featured Ron Shirley, the star of the TruTv hit series “Lizard Lick Towing and Recovery” Barry Bross directed and Steve Cohen was the director of photography.  The spot was shot on the Sony F5, utilizing Canon EF lenses.</p>
+            <a class="back-to-top" href="#top">Back to Top</a>       
+        </div>
+        <!-- end article -->
+        
+        <!-- Begin Article -->	
+        <div class="article">
+            <h1><a name="cawl" class="anchor">CAWL TO ARMS/ESPN Special</a></h1>
+            <p class="date">11/17/13</p>
+        	<p class="date">Client: Dutch Productions</p><hr/>
+            <p>College Arm Wrestling League tournament, featuring the top male and female arm wrestlers competing from Penn State, Rutgers, University of Connecticut and Syracuse at the famed Stone Pony in Asbury Park, NJ.
+Manhattan Place Entertainment handled all field production services as well as providing all of the technical facilities for this series of (3) broadcasts. The shows will air in May 2014 on ESPNU.</p>
+            <a class="back-to-top" href="#top">Back to Top</a>       
+        </div>
+        <!-- end article -->
+        
+        <!-- Begin Article -->	
+        <div class="article">
+            <h1><a name="tnflt" class="anchor">THE NFL TODAY - “Thanksgiving Day feature”</a></h1>
+            <p class="date">11/12/13</p>
+        	<p class="date">Client: CBS Sports</p><hr/>
+            <p>One year after the tragic car accident that took the life of Josh Brent, Jerry Brown discusses the consequences and what life has been like for him, after losing of his friend and Dallas Cowboy teammate a year ago.</p>
+            <a class="back-to-top" href="#top">Back to Top</a>       
+        </div>
+        <!-- end article -->
+        
+        <!-- Begin Article -->	
+        <div class="article">
+            <h1><a name="sons" class="anchor">Sons of Anarchy/Hurricane Sandy Fundraising Event</a></h1>
+            <p class="date">11/10/13</p>
+        	<p class="date">Client: In A Garage</p><hr/>
+            <p>The cast and creators of the acclaimed series Sons of Anarchy staged a special fundraising event for victims of Hurricane Sandy at the Paramount Theater in Asbury Park NJ.</p>
+            <p>The event featured appearances by cast members Katey Sagal, Kim Coates, Theo Rossi, and Kurt Sutter.</p>
+            <p>MPE provided all pre-and field production services including a combination of (6) Sony F/5 and Panasonic Varicam cameras along with all shooting crew, various above the line and below the line personal, and handled all of the video production for capturing the entire event. The event included a VIP party as well as a special premiere screening of the newest episode, followed by a live Q&amp;A session between the show creators, cast and audience members that packed the house at the Paramount. The evening was topped off by a special live musical performance by Katey Segal. Special “extra” video material was shot with the cast and creators of the show for future use in a “commemorative DVD” release. MPE has shot several FX initiatives through In-A Garage, a Los Angeles based production company who produces the special behind the scenes materials featured on FX’s DVD releases.</p>
+            <p><a target="_blank" href="http://www.tvfanatic.com/videos/kurt-sutter-talks-hurricane-sandy-relief/">See it here</a></p>
+            <a class="back-to-top" href="#top">Back to Top</a>       
+        </div>
+        <!-- end article -->
+        
+        <!-- Begin Article -->	
+        <div class="article">
+            <h1><a name="rao" class="anchor">“Rao’s A Seat At The Table”-Series- Pilot</a></h1>
+            <p class="date">11/7/13</p>
+        	<hr/>
+            <p>Featuring celebrity personality Bo Dietl, and RAOS owner Frank Pelegrino, this series promises to be an entertaining cross between Real Time with Bill Mahr and Cake boss. You never know who might show up at Bo’s table. Beyonce and Jay Z? Leo DiCaprio? Bill Gates? Bo Dietl has held court with all of them, and now through our cameras, the viewer gets invited to take a seat at the table at RAOS with Bo and guests for an engaging and thought provoking dialogue, and a mouthwateringly delicious looking experience. You can wait for your own table at RAOS (currently not accepting reservation requests until November 2014) or choose to take a seat at Bo’s table for an unforgettable experience with our panel of guests.</p>
+            <a class="back-to-top" href="#top">Back to Top</a>       
+        </div>
+        <!-- end article -->
+        
+        <!-- Begin Article -->	
+        <div class="article">
+            <h1><a name="tnflt-po" class="anchor">The NFL Today - Pregame Open</a></h1>
+            <p class="date">11/7/13</p>
+        	<p class="date">Client: CBS Sports</p><hr/>
+            <p>This comical skit was shot at the CBS Broadcast center in a rehearsal hall designed to look like a pre-game “pep-talk” area. All of the members of the NFL Today cast including Boomer Esiasion, Dan Marino, Coach Bill Cowher, Shanon Sharpe and James Brown appeared as themselves, getting some special inspirational pre-game “ tips” from “Mike &amp; Molly” (CBS sitcom) lead actor: Billy Gardell. Through Mosquito Cove productions, MPE provided production services including: Sony F5 Camera, Canon 30&#8211;300 cinema Zoom, and manpower support for camera department. Jim Grieco was the lead DP. Steve Cohen acted as second unit.</p>
+            <a class="back-to-top" href="#top">Back to Top</a>       
+        </div>
+        <!-- end article -->
+        
+        <!-- Begin Article -->	
+        <div class="article">
+            <h1><a name="accpsa" class="anchor">Atlantic Coast Conference “The ACC” - New PSA campaign</a></h1>
+            <p class="date">10/17/13</p>
+        	<p class="date">Client: SME Branding</p><hr/>
+            <p>Manhattan Place Entertainment, in collaboration with the SME, was chosen as the production company to handle execution of all video production for the (3) spot campaign. The spots focused on the tradition and pride of the ACC conference’s sports programs while pointing toward a new legacy that will be forged given that other heralded institutions have newly joined the ACC conference this year.</p>
+            <p>Steve Cohen Executive Produced, David Lengel Produced, Jonathan Wendell was chief editor and headed the visual effects and graphics team.</p>
+            <p><a href="http://www.manhattanplace.tv/commercial/acc-football/video.html">http://www.manhattanplace.tv/commercial/acc-football/video.html</a></p>
+            <p><a target="_blank" href="https://vimeo.com/78726987">View spot - password accunite</a></p>
+            <p><a target="_blank" href="https://vimeo.com/82558275">View spot</a></p>
+            <p><a target="_blank" href="https://vimeo.com/82558274">View spot</a></p>
+            <a class="back-to-top" href="#top">Back to Top</a>       
+        </div>
+        <!-- end article -->
+        
+        <!-- Begin Article -->	
+        <div class="article">
+            <h1><a name="nykiap" class="anchor">New York Knicks</a></h1>
+            <p class="date">10/7/13</p>
+        	<p class="date">Client: New York Knicks In-Arena Presentations</p><hr/>
+            <p>MPE created a host of visual elements that will be utilized in-arena in a variety of ways. Every Knicks player was shot in multiple set-ups, enabling the In-arena Presentations team to gather enough material to use throughout the entire season. Steve Cohen Directed and DP’d. Manhattan Place handled all pre-production and field production services.</p>
+            <p><a target="_blank" href="https://vimeo.com/79424574">View spot - password: mpe</a></p>
+            <p><a target="_blank" href="https://vimeo.com/79424572">View spot - password: mpe</a></p>
+            <p><a target="_blank" href="https://vimeo.com/79423295">View spot - password: mpe</a></p>
+            <a class="back-to-top" href="#top">Back to Top</a>       
+        </div>
+        <!-- end article -->
+        
+        
+        <!-- Begin Article -->	
+        <div class="article">
+            <h1><a name="itn" class="anchor">INSIDE THE NFL</a></h1>
+            <p class="date">10/7/13</p>
+        	<p class="date">Client: Showtime</p><hr/>
+            <p>A trio of Massachusetts sixth graders turned an annual science project into a solution for reducing concussions in the NFL. See their story featured on INSIDE THE NFL. Steve Cohen DP’d the Massachusetts portions of the feature.</p>
+            <p><a target="_blank" href="http://www.youtube.com/watch?v=8D3XUxmAvwc">View spot</a></p>
+            <a class="back-to-top" href="#top">Back to Top</a>       
+        </div>
+        <!-- end article -->
+        
+        <!-- Begin Article -->	
+        <div class="article">
+            <h1><a name="tmsc" class="anchor">T-Mobile - Shakira Concert</a></h1>
+            <p class="date">10/9/13</p>
+        	<p class="date">Client: T-Mobile</p><hr/>
+            <p>A series of video projects focused on T-Mobile’s international event that announced worldwide free texting and data usage for their customers. The festivities included a live outdoor concert featuring pop singing sensation Shakira in New York City’s Bryant Park. Manhattan Place Entertainment shot, produced, edited and delivered (3) sizzle reel style videos over night, highlighting major moments from the event including concert footage with Shakira, interviews with T-Mobile employees, senior executives, and CEO John J Legere. Manhattan Place set up a base camp at the Bryant Park hotel and built (3) portable edit suites on site, enabling our post production teams to work overnight and deliver on time, creating engaging content while meeting the demands of the client’s short turnaround deadline.</p>
+            <a class="back-to-top" href="#top">Back to Top</a>       
+        </div>
+        <!-- end article -->
+        
+        <!-- Begin Article -->	
+        <div class="article">
+            <h1><a name="fnflsot" class="anchor">FOX NFL Sunday - Opening Tease</a></h1>
+            <p class="date">10/1/13</p>
+        	<p class="date">Client: FOX Sports</p><hr/>
+            <p>Barry Sanders is featured in the opening tease for week two of the NFL Season. Shot on location in New York City. Chris Bierlein was the Director of Photography. The piece was shot on the Sony F5 camera utilizing Canon ef lenses.</p>
+            <a class="back-to-top" href="#top">Back to Top</a>       
+        </div>
+        <!-- end article -->
+              
+        <!-- Begin Article -->	
+        <div class="article">
+            <h1><a name="foxnfls" class="anchor">FOX NFL Sunday - Season Opener</a></h1>
+        	<p class="date">Client: FOX Sports</p><hr/>
+        	<img class="float_left" src="images/recent-work/robert-dinero.jpg" alt="Robert DeNiro" />
+            <p>Academy Award winner Robert DeNiro sets the scene for the 2013 NFL season, while setting the stage for  Super Bowl XXXLVIII  to be played in his own backyard at the end of the year.</p>
+            <p>Shot on location at the Tribeca Hotel in New York City, using the Canon C-300. Produced by Bill Richards. Directed by Steve Cohen, Director of photography Alan Jacobs.</p>
+            <p><a target="_blank" href="https://vimeo.com/75222277">View spot. PASSWORD FOX</a></p>
+            <a class="back-to-top" href="#top">Back to Top</a>       
+        </div>
+        <!-- end article -->
+
         <!-- Begin Article -->	
         <div class="article">
             <h1><a name="hand" class="anchor">Gentler Hands, Sharper Minds</a></h1>
@@ -124,9 +411,26 @@ $menu->special ="Special";
             <a class="back-to-top" href="#top">Back to Top</a>       
         </div>
         <!-- end article -->
+        
+        
         <!-- Begin Article -->	
         <div class="article">
-            <h1><a name="before" class="anchor">Before and After</a></h1>
+            <h1><a name="ttijbg" class="anchor">Tru TV Impractical Jokers (Bad Grandpa)</a></h1>
+        	<p class="date">Client: Eleven 0 (Barry Bross)</p><hr/>
+            <img class="float_right" src="images/recent-work/badpa.jpg" alt="Tru TV Impractical Jokers (Bad Grandpa)"  />
+            <p>Bad Grandpa Is Here. It's "truManhattan Place Entertainment recently collaborated with Director Barry Bross and ElevenO2 Creative, shooting integrated content for truTV for the release of the new film "Jackass Presents: Bad Grandpa".</p>
+            <p>The :30 spot features the cast from truTV's hit show "Impractical Jokers" and was shot in New York City at Madison Square Park.</p>
+            <p>The Jokers are pretty busy guys and one of the biggest challenges was finding a spot near enough to where their offices were so that they could quickly get to location, shoot the spots, and return to work so they could resume their comedy writing.   Madison Square Park was the winner, which meant shooting outside in rapidly changing daylight.</p>
+            <p>"We shot towards the end of the day, beginning in full sun, but soon after, we began losing light.  Shooting on the Canon C-300 was  great because we could keep pushing the iso which enabled us to keep the scene looking consistent regardless of the fact that it was getting pretty dark out.   People would walk by, see the guys and wonder how we were shooting when it was so dark.  Then they peeked at the video monitor and were amazed to see that the image we were capturing looked like daytime.  It was pretty cool" said Steve Cohen who was the director of photography. "So even when it was nearly dark out, you couldn't tell the difference between our exposure at 4pm and full sundown.  And we didn't have to use a single lighting fixture".</p>
+            <p>This is the 3rd collaboration between Barry Bross, ElevenO2 Creative and Manhattan Place Entertainment.  The first was earlier this year on another integrated movie promotion for truTV for  "Kick-Ass 2", http://www.manhattanplace.tv/commercial/kickass2/video.html .  The two recently  joined forces again shooting Public Services Announcements with Ron Shirley from the hit truTV series Lizard Lick Towing.  Those PSA's will air at the end of the year.</p>
+            <p><a href="http://www.manhattanplace.tv/commercial/trutv-bad-grandpa/video.html">View the Tru TV Impractical Jokers (Bad Grandpa) spot here</a></p>
+            <a class="back-to-top" href="#top">Back to Top</a>       
+        </div>
+        <!-- end article -->
+        
+        <!-- Begin Article -->	
+        <div class="article">
+            <h1><a name="before" class="anchor">Tim McCarver All-Star Recollections</a></h1>
             <hr/>
             <p>At the conclusion of the Major League Baseball All-Star Game Tuesday night, Joe Buck informed a national television audience that his Hall of Fame broadcasting partner Tim McCarver had just concluded his 15th and final All-Star Game telecast for FOX Sports.</p>
             <p>McCarver prepared a retrospective piece about his personal All-Star game recollections, drawing from memories of his childhood, his playing days,  and his years as a broadcaster... a metaphorical  "before and after" of his magnificent career.</p>
@@ -172,7 +476,175 @@ $menu->special ="Special";
             <a class="back-to-top" href="#top">Back to Top</a>       
         </div>
         <!-- end article -->
- 
+        
+        
+        <!-- Begin Article -->	
+        <div class="article">
+            <h1><a name="rr" class="anchor">Rick Reilly</a></h1>
+            <p class="date">9/24/13</p>
+        	<p class="date">Client: Mosquito Cove Productions</p><hr/>
+            
+            <p>Rick Reilly describes how Ryan Spadola, a rookie wide receiver on the Dolphins, overcame the suicide of his father, who was a former Secret Service agent. The feature aired on ESPN. Jim Grieco was lead DP. Steve Cohen was second unit.  Manhattan Place Entertainment provided additional field production services. Shot on 2 Red Epic cameras and one Canon 5D mark 3.</p>
+            <p><a href="http://www.youtube.com/watch?v=vRmPIblnjhU">View spot.</a></p>
+            <a class="back-to-top" href="#top">Back to Top</a>       
+        </div>
+        <!-- end article -->
+        
+        
+        <!-- Begin Article -->	
+        <div class="article">
+            <h1><a name="rdi" class="anchor">New York Rangers, New Jersey Devils, New York Islanders - Players shoot</a></h1>
+            <p class="date">9/10/13</p>
+        	<p class="date">Client: MSG Marketing Department</p><hr/>
+            <p>Stylized production set-ups were designed to shoot each of the players from the Rangers, Devils and Islanders, for the purpose of creating a consistent branded on-air look for all of MSG Network’s NHL telecasts. In addition, these elements were used by the marketing department for use in on-air promotional spots.</p>
+            <p>Manhattan Place provided all pre-production and field production services including production design. Of note, MPE created custom lighting fixtures with the look of “stadium lights” made out of bulbs that could run off of standard 110v house power for this project, which the client retained for use on future projects. Steve Cohen Directed, DP’d, and designed the production.  Shot at 60fps.
+</p>
+            <p><a target="_blank" href="https://vimeo.com/79424573">View spot. Password mpe</a></p>
+            <p><a target="_blank" href="https://vimeo.com/79423296">View spot. Password mpe</a></p>
+            <a class="back-to-top" href="#top">Back to Top</a>       
+        </div>
+        <!-- end article -->
+        
+        <!-- Begin Article -->	
+        <div class="article">
+            <h1><a name="nyriap" class="anchor">NY Rangers- In-Arena Presentations</a></h1>
+        	<p class="date">Client: New York Rangers</p><hr/>
+            <p>MPE shot visual elements with each New York Rangers player for the purpose of incorporating the production assets into elements that would be displayed on the electronic screens in-arena at Madison Square Garden. Chris Bierlien was the director and director of photography. MPE handled all pre-production and field production elements.</p>
+            <a class="back-to-top" href="#top">Back to Top</a>       
+        </div>
+        <!-- end article -->
+        
+        <!-- Begin Article -->	
+        <div class="article">
+            <h1><a name="sos" class="anchor">Stars on Sports</a></h1>
+        	<p class="date">Client: Playtime Media</p><hr/>
+            <p>CBS Sports’ Ian Eagle hosts the one-hour special as he sits down with a some of Hollywood’s biggest names to discuss their latest projects and sports.  Director Ron Howard fills us in on his latest movie, Rush,  Tony Danza sits down to talk about his love for boxing from the promotion set of his latest movie Don Jon.  And Denzel Washington describes how he would have covered Ray Allen in Game 6 of last year’s NBA Finals, while Mark Wahlberg recalls being in the locker room of one of the New England Patriot’s biggest game winning speeches. The two also talk about their latest movie, 2Guns.  Produced in conjunction with Turner Sports, CBS Sports’ Jason Ross serves as coordinating producer and Charlie Bloom is producer. Manhattan Place Entertainment handled post production editing.</p>
+            <p><a target="_blank" href="https://vimeo.com/74791400">View Stars on Sports here.</a></p>
+            <a class="back-to-top" href="#top">Back to Top</a>       
+        </div>
+        <!-- end article -->
+        
+        <!-- Begin Article -->	
+        <div class="article">
+            <h1><a name="foxnflsot" class="anchor">FOX NFL Sunday - Opening Tease</a></h1>
+            <p class="date">9/2013</p>
+        	<p class="date">Client: FOX Sports</p><hr/>
+            <p>Andre Braugher of The Golden Globe winning FOX Comedy Series Brooklyn Nine-Nine, appears on camera narrating the opening tease of FOX Sports week 5 NFL coverage.  Steve Cohen Directed, shot, and production designed the shoot. Manhattan Place Entertainment provided comprehensive productions services.  Shot on the Sony F5 with Canon ef lenses.</p>
+            <a class="back-to-top" href="#top">Back to Top</a>       
+        </div>
+        <!-- end article -->
+        
+        <!-- Begin Article -->	
+        <div class="article">
+            <h1><a name="vh1lhh" class="anchor">VH1: Love & Hip Hop - Show Open</a></h1>
+            <p class="date">9/5/13</p>
+        	<p class="date">Client: VH1</p><hr/>
+            <p>Shot portraits of the newest cast members for the purpose of compositing and integrating the newly shot elements into the existing show open.  In acquiring these new elements, the main challenge was to exactly match the shot composition and lighting style used in the original show open   Snejina Latev directed and Steve Cohen was the director of photography. Shot on the Red Epic at 4K.</p>
+            <a class="back-to-top" href="#top">Back to Top</a>       
+        </div>
+        <!-- end article -->
+        
+        
+        <!-- Begin Article -->	
+        <div class="article">
+            <h1><a name="usott" class="anchor">US Open Tennis Tournament</a></h1>
+            <p class="date">8/26/13</p>
+        	<p class="date">Client: The Tennis Channel</p><hr/>
+            <p>Manhattan Place Entertainment provided field production services for this Grand Slam event. Visual elements were used on a daily basis to create teases, opens, scene sets, and branded elements for Tennis Channels 2 plus weeks worth of on-air coverage.</p>
+            <p><a target="_blank" href="https://vimeo.com/84230627">View the US Open Tennis Tournament spot.</a></p>
+            <p><a target="_blank" href="https://vimeo.com/84228845">View the US Open Tennis Tournament spot.</a></p>
+            <p><a target="_blank" href="https://vimeo.com/84226185">View the US Open Tennis Tournament spot.</a></p>
+            <p><a target="_blank" href="https://vimeo.com/84225088">View the US Open Tennis Tournament spot.</a></p>
+            <p><a target="_blank" href="https://vimeo.com/84223784">View the US Open Tennis Tournament spot.</a></p>
+            <a class="back-to-top" href="#top">Back to Top</a>       
+        </div>
+        <!-- end article -->
+        
+        
+        <!-- Begin Article -->	
+        <div class="article">
+            <h1><a name="abtn" class="anchor">Aveeno - “Back to Nature”</a></h1>
+            <p class="date">8/26/13</p>
+        	<p class="date">Client: Creative Group</p><hr/>
+            <p>Jennifer Aniston narrates this corporate web initiative which takes a close look at how Johnson and Johnson’s Aveeno brand gets back to nature by using oates in their active naturals line of skin and hair care products. The presentation illustrates the entire process of growing and harvesting the finest oates in the world through to delivering the finest skin and hair care products to the shelf for consumption. Shot entirely on location in Winnipeg Canada. Doug Lebow directed. Dean Crago produced and Steve Cohen was the director of photography. Shot on the Canon C-300 with Fujinon 19-90 Cabrio and Canon 30-300 cinema zoom lenses.</p>
+            <a class="back-to-top" href="#top">Back to Top</a>       
+        </div>
+        <!-- end article -->
+        
+        <!-- Begin Article -->	
+        <div class="article">
+            <h1><a name="rct" class="anchor">Rogers Cup Tennis</a></h1>
+            <p class="date">8/18/13</p>
+        	<p class="date">Client: The Tennis Channel</p><hr/>
+            <p>Shot on location in Toronto Canada. Shot elements for features, teases, and on-air promotional spots. The Tennis Channel went behind the scenes to document what it takes to stage a major WTA Tennis event.</p>
+            <a class="back-to-top" href="#top">Back to Top</a>       
+        </div>
+        <!-- end article -->
+        
+        
+        <!-- Begin Article -->	
+        <div class="article">
+            <h1><a name="ka2" class="anchor">“Kick-Ass 2” - Promotional Spot</a></h1>
+            <p class="date">7/27/13</p>
+        	<p class="date">Client: Eleven 02 Creative</p><hr/>
+            <img class="float_right" src="images/recent-work/kickass.jpg" alt="Kick-Ass 2” - Promotional Spot"  />
+            <p>Produced for TruTv in partnership with Universal Studios, featuring
+actors Chloe Moretz & Christopher Mintz-Plasse. The 2 leading characters appear in this spot in connection with the upcoming release of the feature film Kick-Ass 2. Directed by Barry Bross. Director of Photography Steve Cohen. Shot on the Canon C-300. In collaboration with eleven 02 creative, MPE provided all pre-production and studio production services related to this shoot.</p>
+            <p><a href="http://www.manhattanplace.tv/commercial/kickass2/video.html">View the “Kick-Ass 2” - Promotional Spot here.</a></p>
+            <a class="back-to-top" href="#top">Back to Top</a>       
+        </div>
+        <!-- end article -->
+        
+        
+        <!-- Begin Article -->	
+        <div class="article">
+            <h1><a name="nyjppse" class="anchor">New York Jets- Player Portraits/Specialty elements</a></h1>
+            <p class="date">7/9/13</p>
+        	<p class="date">Client: Rooftop Productions</p><hr/>
+            <img class="float_right" src="images/recent-work/jets.jpg" alt="New York Jets- Player Portraits/Specialty elements"  />
+            <p>MPE designed a special production environment and shot visual elements with each New York Jets player for the purpose of incorporating the production elements in a variety of applications to be displayed on the video screens at Met-Life Stadium during Jets home games. Steve Cohen was the director and director of photography. MPE handled all pre-production and field production elements.</p>
+            <p><a target="_blank" href="https://vimeo.com/77225">View the New York Jets- Player Portraits/Specialty elements spot here.</a></p>
+            <a class="back-to-top" href="#top">Back to Top</a>       
+        </div>
+        <!-- end article -->
+        
+        
+        <!-- Begin Article -->	
+        <div class="article">
+            <h1><a name="scsp" class="anchor">Sports Cook - Series Pilot</a></h1>
+            <p class="date">7/1/13</p>
+        	<hr/>
+            <p>Manhattan Place Entertainment created a pilot that showed the obsession that fans have for their food and sports. Hosted by celebrity chef Scott Conant (TV Food Network Chopped) and Olympic Gold Medalist and popular TV personality Summer Sanders, the two playfully describe their favorite tailgating foods to make and eat, as well as rating the best specialty foods at stadiums all over the country. Steve Cohen directed and shot. Manhattan Place provided all production services for this original content. Mike McCarthy was the show creator.</p>
+            <a class="back-to-top" href="#top">Back to Top</a>       
+        </div>
+        <!-- end article -->
+        
+        
+        <!-- Begin Article -->	
+        <div class="article">
+            <h1><a name="mariah" class="anchor">Mariah Carey- Central Park Concert</a></h1>
+            <p class="date">7/19/13</p>
+        	<p class="date">Client: The City Drive Entertainment Group</p><hr/>
+            <img class="float_right" src="images/recent-work/mariah.jpg" alt="Mariah Carey- Central Park Concert"  />
+            <p>Manhattan Place Entertainment acted as the production company handling all pre-production and field production logistics, as well as providing all equipment and manpower for this documentary coverage of multiple Grammy winner Mariah Carey’s concert in New York’s Central Park.  Oscar nominee Jeff Cronenweth (The Girl with the Dragon Tattoo. The Social Network, Fight Club) was the director of photography. Shot on 5 red epics, outfitted for steadicam, Jib, handheld and long lens positions. MPE provided all IATSE affiliated manpower, as well as handling all above the line production coordination and production management.</p>
+            <a class="back-to-top" href="#top">Back to Top</a>       
+        </div>
+        <!-- end article -->
+        
+        
+        <!-- Begin Article -->	
+        <div class="article">
+            <h1><a name="pac12" class="anchor">PAC-12 Football - On-Air Campaign</a></h1>
+            <p class="date">7/23/13</p>
+        	<p class="date">Client: Pac-12 Networks</p><hr/>
+            <p>MPE production designed 5 different environments and shot every head football coach for Pac-12 networks in each environment. The elements were used in a variety of applications including on-air promotional elements for the Pac-12 networks, as well as for in-stadium use.  Steve Cohen was the director of photography and designed the production. Manhattan Place Entertainment handled all pre-production and field production needs.  Shot on location in Hartford Connecticut.</p>
+            <p><a target="_blank" href="https://vimeo.com/80315662">View the PAC-12 Football - On-Air Campaign spot here.</a></p>
+            <p><a target="_blank" href="https://vimeo.com/80315665">View the PAC-12 Football - On-Air Campaign spot here.</a></p>
+            <p><a target="_blank" href="https://vimeo.com/80315734">View the PAC-12 Football - On-Air Campaign spot here.</a></p>
+            <a class="back-to-top" href="#top">Back to Top</a>       
+        </div>
+        <!-- end article -->
+        
         <!-- Begin Article -->  
         <article class="article">
             <h1><a name="theTest" class="anchor">The Test of the Champion</a></h1>
@@ -188,62 +660,20 @@ $menu->special ="Special";
             <a class="back-to-top" href="#top">Back to Top</a>       
         </article>
         <!-- end article -->
-        <!-- Begin Article -->  
-        <article class="article">
-            <h1><a name="spring" class="anchor">Spring is in the Air</a></h1>
-            <p class="date">3/15/13</p><hr/>
-            <img class="float_right" src="images/recent-work/spring.jpg" alt="Spring is in the Air"  />
-            <p>It is so liberating to be out from under the chills of winter and to shed the heavy coats and wraps and welcome the birth of spring!</p>
-            <p>At Manhattan Place Entertainment we are poised to help you with any of your production needs, be they web based or focused more towards traditional television.  Let us help you conceive, shoot, produce, post produce and even distribute your video concepts. All at our expected level of expertise and price efficiency.</p>
-            <p>In the spirit of spring, let's plant some seeds, fertilize and grow them together!</p>
+        
+        
+        <!-- Begin Article -->	
+        <div class="article">
+            <h1><a name="whd" class="anchor">White House Down - Experiential Video</a></h1>
+            <p class="date">5/1/13</p>
+        	<p class="date">Client: Michael Alan Group</p><hr/>
+            <img class="float_right" src="images/recent-work/whd1.jpg" alt="White House Down - Experiential Video"  />
+            <p>An experiential web video created to promote the release of Sony Pictures White House Down starring Oscar winner Jamie Foxx and Channing Tatum. The video was shot on location at LA Live. Unsuspecting pedestrians were engaged to participate in an obstacle course challenge that required them to deliver a “top secret” brief case to the Presidential Limousine aka “The Beast” (the very same vehicle seen in the movie)  positioned at the end of the course. Racing against the clock, participants were met with obstacles along their route such as a full squad of dribbling basketball players, a marching band, a mob of groupies, and stacks of road cases that were strategically off-loaded in their path.  Steve Cohen directed.  The action was shot live to tape utilizing 9  manned cameras, and 6 POV cameras.  Wireless HD video signals were fed from all 9 cameras over a 1/4 of a mile back to the control room. Manhattan Place handled all logistical planning and pre-production for the video production, all of the field production and the entire post production process. Special 3D graphic elements of Jamie Foxx and Channing Tatum were composited which were fed to multiple screens in the LA Live venue during the event. Michael Alan Group created the concept and executed all of the event related details.</p>
+            <img class="float_right" src="images/recent-work/whd2.jpg" alt="White House Down - Experiential Video"  />
             <a class="back-to-top" href="#top">Back to Top</a>       
-        </article>
-        <!-- end article -->
-        <!-- Begin Article -->  
-        <article class="article">
-            <h1><a name="gus" class="anchor">Gus Johnson handles FOX Soccer duties</a></h1>
-            <p class="date">3/07/13</p><hr/>
-            <img class="float_right" src="images/recent-work/gus-johnson.jpg" alt="Gus Johnson handles FOX Soccer duties"  />
-            <p>Last week an old friend stopped by the Manhattan Place Entertainment studio to do a green screen shoot for Fox-
-Gus Johnson!</p>
-            <p>As you may know, Gus was recently assigned to the prestigious role of play by play man for Fox.</p>
-            <p>Gus will be behind the mics for games in the  Barclays Premier League, the FA Cup and UEFA Champions League matches, including the FA Cup and UEFA Champions League Finals, May 11 and 25, respectively, on FOX.</p>
-            <p>It was a bit of a homecoming for Johnson since MPE Co-chairman Mike McCarthy helped him get his start at MSG Network as the radio voice of the Knicks, and Founder Steve Cohen had worked with Gus many times over the years as Johnson's career developed at MSG and CBS.</p>
-            <p>"Manhattan Place is a first rate operation", Johnson said. It doesn't surprise that they get the work that they do-they're top notch."</p>
-            <p>"When we hired Gus at MSG, we knew we were, at a minimum, getting a high energy package-what we couldn't know at the start was how he would go over -and how many folks would want to see and hear more of him-I couldn't be happier for him", McCarthy said.</p>
-            <p>"The job of play by play for what is clearly the highest level of soccer is a demanding role with many levels of scrutiny, on an international level", McCarthy said-"You have to have talent, work ethic, and perhaps most importantly a thick skin-and Gus has all of those."</p>
-            <p>Manhattan Place Entertainment serves all your video needs, from field production to post production and everything in between, whether you're a commercial producer or a play by play man on your way to Barcelona, give us a call!</p>
-            <a class="back-to-top" href="#top">Back to Top</a>       
-        </article>
+        </div>
         <!-- end article -->
         
-        <!-- Begin Article -->  
-        <article class="article">
-            <h1><a name="guru" class="anchor">Manhattan Place Entertainment retains PR Guru</a></h1>
-            <p class="date">2/21/13</p><hr/>
-            <img class="float_right" src="images/recent-work/guru.jpg" alt="Manhattan Place Entertainment retains PR Guru"  />
-            <p>MPE has added industry veteran Joe Favorito as a Public Relations consultant to better serve our clients from a communications standpoint, and to better tell our story to the media and to all those who will be interested in hearing all we have done, and all we plan to do.</p>
-            <p>Joe has spent his career helping manage the communications, business development and brand strategy for some of the biggest companies in sports and entertainment, from the NBA's Knicks and 76ers to the USTA and Bloomberg Sports.  He has had a hand in promoting everything from Broadway plays and hit movies to startups in Mixed Martial Arts and the Olympics, and now he is helping mold Manhattan Place's strategy as a consultant in many areas.  Ranging from content to communications and social media. "I have known and respected the work that Steve (Cohen, founder) and Mike (McCarthy, co- Chairman) have done for years and it is a pleasure to help tell their story and grow their vision," said Favorito, who now runs his own independent consulting business and is also an author and professor at Columbia University. "The work they have done in their respective areas over decades is always visionary and best in class, and it is exciting to be able to assist them in what they have coming next."</p>
-            <p>"We are really excited to have an industry leader and an 'insider's insider' like Joe on our team," Mike McCarthy added. "He has always been one of the most respected communications professionals in the business, and can help us and our clients maximize all the strong work we are doing.  It's another asset that we can offer up to our clients as our business continues to grow."</p>
-            <a class="back-to-top" href="#top">Back to Top</a>       
-        </article>
-        <!-- end article -->
-        <!-- Begin Article -->  
-        <article class="article">
-            <h1><a name="web" class="anchor">Alliance with the World Wide Web</a></h1>
-            <p class="date">2/14/13</p><hr/>
-            <img class="float_right" src="images/recent-work/www.jpg" alt="Alliance with the World Wide Web"  />
-            <p>After an exciting year at Manhattan Place Entertainment, we thought we'd stop for a second, catch our breath (in New York we can actually see our breath) and reflect on the work we've done and the clients, new and old, we've provided services for.</p>
-            <p>Of course, being in the moving video business, the best way for us to reflect on our work is to watch it - all of it - select the best examples of that work and put them together using the finest production tools available in a form that people, anywhere and anytime, can watch.</p>
-            <p>The result? A highlight or "sizzle" reel. Our chosen path of distribution? The World Wide Web.</p>
-            <p>Manhattan Place Entertainment  announces, as part of an exclusive partnership with the World Wide Web, that it will distribute to an exclusive group of long term, new and future clients that very same sizzle reel as  a virtual "attachment" to this email.</p>
-            <p>This reel will exhibit the very same work that MPE has done for clients like Ford, Samsung, Kohl's, Intel, Tiffany, Keurig, and ebay, and it showcases our wide array of skills in the moving video world across all platforms, from traditional commercials to rebranding programs to branded web content to episodic product placement to the production of live events.</p>
-            <p>But don't take our word for it - simply slide your mouse over this blue wording below and strike the button twice, using a quick thrust of your index finger and begin watching- it's that simple!</p>
-            <p>Simpler still is contacting us to help provide a production solution that fits your needs, however large or small --- let us give you the quality of production services we are known for and is shown on our "sizzle" reel, and you can prepare to be seen on next years version!</p>
-            <p>Because we at MPE feel that the World Wide Web is here to stay. http://www.manhattanplace.tv/samplereel/sizzle-2013/video.php</p>
-            <a class="back-to-top" href="#top">Back to Top</a>       
-        </article>
-        <!-- end article -->
         <!-- Begin Article -->
         <article class="article">
             <h1><a name="ford" class="anchor">Glam-Ford Escape</a></h1>
@@ -304,21 +734,6 @@ Gus Johnson!</p>
 </p>
             <a class="back-to-top" href="#top">Back to Top</a>       
         </article>
-        <!-- end article -->
-        <!-- Begin Article -->  
-        <article class="article">
-            <h1><a name="hockey" class="anchor">Psst-- Hockey is back!</a></h1>
-            <p class="date">1/10/13</p><hr/>
-            <img class="float_right" src="_img/recent-work/hockey.jpg" alt="Psst -- Hockey is back!"  />
-            <p>And now that those boring negotiations are over, MPE is hitting the ice by shooting promotional material for the New York Rangers this weekend and will be rolling out more hockey products in the coming weeks to help celebrate the dropping of the puck!</p>
-            <p>Steve Cohen will be celebrating his 19th year of collaborating with the Rangers on their media needs, going back to helping produce the Stanley Cup video "Oh Baby" in 1994, which was assigned to him by his current partner at MPE, Mike McCarthy!</p>
-            <p>McCarthy, who recently left a CEO job with the St Louis Blues to reestablish NY TV roots, feels Manhattan Place Entertainment is uniquely poised to bring NHL related content to bear.</p>
-            <p>"We've got some strong relationships and no shortage of concepts for folks in the hockey world to reconnect with their fan bases, from long form programming to promotional spots, and everything in between -- stay tuned!"</p>
-            <p>The MPE cams were also busy last week helping long time partner WWE launch a new character with an interesting shoot in the Edison Ballroom (hint hint) and will be hitting the West Coast to produce spots for Glam and Nature Maid next week.</p>
-            <p>As they say in the NHL and at MPE-- Keep your Head Up and your Feet Moving!".</p>
-            <a class="back-to-top" href="#top">Back to Top</a>       
-        </article>
-        <!-- end article -->
         <!-- end article -->
         <!-- Begin Article -->  
         <article class="article">
@@ -503,21 +918,6 @@ When asked if he "solemnly swears", he starts swearing at his opponent, only to 
             <p>The skies above the city also lit up with a fantastic fireworks display by the famed Grucci brothers, billed as the largest display in New Jersey.
 After the sights and sounds of the music and fireworks, the night was topped off by the premiere of the dazzling "Duality" 3D light show.</p>
             <p>Visitors to Atlantic City can now experience the light show every night year round at the city's historic Boardwalk Hall. It leaves crowds in amazement, as the facade of the Hall seems to shatter and fall, only to magically reappear minutes later.</p>
-            <a class="back-to-top" href="#top">Back to Top</a>       
-        </article>
-        <!-- end article -->
-        <!-- Begin Article -->  
-        <article class="article">
-            <h1><a name="cover" class="anchor">"Tastefully" Done! Manhattan Place Entertainment "Covers" Tofutti</a></h1>
-            <p class="date">July 12 2012</p><hr/>
-            <a href="#cover">
-                <img class="float_right" src="_img/recent-work/ravioli.jpg" alt=""  />
-            </a>
-            <p>Jamie Cohen, Manhattan Place Entertainment's resident still photographer, added this very "tasteful" image to her portfolio on a recent tabletop shoot for Tofutti Brands.</p>  
-            <p>Best-known for dairy-free ice cream, Tofutti has created their first dairy-free ricotta product available directly to consumers, called "Dairy Free Ravioli".</p>
-            <p>Tofutti turned to Jamie to get this project covered and they meant it... literally!</p>
-            <p>So from now on, whenever you are in the frozen foods section by the Tofutti, you'll see Jamie Cohen's photography on every cover of Tofutti's Dairy Free Ravioli packages.</p>
-            <p>As you can guess, this was one shoot where the photographer DID NOT have to instruct the subject to "say cheese" when she snapped the photo.</p>
             <a class="back-to-top" href="#top">Back to Top</a>       
         </article>
         <!-- end article -->
@@ -837,31 +1237,6 @@ After the sights and sounds of the music and fireworks, the night was topped off
             <h5>2011</h5>
         </div>
     
-        <!-- Begin Article -->  
-        <article class="article">
-            <h1><a name="year" class="anchor">It's The Most Wonderful Time of the Year</a></h1>
-            <p class="date">November 23 2011</p><hr/>
-            <a href="sizzle.php">
-                <div class="view">
-                    <img src="_img/recent-work/sunset-liberty.jpg" alt="Sunset in New York" />
-                    <p>View our reel</p>
-                </div>
-            </a>
-            <p>Manhattan Place Entertainment wanted to take this opportunity to wish all of our friends a very happy Thanksgiving.</p>
-            <p>With the holiday season upon us, itʼs also that "special time" for many of you where end of year projects need to get produced and delivered, and budgets for the next fiscal year are being planned.</p>
-            <p>That's where we come in.</p>
-            <p>If you are looking for a highly skilled company to help facilitate and deliver any type of video/film production project, across any platform, from Broadcast to Digital and the Web, you should strongly consider us.</p>
-            <p>Our successful action is in our ability to elevate any project and over deliver on expectations, while removing the daily stress and problems that our clients would normally have to be faced with.</p>
-            <p>We may sound like "that guy" on the clothing commercial, but we think "Youʼre gonna like the way [we make] you look", and thatʼs the key to an effective strategic alliance.</p>
-            <p>From creative through to delivery we always provide the highest level of production quality and expertise ... without providing the high price tags.</p>
-            <p>We look forward to collaborating with you. </p>
-            <p>Gobble Gobble...</p>
-            <img src="_img/recent-work/gobble-gobble.png" alt="gobble gobble" />     
-            <p>Happy Thanksgiving,</p> 
-            <p>From all of us at Manhattan Place Entertainment.</p>
-            <a href="#top">Back to Top</a>     
-        </article>
-        <!-- end article -->
     
         <!-- Begin Article -->  
         <article class="article">

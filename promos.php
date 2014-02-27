@@ -44,6 +44,29 @@ $menu->special ="Special";
                     <div id="thumbs-back"><img src="assets/prev_thumb.png" alt="back button"/></div>
                     <div class="thumbnails">
                 <ul>
+                <!-- case study -->
+                    <li>
+                        <div class="gallery-images">
+                            <a class="gallery_overlay" href="images/promos/glory-girls.jpg"></a>
+                            <img src="images/promos/glory-girls-thumb.jpg" alt="Glory Girls"/>
+                        </div>
+                        <a href="promos/glory-girls/video.php"></a> 
+                        <dl>
+                            <dt class="description">Title:</dt>
+                                <dd>Glory Girls</dd>
+                            <dt class="description">Executive Producer:</dt>
+                                <dd>Doug LeBow</dd>
+                            <dt class="description">Director/Creative Director:</dt>
+                                <dd>Barry Bross</dd>
+                            <dt class="description">Director of Photography:</dt>
+                                <dd>Steve Cohen</dd>
+                            <dt class="description">Field Production:</dt>
+                                <dd> Manhattan Place Entertainment</dd>
+                            <dt class="description">Post Production:</dt>
+                                <dd> Creative Group</dd>
+                        </dl>
+                    </li>
+
         <!-- case study -->
                     <li>
                         <div class="gallery-images">

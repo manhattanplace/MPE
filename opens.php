@@ -68,6 +68,26 @@ $menu->special ="Special";
         <!-- case study  -->
                     <li>
                         <div>
+                            <a class="gallery_overlay" href="images/opens/deniro.jpg">
+                               <img src="images/opens/deniro-thumb.jpg" alt="FOX NFL Sunday - Season Opener" ></a>
+                          </div>
+                           <a href="opens/fox-nfl-sunday-deniro/video.php"></a>
+                        <dl>   
+                            <dt class="description">Title:</dt> 
+                                <dd>FOX NFL Sunday - Season Opener</dd> 
+                            <dt class="description">CLIENT:</dt> 
+                                <dd>Fox Sports</dd>
+                            <dt class="description">PRODUCER:</dt> 
+                                <dd>Bill Richards</dd>
+                            <dt class="description">Director of Photography:</dt> 
+                                <dd>Steve Cohen </dd>
+                            <dt class="description">Production Services:</dt> 
+                                <dd>Manhattan Place Entertainment </dd>
+                        </dl>
+                    </li>
+        <!-- case study  -->
+                    <li>
+                        <div>
                             <a class="gallery_overlay" href="images/opens/knicks-2012-intro.jpg">
                                <img src="images/opens/knicks-2012-intro-thumb.jpg" alt="2012 NY Knicks Introduction - Video" ></a>
                           </div>
