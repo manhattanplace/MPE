@@ -102,8 +102,10 @@ $menu->special ="Special";
                             <dd>Euro RSCG</dd>
                         <dt class="description">DIRECTOR:</dt>
                             <dd>Steve Cohen</dd>
-                        <dt class="description">DP's:</dt>
-                            <dd>Steve Cohen, Bob Hanna, Kenny Chow, Andrew Tomayko, Jason Letkiewicz, &amp; Scott Frace</dd>
+                        <dt class="description">Director of Photography:</dt>
+                            <dd> Steve Cohen</dd>
+                        <dt class="description">Camera Operators:</dt>
+                            <dd>Bob Hanna, Kenny Chow, Andrew Tomayko, Jason Letkiewicz</dd>
                         <dt class="description">Production COMPANY:</dt>
                             <dd> Manhattan Place Entertainment</dd>
                     </dl>
