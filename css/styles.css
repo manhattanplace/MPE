@@ -142,7 +142,9 @@ h1 .anchor {
     margin:0;
     padding-left:0;
 }
-
+.rw-heading {
+    line-height: 1;
+}
 .wrapper .why {
     font-weight:400;
     color:#576db2;
@@ -529,6 +531,7 @@ nav li a:hover {
     padding-bottom:0;
     color:#fff;
     word-wrap:break-word;
+    line-height: 1.4;
 }
 
 #nav-client {

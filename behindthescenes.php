@@ -38,9 +38,10 @@ $menu->special ="Special";
         </ul>
         <h3 class="recent">Recent Articles</h3>
         <ul id="nav_tertiary">
+            <li><a href="#SuperBowlCoverage">FOX Sports Kicks-Off Super Bowl Coverage with Manhattan Place Entertainment</a></li>
             <li><a href="#boheme">La Boheme at the Metropolitan Opera in NYC</a></li>
             <li><a href="#Cmon">C’mon Man!</a></li>
-            <li><a href="#nyr-mc">New York Rangers - 2013/2014 Merchandise Catalog</a></li>
+            <li><a href="#nyr-mc">New York Rangers - 2013/2014 Merchandise Catalogue</a></li>
             <li><a href="#nffaad">National Football Foundation Annual Awards Dinner</a></li>
             <li><a href="#pf-sp">Playing Favorites - Series “Pilot”</a></li>
             <li><a href="#ijkfc">Impractical Jokers &amp; KFC Sponsored Promotion</a></li>
@@ -54,14 +55,14 @@ $menu->special ="Special";
             <li><a href="#recruitment">WWE recruitment video</a></li>
             <li><a href="#glory">Glory Sports International Promo</a></li>
             <li><a href="#jokers">Impractical Jokers Marathon – Ride Along promotion</a></li>
-            <li><a href="#accpse">Atlantic Coast Conference “The ACC” - New PSA campaign</a></li>
+            <li><a href="#AtlanticCoastConference">Atlantic Coast Conference “The ACC” - New PSA campaign</a></li>
             <li><a href="#nykiap">New York Knicks</a></li>
             <li><a href="#itn">INSIDE THE NFL</a></li>
             <li><a href="#tmsc">T-Mobile - Shakira Concert</a></li>
             <li><a href="#fnflsot">FOX NFL Sunday - Opening Tease</a></li>
             <li><a href="#foxnfls">FOX NFL Sunday - Season Opener</a></li>
             <li><a href="#hand">Gentler Hands, Sharper Minds</a></li>
-            <li><a href="#ttijbg">Tru TV Impractical Jokers (Bad Grandpa)</a></li>
+            <li><a href="#ttijbg">truTV Impractical Jokers (Bad Grandpa)</a></li>
             <li><a href="#before">Tim McCarver All-Star Recollections</a></li>
             <li><a href="#times">Midnight Moment in Times Square</a></li>
             <li><a href="#fair">School's Out</a></li>
@@ -140,15 +141,37 @@ $menu->special ="Special";
         </ul>
         
         
+        
         <!-- Begin Article -->	
         <div class="article">
-            <h1><a name="boheme" class="anchor">La Boheme at the Metropolitan Opera in NYC</a></h1>
+            <h1 class="rw-heading"><a name="SuperBowlCoverage" class="anchor">FOX Sports Kicks-Off Super Bowl Coverage with Manhattan Place Entertainment</a></h1>
+            <p class="date">2/2/14</p>
+        	<p class="date">Client: Fox</p><hr/>
+            <img class="float_right" src="images/recent-work/fox-superbowl-kickoff.jpg" alt="FOX Sports Kicks-Off Super Bowl Coverage with Manhattan Place Entertainment"  />
+            <p>Choosing how to come on the air for any television broadcast is a big decision. When it's a Super Bowl, the decision becomes monumental.</p>
+            <p>FOX Sports decided to create an "opening number" for this years Super Bowl that paid tribute to the great white way... Broadway. And like they've done on 7 previous Super Bowls, they turned to Manhattan Place Entertainment to make their show open, a show stopper!</p>
+            <p>"Anytime you get an opportunity to work on something that is going to air during Super Bowl Sunday, you can't help but feel the magnitude" said Steve Cohen, the Director of Photography who shot the opening piece. "but this time it felt even bigger because the stage was literally and figuratively set in New York City".</p>
+            <p>The casts of Kinky Boots, Rock of Ages, Newsies, Mamma Mia, Beautiful and Motown, performed a special Super Bowl rendition of the George M. Cohan classic "Give My Regards to Broadway" and did so from the hallowed stages they appear on every night.</p>
+            <p>"It was really fun shooting in the different theaters and working with the different casts and crew members," added Cohen,"but there were a few challenges. In some cases we literally had only 20 minutes to get in, set-up, light, shoot the performers performing, breakdown and leave, because we were shooting right up until the time the theater opened it's doors for that nights performance. You might say there was a little pressure on us "to perform"."</p>
+            <p>The piece led off The FOX NFL Sunday Super Bowl Pre-game show to an estimated viewership of more than 30 million people.</p>
+            <p>It was created, produced, and choreographed by Bernie Kim of FOX Sports, and Manhattan Place Entertainment handled all of the field production services.</p>
+            <p>Thankfully the piece got "rave" reviews ... from the most important critics of all, our client FOX Sports.</p>
+            <p><a target="_blank" href="//vimeo.com/86432448">The spot can be viewed on Vimeo </a> &nbsp;Password: Fox - external link</p>
+            
+
+
+            <a class="back-to-top" href="#top">Back to Top</a>       
+        </div>
+        <!-- end article -->
+        <!-- Begin Article -->	
+        <div class="article">
+            <h1 class="rw-heading"><a name="boheme" class="anchor">La Boheme at the Metropolitan Opera in NYC</a></h1>
             <p class="date">1/10/14</p>
             <p class="date">Client: EuroNews</p><hr/>
             
             <p>Zeffirelli’s timeless production of La Bohème. Scenes from the opera along with interviews with Metropolitan Opera singers Joseph Calleja and Maija Kovalevska who describe their personal connection to Puccini’s masterpiece.</p>
             
-            <p><a target="_blank" href="http://www.euronews.com/2014/01/23/the-tragic-and-stormy-love-story-in-puccini-s-la-boheme-at-the-new-york-met/">La Boheme at the Metropolitan Opera in NYC Video Link</a></p>
+            <p><a target="_blank" href="http://www.euronews.com/2014/01/23/the-tragic-and-stormy-love-story-in-puccini-s-la-boheme-at-the-new-york-met/">La Boheme at the Metropolitan Opera in NYC Video Link</a>&nbsp;- external link</p>
             <img class="float_left" src="images/recent-work/opera.jpg" alt="La Boheme at the Metropolitan Opera in NYC"  />
             <a class="back-to-top" href="#top">Back to Top</a>       
         </div>
@@ -156,29 +179,29 @@ $menu->special ="Special";
         
         <!-- Begin Article -->	
         <div class="article">
-            <h1><a name="Cmon" class="anchor">C’mon Man!</a></h1>
+            <h1 class="rw-heading"><a name="Cmon" class="anchor">C’mon Man!</a></h1>
             <p class="date">1/26/14</p>
             <p class="date">Client: ESPN</p><hr/>
             <img class="float_right" src="images/recent-work/cmon.jpg" alt="C’mon Man!"  />
             <p>NFL Countdown&#8217;s Cris Carter does a special New York City/Super Bowl edition of the fan favorite segment &#8220;C&#8217;mon Man.&#8221;
 MPE provided all field production services. Axel Baumann and Bob Hanna acted as DP’s. Shot on the Panasonic HDX&#8211;900 cameras</p>
-            <p><a target="_blank" href="http://espn.go.com/video/clip?id=10383420">C’mon Man! New York Edition Video Link</a></p>
+            <p><a target="_blank" href="http://espn.go.com/video/clip?id=10383420">C’mon Man! New York Edition Video Link</a>&nbsp;- external link</p>
             <a class="back-to-top" href="#top">Back to Top</a>       
         </div>
         <!-- end article -->
         
         <!-- Begin Article -->	
         <div class="article">
-            <h1><a name="nyr-mc" class="anchor">New York Rangers - 2013/2014 Merchandise Catalog</a></h1>
+            <h1 class="rw-heading"><a name="nyr-mc" class="anchor">New York Rangers - 2013/2014 Merchandise Catalogue</a></h1>
             <p class="date">1/22/14</p><hr/>
-            <p>Each year, the New York Rangers feature all of their newest team merchandise in a catalogue that is available on-line and and in print. The catalogue features photographs of different Rangers players modelling the latest in team apparel. Jamie Cohen acted as lead photographer and director. MPE has shot various projects with the New York Rangers for both video and print since 1999.</p>
+            <p>Each year, the New York Rangers feature all of their newest team merchandise in a catalogue that is available on-line and and in print. The catalogue features photographs of different Rangers players modeling the latest in team apparel. Jamie Cohen acted as lead photographer and director. MPE has shot various projects with the New York Rangers for both video and print since 1999.</p>
             <a class="back-to-top" href="#top">Back to Top</a>       
         </div>
         <!-- end article -->
         
         <!-- Begin Article -->	
         <div class="article">
-            <h1><a name="nffaad" class="anchor">National Football Foundation Annual Awards Dinner</a></h1>
+            <h1 class="rw-heading"><a name="nffaad" class="anchor">National Football Foundation Annual Awards Dinner</a></h1>
             <p class="date">12/9/143</p>
         	<p class="date">Client: Kraft Sports</p><hr/>
             
@@ -190,11 +213,11 @@ MPE provided all field production services including camera, sound, and lighting
         
         <!-- Begin Article -->	
         <div class="article">
-            <h1><a name="pf-sp" class="anchor">Playing Favorites - Series “Pilot”</a></h1>
+            <h1 class="rw-heading"><a name="pf-sp" class="anchor">Playing Favorites - Series “Pilot”</a></h1>
             <p class="date">12/16/13</p>
         	<p class="date">Client: NickMom</p><hr/>
         	<p>MPE provided comprehensive pre-production and field production services in collaboration with Nickelodeon’s creative team. Heath Lumen Directed and co-created the series along with Bob Mittenthal.</p>
-            <p>Steve Cohen acted as director of photography. The pilot incorporated mock “studio” game-show components, real time cooking challenges in an actual restaurant kitchen, and a soccer field sized obstacle course with 3 competitors racing against one another simultaneously . This reality style multi-camera shoot demanded run and gun speed and efficiency, along with the need for creating/establishing a signature cinematic look and style for the series. Panasonic HDX&#8211;900 cameras were chosen because of their ability to employ zoom lenses, which enabled camera department to set-up and shoot extremely fast and capture events in real time, and stay ahead of the ambitious shooting schedule. Multiple wireless video village set-ups were provided, enabling the production team to have live viewing capabilities “on the fly”.</p>
+            <p>Steve Cohen acted as director of photography. The pilot incorporated mock “studio” game-show components, real time cooking challenges in an actual restaurant kitchen, and a soccer field sized obstacle course with 3 competitors racing against one another simultaneously. This reality style multi-camera shoot demanded run and gun speed and efficiency, along with the need for creating/establishing a signature cinematic look and style for the series. Panasonic HDX&#8211;900 cameras were chosen because of their ability to employ zoom lenses, which enabled camera department to set-up and shoot extremely fast and capture events in real time, and stay ahead of the ambitious shooting schedule. Multiple wireless video village set-ups were provided, enabling the production team to have live viewing capabilities “on the fly”.</p>
             <p>The Pilot was shot in three locations in two days and had more than 15 set-ups. In terms of work-flow, MPE incorporated on-board digital file recorders enabling acquisition that eliminated the need for any transcoding in post. MPE has collaborated on multiple pilots, branded content, and many other types of content creation for Nickelodeon since 1999.</p>
             <p>Nick Mom is “the destination for all things funny” and TV shows just for moms.</p>
             <a class="back-to-top" href="#top">Back to Top</a>       
@@ -204,7 +227,7 @@ MPE provided all field production services including camera, sound, and lighting
         
         <!-- Begin Article -->	
         <div class="article">
-            <h1><a name="ijkfc" class="anchor">Impractical Jokers &amp; KFC Sponsored Promotion</a></h1>
+            <h1 class="rw-heading"><a name="ijkfc" class="anchor">Impractical Jokers &amp; KFC Sponsored Promotion</a></h1>
             <p class="date">12/19/13</p>
         	<p class="date">Client: Eleven 02 Creative</p><hr/>
             
@@ -218,7 +241,7 @@ The 3 camera shoot featured The Sony F/5 35mm digital cameras. The promo materia
         
         <!-- Begin Article -->	
         <div class="article">
-            <h1><a name="macys" class="anchor">Macy’s Thanksgiving Day Parade</a></h1>
+            <h1 class="rw-heading"><a name="macys" class="anchor">Macy’s Thanksgiving Day Parade</a></h1>
             <p class="date">11/28/13</p>
         	<p class="date">Client: Element Productions</p><hr/>
             <p>Documentary coverage of the University of Massachusetts Minutemen Marching Band performing in the Macy’s Thanksgiving Day parade in NYC.</p>
@@ -228,7 +251,7 @@ The 3 camera shoot featured The Sony F/5 35mm digital cameras. The promo materia
         
         <!-- Begin Article -->	
         <div class="article">
-            <h1><a name="recruitment" class="anchor">WWE recruitment video</a></h1>
+            <h1 class="rw-heading"><a name="recruitment" class="anchor">WWE recruitment video</a></h1>
             <p class="date">11/22/13</p>
         	<p class="date">Client: World Wrestling Entertainment</p><hr/>
             <p>Shot on location at the WWE facilities in Stamford Connecticut. Through employee testimonials, the video reveals the positive aspects and personal experiences of those who have worked for the WWE. Shot on the Sony F5 camera.</p>
@@ -238,7 +261,7 @@ The 3 camera shoot featured The Sony F/5 35mm digital cameras. The promo materia
         
         <!-- Begin Article -->	
         <div class="article">
-            <h1><a name="glory" class="anchor">Glory Sports International Promo</a></h1>
+            <h1 class="rw-heading"><a name="glory" class="anchor">Glory Sports International Promo</a></h1>
             <p class="date">11/20/13</p>
         	<p class="date">Client: The Creative Group</p><hr/>
             <p>Glory Sports, the premier international kickboxing league, used this :30 second spot to promote the upcoming Glory 12 &amp; 13 events held in New York and Tokyo, respectively, as a means to enhance the Glory brand, and to further increase awareness of their product by featuring “The Glory Girls”.</p>
@@ -250,7 +273,7 @@ The 3 camera shoot featured The Sony F/5 35mm digital cameras. The promo materia
         
         <!-- Begin Article -->	
         <div class="article">
-            <h1><a name="jokers" class="anchor">Impractical Jokers Marathon – Ride Along promotion</a></h1>
+            <h1 class="rw-heading"><a name="jokers" class="anchor">Impractical Jokers Marathon – Ride Along promotion</a></h1>
             <p class="date">11/20/13</p>
         	<p class="date">Client: Eleven 02 Creative</p><hr/>
             <p>The spot was used to promote the Impractical Jokers upcoming “marathon” on truTV, where they would premiere an exclusive sneak peek of Universal Picture’s new movie, Ride Along, starring Ice Cube and Kevin Hart. Joe Chipura Directed. Axel Baumann was the Director of Photography. Through Eleven 02, Manhattan Place Entertainment coordinated the entire production and provided all field production services including camera, lighting, and sound equipment and manpower, as well as handling locations, props, wardrobe and catering. Multiple Sony F5 cameras and Fujinon cinema zoom lenses were chosen to shoot the spots, utilizing the 120fps feature for selective slow motion.</p>
@@ -260,7 +283,7 @@ The 3 camera shoot featured The Sony F/5 35mm digital cameras. The promo materia
         
         <!-- Begin Article -->	
         <div class="article">
-            <h1><a name="dsgpo" class="anchor">Drive Sober or Get Pulled Over - Public Service Announcement</a></h1>
+            <h1 class="rw-heading"><a name="dsgpo" class="anchor">Drive Sober or Get Pulled Over - Public Service Announcement</a></h1>
             <p class="date">11/18/13</p>
         	<p class="date">Client: Eleven 02 Creative</p><hr/>
         	<!-- <img class="float_left" src="images/recent-work/.jpg" alt="Drive Sober or Get Pulled Over - Public Service Announcement"  /> -->
@@ -271,7 +294,7 @@ The 3 camera shoot featured The Sony F/5 35mm digital cameras. The promo materia
         
         <!-- Begin Article -->	
         <div class="article">
-            <h1><a name="cawl" class="anchor">CAWL TO ARMS/ESPN Special</a></h1>
+            <h1 class="rw-heading"><a name="cawl" class="anchor">CAWL TO ARMS/ESPN Special</a></h1>
             <p class="date">11/17/13</p>
         	<p class="date">Client: Dutch Productions</p><hr/>
             <p>College Arm Wrestling League tournament, featuring the top male and female arm wrestlers competing from Penn State, Rutgers, University of Connecticut and Syracuse at the famed Stone Pony in Asbury Park, NJ.
@@ -282,7 +305,7 @@ Manhattan Place Entertainment handled all field production services as well as p
         
         <!-- Begin Article -->	
         <div class="article">
-            <h1><a name="tnflt" class="anchor">THE NFL TODAY - “Thanksgiving Day feature”</a></h1>
+            <h1 class="rw-heading"><a name="tnflt" class="anchor">THE NFL TODAY - “Thanksgiving Day feature”</a></h1>
             <p class="date">11/12/13</p>
         	<p class="date">Client: CBS Sports</p><hr/>
             <p>One year after the tragic car accident that took the life of Josh Brent, Jerry Brown discusses the consequences and what life has been like for him, after losing of his friend and Dallas Cowboy teammate a year ago.</p>
@@ -292,20 +315,20 @@ Manhattan Place Entertainment handled all field production services as well as p
         
         <!-- Begin Article -->	
         <div class="article">
-            <h1><a name="sons" class="anchor">Sons of Anarchy/Hurricane Sandy Fundraising Event</a></h1>
+            <h1 class="rw-heading"><a name="sons" class="anchor">Sons of Anarchy/Hurricane Sandy Fundraising Event</a></h1>
             <p class="date">11/10/13</p>
         	<p class="date">Client: In A Garage</p><hr/>
             <p>The cast and creators of the acclaimed series Sons of Anarchy staged a special fundraising event for victims of Hurricane Sandy at the Paramount Theater in Asbury Park NJ.</p>
             <p>The event featured appearances by cast members Katey Sagal, Kim Coates, Theo Rossi, and Kurt Sutter.</p>
             <p>MPE provided all pre-and field production services including a combination of (6) Sony F/5 and Panasonic Varicam cameras along with all shooting crew, various above the line and below the line personal, and handled all of the video production for capturing the entire event. The event included a VIP party as well as a special premiere screening of the newest episode, followed by a live Q&amp;A session between the show creators, cast and audience members that packed the house at the Paramount. The evening was topped off by a special live musical performance by Katey Segal. Special “extra” video material was shot with the cast and creators of the show for future use in a “commemorative DVD” release. MPE has shot several FX initiatives through In-A Garage, a Los Angeles based production company who produces the special behind the scenes materials featured on FX’s DVD releases.</p>
-            <p><a target="_blank" href="http://www.tvfanatic.com/videos/kurt-sutter-talks-hurricane-sandy-relief/">See it here</a></p>
+            <p><a target="_blank" href="http://www.tvfanatic.com/videos/kurt-sutter-talks-hurricane-sandy-relief/">See the spot on the TV Fanatic </a> &nbsp;- external link</p>
             <a class="back-to-top" href="#top">Back to Top</a>       
         </div>
         <!-- end article -->
         
         <!-- Begin Article -->	
         <div class="article">
-            <h1><a name="rao" class="anchor">“Rao’s A Seat At The Table”-Series- Pilot</a></h1>
+            <h1 class="rw-heading"><a name="rao" class="anchor">“Rao’s A Seat At The Table”-Series- Pilot</a></h1>
             <p class="date">11/7/13</p>
         	<hr/>
             <p>Featuring celebrity personality Bo Dietl, and RAOS owner Frank Pelegrino, this series promises to be an entertaining cross between Real Time with Bill Mahr and Cake boss. You never know who might show up at Bo’s table. Beyonce and Jay Z? Leo DiCaprio? Bill Gates? Bo Dietl has held court with all of them, and now through our cameras, the viewer gets invited to take a seat at the table at RAOS with Bo and guests for an engaging and thought provoking dialogue, and a mouthwateringly delicious looking experience. You can wait for your own table at RAOS (currently not accepting reservation requests until November 2014) or choose to take a seat at Bo’s table for an unforgettable experience with our panel of guests.</p>
@@ -315,7 +338,7 @@ Manhattan Place Entertainment handled all field production services as well as p
         
         <!-- Begin Article -->	
         <div class="article">
-            <h1><a name="tnflt-po" class="anchor">The NFL Today - Pregame Open</a></h1>
+            <h1 class="rw-heading"><a name="tnflt-po" class="anchor">The NFL Today - Pregame Open</a></h1>
             <p class="date">11/7/13</p>
         	<p class="date">Client: CBS Sports</p><hr/>
             <p>This comical skit was shot at the CBS Broadcast center in a rehearsal hall designed to look like a pre-game “pep-talk” area. All of the members of the NFL Today cast including Boomer Esiasion, Dan Marino, Coach Bill Cowher, Shanon Sharpe and James Brown appeared as themselves, getting some special inspirational pre-game “ tips” from “Mike &amp; Molly” (CBS sitcom) lead actor: Billy Gardell. Through Mosquito Cove productions, MPE provided production services including: Sony F5 Camera, Canon 30&#8211;300 cinema Zoom, and manpower support for camera department. Jim Grieco was the lead DP. Steve Cohen acted as second unit.</p>
@@ -325,28 +348,26 @@ Manhattan Place Entertainment handled all field production services as well as p
         
         <!-- Begin Article -->	
         <div class="article">
-            <h1><a name="accpsa" class="anchor">Atlantic Coast Conference “The ACC” - New PSA campaign</a></h1>
+            <h1 class="rw-heading"><a name="AtlanticCoastConference" class="anchor">Atlantic Coast Conference “The ACC” - New PSA campaign</a></h1>
             <p class="date">10/17/13</p>
         	<p class="date">Client: SME Branding</p><hr/>
             <p>Manhattan Place Entertainment, in collaboration with the SME, was chosen as the production company to handle execution of all video production for the (3) spot campaign. The spots focused on the tradition and pride of the ACC conference’s sports programs while pointing toward a new legacy that will be forged given that other heralded institutions have newly joined the ACC conference this year.</p>
             <p>Steve Cohen Executive Produced, David Lengel Produced, Jonathan Wendell was chief editor and headed the visual effects and graphics team.</p>
-            <p><a href="http://www.manhattanplace.tv/commercial/acc-football/video.html">http://www.manhattanplace.tv/commercial/acc-football/video.html</a></p>
-            <p><a target="_blank" href="https://vimeo.com/78726987">View spot - password accunite</a></p>
-            <p><a target="_blank" href="https://vimeo.com/82558275">View spot</a></p>
-            <p><a target="_blank" href="https://vimeo.com/82558274">View spot</a></p>
+            <p><a href="http://www.manhattanplace.tv/commercial/acc-football/video.php">View the Atlantic Coast Conference “The ACC” - New PSA campaign spot here </a></p>
+            <p><a target="_blank" href="https://vimeo.com/82558275">View the ACC Multi Sport Commercial spot on Vimeo</a>&nbsp;- external link</p>
+            <p><a target="_blank" href="https://vimeo.com/82558274">View the ACC Basketball spot on Vimeo</a>&nbsp;- external link</p>
             <a class="back-to-top" href="#top">Back to Top</a>       
         </div>
         <!-- end article -->
         
         <!-- Begin Article -->	
         <div class="article">
-            <h1><a name="nykiap" class="anchor">New York Knicks</a></h1>
+            <h1 class="rw-heading"><a name="nykiap" class="anchor">New York Knicks</a></h1>
             <p class="date">10/7/13</p>
         	<p class="date">Client: New York Knicks In-Arena Presentations</p><hr/>
             <p>MPE created a host of visual elements that will be utilized in-arena in a variety of ways. Every Knicks player was shot in multiple set-ups, enabling the In-arena Presentations team to gather enough material to use throughout the entire season. Steve Cohen Directed and DP’d. Manhattan Place handled all pre-production and field production services.</p>
-            <p><a target="_blank" href="https://vimeo.com/79424574">View spot - password: mpe</a></p>
-            <p><a target="_blank" href="https://vimeo.com/79424572">View spot - password: mpe</a></p>
-            <p><a target="_blank" href="https://vimeo.com/79423295">View spot - password: mpe</a></p>
+            <p><a target="_blank" href="https://vimeo.com/79424574">View the NYK Specialty Chandler spot on Vimeo </a>&nbsp;password: mpe - external link</p>
+            <p><a target="_blank" href="https://vimeo.com/79424572">View the NYK Specialty Carmelo spot on Vimeo </a>&nbsp;password: mpe - external link</p>
             <a class="back-to-top" href="#top">Back to Top</a>       
         </div>
         <!-- end article -->
@@ -354,18 +375,18 @@ Manhattan Place Entertainment handled all field production services as well as p
         
         <!-- Begin Article -->	
         <div class="article">
-            <h1><a name="itn" class="anchor">INSIDE THE NFL</a></h1>
+            <h1 class="rw-heading"><a name="itn" class="anchor">INSIDE THE NFL</a></h1>
             <p class="date">10/7/13</p>
         	<p class="date">Client: Showtime</p><hr/>
             <p>A trio of Massachusetts sixth graders turned an annual science project into a solution for reducing concussions in the NFL. See their story featured on INSIDE THE NFL. Steve Cohen DP’d the Massachusetts portions of the feature.</p>
-            <p><a target="_blank" href="http://www.youtube.com/watch?v=8D3XUxmAvwc">View spot</a></p>
+            <p><a target="_blank" href="http://www.youtube.com/watch?v=8D3XUxmAvwc">View the NFL Helmets spot on YouTube </a> - external link</p>
             <a class="back-to-top" href="#top">Back to Top</a>       
         </div>
         <!-- end article -->
         
         <!-- Begin Article -->	
         <div class="article">
-            <h1><a name="tmsc" class="anchor">T-Mobile - Shakira Concert</a></h1>
+            <h1 class="rw-heading"><a name="tmsc" class="anchor">T-Mobile - Shakira Concert</a></h1>
             <p class="date">10/9/13</p>
         	<p class="date">Client: T-Mobile</p><hr/>
             <p>A series of video projects focused on T-Mobile’s international event that announced worldwide free texting and data usage for their customers. The festivities included a live outdoor concert featuring pop singing sensation Shakira in New York City’s Bryant Park. Manhattan Place Entertainment shot, produced, edited and delivered (3) sizzle reel style videos over night, highlighting major moments from the event including concert footage with Shakira, interviews with T-Mobile employees, senior executives, and CEO John J Legere. Manhattan Place set up a base camp at the Bryant Park hotel and built (3) portable edit suites on site, enabling our post production teams to work overnight and deliver on time, creating engaging content while meeting the demands of the client’s short turnaround deadline.</p>
@@ -375,7 +396,7 @@ Manhattan Place Entertainment handled all field production services as well as p
         
         <!-- Begin Article -->	
         <div class="article">
-            <h1><a name="fnflsot" class="anchor">FOX NFL Sunday - Opening Tease</a></h1>
+            <h1 class="rw-heading"><a name="fnflsot" class="anchor">FOX NFL Sunday - Opening Tease</a></h1>
             <p class="date">10/1/13</p>
         	<p class="date">Client: FOX Sports</p><hr/>
             <p>Barry Sanders is featured in the opening tease for week two of the NFL Season. Shot on location in New York City. Chris Bierlein was the Director of Photography. The piece was shot on the Sony F5 camera utilizing Canon ef lenses.</p>
@@ -385,19 +406,19 @@ Manhattan Place Entertainment handled all field production services as well as p
               
         <!-- Begin Article -->	
         <div class="article">
-            <h1><a name="foxnfls" class="anchor">FOX NFL Sunday - Season Opener</a></h1>
+            <h1 class="rw-heading"><a name="foxnfls" class="anchor">FOX NFL Sunday - Season Opener</a></h1>
         	<p class="date">Client: FOX Sports</p><hr/>
         	<img class="float_left" src="images/recent-work/robert-dinero.jpg" alt="Robert DeNiro" />
             <p>Academy Award winner Robert DeNiro sets the scene for the 2013 NFL season, while setting the stage for  Super Bowl XXXLVIII  to be played in his own backyard at the end of the year.</p>
             <p>Shot on location at the Tribeca Hotel in New York City, using the Canon C-300. Produced by Bill Richards. Directed by Steve Cohen, Director of photography Alan Jacobs.</p>
-            <p><a target="_blank" href="https://vimeo.com/75222277">View spot. PASSWORD FOX</a></p>
+            <p><a target="_blank" href="https://vimeo.com/75222277">View the FOX NFL Sunday - Season Opener on Vimeo </a> &nbsp; password: FOX - external link</p>
             <a class="back-to-top" href="#top">Back to Top</a>       
         </div>
         <!-- end article -->
 
         <!-- Begin Article -->	
         <div class="article">
-            <h1><a name="hand" class="anchor">Gentler Hands, Sharper Minds</a></h1>
+            <h1 class="rw-heading"><a name="hand" class="anchor">Gentler Hands, Sharper Minds</a></h1>
             <p class="date">10/26/13</p><hr/>
             <img class="float_right" src="images/recent-work/hand.jpg" alt="Gentler Hands, Sharper Minds"  />
             <p>St. Vincents Medical Center of Bridgeport, CT, has unveiled their latest branded campaign for print, web, and over the air commercials. The campaign entitled "Gentler Hands, Sharper Minds" focuses on the special care and medical expertise that St. Vincent's department of cardio vascular medicine provides for its patients.</p>
@@ -406,8 +427,8 @@ Manhattan Place Entertainment handled all field production services as well as p
             <p>Director of photography Chris Bierlein commented "The approach for these spots was indeed to shoot in the actual hospital environment as opposed to on a soundstage. We used the real operating rooms and real doctors, nurses, and administrators as opposed to casting professional actors. By doing so, I think we were able to more effectively convey the sensibility of the hospital's messaging, in a very genuine way". Cohen added "Taking that approach can present some challenges. For instance, sometimes the operating room that you plan on shooting in, or a doctor that was scheduled to work with you, suddenly become unavailable because they are needed in cases of emergency. These are challenges that must be dealt with from a production standpoint, challenges that you have to expect and prepare for if you are going to choose to work in an environment and with the people from that environment that serve to help others every day. Challenging for us maybe, but it is easy to put things in perspective pretty quickly when you see what the hospital staff and medical staff are faced with every day".</p>
             <p>The campaign was created by Franklin Street, an advertising agency based out of Richmond Virginia that specializes in Healthcare Marketing and Advertising.</p>
             <p>The spots begin airing regionally in Connecticut on October 21st.</p>
-            <p><a href="http://www.manhattanplace.tv/commercial/st-vincents-miracles/video.php">"Miracles"</a></p>
-            <p><a href="http://manhattanplace.tv/specials/st-vincent-extraordinary/st-vincent-extraordinary.">"Extraordinary"</a></p>
+            <p><a href="/commercial/st-vincents-miracles/video.php">View the spot "Miracles"</a></p>
+            <p><a href="/specials/st-vincent-extraordinary/st-vincent-extraordinary.php">View the spot "Extraordinary"</a></p>
             <a class="back-to-top" href="#top">Back to Top</a>       
         </div>
         <!-- end article -->
@@ -415,22 +436,22 @@ Manhattan Place Entertainment handled all field production services as well as p
         
         <!-- Begin Article -->	
         <div class="article">
-            <h1><a name="ttijbg" class="anchor">Tru TV Impractical Jokers (Bad Grandpa)</a></h1>
+            <h1 class="rw-heading"><a name="ttijbg" class="anchor">truTV Impractical Jokers (Bad Grandpa)</a></h1>
         	<p class="date">Client: Eleven 0 (Barry Bross)</p><hr/>
-            <img class="float_right" src="images/recent-work/badpa.jpg" alt="Tru TV Impractical Jokers (Bad Grandpa)"  />
+            <img class="float_right" src="images/recent-work/badpa.jpg" alt="truTV Impractical Jokers (Bad Grandpa)"  />
             <p>Bad Grandpa Is Here. It's "truManhattan Place Entertainment recently collaborated with Director Barry Bross and ElevenO2 Creative, shooting integrated content for truTV for the release of the new film "Jackass Presents: Bad Grandpa".</p>
             <p>The :30 spot features the cast from truTV's hit show "Impractical Jokers" and was shot in New York City at Madison Square Park.</p>
             <p>The Jokers are pretty busy guys and one of the biggest challenges was finding a spot near enough to where their offices were so that they could quickly get to location, shoot the spots, and return to work so they could resume their comedy writing.   Madison Square Park was the winner, which meant shooting outside in rapidly changing daylight.</p>
             <p>"We shot towards the end of the day, beginning in full sun, but soon after, we began losing light.  Shooting on the Canon C-300 was  great because we could keep pushing the iso which enabled us to keep the scene looking consistent regardless of the fact that it was getting pretty dark out.   People would walk by, see the guys and wonder how we were shooting when it was so dark.  Then they peeked at the video monitor and were amazed to see that the image we were capturing looked like daytime.  It was pretty cool" said Steve Cohen who was the director of photography. "So even when it was nearly dark out, you couldn't tell the difference between our exposure at 4pm and full sundown.  And we didn't have to use a single lighting fixture".</p>
             <p>This is the 3rd collaboration between Barry Bross, ElevenO2 Creative and Manhattan Place Entertainment.  The first was earlier this year on another integrated movie promotion for truTV for  "Kick-Ass 2", http://www.manhattanplace.tv/commercial/kickass2/video.html .  The two recently  joined forces again shooting Public Services Announcements with Ron Shirley from the hit truTV series Lizard Lick Towing.  Those PSA's will air at the end of the year.</p>
-            <p><a href="http://www.manhattanplace.tv/commercial/trutv-bad-grandpa/video.html">View the Tru TV Impractical Jokers (Bad Grandpa) spot here</a></p>
+            <p><a href="http://www.manhattanplace.tv/commercial/kickass2/video.php">View the truTV Impractical Jokers (Bad Grandpa) spot here</a></p>
             <a class="back-to-top" href="#top">Back to Top</a>       
         </div>
         <!-- end article -->
         
         <!-- Begin Article -->	
         <div class="article">
-            <h1><a name="before" class="anchor">Tim McCarver All-Star Recollections</a></h1>
+            <h1 class="rw-heading"><a name="before" class="anchor">Tim McCarver All-Star Recollections</a></h1>
             <hr/>
             <p>At the conclusion of the Major League Baseball All-Star Game Tuesday night, Joe Buck informed a national television audience that his Hall of Fame broadcasting partner Tim McCarver had just concluded his 15th and final All-Star Game telecast for FOX Sports.</p>
             <p>McCarver prepared a retrospective piece about his personal All-Star game recollections, drawing from memories of his childhood, his playing days,  and his years as a broadcaster... a metaphorical  "before and after" of his magnificent career.</p>
@@ -448,7 +469,7 @@ Manhattan Place Entertainment handled all field production services as well as p
         
         <!-- Begin Article -->	
         <div class="article">
-            <h1><a name="times" class="anchor">Midnight Moment in Times Square</a></h1>
+            <h1 class="rw-heading"><a name="times" class="anchor">Midnight Moment in Times Square</a></h1>
             <hr/>
             <img class="float_left" src="images/recent-work/midnight.jpg" alt="Midnight Moment in Times Square"  />
             <p>Manhattan Place Entertainment had the honor of being selected by the Times Square Alliance to produce a feature piece documenting "The Power of Words" -- a short film that appeared on the Times Square screens last month.</p>
@@ -462,7 +483,7 @@ Manhattan Place Entertainment handled all field production services as well as p
         
         <!-- Begin Article -->	
         <div class="article">
-            <h1><a name="fair" class="anchor">School's Out (In Fairfield, CT)</a></h1>
+            <h1 class="rw-heading"><a name="fair" class="anchor">School's Out (In Fairfield, CT)</a></h1>
             <hr/>
             <img class="float_right" src="images/recent-work/school.jpg" alt="School's Out"  />
             <p>When World Wrestling Entertainment needs to think out of the box, they call Manhattan Place Entertainment- and this time was no different!
@@ -480,12 +501,12 @@ Manhattan Place Entertainment handled all field production services as well as p
         
         <!-- Begin Article -->	
         <div class="article">
-            <h1><a name="rr" class="anchor">Rick Reilly</a></h1>
+            <h1 class="rw-heading"><a name="rr" class="anchor">Rick Reilly</a></h1>
             <p class="date">9/24/13</p>
         	<p class="date">Client: Mosquito Cove Productions</p><hr/>
             
             <p>Rick Reilly describes how Ryan Spadola, a rookie wide receiver on the Dolphins, overcame the suicide of his father, who was a former Secret Service agent. The feature aired on ESPN. Jim Grieco was lead DP. Steve Cohen was second unit.  Manhattan Place Entertainment provided additional field production services. Shot on 2 Red Epic cameras and one Canon 5D mark 3.</p>
-            <p><a href="http://www.youtube.com/watch?v=vRmPIblnjhU">View spot.</a></p>
+            <p><a target="_blank" href="http://www.youtube.com/watch?v=vRmPIblnjhU">View the Ryan Spadola's Journey To The NFL spot on YouTube </a> &nbsp; - external link</p>
             <a class="back-to-top" href="#top">Back to Top</a>       
         </div>
         <!-- end article -->
@@ -493,21 +514,21 @@ Manhattan Place Entertainment handled all field production services as well as p
         
         <!-- Begin Article -->	
         <div class="article">
-            <h1><a name="rdi" class="anchor">New York Rangers, New Jersey Devils, New York Islanders - Players shoot</a></h1>
+            <h1 class="rw-heading"><a name="rdi" class="anchor">New York Rangers, New Jersey Devils, New York Islanders - Players shoot</a></h1>
             <p class="date">9/10/13</p>
         	<p class="date">Client: MSG Marketing Department</p><hr/>
             <p>Stylized production set-ups were designed to shoot each of the players from the Rangers, Devils and Islanders, for the purpose of creating a consistent branded on-air look for all of MSG Network’s NHL telecasts. In addition, these elements were used by the marketing department for use in on-air promotional spots.</p>
             <p>Manhattan Place provided all pre-production and field production services including production design. Of note, MPE created custom lighting fixtures with the look of “stadium lights” made out of bulbs that could run off of standard 110v house power for this project, which the client retained for use on future projects. Steve Cohen Directed, DP’d, and designed the production.  Shot at 60fps.
 </p>
-            <p><a target="_blank" href="https://vimeo.com/79424573">View spot. Password mpe</a></p>
-            <p><a target="_blank" href="https://vimeo.com/79423296">View spot. Password mpe</a></p>
+            <p><a target="_blank" href="https://vimeo.com/79424573">View the NYI Specialty Tavares spot on Vimeo </a> &nbsp;Password: mpe - external link</p>
+            <p><a target="_blank" href="https://vimeo.com/79423296">View the NJD Specialty Henrique spot on Vimeo </a> &nbsp;Password: mpe - external link</p>
             <a class="back-to-top" href="#top">Back to Top</a>       
         </div>
         <!-- end article -->
         
         <!-- Begin Article -->	
         <div class="article">
-            <h1><a name="nyriap" class="anchor">NY Rangers- In-Arena Presentations</a></h1>
+            <h1 class="rw-heading"><a name="nyriap" class="anchor">NY Rangers- In-Arena Presentations</a></h1>
         	<p class="date">Client: New York Rangers</p><hr/>
             <p>MPE shot visual elements with each New York Rangers player for the purpose of incorporating the production assets into elements that would be displayed on the electronic screens in-arena at Madison Square Garden. Chris Bierlien was the director and director of photography. MPE handled all pre-production and field production elements.</p>
             <a class="back-to-top" href="#top">Back to Top</a>       
@@ -516,17 +537,17 @@ Manhattan Place Entertainment handled all field production services as well as p
         
         <!-- Begin Article -->	
         <div class="article">
-            <h1><a name="sos" class="anchor">Stars on Sports</a></h1>
+            <h1 class="rw-heading"><a name="sos" class="anchor">Stars on Sports</a></h1>
         	<p class="date">Client: Playtime Media</p><hr/>
             <p>CBS Sports’ Ian Eagle hosts the one-hour special as he sits down with a some of Hollywood’s biggest names to discuss their latest projects and sports.  Director Ron Howard fills us in on his latest movie, Rush,  Tony Danza sits down to talk about his love for boxing from the promotion set of his latest movie Don Jon.  And Denzel Washington describes how he would have covered Ray Allen in Game 6 of last year’s NBA Finals, while Mark Wahlberg recalls being in the locker room of one of the New England Patriot’s biggest game winning speeches. The two also talk about their latest movie, 2Guns.  Produced in conjunction with Turner Sports, CBS Sports’ Jason Ross serves as coordinating producer and Charlie Bloom is producer. Manhattan Place Entertainment handled post production editing.</p>
-            <p><a target="_blank" href="https://vimeo.com/74791400">View Stars on Sports here.</a></p>
+            <p><a target="_blank" href="https://vimeo.com/74791400">View the Segment Tease on Vimeo </a> &nbsp; - external link</p>
             <a class="back-to-top" href="#top">Back to Top</a>       
         </div>
         <!-- end article -->
         
         <!-- Begin Article -->	
         <div class="article">
-            <h1><a name="foxnflsot" class="anchor">FOX NFL Sunday - Opening Tease</a></h1>
+            <h1 class="rw-heading"><a name="foxnflsot" class="anchor">FOX NFL Sunday - Opening Tease</a></h1>
             <p class="date">9/2013</p>
         	<p class="date">Client: FOX Sports</p><hr/>
             <p>Andre Braugher of The Golden Globe winning FOX Comedy Series Brooklyn Nine-Nine, appears on camera narrating the opening tease of FOX Sports week 5 NFL coverage.  Steve Cohen Directed, shot, and production designed the shoot. Manhattan Place Entertainment provided comprehensive productions services.  Shot on the Sony F5 with Canon ef lenses.</p>
@@ -536,7 +557,7 @@ Manhattan Place Entertainment handled all field production services as well as p
         
         <!-- Begin Article -->	
         <div class="article">
-            <h1><a name="vh1lhh" class="anchor">VH1: Love & Hip Hop - Show Open</a></h1>
+            <h1 class="rw-heading"><a name="vh1lhh" class="anchor">VH1: Love & Hip Hop - Show Open</a></h1>
             <p class="date">9/5/13</p>
         	<p class="date">Client: VH1</p><hr/>
             <p>Shot portraits of the newest cast members for the purpose of compositing and integrating the newly shot elements into the existing show open.  In acquiring these new elements, the main challenge was to exactly match the shot composition and lighting style used in the original show open   Snejina Latev directed and Steve Cohen was the director of photography. Shot on the Red Epic at 4K.</p>
@@ -547,15 +568,15 @@ Manhattan Place Entertainment handled all field production services as well as p
         
         <!-- Begin Article -->	
         <div class="article">
-            <h1><a name="usott" class="anchor">US Open Tennis Tournament</a></h1>
+            <h1 class="rw-heading"><a name="usott" class="anchor">US Open Tennis Tournament</a></h1>
             <p class="date">8/26/13</p>
         	<p class="date">Client: The Tennis Channel</p><hr/>
             <p>Manhattan Place Entertainment provided field production services for this Grand Slam event. Visual elements were used on a daily basis to create teases, opens, scene sets, and branded elements for Tennis Channels 2 plus weeks worth of on-air coverage.</p>
-            <p><a target="_blank" href="https://vimeo.com/84230627">View the US Open Tennis Tournament spot.</a></p>
-            <p><a target="_blank" href="https://vimeo.com/84228845">View the US Open Tennis Tournament spot.</a></p>
-            <p><a target="_blank" href="https://vimeo.com/84226185">View the US Open Tennis Tournament spot.</a></p>
-            <p><a target="_blank" href="https://vimeo.com/84225088">View the US Open Tennis Tournament spot.</a></p>
-            <p><a target="_blank" href="https://vimeo.com/84223784">View the US Open Tennis Tournament spot.</a></p>
+            <p><a target="_blank" href="https://vimeo.com/84230627">View the US Open Tennis Tournament Lacoste CityParks spot on Vimeo</a> &nbsp; - external link</p>
+            <p><a target="_blank" href="https://vimeo.com/84228845">View the US Open Tennis Tournament Lacoste Bensonhurst spot on Vimeo</a> &nbsp; - external link</p>
+            <p><a target="_blank" href="https://vimeo.com/84226185">View the US Open Tennis Tournament Emirates Returns spot on Vimeo</a> &nbsp; - external link</p>
+            <p><a target="_blank" href="https://vimeo.com/84225088">View the US Open Tennis Tournament Emirates Returns New Haven spot on Vimeo</a> &nbsp; - external link</p>
+            <p><a target="_blank" href="https://vimeo.com/84223784">View the US Open Tennis Tournament Emirates Returns DC spot on Vimeo</a> &nbsp; - external link</p>
             <a class="back-to-top" href="#top">Back to Top</a>       
         </div>
         <!-- end article -->
@@ -563,7 +584,7 @@ Manhattan Place Entertainment handled all field production services as well as p
         
         <!-- Begin Article -->	
         <div class="article">
-            <h1><a name="abtn" class="anchor">Aveeno - “Back to Nature”</a></h1>
+            <h1 class="rw-heading"><a name="abtn" class="anchor">Aveeno - “Back to Nature”</a></h1>
             <p class="date">8/26/13</p>
         	<p class="date">Client: Creative Group</p><hr/>
             <p>Jennifer Aniston narrates this corporate web initiative which takes a close look at how Johnson and Johnson’s Aveeno brand gets back to nature by using oates in their active naturals line of skin and hair care products. The presentation illustrates the entire process of growing and harvesting the finest oates in the world through to delivering the finest skin and hair care products to the shelf for consumption. Shot entirely on location in Winnipeg Canada. Doug Lebow directed. Dean Crago produced and Steve Cohen was the director of photography. Shot on the Canon C-300 with Fujinon 19-90 Cabrio and Canon 30-300 cinema zoom lenses.</p>
@@ -573,7 +594,7 @@ Manhattan Place Entertainment handled all field production services as well as p
         
         <!-- Begin Article -->	
         <div class="article">
-            <h1><a name="rct" class="anchor">Rogers Cup Tennis</a></h1>
+            <h1 class="rw-heading"><a name="rct" class="anchor">Rogers Cup Tennis</a></h1>
             <p class="date">8/18/13</p>
         	<p class="date">Client: The Tennis Channel</p><hr/>
             <p>Shot on location in Toronto Canada. Shot elements for features, teases, and on-air promotional spots. The Tennis Channel went behind the scenes to document what it takes to stage a major WTA Tennis event.</p>
@@ -584,13 +605,13 @@ Manhattan Place Entertainment handled all field production services as well as p
         
         <!-- Begin Article -->	
         <div class="article">
-            <h1><a name="ka2" class="anchor">“Kick-Ass 2” - Promotional Spot</a></h1>
+            <h1 class="rw-heading"><a name="ka2" class="anchor">“Kick-Ass 2” - Promotional Spot</a></h1>
             <p class="date">7/27/13</p>
         	<p class="date">Client: Eleven 02 Creative</p><hr/>
             <img class="float_right" src="images/recent-work/kickass.jpg" alt="Kick-Ass 2” - Promotional Spot"  />
-            <p>Produced for TruTv in partnership with Universal Studios, featuring
+            <p>Produced for truTv in partnership with Universal Studios, featuring
 actors Chloe Moretz & Christopher Mintz-Plasse. The 2 leading characters appear in this spot in connection with the upcoming release of the feature film Kick-Ass 2. Directed by Barry Bross. Director of Photography Steve Cohen. Shot on the Canon C-300. In collaboration with eleven 02 creative, MPE provided all pre-production and studio production services related to this shoot.</p>
-            <p><a href="http://www.manhattanplace.tv/commercial/kickass2/video.html">View the “Kick-Ass 2” - Promotional Spot here.</a></p>
+            <p><a href="http://www.manhattanplace.tv/commercial/kickass2/video.html">View the “Kick-Ass 2” - Promotional Spot</a></p>
             <a class="back-to-top" href="#top">Back to Top</a>       
         </div>
         <!-- end article -->
@@ -598,12 +619,12 @@ actors Chloe Moretz & Christopher Mintz-Plasse. The 2 leading characters appear 
         
         <!-- Begin Article -->	
         <div class="article">
-            <h1><a name="nyjppse" class="anchor">New York Jets- Player Portraits/Specialty elements</a></h1>
+            <h1 class="rw-heading"><a name="nyjppse" class="anchor">New York Jets- Player Portraits/Specialty elements</a></h1>
             <p class="date">7/9/13</p>
         	<p class="date">Client: Rooftop Productions</p><hr/>
             <img class="float_right" src="images/recent-work/jets.jpg" alt="New York Jets- Player Portraits/Specialty elements"  />
             <p>MPE designed a special production environment and shot visual elements with each New York Jets player for the purpose of incorporating the production elements in a variety of applications to be displayed on the video screens at Met-Life Stadium during Jets home games. Steve Cohen was the director and director of photography. MPE handled all pre-production and field production elements.</p>
-            <p><a target="_blank" href="https://vimeo.com/77225">View the New York Jets- Player Portraits/Specialty elements spot here.</a></p>
+            <p><a target="_blank" href="https://vimeo.com/77225">View the New York Jets - Player Portraits/Specialty elements spot on Vimeo</a> &nbsp; - external link</p>
             <a class="back-to-top" href="#top">Back to Top</a>       
         </div>
         <!-- end article -->
@@ -611,7 +632,7 @@ actors Chloe Moretz & Christopher Mintz-Plasse. The 2 leading characters appear 
         
         <!-- Begin Article -->	
         <div class="article">
-            <h1><a name="scsp" class="anchor">Sports Cook - Series Pilot</a></h1>
+            <h1 class="rw-heading"><a name="scsp" class="anchor">Sports Cook - Series Pilot</a></h1>
             <p class="date">7/1/13</p>
         	<hr/>
             <p>Manhattan Place Entertainment created a pilot that showed the obsession that fans have for their food and sports. Hosted by celebrity chef Scott Conant (TV Food Network Chopped) and Olympic Gold Medalist and popular TV personality Summer Sanders, the two playfully describe their favorite tailgating foods to make and eat, as well as rating the best specialty foods at stadiums all over the country. Steve Cohen directed and shot. Manhattan Place provided all production services for this original content. Mike McCarthy was the show creator.</p>
@@ -622,7 +643,7 @@ actors Chloe Moretz & Christopher Mintz-Plasse. The 2 leading characters appear 
         
         <!-- Begin Article -->	
         <div class="article">
-            <h1><a name="mariah" class="anchor">Mariah Carey- Central Park Concert</a></h1>
+            <h1 class="rw-heading"><a name="mariah" class="anchor">Mariah Carey- Central Park Concert</a></h1>
             <p class="date">7/19/13</p>
         	<p class="date">Client: The City Drive Entertainment Group</p><hr/>
             <img class="float_right" src="images/recent-work/mariah.jpg" alt="Mariah Carey- Central Park Concert"  />
@@ -634,20 +655,20 @@ actors Chloe Moretz & Christopher Mintz-Plasse. The 2 leading characters appear 
         
         <!-- Begin Article -->	
         <div class="article">
-            <h1><a name="pac12" class="anchor">PAC-12 Football - On-Air Campaign</a></h1>
+            <h1 class="rw-heading"><a name="pac12" class="anchor">PAC-12 Football - On-Air Campaign</a></h1>
             <p class="date">7/23/13</p>
         	<p class="date">Client: Pac-12 Networks</p><hr/>
             <p>MPE production designed 5 different environments and shot every head football coach for Pac-12 networks in each environment. The elements were used in a variety of applications including on-air promotional elements for the Pac-12 networks, as well as for in-stadium use.  Steve Cohen was the director of photography and designed the production. Manhattan Place Entertainment handled all pre-production and field production needs.  Shot on location in Hartford Connecticut.</p>
-            <p><a target="_blank" href="https://vimeo.com/80315662">View the PAC-12 Football - On-Air Campaign spot here.</a></p>
-            <p><a target="_blank" href="https://vimeo.com/80315665">View the PAC-12 Football - On-Air Campaign spot here.</a></p>
-            <p><a target="_blank" href="https://vimeo.com/80315734">View the PAC-12 Football - On-Air Campaign spot here.</a></p>
+            <p><a target="_blank" href="https://vimeo.com/80315662">View the PAC-12 Football - CAL COACH spot on Vimeo</a> &nbsp; - external link</p>
+            <p><a target="_blank" href="https://vimeo.com/80315665">View the PAC-12 Football - UCLA MORA spot on Vimeo</a> &nbsp; - external link</p>
+            <p><a target="_blank" href="https://vimeo.com/80315734">View the PAC-12 Football - WSU COACH spot on Vimeo</a> &nbsp; - external link</p>
             <a class="back-to-top" href="#top">Back to Top</a>       
         </div>
         <!-- end article -->
         
         <!-- Begin Article -->  
         <article class="article">
-            <h1><a name="theTest" class="anchor">The Test of the Champion</a></h1>
+            <h1 class="rw-heading"><a name="theTest" class="anchor">The Test of the Champion</a></h1>
             <p class="date">6/14/13</p><hr/>
             <img class="float_left" src="images/recent-work/test-of-a-champion.jpg" alt="The Test of the Champion"  />
             <p>For the second year in a row, Manhattan Place Entertainment (MPE) had the good fortune of collaborating with The New York Racing Association on commercial spots for the Belmont Stakes. The :30 second and :15 second spots entitled "The Test of the Champion",  specifically focused on the 3rd jewel of thoroughbred racing's Triple Crown.</p>
@@ -664,7 +685,7 @@ actors Chloe Moretz & Christopher Mintz-Plasse. The 2 leading characters appear 
         
         <!-- Begin Article -->	
         <div class="article">
-            <h1><a name="whd" class="anchor">White House Down - Experiential Video</a></h1>
+            <h1 class="rw-heading"><a name="whd" class="anchor">White House Down - Experiential Video</a></h1>
             <p class="date">5/1/13</p>
         	<p class="date">Client: Michael Alan Group</p><hr/>
             <img class="float_right" src="images/recent-work/whd1.jpg" alt="White House Down - Experiential Video"  />
@@ -676,7 +697,7 @@ actors Chloe Moretz & Christopher Mintz-Plasse. The 2 leading characters appear 
         
         <!-- Begin Article -->
         <article class="article">
-            <h1><a name="ford" class="anchor">Glam-Ford Escape</a></h1>
+            <h1 class="rw-heading"><a name="ford" class="anchor">Glam-Ford Escape</a></h1>
             <p class="date">1/7/13</p><hr/>
             <a href="/digital/escape-to-nyc/video.php"><img class="float_right" src="_img/recent-work/glam-ford-01.jpg" alt="Glam-Ford Escape"  /></a>
             <p>With the exception of the 3.5 million dollar Super Bowl commercials these days, most of the time, we miss them ---- commercials, that is ---- we DVR, TiVo or Netflix our way right past them.  The solution for a brand to get its message across? Product placement!</p>
@@ -693,18 +714,18 @@ actors Chloe Moretz & Christopher Mintz-Plasse. The 2 leading characters appear 
         <!-- end article -->
         <!-- Begin Article -->  
         <article class="article">
-            <h1><a name="glamE" class="anchor">Glam eBay</a></h1>
+            <h1 class="rw-heading"><a name="glamE" class="anchor">Glam eBay</a></h1>
             <p class="date">1/31/13</p><hr/>
             <a href="/digital/nola-weinstein/video.php"><img class="float_left" src="_img/recent-work/glam-ebay.png" alt="Glam eBay"  /></a>
             <p>When you hear the brand "E Bay", do you think fashion? Well you may be doing that now, since the popular site has been working with major retailers to market high end apparel.</p>
             <p>Manhattan Place Entertainment, through its long standing partnership with <a href="http://www.glam.com">Glam.com</a>, produced a series of vignettes showcasing Fall and Winter fashion for women earlier this season.</p>
             <p>The link below shows one of the segments that confirms, again, MPE will over deliver for its partners!</p>
-            <p><a href="/digital/nola-weinstein/video.php">Glam eBay</a></p>
+            <p><a href="/digital/nola-weinstein/video.php">View the Glam eBay spot</a></p>
             <a class="back-to-top" href="#top">Back to Top</a>       
         </article>
         <!-- end article -->
         <article class="article">
-            <h1><a name="Sandman" class="anchor">Enter Sandman</a></h1>
+            <h1 class="rw-heading"><a name="Sandman" class="anchor">Enter Sandman</a></h1>
             <p class="date">1/24/13</p><hr/>
             <img class="float_right" src="_img/recent-work/sandman.jpg" alt="Enter Sandman"  />
             <p>This week MPE did a pro bono shoot for Prostate Cancer Awareness at the School of Visual Arts -- the event featured an appearance by a fairly well known relief pitcher -- Mariano Rivera.</p>
@@ -718,7 +739,7 @@ actors Chloe Moretz & Christopher Mintz-Plasse. The 2 leading characters appear 
         <!-- end article -->        
         <!-- Begin Article -->  
         <article class="article">
-            <h1><a name="Charity" class="anchor">A Real Charity for Real People</a></h1>
+            <h1 class="rw-heading"><a name="Charity" class="anchor">A Real Charity for Real People</a></h1>
             <p class="date">1/17/13</p><hr/>
             <img class="float_left" src="_img/recent-work/charity.jpg" alt="A Real Charity for Real People"  />
             <p>Recently, Manhattan Place Entertainment was honored to have been chosen as the field production solution for a charity called "Donors Choose", a group that does wonderful things for folks in need on a nationwide basis and more importantly right here in our neighborhood- the South Bronx.</p>
@@ -737,7 +758,7 @@ actors Chloe Moretz & Christopher Mintz-Plasse. The 2 leading characters appear 
         <!-- end article -->
         <!-- Begin Article -->  
         <article class="article">
-            <h1><a name="stones" class="anchor">WWE and MPE collaborate on Rolling Stones promotional shoot!</a></h1>
+            <h1 class="rw-heading"><a name="stones" class="anchor">WWE and MPE collaborate on Rolling Stones promotional shoot!</a></h1>
             <p class="date">December 14, 2012</p><hr/>
             <img class="float_right" src="images/recent-work/stones1.jpg" alt="WWE and MPE collaborate on Rolling Stones promotional shoot!"  />
             <p>As most everyone knows by now, The Rolling Stones are playing a handful of concert dates to celebrate 50 years of the band being together.   What you may not realize is that the Stones would not have been able to recover their costs for this mini-tour unless they got "fiscally" creative.</p>
@@ -753,7 +774,7 @@ actors Chloe Moretz & Christopher Mintz-Plasse. The 2 leading characters appear 
         <!-- end article -->
          <!-- Begin Article --> 
         <article class="article">
-            <h1><a name="dance" class="anchor">Dancing With WWE Superstars</a></h1>
+            <h1 class="rw-heading"><a name="dance" class="anchor">Dancing With WWE Superstars</a></h1>
             <p class="date">November 16 2012</p><hr/>
                 <img class="float_right" src="images/recent-work/dance.jpg" alt="Dancing With WWE Superstars"  />
             <p>We never imagined that the WWE would ask us to be their dance partner... but we were wrong!</p>
@@ -769,7 +790,7 @@ actors Chloe Moretz & Christopher Mintz-Plasse. The 2 leading characters appear 
         <!-- end article -->
         <!-- Begin Article -->  
         <article class="article">
-            <h1><a name="down" class="anchor">Down The Stretch with the NYRA</a></h1>
+            <h1 class="rw-heading"><a name="down" class="anchor">Down The Stretch with the NYRA</a></h1>
             <p class="date">October 15 2012</p><hr/>
             <img class="float_left" src="_img/recent-work/nyra2.jpg" alt="Down The Stretch with the NYRA"  />
             <p>Manhattan Place Entertainment saddles up once again with the New York Racing Association as part of an ongoing campaign to promote thoroughbred racing in the state of New York.</p>
@@ -783,7 +804,7 @@ actors Chloe Moretz & Christopher Mintz-Plasse. The 2 leading characters appear 
         <!-- end article -->
         <!-- Begin Article -->  
         <article class="article">
-            <h1><a name="kane" class="anchor">IS KANE ABLE?</a></h1>
+            <h1 class="rw-heading"><a name="kane" class="anchor">IS KANE ABLE?</a></h1>
             <p class="date">September 28 2012</p><hr/>
                 <img class="float_right" src="_img/recent-work/able.jpg" alt="IS KANE ABLE?"  />
             <p>Manhattan Place Entertainment has continued to tag team with World Wrestling Federation, which has turned to MPE to shoot a series of vignettes.</p>
@@ -799,7 +820,7 @@ WWE fans will soon learn the answers, as the vignettes helped set the stage for 
         <!-- end article -->
         <!-- Begin Article -->  
         <article class="article">
-            <h1><a name="park" class="anchor">From Manhattan Place to Park Avenue</a></h1>
+            <h1 class="rw-heading"><a name="park" class="anchor">From Manhattan Place to Park Avenue</a></h1>
             <p class="date">September 20 2012</p><hr/>
             <a href="http://beta.abc.go.com/shows/666-park-avenue">
                 <img class="float_left" src="_img/recent-work/park.jpg" alt="Raw Deal"  />
@@ -817,7 +838,7 @@ Taking our cameras on location to the scene of the series, we shot an interview 
         <!-- end article -->
         <!-- Begin Article -->  
         <article class="article">
-            <h1><a name="raw" class="anchor">"Raw Deal"</a></h1>
+            <h1 class="rw-heading"><a name="raw" class="anchor">"Raw Deal"</a></h1>
             <p class="date">September 7 2012</p><hr/>
             <a href="#raw">
                 <img class="float_right" src="_img/recent-work/raw.jpg" alt="Raw Deal"  />
@@ -836,7 +857,7 @@ When asked if he "solemnly swears", he starts swearing at his opponent, only to 
         <!-- end article -->
                 <!-- Begin Article -->  
         <article class="article">
-            <h1><a name="tennis" class="anchor">Tennis Anyone?</a></h1>
+            <h1 class="rw-heading"><a name="tennis" class="anchor">Tennis Anyone?</a></h1>
             <p class="date">September 7 2012</p><hr/>
             <a href="#tennis">
                 <img class="float_left" src="_img/recent-work/2012-us-open.jpg" alt="Tennis Anyone?"  />
@@ -852,7 +873,7 @@ When asked if he "solemnly swears", he starts swearing at his opponent, only to 
         <!-- end article -->
         <!-- Begin Article -->  
         <article class="article">
-            <h1><a name="trend" class="anchor">Setting A New Trend In "Motion"</a></h1>
+            <h1 class="rw-heading"><a name="trend" class="anchor">Setting A New Trend In "Motion"</a></h1>
             <p class="date">August 1 2012</p><hr/>
             <a href="http://www.glam.com/">
                 <img class="float_right" src="_img/recent-work/trend.jpg" alt="Setting A New Trend In 'Motion'"  />
@@ -871,7 +892,7 @@ When asked if he "solemnly swears", he starts swearing at his opponent, only to 
         <!-- end article -->
         <!-- Begin Article -->  
         <article class="article">
-            <h1><a name="coop" class="anchor">Backstage with Anderson Cooper</a></h1>
+            <h1 class="rw-heading"><a name="coop" class="anchor">Backstage with Anderson Cooper</a></h1>
             <p class="date">August 14 2012</p><hr/>
             <a href="http://www.youtube.com/watch?v=D6BViDWgwfY&list=UUSmL45bolW0JFvI_WPvtqeQ&index=1&feature=plcp">
                 <img class="float_left" src="_img/recent-work/anderson-cooper.jpg" alt="Backstage with Anderson Cooper"  />
@@ -885,7 +906,7 @@ When asked if he "solemnly swears", he starts swearing at his opponent, only to 
         <!-- end article -->
         <!-- Begin Article -->  
         <article class="article">
-            <h1><a name="nyra" class="anchor">NYRA Hands the Reins to Manhattan Place Entertainment</a></h1>
+            <h1 class="rw-heading"><a name="nyra" class="anchor">NYRA Hands the Reins to Manhattan Place Entertainment</a></h1>
             <p class="date">August 7 2012</p><hr/>
             <a href="commercial/nyra-ny-adrenaline/video.php">
                 <img class="float_right" src="_img/recent-work/nyra.jpg" alt="NYRA Hands the Reins to Manhattan Place Entertainment"  />
@@ -903,7 +924,7 @@ When asked if he "solemnly swears", he starts swearing at his opponent, only to 
         <!-- end article -->
         <!-- Begin Article -->  
         <article class="article">
-            <h1><a name="euro" class="anchor">Manhattan Place Entertainment Partners up with Euro RSCG on the "DO AC" Campaign!</a></h1>
+            <h1 class="rw-heading"><a name="euro" class="anchor">Manhattan Place Entertainment Partners up with Euro RSCG on the "DO AC" Campaign!</a></h1>
             <p class="date">July 26 2012</p><hr/>
             <a href="digital/ac-lightup-boardwalk/video.php">
                 <img class="float_left" src="_img/recent-work/atlantic-city.jpg" alt=""  />
@@ -923,7 +944,7 @@ After the sights and sounds of the music and fireworks, the night was topped off
         <!-- end article -->
         <!-- Begin Article -->  
         <article class="article">
-            <h1><a name="grapple" class="anchor">Manhattan Place Entertainment Presents "The Grapple In The Apple"</a></h1>
+            <h1 class="rw-heading"><a name="grapple" class="anchor">Manhattan Place Entertainment Presents "The Grapple In The Apple"</a></h1>
             <p class="date">June 28 2012</p><hr/>
             <a href="http://www.beat-the-streets.org/">
                 <img class="float_left" src="_img/recent-work/grapple.jpg" alt="Manhattan Place Entertainment Presents 'The Grapple In The Apple'"  />
@@ -940,7 +961,7 @@ After the sights and sounds of the music and fireworks, the night was topped off
         <!-- end article -->
         <!-- Begin Article -->  
         <article class="article">
-            <h1><a name="dunk" class="anchor">Slam Dunk for MPE!</a></h1>
+            <h1 class="rw-heading"><a name="dunk" class="anchor">Slam Dunk for MPE!</a></h1>
             <p class="date">June 21 2012</p><hr/>
             <a href="opens/nyk-tease/video.php">
                 <img class="float_right" src="_img/recent-work/slam-dunk.jpg" alt="Slam Dunk for MPE!"  />
@@ -960,7 +981,7 @@ After the sights and sounds of the music and fireworks, the night was topped off
         <!-- end article -->
         <!-- Begin Article -->  
         <article class="article">
-            <h1><a name="gardenparty" class="anchor">A Madison Square "Garden Party" with Supermodel Chrissy Teigen</a></h1>
+            <h1 class="rw-heading"><a name="gardenparty" class="anchor">A Madison Square "Garden Party" with Supermodel Chrissy Teigen</a></h1>
             <p class="date">June 14 2012</p><hr/>
             <a href="promos/block-party-music/video.php#">
                 <img class="float_right" src="_img/recent-work/garden-party.jpg" alt=""  />
@@ -979,7 +1000,7 @@ After the sights and sounds of the music and fireworks, the night was topped off
         <!-- end article -->
         <!-- Begin Article -->  
         <article class="article">
-            <h1><a name="carcam" class="anchor">The Camera Car is the right Formula for Formula 1</a></h1>
+            <h1 class="rw-heading"><a name="carcam" class="anchor">The Camera Car is the right Formula for Formula 1</a></h1>
             <p class="date">May 31 2012</p><hr/>
             <a href="#carcam">
                 <img class="float_left" src="_img/recent-work/camera-car-formula-1.jpg" alt="The Camera Car is the right Formula for Formula 1"  />
@@ -996,7 +1017,7 @@ After the sights and sounds of the music and fireworks, the night was topped off
         <!-- end article -->
         <!-- Begin Article -->  
         <article class="article">
-            <h1><a name="leary" class="anchor">Denis Leary Joins the Fight for Pancreatic Cancer</a></h1>
+            <h1 class="rw-heading"><a name="leary" class="anchor">Denis Leary Joins the Fight for Pancreatic Cancer</a></h1>
             <p class="date">May 25 2012</p><hr/>
             <a href="commercial/lustgarten-foundation-psa/video.php">
                 <img class="float_right" src="_img/recent-work/denis-leary.jpg" alt="Denis Leary Joins the Fight for Pancreatic Cancer"  />
@@ -1011,7 +1032,7 @@ After the sights and sounds of the music and fireworks, the night was topped off
         <!-- end article -->
         <!-- Begin Article -->  
         <article class="article">
-            <h1><a name="post" class="anchor">MSG Post Season Promo</a></h1>
+            <h1 class="rw-heading"><a name="post" class="anchor">MSG Post Season Promo</a></h1>
             <p class="date">May 17 2012</p><hr/>
             <a href="#post">
                 <img class="float_left" src="_img/recent-work/msg-post-season-spots.jpg" alt="MSG Post Season Spot"  />
@@ -1025,7 +1046,7 @@ After the sights and sounds of the music and fireworks, the night was topped off
         <!-- end article -->
         <!-- Begin Article -->  
         <article class="article">
-            <h1><a name="goglam" class="anchor">Manhattan Place Goes Glam</a></h1>
+            <h1 class="rw-heading"><a name="goglam" class="anchor">Manhattan Place Goes Glam</a></h1>
             <p class="date">May 16 2012</p><hr/>
             <a href="digital/kohls-rock-republic/video.php">
                 <img class="float_right" src="_img/recent-work/rw-go-glam.jpg" alt="Glam"  />
@@ -1039,7 +1060,7 @@ After the sights and sounds of the music and fireworks, the night was topped off
         <!-- end article -->
         <!-- Begin Article -->  
         <article class="article">
-            <h1><a name="tellys" class="anchor">Manhattan Place Entertainment Wins 2 Tellys</a></h1>
+            <h1 class="rw-heading"><a name="tellys" class="anchor">Manhattan Place Entertainment Wins 2 Tellys</a></h1>
             <p class="date">May 3 2012</p><hr/>
             <a href="teases/journey-911/video.php">
                 <img class="float_left" src="_img/recent-work/rw-fdny.jpg" alt="FDNY"  />
@@ -1056,7 +1077,7 @@ After the sights and sounds of the music and fireworks, the night was topped off
         <!-- end article -->
         <!-- Begin Article -->  
         <article class="article">
-            <h1><a name="beyonce" class="anchor">MPE On Target With Beyonce</a></h1>
+            <h1 class="rw-heading"><a name="beyonce" class="anchor">MPE On Target With Beyonce</a></h1>
             <p class="date">June 8 2011</p><hr/>
             <a href="digital/beyonce-4/video.php">
                 <img class="float_right" src="_img/recent-work/beyonce.jpg" alt="Beyonce"  />
@@ -1072,7 +1093,7 @@ After the sights and sounds of the music and fireworks, the night was topped off
         
         <!-- Begin Article -->
         <article class="article">
-            <h1><a name="spring" class="anchor">Spring Ahead with Glam.com</a></h1>
+            <h1 class="rw-heading"><a name="spring" class="anchor">Spring Ahead with Glam.com</a></h1>
             <p class="date">April 26 2012</p><hr/>
             <a href="digital/glam-smart-moms-connect/glam-video.php"><img class="float_left" src="_img/recent-work/rw-glam.jpg" alt="Spring Ahead with Glam.com"  /></a>
             <p>Manhattan Place Entertainment in collaboration with <a href="//www.glam.com">GLAM.com</a> has created a series of new webisodes showcasing Kohl's hottest Spring Trends.</p>
@@ -1086,7 +1107,7 @@ After the sights and sounds of the music and fireworks, the night was topped off
         
         <!-- Begin Article -->
         <article class="article">
-            <h1><a name="backon" class="anchor">Manhattan Place Entertainment gets "Back On Track"!</a></h1>
+            <h1 class="rw-heading"><a name="backon" class="anchor">Manhattan Place Entertainment gets "Back On Track"!</a></h1>
             <p class="date">April 19 2012</p><hr/>
             <a href="digital/kohls/video.php"><img class="float_right" src="_img/recent-work/rw-speed.jpg" alt="Back On Track"  /></a>
             <p>Manhattan place entertainment (MPE) recently got "Back on Track" with SPEED to execute a major production shoot this time involving the NASCAR Craftsmen Truck Series.</p> 
@@ -1100,7 +1121,7 @@ After the sights and sounds of the music and fireworks, the night was topped off
         
         <!-- Begin Article -->
         <article class="article">
-            <h1><a name="rocks" class="anchor">Kohl's Rocks a New Look</a></h1>
+            <h1 class="rw-heading"><a name="rocks" class="anchor">Kohl's Rocks a New Look</a></h1>
             <p class="date">April 13 2012</p><hr/>
             <a href="digital/kohls/video.php"><img class="float_left" src="_img/recent-work/rw-kohls.jpg" alt="Kohl's Rocks a New Look"  /></a>
             <p>Manhattan Place Entertainment, collaborating with <a href="//www.glam.com">Glam.com</a>, hit the runways during New York's Fashion Week to produce a video celebrating the launch of of Rock &amp; Republic, a new line available exclusively at Kohl's.</p> 
@@ -1112,7 +1133,7 @@ After the sights and sounds of the music and fireworks, the night was topped off
         
         <!-- Begin Article -->
         <article class="article">
-            <h1><a name="nyr2012" class="anchor">2011-2012 NY Rangers Video Introduction</a></h1>
+            <h1 class="rw-heading"><a name="nyr2012" class="anchor">2011-2012 NY Rangers Video Introduction</a></h1>
             <p class="date">April 5 2012</p><hr/>
             <a href="opens/nyr-2012-open/video.php"><img class="float_right" src="_img/recent-work/rw-nyr.jpg" alt="NY Rangers Video Introduction"  /></a>
             <p>As the New York Rangers head for the playoffs and the chase for the Stanley Cup, Manhattan Place Entertainment is helping to heat things up on the ice at Madison Square Garden.</p>  
@@ -1124,7 +1145,7 @@ After the sights and sounds of the music and fireworks, the night was topped off
         
         <!-- Begin Article -->
         <article class="article">
-            <h1><a name="brew" class="anchor">Keurig Brews New Coffee Campaign ... with the help of Manhattan Place!</a></h1>
+            <h1 class="rw-heading"><a name="brew" class="anchor">Keurig Brews New Coffee Campaign ... with the help of Manhattan Place!</a></h1>
             <p class="date">March 29 2012</p><hr/>
             <a href="commercial/keurig/video.php"><img class="float_left" src="_img/recent-work/rw-vue.jpg" alt="Keurig Brews New Coffee"  /></a>
             <p>Manhattan Place Entertainment is on the road again, going coast to coast for a new campaign for Keurig coffee makers.</p>
@@ -1139,7 +1160,7 @@ After the sights and sounds of the music and fireworks, the night was topped off
         
         <!-- Begin Article -->
         <article class="article">
-            <h1><a name="nyscf" class="anchor">MPE Produces Video For New York Stem Cell Foundation</a></h1>
+            <h1 class="rw-heading"><a name="nyscf" class="anchor">MPE Produces Video For New York Stem Cell Foundation</a></h1>
             <p class="date">March 22 2012</p><hr/>
             <a href="digital/nyscf/video.php"><img class="float_right" src="_img/recent-work/nyscr.jpg" alt="New York Stem Cell Foundation"  /></a>
             <p>Manhattan Place Entertainment partnered with the New York Stem Cell Foundation, to produce a video highlighting the foundation's groundbreaking work.</p> 
@@ -1153,7 +1174,7 @@ After the sights and sounds of the music and fireworks, the night was topped off
 
         <!-- Begin Article -->  
         <article class="article">
-            <h1><a name="nykp" class="anchor">2011/2012 NY Knicks Video Introduction</a></h1>
+            <h1 class="rw-heading"><a name="nykp" class="anchor">2011/2012 NY Knicks Video Introduction</a></h1>
             <p class="date">March 15 2012</p><hr/>
             <a href="opens/nyk-tease/video.php">
                 <img class="float_left" src="_img/recent-work/ny-knicks-2012.jpg" alt="New York Knicks"  />
@@ -1168,7 +1189,7 @@ After the sights and sounds of the music and fireworks, the night was topped off
         
         <!-- Begin Article -->  
         <article class="article">
-            <h1><a name="fsa" class="anchor">MPE Goes Full Speed Ahead for NASCAR</a></h1>
+            <h1 class="rw-heading"><a name="fsa" class="anchor">MPE Goes Full Speed Ahead for NASCAR</a></h1>
             <p class="date">March 8 2012</p><hr/>
             <a>
                 <img class="float_right" src="_img/recent-work/tony-stewart.jpg" alt="Tony Stewart"  />
@@ -1188,7 +1209,7 @@ After the sights and sounds of the music and fireworks, the night was topped off
 
         <!-- Begin Article -->  
         <article class="article">
-            <h1><a name="bhm" class="anchor">MPE Celebrates Black History Month</a></h1>
+            <h1 class="rw-heading"><a name="bhm" class="anchor">MPE Celebrates Black History Month</a></h1>
             <p class="date">February 24 2012</p><hr/>
             <a href="psa/bhm-katherine/video.php">
                 <img class="float_left" src="_img/recent-work/black-history.jpg" alt="Voices of Harlem"  />
@@ -1203,7 +1224,7 @@ After the sights and sounds of the music and fireworks, the night was topped off
 
         <!-- Begin Article -->  
         <article class="article">
-            <h1><a name="ceelo" class="anchor">MPE Rings In New Year With Cee Lo</a></h1>
+            <h1 class="rw-heading"><a name="ceelo" class="anchor">MPE Rings In New Year With Cee Lo</a></h1>
             <p class="date">January 20 2012</p><hr/>
             <a>
                 <img class="float_right" src="_img/recent-work/cee-lo.jpg" alt="Cee Lo"  />
@@ -1218,7 +1239,7 @@ After the sights and sounds of the music and fireworks, the night was topped off
 
         <!-- Begin Article -->  
         <article class="article">
-            <h1><a name="oral" class="anchor">MPE Provides New 'View' of Oral B<small>&#174;</small></a></h1>
+            <h1 class="rw-heading"><a name="oral" class="anchor">MPE Provides New 'View' of Oral B<small>&#174;</small></a></h1>
             <p class="date">January 6 2012</p><hr/>
             <a href="digital/sherri-oral-b/video-sherri.php">
                 <img class="float_left" src="_img/recent-work/oral-b.jpg" alt="Sherri Sheppard"  />
@@ -1240,7 +1261,7 @@ After the sights and sounds of the music and fireworks, the night was topped off
     
         <!-- Begin Article -->  
         <article class="article">
-            <h1><a name="fsa" class="anchor">MPE Goes Full Speed Ahead</a></h1>
+            <h1 class="rw-heading"><a name="fsa" class="anchor">MPE Goes Full Speed Ahead</a></h1>
             <p class="date">November 18 2011</p><hr/>
             <img class="float_left" src="_img/recent-work/speed-channel.jpg" alt="speed-channel" />
             <p>Manhattan Place Entertainment is off to the races with a new project for 
@@ -1255,7 +1276,7 @@ After the sights and sounds of the music and fireworks, the night was topped off
            
         <!-- Begin Article -->  
         <article class="article">
-            <h1><a name="mort" class="anchor">MPE Gets 'Mortified'</a></h1>
+            <h1 class="rw-heading"><a name="mort" class="anchor">MPE Gets 'Mortified'</a></h1>
             <p class="date">November 17 2011</p><hr/>
             <a href="episodic/burns/video.php">
                 <img class="float_right" src="_img/recent-work/ed-burns.jpg" alt="Ed Burns"  />
@@ -1271,7 +1292,7 @@ After the sights and sounds of the music and fireworks, the night was topped off
         
         <!-- Begin Article -->  
         <article class="article">
-            <h1><a name="vets" class="anchor">MPE's Veteran's Day tease honors heroic pioneers on Fox NFL Sunday</a></h1>
+            <h1 class="rw-heading"><a name="vets" class="anchor">MPE's Veteran's Day tease honors heroic pioneers on Fox NFL Sunday</a></h1>
             <p class="date">November 11 2011</p><hr/>
             <a href="teases/airmen/video.php">
                 <img class="float_right" src="_img/recent-work/veterns-day.jpg" alt="The famed Tuskegee Airmen"  />
@@ -1287,7 +1308,7 @@ After the sights and sounds of the music and fireworks, the night was topped off
     
         <!-- Begin Article -->  
         <article class="article">
-            <h1><a href="/promos/dan-patrick/video-dan-patrick.php" name="close" class="anchor">MPE Gets Up Close with Dan Patrick</a></h1>
+            <h1 class="rw-heading"><a href="/promos/dan-patrick/video-dan-patrick.php" name="close" class="anchor">MPE Gets Up Close with Dan Patrick</a></h1>
             <p class="date">November 4 2011</p><hr/>
             <a href="promos/dan-patrick/video-dan-patrick.php">
                 <img class="float_left" src="_img/recent-work/bts-dan-patrick.jpg" alt="Dan patrick"  />
@@ -1302,7 +1323,7 @@ After the sights and sounds of the music and fireworks, the night was topped off
     
         <!-- Begin Article -->  
         <article class="article">
-            <h1><a name="depth" class="anchor">"The Depth Chart" on ESPN</a></h1>
+            <h1 class="rw-heading"><a name="depth" class="anchor">"The Depth Chart" on ESPN</a></h1>
             <p class="date">October 28 2011</p><hr/>
                 <img class="float_right" src="_img/recent-work/depth-chart.jpg" alt="depth-chart" />
             <p>MPE Tackles ESPN Football Documentary For DLP Entertainment</p> 
@@ -1319,7 +1340,7 @@ After the sights and sounds of the music and fireworks, the night was topped off
     
         <!-- Begin Article -->  
         <article class="article">
-            <h1><a name="giant" class="anchor">MPE Takes "Giant" Steps</a></h1>
+            <h1 class="rw-heading"><a name="giant" class="anchor">MPE Takes "Giant" Steps</a></h1>
             <p class="date">October 12 2011</p><hr/>
             <a href="promos/banks/video-banks.php">
                 <img class="float_left" src="_img/recent-work/bts-giants.jpg" alt="MPE Takes 'Giant' Steps" />
@@ -1335,7 +1356,7 @@ After the sights and sounds of the music and fireworks, the night was topped off
     
         <!-- Begin Article -->  
         <article class="article">
-            <h1><a name="commemorating" class="anchor">MPE Shoots Special Feature Commemorating 9/11 Anniversary</a></h1>
+            <h1 class="rw-heading"><a name="commemorating" class="anchor">MPE Shoots Special Feature Commemorating 9/11 Anniversary</a></h1>
             <p class="date">September 21 2011</p><hr/>
             <a href="">
                 <img class="float_right" src="_img/recent-work/bts-journey.jpg" alt="firemen!"  />
@@ -1352,7 +1373,7 @@ After the sights and sounds of the music and fireworks, the night was topped off
     
         <!-- Begin Article -->  
         <article class="article">
-            <h1><a name="thomas" class="anchor">Manhattan Place Entertainment is All Aboard With 
+            <h1 class="rw-heading"><a name="thomas" class="anchor">Manhattan Place Entertainment is All Aboard With 
             Thomas &amp; Friends™!</a></h1>
             <p class="date">September 21 2011</p><hr/>
             <a><img class="float_left" src="_img/recent-work/bts-thomas.jpg" alt="Thomas & Friends™!"  /></a>
@@ -1368,7 +1389,7 @@ After the sights and sounds of the music and fireworks, the night was topped off
         
         <!-- Begin Article -->  
         <article class="article">
-            <h1><a name="pan" class="anchor">MPE Takes off with 'Pan Am'</a></h1>
+            <h1 class="rw-heading"><a name="pan" class="anchor">MPE Takes off with 'Pan Am'</a></h1>
             <p class="date"></p><hr/>
             <img class="float_right" src="_img/recent-work/bts-pan-am.jpg" alt="Pan Am"  />
             <p>Manhattan Place Entertainment was on board with one of the most intriguing new shows of the fall TV season, 'Pan Am'.</p>
@@ -1382,7 +1403,7 @@ After the sights and sounds of the music and fireworks, the night was topped off
     
         <!-- Begin Article -->  
         <article class="article">
-            <h1><a name="boys" class="anchor">MPE Steps up to the plate with "Boys in the Hall"</a></h1>
+            <h1 class="rw-heading"><a name="boys" class="anchor">MPE Steps up to the plate with "Boys in the Hall"</a></h1>
             <p class="date">July 27 2011</p><hr/>
             <a><img class="float_right" src="_img/recent-work/bts-boys.jpg" alt="Boys in the Hall"  /></a>
             <p>Manhattan Place Entertainment is proud to be associated with a new series that brings baseball history to life for fans across the country.  "The Boys in the Hall", a weekly half-hour series, has been airing on Fox Sports Net.  Hosted by former NBC News anchor Tom Brokaw, the 13 episode series features revealing interviews conducted by former baseball commissioner Fay Vincent with some of the greatest players of all-time.  MPE provided production services including art direction, design and construction of all the studio sets, with Steve Cohen serving as the Director of Photography.  In this project, MPE collaborated with Flagstaff Productions, the producers of well known sports documentary shows for HBO including "When it was a Game", "Mantle", and "Babe Ruth". Check your local listings for "Boys in the Hall" on Fox Sports Net.</p>
@@ -1393,7 +1414,7 @@ After the sights and sounds of the music and fireworks, the night was topped off
     
         <!-- Begin Article -->  
         <article class="article">
-            <h1><a name="telly" class="anchor">MPE Wins 2 More Telly Awards for "Eyes Wide Shut" &amp; "Lombardi" Super Bowl XLV</a></h1>
+            <h1 class="rw-heading"><a name="telly" class="anchor">MPE Wins 2 More Telly Awards for "Eyes Wide Shut" &amp; "Lombardi" Super Bowl XLV</a></h1>
             <p class="date">June 29 2011</p><hr/>
             <a class="more" href="teases/lombardi-superbowl-xlv/video.php">
                 <img class="float_left" src="_img/recent-work/bts-lombardi.jpg" alt="Lombardi"  />
@@ -1412,7 +1433,7 @@ After the sights and sounds of the music and fireworks, the night was topped off
        
         <!-- Begin Article -->  
         <article class="article">
-            <h1><a name="damages" class="anchor">MPE Doing Some 'Damages'</a></h1>
+            <h1 class="rw-heading"><a name="damages" class="anchor">MPE Doing Some 'Damages'</a></h1>
             <p class="date">June 28 2011</p><hr/>
             <a href="promos/damages-redcarpet/video.php">
                 <img class="float_left" src="_img/recent-work/damages.jpg" alt="Glenn Close"  />
@@ -1428,7 +1449,7 @@ After the sights and sounds of the music and fireworks, the night was topped off
                 
         <!-- Begin Article -->  
         <article class="article">
-            <h1><a class="anchor" name="vincent">MPE Partners with St. Vincent's Medical Center to Produce Cancer Awareness Commercial</a></h1>
+            <h1 class="rw-heading"><a class="anchor" name="vincent">MPE Partners with St. Vincent's Medical Center to Produce Cancer Awareness Commercial</a></h1>
             <p class="date">May 12 2011</p><hr>
             <a><img alt="St. Vincent's Medical Center" src="_img/recent-work/bts-st-vincent.jpg" class="float_right"></a>
             <p>Manhattan Place Entertainment recently shot, produced and executed a campaign of TV commercials demonstrating the innovative cancer care approach of St. Vincent's Medical Center in Bridgeport, Connecticut.</p> 
@@ -1444,7 +1465,7 @@ After the sights and sounds of the music and fireworks, the night was topped off
                                 
         <!-- Begin Article -->  
         <article class="article">
-            <h1><a name="michael-douglas" class="anchor" >Manhattan Place Entertainment Makes it to their 8th Super Bowl!</a></h1>
+            <h1 class="rw-heading"><a name="michael-douglas" class="anchor" >Manhattan Place Entertainment Makes it to their 8th Super Bowl!</a></h1>
             <p class="date">February 7 2011</p><hr/>
             <a><img class="float_left" src="_img/recent-work/bts-michael-douglas.jpg" alt="Michael Douglas"  /></a>
             <p>MPE, the Emmy, Promax, Cine Eagle and Telly Award winning production house, shot and directed Oscar winning actor Michael Douglas narrating a retrospective piece entitled, ”The Journey”. The inspiring feature aired just prior to the kick off of Super bowl XLV and was literally seen by an audience numbering in the 10 millions.</p> 
@@ -1455,7 +1476,7 @@ After the sights and sounds of the music and fireworks, the night was topped off
         
         <!-- Begin Article -->  
         <article class="article">
-            <h1><a name="lombardi" class="anchor">"Lombardi" delivers stirring Pre-Game speech to Packers</a></h1>
+            <h1 class="rw-heading"><a name="lombardi" class="anchor">"Lombardi" delivers stirring Pre-Game speech to Packers</a></h1>
             <p class="date">February 7 2011</p><hr/>
             <a><img class="float_right" src="_img/recent-work/bts-lombardi.jpg" alt="Lombardi"  /></a>
             <p>Dan Lauria, the star of Broadway’s hit play “Lombardi” performed a compelling Super Bowl pre-game speech that addressed the reigning NFC champion Green Bay Packers, imploring them to play their best in the Super Bowl.</p> 
@@ -1470,7 +1491,7 @@ After the sights and sounds of the music and fireworks, the night was topped off
         
         <!-- Begin Article -->  
         <article class="article">
-            <h1><a href="" class="anchor" name="indy">MPE Works with VERSUS to shoot Indy Car Portraits!</a></h1>
+            <h1 class="rw-heading"><a href="" class="anchor" name="indy">MPE Works with VERSUS to shoot Indy Car Portraits!</a></h1>
             <p class="date">May 25 2010</p><hr/>
             <p>With the 46th running of the Indianapolis 500 upon us, MPE is proud to have "qualified" in playing a key role in the creation of a fresh new look for Versus and their 2010 IZOD Indy Car Series telecasts.</p> 
             <img class="float_right" src="_img/recent-work/bts_indy.jpg" alt="Danica Patrick IZOD Indy Car Series Driver"  />
@@ -1487,44 +1508,30 @@ After the sights and sounds of the music and fireworks, the night was topped off
     
         <!-- Begin Article -->  
         <article class="article">
-            <h1><a href="" class="anchor" name="ten">Manhattan Place Entertainment Wins 10 More Telly Awards!</a></h1>
+            <h1 class="rw-heading"><a href="" class="anchor" name="ten">Manhattan Place Entertainment Wins 10 More Telly Awards!</a></h1>
             <p class="date">April 30 2010</p><hr/>
             <a href="psa/michaeljfox/video.php"><img class="float_left" src="_img/recent-work/rw-mjf.jpg" alt="Michael J. Fox"  /></a>
             <p>Michael J Fox Foundation PSA</p>
             <p>Manhattan Place Entertainment is the proud recipient of 10 more Telly Awards.  These latest Telly's were received for projects that were produced in the second half of 2009.</p>  
             <p> Tellys were awarded for the "Michael J. Fox Foundation" PSA in the categories of Public Service announcement, Videography/Cinematography and Lighting.  "United We Play" produced for the New York Liberty also earned 3 awards for Videography/Cinematography, Editing, and Copywriting.  The third award winning spot was the Lustgarten Foundation Public Service announcement for pancreatic cancer featuring well known Actor Bryan Cranston ("Breaking Bad"). This was recognized for best Public Service announcement, Lighting, and Set Design. Completing the list of winners was "Baby by Me," featuring rap Superstar "50 Cent" which won for best Videography/Cinematography.  All told MPE received a whopping 14 Telly Awards for 2009.</p> 
-<!--
-            <ul class="award-winners">
-                <li>NY Liberty "United We Play""</li>
-                <li>50 Cent in Vitamin Water Spot</li>
-                <li>Bryan Cranston Lustgarten PSA</li>
-            </ul>
--->
             <a class="back-to-top" href="#top">Back to Top</a>
         </article>
         <!-- end article -->
     
         <!-- Begin Article -->  
         <article class="article">
-            <h1><a href="" class="anchor" name="eagle">MPE Wins 3 Cine Eagle Awards!</a></h1>
+            <h1 class="rw-heading"><a href="" class="anchor" name="eagle">MPE Wins 3 Cine Eagle Awards!</a></h1>
             <p class="date">March 11 2010</p><hr/>
             <p>Manhattan Place Entertainment was recognized with 3 Cine Eagle "Golden Eagle" Awards. Two were for the New York Knicks Marketing Campaign and the other was for the The New York Rangers marketing campaign.</p>
             <p>The Golden Eagle is the highest honor bestowed by the Cine Eagle Awards.</p>
             <p>The first award was for the Nate Robinson "Working For It" commercial and the second award was in the category of "Program Open" for the New York Knicks "In-Arena Open".  The third award MPE received was for Cinematography on the "I am a Ranger" spot that we shot last spring.  That combined with 4 Telly Awards made 2009 a banner year for MPE.</p>
-<!--
-            <ul class="award-winners">Award Winners
-                <li>"I am a Ranger"</li>
-                <li>"Remember It"</li>
-                <li>"Working For It"</li>
-            </ul>
--->
             <a class="back-to-top" href="#top">Back to Top</a>
         </article>
         <!-- end article -->
     
         <!-- Begin Article -->  
         <article class="article">
-            <h1><a href="" class="anchor" name="grail">The "Holy Grail" of Live Events! The Monty Python Reunion</a></h1>
+            <h1 class="rw-heading"><a href="" class="anchor" name="grail">The "Holy Grail" of Live Events! The Monty Python Reunion</a></h1>
             <p class="date">February 1 2010</p><hr/>
             <a href=""><img class="float_left" src="_img/recent-work/python.jpg" alt="Recent Work"  /></a>
             <p>Manhattan Place Entertainment working in connection with IFC (The Independent Film Channel) handled the live mutli-camera video production, IMAG projection, and simultaneous web streaming of The Monty Python Reunion held at the Ziegfeld Theater in NYC.</p>
@@ -1537,7 +1544,7 @@ After the sights and sounds of the music and fireworks, the night was topped off
     
         <!-- Begin Article -->  
         <article class="article">
-            <h1><a href="" class="anchor" name="50cent">Manhattan Place Shoots "Baby By Me" with 50 Cent</a></h1>
+            <h1 class="rw-heading"><a href="" class="anchor" name="50cent">Manhattan Place Shoots "Baby By Me" with 50 Cent</a></h1>
             <p class="date">January 11 2010</p><hr/>
             <a href="promos/50cent/50cent.php"><img class="float_left" src="_img/recent-work/bts_50cent.jpg" alt="bts_01"  /></a>
             <p>Manhattan Place Entertainment recently produced and shot "Baby By Me" a :60 second TV spot for Vitamin Water starring hip-hop superstar 50 Cent.</p> 
