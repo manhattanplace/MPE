@@ -560,7 +560,7 @@ Manhattan Place Entertainment handled all field production services as well as p
             <h1 class="rw-heading"><a name="vh1lhh" class="anchor">VH1: Love & Hip Hop - Show Open</a></h1>
             <p class="date">9/5/13</p>
         	<p class="date">Client: VH1</p><hr/>
-            <p>Shot portraits of the newest cast members for the purpose of compositing and integrating the newly shot elements into the existing show open.  In acquiring these new elements, the main challenge was to exactly match the shot composition and lighting style used in the original show open   Snejina Latev directed and Steve Cohen was the director of photography. Shot on the Red Epic at 4K.</p>
+            <p>Shot portraits of the newest cast members for the purpose of compositing and integrating the newly shot elements into the existing show open.  In acquiring these new elements, the main challenge was to exactly match the shot composition and lighting style used in the original show open Snejina Latev directed and Steve Cohen was the director of photography. Shot on the Red Epic at 4K.</p>
             <a class="back-to-top" href="#top">Back to Top</a>       
         </div>
         <!-- end article -->

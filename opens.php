@@ -46,6 +46,30 @@ $menu->special ="Special";
         <!-- case study  -->
                     <li>
                         <div>
+                            <a class="gallery_overlay" href="images/opens/love-and-hip-hop.jpg">
+                               <img src="images/opens/love-and-hip-hop-thumb.jpg" alt="Love and Hip Hop" ></a>
+                          </div>
+                           <a href="opens/love-and-hip-hop/video.php"></a>
+                        <dl>
+                            <dt class="description">Title:</dt> 
+                                <dd>"Love and Hip Hop" show Open</dd> 
+                            <dt class="description">CLIENT:</dt> 
+                                <dd>VH-1</dd>
+                            <dt class="description">DIRECTOR OF OPEN:</dt> 
+                                <dd>Snejina Latev</dd>
+                            <dt class="description">LINE PRODUCER:</dt> 
+                                <dd>Jennifer Moy</dd>
+                            <dt class="description">PRODUCTION MANAGER:</dt> 
+                                <dd>Jon Lee</dd>
+                            <dt class="description">DP:</dt> 
+                                <dd>Steve Cohen</dd>
+                            <dt class="description">Production Services:</dt> 
+                                <dd>Manhattan Place Entertainment </dd>
+                        </dl>
+                    </li>
+        <!-- case study  -->
+                    <li>
+                        <div>
                             <a class="gallery_overlay" href="images/opens/fox-superbowl.jpg">
                                <img src="images/opens/fox-superbowl-thumb.jpg" alt="Give My Regards to Broadway" ></a>
                           </div>

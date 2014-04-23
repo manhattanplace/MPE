@@ -9,7 +9,8 @@ $menu->special ="Special";
 ?>
 <!DOCTYPE HTML>
 <html lang="en" id="manhattanplace-tv">
-<head><meta charset="UTF-8"> 
+<head>
+<meta charset="UTF-8"> 
 <title>50 Cent Vitamin Water Promo</title>
 <meta name="description" content="video">
 <!--[if IE 7]>
