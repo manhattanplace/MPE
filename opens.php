@@ -46,6 +46,28 @@ $menu->special ="Special";
         <!-- case study  -->
                     <li>
                         <div>
+                            <a class="gallery_overlay" href="images/opens/fox-superbowl.jpg">
+                               <img src="images/opens/fox-superbowl-thumb.jpg" alt="Give My Regards to Broadway" ></a>
+                          </div>
+                           <a href="http://vimeo.com/86432448"></a>
+                        <dl>
+                            <dd>Superbowl XLVIII Pre Game Show Open</dd>
+                            <dd>FOX NFL Sunday</dd>   
+                            <dt class="description">Title:</dt> 
+                                <dd>Give My Regards to Broadway</dd> 
+                            <dt class="description">CLIENT:</dt> 
+                                <dd>FOX Sports</dd>
+                            <dt class="description">Producer:</dt> 
+                                <dd>Bernie Kim</dd>
+                            <dt class="description">DIRECTOR/DP:</dt> 
+                                <dd>Steve Cohen </dd>
+                            <dt class="description">Production Services:</dt> 
+                                <dd>Manhattan Place Entertainment </dd>
+                        </dl>
+                    </li>
+        <!-- case study  -->
+                    <li>
+                        <div>
                             <a class="gallery_overlay" href="images/opens/love-and-hip-hop.jpg">
                                <img src="images/opens/love-and-hip-hop-thumb.jpg" alt="Love and Hip Hop" ></a>
                           </div>
@@ -63,28 +85,6 @@ $menu->special ="Special";
                                 <dd>Jon Lee</dd>
                             <dt class="description">DP:</dt> 
                                 <dd>Steve Cohen</dd>
-                            <dt class="description">Production Services:</dt> 
-                                <dd>Manhattan Place Entertainment </dd>
-                        </dl>
-                    </li>
-        <!-- case study  -->
-                    <li>
-                        <div>
-                            <a class="gallery_overlay" href="images/opens/fox-superbowl.jpg">
-                               <img src="images/opens/fox-superbowl-thumb.jpg" alt="Give My Regards to Broadway" ></a>
-                          </div>
-                           <a href="http://vimeo.com/86432448"></a>
-                        <dl>
-                            <dd>Superbowl XLVIII Pre Game Show Open</dd>
-                            <dd>FOX NFL Sunday</dd>   
-                            <dt class="description">Title:</dt> 
-                                <dd>Give My Regards to Broadway</dd> 
-                            <dt class="description">CLIENT:</dt> 
-                                <dd>FOX Sports</dd>
-                            <dt class="description">Producer:</dt> 
-                                <dd>Bernie Kim</dd>
-                            <dt class="description">DIRECTOR/DP:</dt> 
-                                <dd>Steve Cohen </dd>
                             <dt class="description">Production Services:</dt> 
                                 <dd>Manhattan Place Entertainment </dd>
                         </dl>
