@@ -202,35 +202,35 @@ $menu->special ="Special";
                     <div class="pagination"></div>
                 </div>
             </div>
-            <div id="one" class="modal">
+            <div id="one" class="modal" data-video="/directors/steve-cohen/pc-cure.php">
                 <a class="close" href="">close</a>
                 <script>QT_WriteOBJECT('/videos/curePC/cranston.mov', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
             </div>
-            <div id="two" class="modal">
+            <div id="two" class="modal" data-video="/videos/lustgarten-foundation-psa/lustgarten-foundation-psa.mov">
                 <a class="close" href="">close</a>
                 <script>QT_WriteOBJECT('/videos/lustgarten-foundation-psa/lustgarten-foundation-psa.mov', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
             </div>
-            <div id="three" class="modal">
+            <div id="three" class="modal" data-video="/videos/dan-patrick/dan-patrick.mov">
                 <a class="close" href="">close</a>
                 <script>QT_WriteOBJECT('/videos/dan-patrick/dan-patrick.mov', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
             </div>
-            <div id="four" class="modal">
+            <div id="four" class="modal" data-video="/videos/anderson-cooper/anderson-cooper.mov">
                 <a class="close" href="">close</a>
                 <script>QT_WriteOBJECT('/videos/anderson-cooper/anderson-cooper.mov', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
             </div>
-            <div id="five" class="modal">
+            <div id="five" class="modal" data-video="/videos/50cent/50cent.mov">
                 <a class="close" href="">close</a>
                 <script>QT_WriteOBJECT('/videos/50cent/50cent.mov', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
             </div>
-            <div id="six" class="modal">
+            <div id="six" class="modal" data-video="/videos/ac-lightup-boardwalk/ac-lightup-boardwalk.mov">
                 <a class="close" href="">close</a>
                <script>QT_WriteOBJECT('/videos/ac-lightup-boardwalk/ac-lightup-boardwalk.mov', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
             </div>
-            <div id="seven" class="modal">
+            <div id="seven" class="modal" data-video="/videos/rangers-75th/rangers_75th.mov">
                 <a class="close" href="">close</a>
                 <script>QT_WriteOBJECT('/videos/rangers-75th/rangers_75th.mov', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
             </div>
-            <div id="eight" class="modal">
+            <div id="eight" class="modal" data-video="/videos/espn-camp-canine-groovin/espn-camp-canine-groovin.mov">
                 <a class="close" href="">close</a>
                 <script>QT_WriteOBJECT('/videos/espn-camp-canine-groovin/espn-camp-canine-groovin.mov', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
             </div>
@@ -238,11 +238,11 @@ $menu->special ="Special";
                 <a class="close" href="">close</a>
                 <script>QT_WriteOBJECT('/videos/giants-rewind/papa.mov', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
             </div>
-            <div id="ten" class="modal">
+            <div id="ten" class="modal" data-video="/videos/whatever-he-wants/Control_room.mov">
                 <a class="close" href="">close</a>
                 <script>QT_WriteOBJECT('/videos/whatever-he-wants/Control_room.mov', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
             </div>
-            <div id="eleven" class="modal">
+            <div id="eleven" class="modal" data-video="/videos/hnl01/hnl01.mov">
                 <a class="close" href="">close</a>
                 <script>QT_WriteOBJECT('/videos/hnl01/hnl01.mov', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
             </div>

@@ -141,27 +141,27 @@ $menu->special ="Special";
                     <div class="pagination"></div>
                 </div>
             </div>
-            <div id="one" class="modal">
+            <div id="one" class="modal" data-video="/videos/doritos/doritos.mov">
                 <a class="close" href="">close</a>
                 <script>QT_WriteOBJECT('/videos/doritos/doritos.mov', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'TOFIT');</script>
             </div>
-            <div id="two" class="modal">
+            <div id="two" class="modal" data-video="/videos/doritos/goosha-round-run.mov">
                 <a class="close" href="">close</a>
                 <script>QT_WriteOBJECT('/videos/goosha-round-run/goosha-round-run.mov', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'TOFIT');</script>
             </div>
-            <div id="three" class="modal">
+            <div id="three" class="modal" data-video="/videos/doritos/forgiato-grill.mov">
                 <a class="close" href="">close</a>
                 <script>QT_WriteOBJECT('/videos/forgiato-grill/forgiato-grill.mov', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'TOFIT');</script>
             </div>
-            <div id="four" class="modal">
+            <div id="four" class="modal" data-video="/videos/doritos/forgiato-desire.mov">
                 <a class="close" href="">close</a>
                 <script>QT_WriteOBJECT('/videos/forgiato-desire/forgiato-desire.mov', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'TOFIT');</script>
             </div>
-            <div id="five" class="modal">
+            <div id="five" class="modal" data-video="/videos/doritos/casio.mov">
                 <a class="close" href="">close</a>
                 <script>QT_WriteOBJECT('/videos/casio/casio.mov', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'TOFIT');</script>
             </div>
-            <div id="six" class="modal">
+            <div id="six" class="modal" data-video="/videos/doritos/forgiato-freedom.mov">
                 <a class="close" href="">close</a>
                 <script>QT_WriteOBJECT('/videos/forgiato-freedom/forgiato-freedom.mov', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'TOFIT');</script>
             </div>

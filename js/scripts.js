@@ -58,28 +58,24 @@ $(document).ready(function() {
         $('.plus-minus').removeClass('minus');
     });
     //video modal
-    $('.directors .main-screen').on('click', 'a',  function() { 
-        var video =  $(this).attr('href');
+    $('.directors').on('click', '.main-screen',  function() {
+        var video =  $(this).find('a').attr('href');
+        var path = $(this).parents('.directors').find('"'+video+'"').data('video');
+        console.log(path);
+        console.log(video);
         $(this).parents('.directors').find('"'+video+'"').show();
         $(this).parents('.panel').next('.modal-backdrop').show();
-        $(' '+video+' video').get(0).play();
+        window.history.pushState(path, 'Video', path);   
+        
     });
-    $('.directors .main-screen').on('click', '.click-to-play',  function() { 
-        var video =  $(this).next('a').attr('href');
-        console.log('"'+video+'"');
-        $(this).parents('.directors').find('"'+video+'"').show();
-        $(this).parents('.panel').next('.modal-backdrop').show();
-    });
+
     $('.modal-backdrop').on('click', function(){
         $(this).hide();
         $('.modal').hide();
-        $(' '+video+' video').get(0).pause();
     });
     $('.modal').on('click', '.close', function(e){
         e.preventDefault();
         $('.modal-backdrop').hide();
         $('.modal').hide();
-        $(this).next('video').get(0).pause();
     });
-
 });
