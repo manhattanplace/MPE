@@ -117,7 +117,7 @@ $menu->special ="Special";
                             <dt class="description">EXECUTIVE PRODUCERS:</dt>
                                 <dd>Steve Cohen &amp; Chris Long </dd>
                             <dt class="description">Producers:</dt>
-                                <dd>BJ Acaley, Michael Strom, </dd>
+                                <dd>BJ Acaley, Michael Strom</dd>
                             <dt class="description">Production Services:</dt>
                                 <dd>Manhattan Place Entertainment</dd>
                                 <dd>&amp; Redline Films</dd>
@@ -313,7 +313,7 @@ $menu->special ="Special";
                             <dt class="description">Executive Producers:</dt>
                                 <dd>Steve Cohen &amp; Chris Long</dd>
                             <dt class="description">Producers:</dt>
-                                <dd>BJ Acaley, Michael Strom, </dd>
+                                <dd>BJ Acaley, Michael Strom </dd>
                             <dt class="description">Production Services:</dt>
                                 <dd>Manhattan Place Entertainment &amp;</dd>
                                 <dd class="single-line">Redline Films</dd>
@@ -338,7 +338,7 @@ $menu->special ="Special";
                             <dt class="description">Executive Producers:</dt>
                                 <dd>Steve Cohen &amp; Chris Long</dd>
                             <dt class="description">Producers:</dt>
-                                <dd>BJ Acaley, Michael Strom,</dd>
+                                <dd>BJ Acaley, Michael Strom</dd>
                             <dt class="description">PRODUCTION SERVICES:</dt>
                                 <dd>Manhattan Place Entertainment &amp;</dd>
                                 <dd class="single-line">Redline Films</dd>
