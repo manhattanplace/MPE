@@ -30,7 +30,7 @@ $menu->special ="Special";
             <a href="/index.php"><h1>Manhattan Place Entertainment - Video and Film Production Services</h1></a>
         </div>
         <h3 class="library">DIRECTORS</h3>
-        <div class="container directors">
+        <div class="container directors" data-url="/directors/barry-bross.php">
     		<div class="back_button1">
     			<a href="/directors.php">&laquo; Back to Directors</a>
     		</div>
@@ -58,7 +58,7 @@ $menu->special ="Special";
                         <ul>
                         <!-- case study -->
                             <li>
-                                <div class="gallery-images">
+                                <div class="gallery-images" data-video="/directors/barry-bross/no-action-figures-at-the-table.php">
                                     <a class="gallery_overlay" href="/directors/images/kmart.jpg">
                                     <img src="/directors/images/kmart.jpg" alt="Kmart"/></a>
                                 </div>
@@ -70,7 +70,7 @@ $menu->special ="Special";
                             </li>
                         <!-- case study -->
                             <li>
-                                <div class="gallery-images">
+                                <div class="gallery-images" data-video="/directors/barry-bross/thq-video-game.php">
                                     <a class="gallery_overlay" href="/directors/images/thq.jpg">
                                     <img src="/directors/images/thq.jpg" alt="THQ Video Game"/></a>
                                 </div>
@@ -82,7 +82,7 @@ $menu->special ="Special";
                             </li>
                         <!-- case study -->
                             <li>
-                                <div class="gallery-images">
+                                <div class="gallery-images" data-video="/directors/barry-bross/light-strike.php">
                                     <a class="gallery_overlay" href="/directors/images/wowwee.jpg">
                                     <img src="/directors/images/wowwee.jpg" alt="WowWee International"/></a>
                                 </div>
@@ -94,7 +94,7 @@ $menu->special ="Special";
                             </li>
                         <!-- case study -->
                             <li>
-                                <div class="gallery-images">
+                                <div class="gallery-images" data-video="/directors/barry-bross/a-few-good-men-parody.php">
                                     <a class="gallery_overlay" href="/directors/images/mania-few-good-men.jpg">
                                     <img src="/directors/images/mania-few-good-men.jpg" alt="A Few Good Men Parody"/></a>
                                 </div>
@@ -106,7 +106,7 @@ $menu->special ="Special";
                             </li>
                         <!-- case study -->
                             <li>
-                                <div class="gallery-images">
+                                <div class="gallery-images" data-video="/directors/barry-bross/basic-instinct-parody.php">
                                     <a class="gallery_overlay" href="/directors/images/mania-basic-instinct.jpg">
                                     <img src="/directors/images/mania-basic-instinct.jpg" alt="Basic Instinct Parody"/></a>
                                 </div>
@@ -118,7 +118,7 @@ $menu->special ="Special";
                             </li>
                         <!-- case study -->
                             <li>
-                                <div class="gallery-images">
+                                <div class="gallery-images" data-video="/directors/barry-bross/gladiator-parody.php">
                                     <a class="gallery_overlay" href="/directors/images/mania-gladiator.jpg">
                                     <img src="/directors/images/mania-gladiator.jpg" alt="Gladiator Parody"/></a>
                                 </div>

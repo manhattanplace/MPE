@@ -57,25 +57,52 @@ $(document).ready(function() {
     }, function() {
         $('.plus-minus').removeClass('minus');
     });
+    
     //video modal
     $('.directors').on('click', '.main-screen',  function() {
         var video =  $(this).find('a').attr('href');
         var path = $(this).parents('.directors').find('"'+video+'"').data('video');
-        console.log(path);
-        console.log(video);
         $(this).parents('.directors').find('"'+video+'"').show();
         $(this).parents('.panel').next('.modal-backdrop').show();
-        window.history.pushState(path, 'Video', path);   
-        
     });
-
+    var getUrl = function(){
+        $('.thumbnails').on('click', function(){
+            var url = $(this).data(url);
+            history.pushState(null, null, url);
+        });
+    };
     $('.modal-backdrop').on('click', function(){
+        var url = $(this).parent().find('.directors').data('url');
+        history.pushState(null, null, url);
         $(this).hide();
         $('.modal').hide();
+        
     });
     $('.modal').on('click', '.close', function(e){
         e.preventDefault();
+        var url = $(this).parents().find('.directors').data('url');
+        history.pushState(null, null, url);
         $('.modal-backdrop').hide();
         $('.modal').hide();
     });
+    // Set history states
+    $('.gallery-images').on('click', '.gallery_overlay', function(){
+        var link = $(this).parent().data('video');
+        history.pushState(null, null, link);
+    });
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
 });

@@ -29,7 +29,7 @@ $menu->special ="Special";
             <a href="/index.php"><h1>Manhattan Place Entertainment - Video and Film Production Services</h1></a>
         </div>
         <h3 class="library">DIRECTORS</h3>
-        <div class="container directors">
+        <div class="container directors" data-url="/directors/joe-chapura.php">
     		<div class="back_button1">
     			<a href="/directors.php">&laquo; Back to Directors</a>
     		</div>
@@ -65,7 +65,7 @@ He then became the Executive Producer for the seminal Spotwise Agency, one of th
                         <ul>
                         <!-- case study -->
                             <li>
-                                <div class="gallery-images">
+                                <div class="gallery-images" data-video="/directors/joe-chapura/sinupret.php">
                                     <a class="gallery_overlay" href="/directors/images/sinupret.jpg">
                                     <img src="/directors/images/sinupret.jpg" alt="Sinupret"/></a>
                                 </div>
@@ -77,7 +77,7 @@ He then became the Executive Producer for the seminal Spotwise Agency, one of th
                             </li>
                         <!-- case study -->
                             <li>
-                                <div class="gallery-images">
+                                <div class="gallery-images" data-video="/directors/joe-chapura/sprite-do-your-thing.php">
                                     <a class="gallery_overlay" href="/directors/images/sprite-24.jpg">
                                     <img src="/directors/images/sprite-24.jpg" alt="Sprite 24 hours to do your thing"/></a>
                                 </div>
@@ -89,7 +89,7 @@ He then became the Executive Producer for the seminal Spotwise Agency, one of th
                             </li>
                         <!-- case study -->
                             <li>
-                                <div class="gallery-images">
+                                <div class="gallery-images" data-video="/directors/joe-chapura/sprite-hospital.php">
                                     <a class="gallery_overlay" href="/directors/images/sprite-hospital.jpg">
                                     <img src="/directors/images/sprite-hospital.jpg" alt="Sprite Hospital"/></a>
                                 </div>
@@ -101,7 +101,7 @@ He then became the Executive Producer for the seminal Spotwise Agency, one of th
                             </li>
                         <!-- case study -->
                             <li>
-                                <div class="gallery-images">
+                                <div class="gallery-images" data-video="/directors/joe-chapura/kozmo.php">
                                     <a class="gallery_overlay" href="/directors/images/kozmo.jpg">
                                     <img src="/directors/images/kozmo.jpg" alt="Kozmo"/></a>
                                 </div>
@@ -113,7 +113,7 @@ He then became the Executive Producer for the seminal Spotwise Agency, one of th
                             </li>
                         <!-- case study -->
                             <li>
-                                <div class="gallery-images">
+                                <div class="gallery-images" data-video="/directors/joe-chapura/cheerleader.php">
                                     <a class="gallery_overlay" href="/directors/images/cheerleader.jpg">
                                     <img src="/directors/images/cheerleader.jpg" alt="Cheerleader"/></a>
                                 </div>

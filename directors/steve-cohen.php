@@ -29,7 +29,7 @@ $menu->special ="Special";
             <a href="/index.php"><h1>Manhattan Place Entertainment - Video and Film Production Services</h1></a>
         </div>
         <h3 class="library">DIRECTORS</h3>
-        <div class="container directors">
+        <div class="container directors" data-url="/directors/steve-cohen.php">
     		<div class="back_button1">
     			<a href="/directors.php">&laquo; Back to Directors</a>
     		</div>
@@ -65,7 +65,7 @@ $menu->special ="Special";
                         <ul>
                         <!-- case study -->
                             <li>
-                                <div class="gallery-images">
+                                <div class="gallery-images" data-video="/directors/steve-cohen/pc-cure.php">
                                     <a class="gallery_overlay" href="/directors/images/brian-cranston.jpg">
                                     <img src="/directors/images/brian-cranston.jpg" alt="Brian Cranston - Cure PC"/></a>
                                 </div>
@@ -77,7 +77,7 @@ $menu->special ="Special";
                             </li>
                         <!-- case study -->
                             <li>
-                                <div class="gallery-images">
+                                <div class="gallery-images" data-video="/directors/steve-cohen/lustgarten-foundation-psa.php">
                                     <a class="gallery_overlay" href="/directors/images/dennis-leary.jpg">
                                     <img src="/directors/images/dennis-leary.jpg" alt="Dennis Leary"/></a>
                                 </div>
@@ -89,7 +89,7 @@ $menu->special ="Special";
                             </li>
                         <!-- case study -->
                             <li>
-                                <div class="gallery-images">
+                                <div class="gallery-images" data-video="/directors/steve-cohen/dan-patrick.php">
                                     <a class="gallery_overlay" href="/directors/images/dan-patrick.jpg">
                                     <img src="/directors/images/dan-patrick.jpg" alt="Dan Patrick"/></a>
                                 </div>
@@ -101,7 +101,7 @@ $menu->special ="Special";
                             </li>
                         <!-- case study -->
                             <li>
-                                <div class="gallery-images">
+                                <div class="gallery-images" data-video="/directors/steve-cohen/anderson-cooper.php">
                                     <a class="gallery_overlay" href="/directors/images/anderson-cooper.jpg">
                                     <img src="/directors/images/anderson-cooper.jpg" alt="Backstage with Anderson Cooper"/></a>
                                 </div>
@@ -113,7 +113,7 @@ $menu->special ="Special";
                             </li>
                         <!-- case study -->
                             <li>
-                                <div class="gallery-images">
+                                <div class="gallery-images" data-video="/directors/steve-cohen/baby-by-me-50cent.php">
                                     <a class="gallery_overlay" href="/directors/images/50cent.jpg">
                                     <img src="/directors/images/50cent.jpg" alt="50 Cent"/></a>
                                 </div>
@@ -125,7 +125,7 @@ $menu->special ="Special";
                             </li>
                         <!-- case study -->
                             <li>
-                                <div class="gallery-images">
+                                <div class="gallery-images" data-video="/directors/steve-cohen/ac-lightup-boardwalk.php">
                                     <a class="gallery_overlay" href="/directors/images/atlantic-city.jpg">
                                     <img src="/directors/images/atlantic-city.jpg" alt="AC Lights Up The Boardwalk"/></a>
                                 </div>
@@ -137,7 +137,7 @@ $menu->special ="Special";
                             </li>
                         <!-- case study -->
                             <li>
-                                <div class="gallery-images">
+                                <div class="gallery-images" data-video="/directors/steve-cohen/rangers-75-year-legacy.php">
                                     <a class="gallery_overlay" href="/directors/images/a-75-year-legacy.jpg">
                                     <img src="/directors/images/a-75-year-legacy.jpg" alt="A 75 Year Legacy"/></a>
                                 </div>
@@ -149,7 +149,7 @@ $menu->special ="Special";
                             </li>
                         <!-- case study -->
                             <li>
-                                <div class="gallery-images">
+                                <div class="gallery-images" data-video="/directors/steve-cohen/espn-camp-canine-groovin.php">
                                     <a class="gallery_overlay" href="/directors/images/pooch.jpg">
                                     <img src="/directors/images/pooch.jpg" alt="ESPN SportsCenter Spot"/></a>
                                 </div>
@@ -162,7 +162,7 @@ $menu->special ="Special";
                             
                         <!-- case study -->
                             <li>
-                                <div class="gallery-images">
+                                <div class="gallery-images" data-video="/directors/steve-cohen/giants-rewind.php">
                                     <a class="gallery_overlay" href="/directors/images/giants-rewind.jpg">
                                     <img src="/directors/images/giants-rewind.jpg" alt="Giants Rewind"/></a>
                                 </div>
@@ -174,7 +174,7 @@ $menu->special ="Special";
                             </li>
                         <!-- case study -->
                             <li>
-                                <div class="gallery-images">
+                                <div class="gallery-images" data-video="/directors/steve-cohen/whatever-he-wants.php">
                                     <a class="gallery_overlay" href="/directors/images/al-trautwig.jpg">
                                     <img src="/directors/images/al-trautwig.jpg" alt="Al Trautwig"/></a>
                                 </div>
@@ -186,7 +186,7 @@ $menu->special ="Special";
                             </li>
                         <!-- case study -->
                             <li>
-                                <div class="gallery-images">
+                                <div class="gallery-images" data-video="/directors/steve-cohen/hockey-night-live.php">
                                     <a class="gallery_overlay" href="/directors/images/hockey-night-live.jpg">
                                     <img src="/directors/images/hockey-night-live.jpg" alt="Hockey Night Live"/></a>
                                 </div>
@@ -202,35 +202,35 @@ $menu->special ="Special";
                     <div class="pagination"></div>
                 </div>
             </div>
-            <div id="one" class="modal" data-video="/directors/steve-cohen/pc-cure.php">
+            <div id="one" class="modal">
                 <a class="close" href="">close</a>
                 <script>QT_WriteOBJECT('/videos/curePC/cranston.mov', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
             </div>
-            <div id="two" class="modal" data-video="/videos/lustgarten-foundation-psa/lustgarten-foundation-psa.mov">
+            <div id="two" class="modal">
                 <a class="close" href="">close</a>
                 <script>QT_WriteOBJECT('/videos/lustgarten-foundation-psa/lustgarten-foundation-psa.mov', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
             </div>
-            <div id="three" class="modal" data-video="/videos/dan-patrick/dan-patrick.mov">
+            <div id="three" class="modal">
                 <a class="close" href="">close</a>
                 <script>QT_WriteOBJECT('/videos/dan-patrick/dan-patrick.mov', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
             </div>
-            <div id="four" class="modal" data-video="/videos/anderson-cooper/anderson-cooper.mov">
+            <div id="four" class="modal">
                 <a class="close" href="">close</a>
                 <script>QT_WriteOBJECT('/videos/anderson-cooper/anderson-cooper.mov', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
             </div>
-            <div id="five" class="modal" data-video="/videos/50cent/50cent.mov">
+            <div id="five" class="modal">
                 <a class="close" href="">close</a>
                 <script>QT_WriteOBJECT('/videos/50cent/50cent.mov', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
             </div>
-            <div id="six" class="modal" data-video="/videos/ac-lightup-boardwalk/ac-lightup-boardwalk.mov">
+            <div id="six" class="modal">
                 <a class="close" href="">close</a>
                <script>QT_WriteOBJECT('/videos/ac-lightup-boardwalk/ac-lightup-boardwalk.mov', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
             </div>
-            <div id="seven" class="modal" data-video="/videos/rangers-75th/rangers_75th.mov">
+            <div id="seven" class="modal">
                 <a class="close" href="">close</a>
                 <script>QT_WriteOBJECT('/videos/rangers-75th/rangers_75th.mov', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
             </div>
-            <div id="eight" class="modal" data-video="/videos/espn-camp-canine-groovin/espn-camp-canine-groovin.mov">
+            <div id="eight" class="modal">
                 <a class="close" href="">close</a>
                 <script>QT_WriteOBJECT('/videos/espn-camp-canine-groovin/espn-camp-canine-groovin.mov', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
             </div>
@@ -238,11 +238,11 @@ $menu->special ="Special";
                 <a class="close" href="">close</a>
                 <script>QT_WriteOBJECT('/videos/giants-rewind/papa.mov', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
             </div>
-            <div id="ten" class="modal" data-video="/videos/whatever-he-wants/Control_room.mov">
+            <div id="ten" class="modal">
                 <a class="close" href="">close</a>
                 <script>QT_WriteOBJECT('/videos/whatever-he-wants/Control_room.mov', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
             </div>
-            <div id="eleven" class="modal" data-video="/videos/hnl01/hnl01.mov">
+            <div id="eleven" class="modal">
                 <a class="close" href="">close</a>
                 <script>QT_WriteOBJECT('/videos/hnl01/hnl01.mov', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
             </div>

@@ -30,7 +30,7 @@ $menu->special ="Special";
             <a href="/index.php"><h1>Manhattan Place Entertainment - Video and Film Production Services</h1></a>
         </div>
         <h3 class="library">DIRECTORS</h3>
-        <div class="container directors">
+        <div class="container directors" data-url="/directors/evan-langley-laffin.php">
     		<div class="back_button1">
     			<a href="/directors.php">&laquo; Back to Directors</a>
     		</div>
@@ -65,7 +65,7 @@ $menu->special ="Special";
                         <ul>
                         <!-- case study -->
                             <li>
-                                <div class="gallery-images">
+                                <div class="gallery-images" data-video="/directors/evan-langley-laffin/oblivion-trailer.php">
                                     <a class="gallery_overlay" href="/directors/images/oblivion.jpg">
                                     <img src="/directors/images/oblivion.jpg" alt="Oblivion Trailer"/></a>
                                 </div>
@@ -77,7 +77,7 @@ $menu->special ="Special";
                             </li>
                         <!-- case study -->
                             <li>
-                                <div class="gallery-images">
+                                <div class="gallery-images" data-video="/directors/evan-langley-laffin/never-gone-before.php">
                                     <a class="gallery_overlay" href="/directors/images/toyota.jpg">
                                     <img src="/directors/images/toyota.jpg" alt="Toyota"/></a>
                                 </div>
@@ -89,7 +89,7 @@ $menu->special ="Special";
                             </li>
                         <!-- case study -->
                             <li>
-                                <div class="gallery-images">
+                                <div class="gallery-images" data-video="/directors/evan-langley-laffin/call-of-duty.php">
                                     <a class="gallery_overlay" href="/directors/images/call-of-duty.jpg">
                                     <img src="/directors/images/call-of-duty.jpg" alt="Call of Duty"/></a>
                                 </div>

@@ -30,7 +30,7 @@ $menu->special ="Special";
             <a href="/index.php"><h1>Manhattan Place Entertainment - Video and Film Production Services</h1></a>
         </div>
         <h3 class="library">DIRECTORS</h3>
-        <div class="container directors">
+        <div class="container directors" data-url="/directors/avi-cohen.php">
     		<div class="back_button1">
     			<a href="/directors.php">&laquo; Back to Directors</a>
     		</div>
@@ -65,7 +65,7 @@ $menu->special ="Special";
                         <ul>
                         <!-- case study -->
                             <li>
-                                <div class="gallery-images">
+                                <div class="gallery-images" data-video="/directors/avi-cohen/house-rules.php">
                                     <a class="gallery_overlay" href="/directors/images/doritos.jpg">
                                     <img src="/directors/images/doritos.jpg" alt="Doritos - House Rules"/></a>
                                 </div>
@@ -77,7 +77,7 @@ $menu->special ="Special";
                             </li>
                         <!-- case study -->
                             <li>
-                                <div class="gallery-images">
+                                <div class="gallery-images" data-video="/directors/avi-cohen/goosha.php">
                                     <a class="gallery_overlay" href="/directors/images/goosha.jpg">
                                     <img src="/directors/images/goosha.jpg" alt="Goosha - Round Run"/></a>
                                 </div>
@@ -89,7 +89,7 @@ $menu->special ="Special";
                             </li>
                         <!-- case study -->
                             <li>
-                                <div class="gallery-images">
+                                <div class="gallery-images" data-video="/directors/avi-cohen/forgiato-grill.php">
                                     <a class="gallery_overlay" href="/directors/images/forgiato-grill.jpg">
                                     <img src="/directors/images/forgiato-grill.jpg" alt="Forgiato - Grill"/></a>
                                 </div>
@@ -101,7 +101,7 @@ $menu->special ="Special";
                             </li>
                         <!-- case study -->
                             <li>
-                                <div class="gallery-images">
+                                <div class="gallery-images" data-video="/directors/avi-cohen/forgiato-desire.php">
                                     <a class="gallery_overlay" href="/directors/images/forgiato-desire.jpg">
                                     <img src="/directors/images/forgiato-desire.jpg" alt="Forgiato - Desire"/></a>
                                 </div>
@@ -113,7 +113,7 @@ $menu->special ="Special";
                             </li>
                         <!-- case study -->
                             <li>
-                                <div class="gallery-images">
+                                <div class="gallery-images" data-video="/directors/avi-cohen/casio.php">
                                     <a class="gallery_overlay" href="/directors/images/casio.jpg">
                                     <img src="/directors/images/casio.jpg" alt="Casio"/></a>
                                 </div>
@@ -125,7 +125,7 @@ $menu->special ="Special";
                             </li>
                         <!-- case study -->
                             <li>
-                                <div class="gallery-images">
+                                <div class="gallery-images" data-video="/directors/avi-cohen/forgiato-freedom.php">
                                     <a class="gallery_overlay" href="/directors/images/forgiato-freedom.jpg">
                                     <img src="/directors/images/forgiato-freedom.jpg" alt="Forgiato - A Push Towards Freedom"/></a>
                                 </div>
@@ -141,27 +141,27 @@ $menu->special ="Special";
                     <div class="pagination"></div>
                 </div>
             </div>
-            <div id="one" class="modal" data-video="/videos/doritos/doritos.mov">
+            <div id="one" class="modal">
                 <a class="close" href="">close</a>
                 <script>QT_WriteOBJECT('/videos/doritos/doritos.mov', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'TOFIT');</script>
             </div>
-            <div id="two" class="modal" data-video="/videos/doritos/goosha-round-run.mov">
+            <div id="two" class="modal">
                 <a class="close" href="">close</a>
                 <script>QT_WriteOBJECT('/videos/goosha-round-run/goosha-round-run.mov', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'TOFIT');</script>
             </div>
-            <div id="three" class="modal" data-video="/videos/doritos/forgiato-grill.mov">
+            <div id="three" class="modal">
                 <a class="close" href="">close</a>
                 <script>QT_WriteOBJECT('/videos/forgiato-grill/forgiato-grill.mov', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'TOFIT');</script>
             </div>
-            <div id="four" class="modal" data-video="/videos/doritos/forgiato-desire.mov">
+            <div id="four" class="modal">
                 <a class="close" href="">close</a>
                 <script>QT_WriteOBJECT('/videos/forgiato-desire/forgiato-desire.mov', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'TOFIT');</script>
             </div>
-            <div id="five" class="modal" data-video="/videos/doritos/casio.mov">
+            <div id="five" class="modal">
                 <a class="close" href="">close</a>
                 <script>QT_WriteOBJECT('/videos/casio/casio.mov', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'TOFIT');</script>
             </div>
-            <div id="six" class="modal" data-video="/videos/doritos/forgiato-freedom.mov">
+            <div id="six" class="modal">
                 <a class="close" href="">close</a>
                 <script>QT_WriteOBJECT('/videos/forgiato-freedom/forgiato-freedom.mov', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'TOFIT');</script>
             </div>

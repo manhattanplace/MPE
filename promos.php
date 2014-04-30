@@ -47,6 +47,26 @@ $menu->special ="Special";
                 <!-- case study -->
                     <li>
                         <div class="gallery-images">
+                            <a class="gallery_overlay" href="images/promos/last-man.jpg"></a>
+                            <img src="images/promos/last-man-thumb.jpg" alt="Glory Last Man Standing"/>
+                        </div>
+                        <a href="promos/glory/video.php"></a> 
+                        <dl>
+                            <dt class="description">Title:</dt>
+                                <dd>Glory Last Man Standing</dd>
+                            <dt class="description">Executive Producer:</dt>
+                                <dd>Doug LeBow</dd>
+                            <dt class="description">Director of Photography:</dt>
+                                <dd>Steve Cohen</dd>
+                            <dt class="description">Field Production:</dt>
+                                <dd> Manhattan Place Entertainment</dd>
+                            <dt class="description">Post Production:</dt>
+                                <dd>REVEAL</dd>
+                        </dl>
+                    </li>
+                <!-- case study -->
+                    <li>
+                        <div class="gallery-images">
                             <a class="gallery_overlay" href="images/promos/glory-girls.jpg"></a>
                             <img src="images/promos/glory-girls-thumb.jpg" alt="Glory Girls"/>
                         </div>
@@ -66,8 +86,7 @@ $menu->special ="Special";
                                 <dd> Creative Group</dd>
                         </dl>
                     </li>
-
-        <!-- case study -->
+                <!-- case study -->
                     <li>
                         <div class="gallery-images">
                             <a class="gallery_overlay" href="images/pooch.jpg"></a>
@@ -154,7 +173,6 @@ $menu->special ="Special";
                                 <dt class="description">Award:</dt>
                                 <dd class="single-line">2010 Telly:</dd>
                                 <dd class="single-line">Best Videography/Cinematography</dd> 
-    <!--                             <dd class="award-winners"></dd> -->
                         </dl>
                     </li> 
         <!-- case study  -->
