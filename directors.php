@@ -66,6 +66,13 @@ $menu->special ="Special";
                         <p class="director-title">Director/VFX</p>
                     </a>
                 </li>
+                <li>
+                    <a  href="directors/angel-traverso.php" title="Angel Traverso">
+                        <img src="images/directors/angel.jpg" alt="Angel Traverso" />
+                        <p style="color:#576db2" class="director-name">Angel Traverso</p>
+                        <p class="director-title">Director</p>
+                    </a>
+                </li>
             </ul>
     </div>
     <!--end panel-->
