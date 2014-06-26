@@ -44,11 +44,13 @@ $menu->special ="Special";
                     <div id="thumbs-back"><img src="assets/prev_thumb.png" alt="back button"/></div>
                     <div class="thumbnails">
                 <ul>
-                <!-- case study -->
+                
+                                
+                    <!-- case study -->
                     <li>
                         <div class="gallery-images">
-                            <a class="gallery_overlay" href="images/promos/last-man.jpg"></a>
-                            <img src="images/promos/last-man-thumb.jpg" alt="Glory Last Man Standing"/>
+                            <a class="gallery_overlay" href="images/promos/glory-last-man-standing.jpg"></a>
+                            <img src="images/promos/glory-last-man-standing-thumb.jpg" alt="Glory Last Man Standing"/>
                         </div>
                         <a href="promos/glory/video.php"></a> 
                         <dl>
@@ -64,11 +66,11 @@ $menu->special ="Special";
                                 <dd>REVEAL</dd>
                         </dl>
                     </li>
-                <!-- case study -->
+                    <!-- case study -->
                     <li>
                         <div class="gallery-images">
-                            <a class="gallery_overlay" href="images/promos/glory-girls.jpg"></a>
-                            <img src="images/promos/glory-girls-thumb.jpg" alt="Glory Girls"/>
+                            <a class="gallery_overlay" href="images/promos/glory-girls2.jpg"></a>
+                            <img src="images/promos/glory-girls2-thumb.jpg" alt="Glory Girls"/>
                         </div>
                         <a href="promos/glory-girls/video.php"></a> 
                         <dl>
@@ -86,27 +88,92 @@ $menu->special ="Special";
                                 <dd> Creative Group</dd>
                         </dl>
                     </li>
-                <!-- case study -->
+                    
+                    <!-- case study -->
                     <li>
                         <div class="gallery-images">
-                            <a class="gallery_overlay" href="images/pooch.jpg"></a>
-                            <img src="images/pooch-thumb.jpg" alt="ESPN SportsCenter Spot"/>
+                            <a class="gallery_overlay" href="images/promos/kfc-1.jpg"></a>
+                            <img src="images/promos/kfc-1-thumb.jpg" alt="Impractical Jokers- truTV 'KFC How do you prepare to dare?'"/>
                         </div>
-                        <a href="promos/espn-sports-center/video.php"></a> 
+                        <a href="promos/kfc-1/video.php"></a> 
                         <dl>
                             <dt class="description">Title:</dt>
-                                <dd>ESPN "SportsCenter Spot"</dd>
-                            <dt class="description">Creative Director:</dt>
+                                <dd>Impractical Jokers- truTV 'KFC How do you prepare to dare?'</dd>
+                            <dt class="description">Client:</dt>
+                                <dd>ElevenO2</dd>
+                            <dt class="description">Director:</dt>
+                                <dd>Barry Bross</dd>
+                            <dt class="description">Director of Photography:</dt>
                                 <dd>Steve Cohen</dd>
-                            <dt class="description">Producer:</dt>
-                                <dd>Steve Cohen</dd>
-                            <dt class="description">Editor:</dt>
-                                <dd>Dean Marcial</dd>
-                                <dt class="description">Production Company:</dt>
-                                    <dd> Manhattan Place Entertainment</dd>
+                            <dt class="description">PRODUCTION SERVICES:</dt>
+                                <dd> Manhattan Place Entertainment</dd>
                         </dl>
-                    </li>
-        <!-- case study -->
+                    </li>                
+                    
+                    <!-- case study -->
+                    <li>
+                        <div class="gallery-images">
+                            <a class="gallery_overlay" href="images/promos/kfc-2.jpg"></a>
+                            <img src="images/promos/kfc-2-thumb.jpg" alt="Impractical Jokers- truTV 'KFC How do you prepare to dare?'"/>
+                        </div>
+                        <a href="promos/kfc-2/video.php"></a> 
+                        <dl>
+                            <dt class="description">Title:</dt>
+                                <dd>Impractical Jokers- truTV 'KFC How do you prepare to dare?'</dd>
+                            <dt class="description">Client:</dt>
+                                <dd>ElevenO2</dd>
+                            <dt class="description">Director:</dt>
+                                <dd>Barry Bross</dd>
+                            <dt class="description">Director of Photography:</dt>
+                                <dd>Steve Cohen</dd>
+                            <dt class="description">PRODUCTION SERVICES:</dt>
+                                <dd> Manhattan Place Entertainment</dd>
+                        </dl>
+                    </li>                
+                    
+                    <!-- case study -->
+                    <li>
+                        <div class="gallery-images">
+                            <a class="gallery_overlay" href="images/promos/ride-along-1.jpg"></a>
+                            <img src="images/promos/ride-along-1-thumb.jpg" alt="Impractical Joker's Marathon sponsored by Universal Pictures 'Ride Along'"/>
+                        </div>
+                        <a href="promos/ride-along-1/video.php"></a> 
+                        <dl>
+                            <dt class="description">Title:</dt>
+                                <dd>Impractical Joker's Marathon sponsored by Universal Pictures 'Ride Along'</dd>
+                            <dt class="description">Client:</dt>
+                                <dd>ElevenO2</dd>
+                            <dt class="description">Director:</dt>
+                                <dd>Barry Bross</dd>
+                            <dt class="description">Director of Photography:</dt>
+                                <dd>Steve Cohen</dd>
+                            <dt class="description">PRODUCTION SERVICES:</dt>
+                                <dd> Manhattan Place Entertainment</dd>
+                        </dl>
+                    </li>                
+                    <!-- case study -->
+                    <li>
+                        <div class="gallery-images">
+                            <a class="gallery_overlay" href="images/promos/ride-along-2.jpg"></a>
+                            <img src="images/promos/ride-along-2-thumb.jpg" alt="Impractical Joker's Marathon sponsored by Universal Pictures 'Ride Along'"/>
+                        </div>
+                        <a href="promos/ride-along-2/video.php"></a> 
+                        <dl>
+                            <dt class="description">Title:</dt>
+                                <dd>Impractical Joker's Marathon sponsored by Universal Pictures 'Ride Along'</dd>
+                            <dt class="description">Client:</dt>
+                                <dd>ElevenO2</dd>
+                            <dt class="description">Director:</dt>
+                                <dd>Barry Bross</dd>
+                            <dt class="description">Director of Photography:</dt>
+                                <dd>Steve Cohen</dd>
+                            <dt class="description">PRODUCTION SERVICES:</dt>
+                                <dd> Manhattan Place Entertainment</dd>
+                        </dl>
+                    </li>                
+                    
+                    
+                    <!-- case study  -->
                     <li>
                         <div>
                             <a class="gallery_overlay" href="images/case-study/promos/anderson-cooper.jpg">
@@ -126,7 +193,7 @@ $menu->special ="Special";
                                 <dd>Manhattan Place Entertainment<dd>
                         </dl>       
                     </li>
-        <!-- case study -->
+                    <!-- case study -->
                     <li>
                         <div>
                             <a class="gallery_overlay" href="images/case_study_twilightnewmoon.jpg">
@@ -152,7 +219,7 @@ $menu->special ="Special";
                                 <dd>Manhattan Place Entertainment<dd>
                         </dl>       
                     </li>
-        <!-- case study  -->
+                    <!-- case study  -->
                     <li>
                         <div>
                             <a class="gallery_overlay" href="images/case_study_50cent.jpg">
@@ -175,7 +242,7 @@ $menu->special ="Special";
                                 <dd class="single-line">Best Videography/Cinematography</dd> 
                         </dl>
                     </li> 
-        <!-- case study  -->
+                    <!-- case study  -->
                     <li>
                         <div>
                             <a class="gallery_overlay" href="images/case-study-patrick.jpg">
@@ -197,7 +264,7 @@ $menu->special ="Special";
                                 <dd> Manhattan Place Entertainment</dd>
                         </dl>      
                     </li>   
-        <!-- case study -->
+                    <!-- case study -->
                     <li>
                         <div>
                             <a class="gallery_overlay" href="images/case_studyirl_nose.jpg">
@@ -223,7 +290,7 @@ $menu->special ="Special";
                                 <dd class="award-winners"></dd>
                         </dl>
                     </li>
-        <!-- case study -->
+                    <!-- case study -->
                     <li>
                         <div>
                             <a class="gallery_overlay" href="images/case_study_sherlock_holmes.jpg">
@@ -247,7 +314,7 @@ $menu->special ="Special";
                                 <dd>Manhattan Place Entertainment</dd>
                         </dl>      
                     </li>
-        <!-- case study -->
+                    <!-- case study -->
                     <li>
                         <div class="gallery-images">
                             <a class="gallery_overlay" href="images/case-study-dance-new.jpg"></a>
@@ -267,7 +334,7 @@ $menu->special ="Special";
                                 <dd>Manhattan Place Entertainment<dd>
                         </dl>       
                     </li>
-        <!-- case study -->
+                    <!-- case study -->
                     <li>
                         <div>
                             <a class="gallery_overlay" href="images/case_study_letsjustplay_ltw.jpg">
@@ -291,7 +358,7 @@ $menu->special ="Special";
                                 <dd>Manhattan Place Entertainment</dd>
                         </dl>      
                     </li>
-        <!-- case study  -->
+                    <!-- case study  -->
                     <li>
                         <div>
                             <a class="gallery_overlay" href="images/case-study-mike-breen.jpg">
@@ -311,7 +378,7 @@ $menu->special ="Special";
                                 <dd>Manhattan Place Entertainment</dd>
                         </dl>      
                     </li>
-        <!-- case study  -->
+                    <!-- case study  -->
                     <li>
                         <div>
                             <a class="gallery_overlay" href="images/case-study-al-trautwig.jpg">
@@ -331,7 +398,7 @@ $menu->special ="Special";
                                 <dd>Manhattan Place Entertainment</dd>
                         </dl>      
                     </li>
-        <!-- case study -->
+                    <!-- case study -->
                     <li>
                         <div>
                             <a class="gallery_overlay" href="images/case_study_spiderwick_jared.jpg">
@@ -353,7 +420,7 @@ $menu->special ="Special";
                                 <dd> Manhattan Place Entertainment</dd>
                         </dl>
                     </li>
-        <!-- case study  -->
+                    <!-- case study  -->
                     <li>
                         <div>
                             <a class="gallery_overlay" href="images/case_study_irl_may.jpg">
@@ -375,7 +442,7 @@ $menu->special ="Special";
                                 <dd>Manhattan Place Entertainment</dd>
                         </dl>
                     </li>
-        <!-- case study  -->
+                    <!-- case study  -->
                     <li>
                         <div>
                             <a class="gallery_overlay" href="images/case-study-bob-papa.jpg">
@@ -397,7 +464,7 @@ $menu->special ="Special";
                             <dd> Manhattan Place Entertainment</dd>
                         </dl>      
                     </li>
-        <!-- case study -->
+                    <!-- case study -->
                     <li>
                         <div>
                             <a class="gallery_overlay" href="images/case_study_spiderwick_mallory.jpg">
@@ -419,7 +486,7 @@ $menu->special ="Special";
                                 <dd>Manhattan Place Entertainment</dd>
                         </dl>      
                     </li>
-        <!-- case study -->
+                    <!-- case study -->
                     <li>
                         <div>
                             <a class="gallery_overlay" href="images/case_study_hnl01.jpg">
@@ -441,7 +508,7 @@ $menu->special ="Special";
                                 <dd> Manhattan Place Entertainment</dd>
                         </dl>    
                     </li>
-        <!-- case study  -->
+                    <!-- case study  -->
                     <li>
                         <div>
                             <a class="gallery_overlay" href="images/case_study_united.jpg">
@@ -470,7 +537,7 @@ $menu->special ="Special";
                                 <dd class="award-winners"></dd>
                         </dl>
                     </li>
-        <!-- case study -->
+                    <!-- case study -->
                     <li>
                         <div>
                             <a class="gallery_overlay" href="images/case_study_knicks_nate_robinson.jpg">
@@ -492,7 +559,7 @@ $menu->special ="Special";
                                 <dd>Manhattan Place Entertainment</dd>
                         </dl>
                     </li>
-        <!-- case study  -->
+                    <!-- case study  -->
                     <li>
                         <div>
                             <a class="gallery_overlay" href="images/case_study_irl_2.jpg">
@@ -514,7 +581,7 @@ $menu->special ="Special";
                             <dd>Manhattan Place Entertainment</dd>
                         </dl>
                     </li>
-        <!-- case study  -->
+                    <!-- case study  -->
                     <li>
                         <div>
                             <a class="gallery_overlay" href="images/case-study-banks.jpg">
@@ -534,7 +601,7 @@ $menu->special ="Special";
                                 <dd>Manhattan Place Entertainment</dd>
                         </dl>      
                     </li>
-        <!-- case study  -->
+                    <!-- case study  -->
                     <li>
                         <div>
                             <a class="gallery_overlay" href="images/case-study-bill-pidto.jpg">
@@ -554,7 +621,7 @@ $menu->special ="Special";
                                 <dd>Manhattan Place Entertainment</dd>
                         </dl>
                     </li>
-        <!-- case study  -->
+                    <!-- case study  -->
                     <li>
                         <div>
                             <a class="gallery_overlay" href="images/case-study-noiinpen.jpg">
@@ -574,7 +641,7 @@ $menu->special ="Special";
                                 <dd> Manhattan Place Entertainment</dd>
                         </dl>
                     </li>
-        <!-- case study -->
+                    <!-- case study -->
                     <li>
                         <div>
                             <a class="gallery_overlay" href="images/case_study_newera.jpg">
@@ -600,7 +667,7 @@ $menu->special ="Special";
                                 <dd>Manhattan Place Entertainment</dd>
                         </dl>
                     </li>
-        <!-- case study -->
+                    <!-- case study -->
                     <li>
                         <div>
                             <a class="gallery_overlay" href="images/case_study_imaranger01.jpg">
@@ -620,7 +687,7 @@ $menu->special ="Special";
                                 <dd>Manhattan Place Entertainment</dd>
                         </dl>
                     </li>
-        <!-- case study -->
+                    <!-- case study -->
                     <li>
                         <div>
                             <a class="gallery_overlay" href="images/case_study_lights_out.jpg">
@@ -642,7 +709,7 @@ $menu->special ="Special";
                                 <dd>Manhattan Place Entertainment</dd>
                         </dl>
                     </li>
-        <!-- case study -->
+                    <!-- case study -->
                     <li>
                         <div>
                             <a class="gallery_overlay" href="images/case-study-world-cup.jpg">
@@ -668,7 +735,7 @@ $menu->special ="Special";
                                 <dd>Manhattan Place Entertainment</dd>
                         </dl>
                     </li>
-        <!-- case study  -->
+                    <!-- case study  -->
                     <li>
                         <div>
                             <a class="gallery_overlay" href="images/case-study-damages-recap.jpg">
@@ -688,7 +755,7 @@ $menu->special ="Special";
                                 <dd>Manhattan Place Entertainment</dd>
                         </dl>
                     </li>
-        <!-- case study  -->
+                    <!-- case study  -->
                     <li>
                         <div>
                             <a class="gallery_overlay" href="images/case_study_knicks_david_lee.jpg">
@@ -734,7 +801,7 @@ $menu->special ="Special";
                                 <dd>Manhattan Place Entertainment</dd>
                         </dl>
                     </li> 
-        <!-- case study  -->
+                    <!-- case study  -->
                     <li>
                         <div>
                             <a class="gallery_overlay" href="images/case_study_flat_tire.jpg">
@@ -752,7 +819,7 @@ $menu->special ="Special";
                                 <dd>Manhattan Place Entertainment</dd>
                         </dl>
                     </li>
-        <!-- case study  -->
+                    <!-- case study  -->
                     <li>
                         <div>
                             <a class="gallery_overlay" href="images/case-study-damages-redcarpet.jpg">
@@ -770,6 +837,28 @@ $menu->special ="Special";
                                 <dd>Manhattan Place Entertainment</dd>
                         </dl>      
                     </li>  
+                    <!-- case study -->
+                    <li>
+                        <div class="gallery-images">
+                            <a class="gallery_overlay" href="images/pooch.jpg"></a>
+                            <img src="images/pooch-thumb.jpg" alt="ESPN SportsCenter Spot"/>
+                        </div>
+                        <a href="promos/espn-sports-center/video.php"></a> 
+                        <dl>
+                            <dt class="description">Title:</dt>
+                                <dd>ESPN "SportsCenter Spot"</dd>
+                            <dt class="description">Creative Director:</dt>
+                                <dd>Steve Cohen</dd>
+                            <dt class="description">Producer:</dt>
+                                <dd>Steve Cohen</dd>
+                            <dt class="description">Editor:</dt>
+                                <dd>Dean Marcial</dd>
+                                <dt class="description">Production Company:</dt>
+                                    <dd> Manhattan Place Entertainment</dd>
+                        </dl>
+                    </li>
+                    <!-- case study -->
+                
                 </ul>
                 </div>              
                 <div id="thumbs-fwd"><img src="assets/next_thumb.png" alt="forward button"/></div> 
