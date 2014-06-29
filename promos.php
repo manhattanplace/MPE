@@ -44,8 +44,6 @@ $menu->special ="Special";
                     <div id="thumbs-back"><img src="assets/prev_thumb.png" alt="back button"/></div>
                     <div class="thumbnails">
                 <ul>
-                
-                                
                     <!-- case study -->
                     <li>
                         <div class="gallery-images">
@@ -88,7 +86,6 @@ $menu->special ="Special";
                                 <dd> Creative Group</dd>
                         </dl>
                     </li>
-                    
                     <!-- case study -->
                     <li>
                         <div class="gallery-images">
@@ -109,7 +106,6 @@ $menu->special ="Special";
                                 <dd> Manhattan Place Entertainment</dd>
                         </dl>
                     </li>                
-                    
                     <!-- case study -->
                     <li>
                         <div class="gallery-images">
@@ -130,49 +126,6 @@ $menu->special ="Special";
                                 <dd> Manhattan Place Entertainment</dd>
                         </dl>
                     </li>                
-                    
-                    <!-- case study -->
-                    <li>
-                        <div class="gallery-images">
-                            <a class="gallery_overlay" href="images/promos/ride-along-1.jpg"></a>
-                            <img src="images/promos/ride-along-1-thumb.jpg" alt="Impractical Joker's Marathon sponsored by Universal Pictures 'Ride Along'"/>
-                        </div>
-                        <a href="promos/ride-along-1/video.php"></a> 
-                        <dl>
-                            <dt class="description">Title:</dt>
-                                <dd>Impractical Joker's Marathon sponsored by Universal Pictures 'Ride Along'</dd>
-                            <dt class="description">Client:</dt>
-                                <dd>ElevenO2</dd>
-                            <dt class="description">Director:</dt>
-                                <dd>Barry Bross</dd>
-                            <dt class="description">Director of Photography:</dt>
-                                <dd>Steve Cohen</dd>
-                            <dt class="description">PRODUCTION SERVICES:</dt>
-                                <dd> Manhattan Place Entertainment</dd>
-                        </dl>
-                    </li>                
-                    <!-- case study -->
-                    <li>
-                        <div class="gallery-images">
-                            <a class="gallery_overlay" href="images/promos/ride-along-2.jpg"></a>
-                            <img src="images/promos/ride-along-2-thumb.jpg" alt="Impractical Joker's Marathon sponsored by Universal Pictures 'Ride Along'"/>
-                        </div>
-                        <a href="promos/ride-along-2/video.php"></a> 
-                        <dl>
-                            <dt class="description">Title:</dt>
-                                <dd>Impractical Joker's Marathon sponsored by Universal Pictures 'Ride Along'</dd>
-                            <dt class="description">Client:</dt>
-                                <dd>ElevenO2</dd>
-                            <dt class="description">Director:</dt>
-                                <dd>Barry Bross</dd>
-                            <dt class="description">Director of Photography:</dt>
-                                <dd>Steve Cohen</dd>
-                            <dt class="description">PRODUCTION SERVICES:</dt>
-                                <dd> Manhattan Place Entertainment</dd>
-                        </dl>
-                    </li>                
-                    
-                    
                     <!-- case study  -->
                     <li>
                         <div>
@@ -193,6 +146,166 @@ $menu->special ="Special";
                                 <dd>Manhattan Place Entertainment<dd>
                         </dl>       
                     </li>
+                    <!-- case study -->
+                    <li>
+                        <div class="gallery-images">
+                            <a class="gallery_overlay" href="images/promos/14-stanley-cup.jpg"></a>
+                            <img src="images/promos/14-stanley-cup-thumb.jpg" alt="2014 Stanley Cup Final Promo"/>
+                        </div>
+                        <a href="promos/14-stanley-cup/video.php"></a> 
+                        <dl>
+                            <dt class="description">Title:</dt>
+                                <dd>2014 Stanley Cup Final Promo</dd>
+                            <dt class="description">Producer:</dt>
+                                <dd>Jason Joly and Dan Williams</dd>
+                            <dt class="description">Director of Photography:</dt>
+                                <dd>Steve Cohen</dd>
+                            <dt class="description">PRODUCTION SERVICES:</dt>
+                                <dd> Manhattan Place Entertainment</dd>
+                        </dl>
+                    </li>                
+                    <!-- case study -->
+                    <li>
+                        <div class="gallery-images">
+                            <a class="gallery_overlay" href="images/promos/ride-along-1.jpg"></a>
+                            <img src="images/promos/ride-along-1-thumb.jpg" alt="Impractical Joker's Marathon sponsored by Universal Pictures 'Ride Along'"/>
+                        </div>
+                        <a href="promos/ride-along-1/video.php"></a> 
+                        <dl>
+                            <dt class="description">Title:</dt>
+                                <dd>Impractical Joker's Marathon sponsored by Universal Pictures 'Ride Along'</dd>
+                            <dt class="description">Client:</dt>
+                                <dd>ElevenO2</dd>
+                            <dt class="description">Director:</dt>
+                                <dd>Barry Bross</dd>
+                            <dt class="description">Director of Photography:</dt>
+                                <dd>Steve Cohen</dd>
+                            <dt class="description">PRODUCTION SERVICES:</dt>
+                                <dd> Manhattan Place Entertainment</dd>
+                        </dl>
+                    </li>   
+                    <!-- case study -->
+                    <li>
+                        <div class="gallery-images">
+                            <a class="gallery_overlay" href="images/promos/ride-along-2.jpg"></a>
+                            <img src="images/promos/ride-along-2-thumb.jpg" alt="Impractical Joker's Marathon sponsored by Universal Pictures 'Ride Along'"/>
+                        </div>
+                        <a href="promos/ride-along-2/video.php"></a> 
+                        <dl>
+                            <dt class="description">Title:</dt>
+                                <dd>Impractical Joker's Marathon sponsored by Universal Pictures 'Ride Along'</dd>
+                            <dt class="description">Client:</dt>
+                                <dd>ElevenO2</dd>
+                            <dt class="description">Director:</dt>
+                                <dd>Barry Bross</dd>
+                            <dt class="description">Director of Photography:</dt>
+                                <dd>Steve Cohen</dd>
+                            <dt class="description">PRODUCTION SERVICES:</dt>
+                                <dd> Manhattan Place Entertainment</dd>
+                        </dl>
+                    </li>                
+                    <!-- case study -->
+                    <li>
+                        <div class="gallery-images">
+                            <a class="gallery_overlay" href="images/promos/pac-12-oregon.jpg"></a>
+                            <img src="images/promos/pac-12-oregon-thumb.jpg" alt="Oregon Ducks 'Go Ducks' Promo"/>
+                        </div>
+                        <a href="promos/pac-12-oregon/video.php"></a> 
+                        <dl>
+                            <dt class="description">Title:</dt>
+                                <dd>Oregon Ducks "Go Ducks" Promo</dd>
+                            <dt class="description">Client:</dt>
+                                <dd>Pac-12 Networks</dd>
+                            <dt class="description">Producers:</dt>
+                                <dd>Ted Ishler, Joel Denbow</dd>
+                            <dt class="description">Director of Photography:</dt>
+                                <dd>Steve Cohen</dd>
+                            <dt class="description">PRODUCTION SERVICES:</dt>
+                                <dd> Manhattan Place Entertainment</dd>
+                        </dl>
+                    </li>                                    
+                    <!-- case study  -->
+                    <li>
+                        <div class="gallery-images">
+                            <a class="gallery_overlay" href="images/commercial/kickass2.jpg"></a>
+                            <img src="images/commercial/kickass2-thumb.jpg" alt="Kickass 2"/>
+                        </div>
+                        <a href="promos/kickass2/video.php"></a> 
+                        <dl>
+                            <dt class="description">Title:</dt>
+                                <dd style="text-transform:none;">"Kick Ass 2 Promo</dd>
+                            <dt class="description">Client:</dt>
+                                <dd>ElevenO2</dd>
+                            <dt class="description">DIRECTOR:</dt>
+                                <dd>Barry Bross</dd>
+                            <dt class="description">DIRECTOR OF PHOTOGRAPHY:</dt>
+                                <dd>Steve Cohen</dd>
+                            <dt class="description">Field Production Services:</dt>
+                                <dd> Manhattan Place Entertainment</dd>
+                        </dl>
+                    </li>
+                    <!-- case study -->
+                    <li>
+                        <div>
+                            <a class="gallery_overlay" href="images/case-study-patrick.jpg">
+                            <img src="images/thumbs/case-study-patrick.jpg" alt="Dan Patrick"/></a>
+                        </div>
+                        <a href="promos/dan-patrick/video-dan-patrick.php"></a>
+                        <dl>
+                            <dt class="description">Title:</dt> 
+                                <dd>The Dan Patrick Show - "Fritzy"</dd> 
+                            <dt class="description">Client:</dt>
+                                <dd> DirecTV</dd> 
+                            <dt class="description">Producer:</dt>
+                                <dd> Barton Peters</dd>
+                            <dt class="description">Director of Photography:</dt>
+                                <dd>Steve Cohen</dd>
+                            <dt class="description">2ND Unit DP:</dt>
+                                <dd>Brent Ramsey</dd>
+                            <dt class="description">Production Services:</dt>
+                                <dd> Manhattan Place Entertainment</dd>
+                        </dl>      
+                    </li>   
+                    <!-- case study -->
+                    <li>
+                        <div class="gallery-images">
+                            <a class="gallery_overlay" href="images/promos/pac-12-arizona.jpg"></a>
+                            <img src="images/promos/pac-12-arizona-thumb.jpg" alt="Arizona Wildcats 'Ready For Battle' Promo"/>
+                        </div>
+                        <a href="promos/pac-12-arizona/video.php"></a> 
+                        <dl>
+                            <dt class="description">Title:</dt>
+                                <dd>Arizona Wildcats "Ready For Battle"  Promo</dd>
+                            <dt class="description">Client:</dt>
+                                <dd>PAC-12 Networks</dd>
+                            <dt class="description">Producers:</dt>
+                                <dd>Ted Ishler, Joel Denbow</dd>
+                            <dt class="description">Director of Photography:</dt>
+                                <dd>Steve Cohen</dd>
+                            <dt class="description">PRODUCTION SERVICES:</dt>
+                                <dd> Manhattan Place Entertainment</dd>
+                        </dl>
+                    </li>                
+                    <!-- case study -->
+                    <li>
+                        <div class="gallery-images">
+                            <a class="gallery_overlay" href="images/promos/pac-12-coach.jpg"></a>
+                            <img src="images/promos/pac-12-coach-thumb.jpg" alt="PAC-12 Networks 'Coaches - Go-Team'  promo"/>
+                        </div>
+                        <a href="promos/pac-12-coach/video.php"></a> 
+                        <dl>
+                            <dt class="description">Title:</dt>
+                                <dd>PAC-12 Networks "Coaches - Go-Team" Promo</dd>
+                            <dt class="description">Client:</dt>
+                                <dd>Pac-12 Networks</dd>
+                            <dt class="description">Producers:</dt>
+                                <dd>Ted Ishler, Joel Denbow</dd>
+                            <dt class="description">Director of Photography:</dt>
+                                <dd>Steve Cohen</dd>
+                            <dt class="description">PRODUCTION SERVICES:</dt>
+                                <dd> Manhattan Place Entertainment</dd>
+                        </dl>
+                    </li>                
                     <!-- case study -->
                     <li>
                         <div>
@@ -222,51 +335,6 @@ $menu->special ="Special";
                     <!-- case study  -->
                     <li>
                         <div>
-                            <a class="gallery_overlay" href="images/case_study_50cent.jpg">
-                            </a><img src="images/thumbs/case_study_50cent.jpg" alt="50 Cent at mic"/>
-                        </div>
-                        <a href="promos/50cent/50cent.php"></a>
-                        <dl>
-                            <dt class="description">TITLE:</dt>
-                                <dd>Baby By Me</dd>
-                            <dt class="description">CLIENT:</dt>
-                                <dd> Glaceau</dd>
-                            <dt class="description">CREATIVE DIRECTOR:</dt>
-                                <dd> Sue Kim</dd>
-                            <dt class="description">DIRECTOR/DP:</dt>
-                                <dd> Steve Cohen</dd>
-                            <dt class="description">Production Services:</dt>
-                                <dd>Manhattan Place Entertainment</dd>
-                                <dt class="description">Award:</dt>
-                                <dd class="single-line">2010 Telly:</dd>
-                                <dd class="single-line">Best Videography/Cinematography</dd> 
-                        </dl>
-                    </li> 
-                    <!-- case study  -->
-                    <li>
-                        <div>
-                            <a class="gallery_overlay" href="images/case-study-patrick.jpg">
-                            <img src="images/thumbs/case-study-patrick.jpg" alt="Dan Patrick"/></a>
-                        </div>
-                        <a href="promos/dan-patrick/video-dan-patrick.php"></a>
-                        <dl>
-                            <dt class="description">Title:</dt> 
-                                <dd>The Dan Patrick Show - "Fritzy"</dd> 
-                            <dt class="description">Client:</dt>
-                                <dd> DirecTV</dd> 
-                            <dt class="description">Producer:</dt>
-                                <dd> Barton Peters</dd>
-                            <dt class="description">Director of Photography:</dt>
-                                <dd>Steve Cohen</dd>
-                            <dt class="description">2ND Unit DP:</dt>
-                                <dd>Brent Ramsey</dd>
-                            <dt class="description">Production Services:</dt>
-                                <dd> Manhattan Place Entertainment</dd>
-                        </dl>      
-                    </li>   
-                    <!-- case study -->
-                    <li>
-                        <div>
                             <a class="gallery_overlay" href="images/case_studyirl_nose.jpg">
                             </a><img src="images/thumbs/case_studyirl_nose.jpg" alt="IRC Driver"/>
                         </div>
@@ -288,6 +356,161 @@ $menu->special ="Special";
                                 <dd class="single-line">2011 Telly:</dd>
                                 <dd class="single-line">Best Promotional Sports Piece</dd> 
                                 <dd class="award-winners"></dd>
+                        </dl>
+                    </li>
+                    <!-- case study  -->
+                    <li>
+                        <div>
+                            <a class="gallery_overlay" href="images/case_study_hnl01.jpg">
+                            <img src="images/thumbs/case_study_hnl01.jpg" alt="Hockey Night Live"/></a>
+                        </div>
+                        <a href="promos/hnl01/hnl01.php"></a>
+                        <dl>
+                            <dt class="description">Title:</dt>
+                                <dd>Hockey Night Live</dd> 
+                            <dt class="description">CLIENT:</dt>
+                                <dd>MSG Media</dd>
+                            <dt class="description">Executive Producer:</dt>
+                                <dd>Doug Field</dd>
+                            <dt class="description">Producer:</dt>
+                                <dd>Steve DeGroot</dd>
+                            <dt class="description">Director/DP:</dt>
+                                <dd>Steve Cohen</dd>
+                            <dt class="description">Production Services:</dt>
+                                <dd> Manhattan Place Entertainment</dd>
+                        </dl>    
+                    </li>
+                    <!-- case study -->
+                    <li>
+                        <div>
+                            <a class="gallery_overlay" href="images/case-study-mike-breen.jpg">
+                            <img src="images/thumbs/case-study-mike-breen.jpg" alt="Mike Breen 'In the Zone'"/></a>
+                        </div>
+                        <a href="promos/taxi-mike_breen/video.php"></a>
+                        <dl>
+                            <dt class="description">Title:</dt> 
+                                <dd>Mike Breen "In the Zone"</dd> 
+                            <dt class="description">CLIENT:</dt>
+                                <dd>MSG Media</dd> 
+                            <dt class="description">Agency:</dt>
+                                <dd>Amalgamated</dd>  
+                            <dt class="description">Director/DP:</dt>
+                                <dd>Steve Cohen</dd>
+                            <dt class="description">Production Services:</dt>
+                                <dd>Manhattan Place Entertainment</dd>
+                        </dl>      
+                    </li>
+                    <!-- case study  -->
+                    <li>
+                        <div>
+                            <a class="gallery_overlay" href="images/case-study-al-trautwig.jpg">
+                            <img src="images/thumbs/case-study-al-trautwig.jpg" alt="Al Trautwig 'Whatever He Wants'"/></a>
+                        </div>
+                        <a href="promos/taxi-control_room/video.php"></a>
+                        <dl>
+                            <dt class="description">Title:</dt> 
+                                <dd>Al Trautwig "Whatever He Wants"</dd> 
+                            <dt class="description">CLIENT:</dt>
+                                <dd>MSG Media</dd> 
+                            <dt class="description">Agency:</dt>
+                                <dd>Amalgamated</dd>
+                            <dt class="description">Director/DP:</dt>
+                                <dd>Steve Cohen</dd>
+                            <dt class="description">Production Services:</dt>
+                                <dd>Manhattan Place Entertainment</dd>
+                        </dl>      
+                    </li>
+                    <!-- case study  -->
+                    <li>
+                        <div>
+                            <a class="gallery_overlay" href="images/case-study-bob-papa.jpg">
+                            <img src="images/thumbs/case-study-bob-papa.jpg" alt="Giants Rewind"/></a>
+                        </div>
+                        <a href="promos/papa/video-papa.php"></a>
+                        <dl>
+                        <dt class="description">Title:</dt>
+                            <dd>"Giants Rewind"</dd> 
+                        <dt class="description">CLIENT:</dt>
+                            <dd>MSG Media</dd>
+                        <dt class="description">Producer:</dt>
+                            <dd>Eric Jergenson</dd>
+                        <dt class="description">Director:</dt>
+                            <dd>Steve Cohen</dd>
+                        <dt class="description">Director of Photography:</dt>
+                            <dd>Steve Cohen</dd>
+                        <dt class="description">Production Services:</dt>
+                            <dd> Manhattan Place Entertainment</dd>
+                        </dl>      
+                    </li>
+                    <!-- case study  -->
+                    <li>
+                        <div>
+                            <a class="gallery_overlay" href="images/case_study_united.jpg">
+                            <img src="images/thumbs/case_study_united.jpg" alt="United We Play"/></a>
+                        </div>
+                        <a href="promos/united_we_play/united_we_play.php"></a>
+                        <dl>
+                            <dt class="description">Title:</dt>
+                                <dd>United We Play</dd> 
+                            <dt class="description">CLIENT:</dt>
+                                <dd>New York Liberty Marketing</dd> 
+                            <dt class="description">Executive Producer:</dt>
+                                <dd>Howard Jacobs</dd>
+                            <dt class="description">PRODUCER:</dt>
+                                <dd>Amy Scheer</dd>
+                            <dt class="description">CREATIVE DIRECTOR:</dt>
+                                <dd>Steve Cohen</dd> 
+                            <dt class="description">DIRECTOR/DP/WRITER:</dt>
+                                <dd>Steve Cohen</dd>
+                            <dt class="description">Production Services:</dt>
+                                <dd>Manhattan Place Entertainment</dd>
+                            <dt class="description">Award:</dt>
+                                <dd class="single-line">2010 Telly:</dd>
+                                <dd class="single-line">Videography/Cinematography</dd>
+                                <dd>Editing &amp; Copywriting</dd>
+                                <dd class="award-winners"></dd>
+                        </dl>
+                    </li>
+                    <!-- case study -->
+                    <li>
+                        <div>
+                            <a class="gallery_overlay" href="images/case_study_irl_may.jpg">
+                            <img src="images/thumbs/case_study_irl_may.jpg" alt="Indy 500 on Versus"/></a>
+                        </div>
+                        <a href="promos/may/video.php"></a> 
+                        <dl>
+                            <dt class="description">Title:</dt>
+                                <dd>Indy 500</dd>
+                            <dt class="description">CLIENT:</dt>
+                                <dd>Versus</dd>
+                            <dt class="description">Executive Producer:</dt>
+                                <dd>Leon Schweir</dd>
+                            <dt class="description">Creative Director:</dt>
+                                <dd>Tripp Dixon</dd>
+                            <dt class="description">Director/DP:</dt>
+                                <dd>Steve Cohen</dd>
+                            <dt class="description">Production Services:</dt>
+                                <dd>Manhattan Place Entertainment</dd>
+                        </dl>
+                    </li>
+                    <!-- case study -->
+                    <li>
+                        <div class="gallery-images">
+                            <a class="gallery_overlay" href="images/pooch.jpg"></a>
+                            <img src="images/pooch-thumb.jpg" alt="ESPN SportsCenter Spot"/>
+                        </div>
+                        <a href="promos/espn-sports-center/video.php"></a> 
+                        <dl>
+                            <dt class="description">Title:</dt>
+                                <dd>ESPN "SportsCenter Spot"</dd>
+                            <dt class="description">Creative Director:</dt>
+                                <dd>Steve Cohen</dd>
+                            <dt class="description">Producer:</dt>
+                                <dd>Steve Cohen</dd>
+                            <dt class="description">Editor:</dt>
+                                <dd>Dean Marcial</dd>
+                                <dt class="description">Production Company:</dt>
+                                    <dd> Manhattan Place Entertainment</dd>
                         </dl>
                     </li>
                     <!-- case study -->
@@ -316,29 +539,9 @@ $menu->special ="Special";
                     </li>
                     <!-- case study -->
                     <li>
-                        <div class="gallery-images">
-                            <a class="gallery_overlay" href="images/case-study-dance-new.jpg"></a>
-                            <img src="images/thumbs/case-study-dance-new.jpg" alt="Summer Block Party Concert Wraps"/>
-                        </div>
-                        <a href="promos/block-party-music/video.php"></a>
-                        <dl>
-                            <dt class="description">Title</dt>
-                                <dd>Summer Block Party Concert Wraps </dd>
-                            <dt class="description">CLIENT:</dt> 
-                                <dd>MSG Media</dd>
-                            <dt class="description">Producer:</dt>
-                                <dd> Eric Jergenson</dd>
-                            <dt class="description">Director/DP:</dt>
-                                <dd>Steve Cohen</dd>
-                            <dt class="description">Production Services:</dt>
-                                <dd>Manhattan Place Entertainment<dd>
-                        </dl>       
-                    </li>
-                    <!-- case study -->
-                    <li>
                         <div>
                             <a class="gallery_overlay" href="images/case_study_letsjustplay_ltw.jpg">
-                            </a><img src="images/thumbs/case_study_letsjustplay_ltw.jpg" alt="Girl at playground"/>
+                            </a><img src="images/thumbs/case_study_letsjustplay_ltw.jpg" alt="Live These Words"/>
                         </div>  
                         <a href="promos/letsjustplay_ltw/letsjustplay_ltw.php"></a>
                         <dl>
@@ -361,46 +564,6 @@ $menu->special ="Special";
                     <!-- case study  -->
                     <li>
                         <div>
-                            <a class="gallery_overlay" href="images/case-study-mike-breen.jpg">
-                            <img src="images/thumbs/case-study-mike-breen.jpg" alt="MSG"/></a>
-                        </div>
-                        <a href="promos/taxi-mike_breen/video.php"></a>
-                        <dl>
-                            <dt class="description">Title:</dt> 
-                                <dd>Mike Breen "In the Zone"</dd> 
-                            <dt class="description">CLIENT:</dt>
-                                <dd>MSG Media</dd> 
-                            <dt class="description">Agency:</dt>
-                                <dd>Amalgamated</dd>  
-                            <dt class="description">Director/DP:</dt>
-                                <dd>Steve Cohen</dd>
-                            <dt class="description">Production Services:</dt>
-                                <dd>Manhattan Place Entertainment</dd>
-                        </dl>      
-                    </li>
-                    <!-- case study  -->
-                    <li>
-                        <div>
-                            <a class="gallery_overlay" href="images/case-study-al-trautwig.jpg">
-                            <img src="images/thumbs/case-study-al-trautwig.jpg" alt="Al Trautwig"/></a>
-                        </div>
-                        <a href="promos/taxi-control_room/video.php"></a>
-                        <dl>
-                            <dt class="description">Title:</dt> 
-                                <dd>Al Trautwig "Whatever He Wants"</dd> 
-                            <dt class="description">CLIENT:</dt>
-                                <dd>MSG Media</dd> 
-                            <dt class="description">Agency:</dt>
-                                <dd>Amalgamated</dd>
-                            <dt class="description">Director/DP:</dt>
-                                <dd>Steve Cohen</dd>
-                            <dt class="description">Production Services:</dt>
-                                <dd>Manhattan Place Entertainment</dd>
-                        </dl>      
-                    </li>
-                    <!-- case study -->
-                    <li>
-                        <div>
                             <a class="gallery_overlay" href="images/case_study_spiderwick_jared.jpg">
                             <img src="images/thumbs/case_study_spiderwick_jared.jpg" alt="The Spiderwick Chronicles"/></a>
                         </div>
@@ -419,50 +582,6 @@ $menu->special ="Special";
                             <dt class="description">Production Services:</dt>
                                 <dd> Manhattan Place Entertainment</dd>
                         </dl>
-                    </li>
-                    <!-- case study  -->
-                    <li>
-                        <div>
-                            <a class="gallery_overlay" href="images/case_study_irl_may.jpg">
-                            <img src="images/thumbs/case_study_irl_may.jpg" alt="Indy 500 on Versus"/></a>
-                        </div>
-                        <a href="promos/may/video.php"></a> 
-                        <dl>
-                            <dt class="description">Title:</dt>
-                                <dd>Indy 500</dd>
-                            <dt class="description">CLIENT:</dt>
-                                <dd>Versus</dd>
-                            <dt class="description">Executive Producer:</dt>
-                                <dd>Leon Schweir</dd>
-                            <dt class="description">Creative Director:</dt>
-                                <dd>Tripp Dixon</dd>
-                            <dt class="description">Director/DP:</dt>
-                                <dd>Steve Cohen</dd>
-                            <dt class="description">Production Services:</dt>
-                                <dd>Manhattan Place Entertainment</dd>
-                        </dl>
-                    </li>
-                    <!-- case study  -->
-                    <li>
-                        <div>
-                            <a class="gallery_overlay" href="images/case-study-bob-papa.jpg">
-                            <img src="images/thumbs/case-study-bob-papa.jpg" alt="Giants Rewind"/></a>
-                        </div>
-                        <a href="promos/papa/video-papa.php"></a>
-                        <dl>
-                        <dt class="description">Title:</dt>
-                            <dd>"Giants Rewind"</dd> 
-                        <dt class="description">CLIENT:</dt>
-                            <dd>MSG Media</dd>
-                        <dt class="description">Producer:</dt>
-                            <dd>Eric Jergenson</dd>
-                        <dt class="description">Director:</dt>
-                            <dd>Steve Cohen</dd>
-                        <dt class="description">Director of Photography:</dt>
-                            <dd>Steve Cohen</dd>
-                        <dt class="description">Production Services:</dt>
-                            <dd> Manhattan Place Entertainment</dd>
-                        </dl>      
                     </li>
                     <!-- case study -->
                     <li>
@@ -488,54 +607,23 @@ $menu->special ="Special";
                     </li>
                     <!-- case study -->
                     <li>
-                        <div>
-                            <a class="gallery_overlay" href="images/case_study_hnl01.jpg">
-                            <img src="images/thumbs/case_study_hnl01.jpg" alt="Hockey Night Live"/></a>
+                        <div class="gallery-images">
+                            <a class="gallery_overlay" href="images/case-study-dance-new.jpg"></a>
+                            <img src="images/thumbs/case-study-dance-new.jpg" alt="Summer Block Party Concert Wraps"/>
                         </div>
-                        <a href="promos/hnl01/hnl01.php"></a>
+                        <a href="promos/block-party-music/video.php"></a>
                         <dl>
-                            <dt class="description">Title:</dt>
-                                <dd>Hockey Night Live</dd> 
-                            <dt class="description">CLIENT:</dt>
+                            <dt class="description">Title</dt>
+                                <dd>Summer Block Party Concert Wraps </dd>
+                            <dt class="description">CLIENT:</dt> 
                                 <dd>MSG Media</dd>
-                            <dt class="description">Executive Producer:</dt>
-                                <dd>Doug Field</dd>
                             <dt class="description">Producer:</dt>
-                                <dd>Steve DeGroot</dd>
+                                <dd> Eric Jergenson</dd>
                             <dt class="description">Director/DP:</dt>
                                 <dd>Steve Cohen</dd>
                             <dt class="description">Production Services:</dt>
-                                <dd> Manhattan Place Entertainment</dd>
-                        </dl>    
-                    </li>
-                    <!-- case study  -->
-                    <li>
-                        <div>
-                            <a class="gallery_overlay" href="images/case_study_united.jpg">
-                            <img src="images/thumbs/case_study_united.jpg" alt="United team photo"/></a>
-                        </div>
-                        <a href="promos/united_we_play/united_we_play.php"></a>
-                        <dl>
-                            <dt class="description">Title:</dt>
-                                <dd>United We Play</dd> 
-                            <dt class="description">CLIENT:</dt>
-                                <dd>New York Liberty Marketing</dd> 
-                            <dt class="description">Executive Producer:</dt>
-                                <dd>Howard Jacobs</dd>
-                            <dt class="description">PRODUCER:</dt>
-                                <dd>Amy Scheer</dd>
-                            <dt class="description">CREATIVE DIRECTOR:</dt>
-                                <dd>Steve Cohen</dd> 
-                            <dt class="description">DIRECTOR/DP/WRITER:</dt>
-                                <dd>Steve Cohen</dd>
-                            <dt class="description">Production Services:</dt>
-                                <dd>Manhattan Place Entertainment</dd>
-                            <dt class="description">Award:</dt>
-                                <dd class="single-line">2010 Telly:</dd>
-                                <dd class="single-line">Videography/Cinematography</dd>
-                                <dd>Editing &amp; Copywriting</dd>
-                                <dd class="award-winners"></dd>
-                        </dl>
+                                <dd>Manhattan Place Entertainment<dd>
+                        </dl>       
                     </li>
                     <!-- case study -->
                     <li>
@@ -559,7 +647,30 @@ $menu->special ="Special";
                                 <dd>Manhattan Place Entertainment</dd>
                         </dl>
                     </li>
-                    <!-- case study  -->
+                    <!-- case study  
+                    <li>
+                        <div>
+                            <a class="gallery_overlay" href="images/case_study_50cent.jpg">
+                            </a><img src="images/thumbs/case_study_50cent.jpg" alt="50 Cent at mic"/>
+                        </div>
+                        <a href="promos/50cent/50cent.php"></a>
+                        <dl>
+                            <dt class="description">TITLE:</dt>
+                                <dd>Baby By Me</dd>
+                            <dt class="description">CLIENT:</dt>
+                                <dd> Glaceau</dd>
+                            <dt class="description">CREATIVE DIRECTOR:</dt>
+                                <dd> Sue Kim</dd>
+                            <dt class="description">DIRECTOR/DP:</dt>
+                                <dd> Steve Cohen</dd>
+                            <dt class="description">Production Services:</dt>
+                                <dd>Manhattan Place Entertainment</dd>
+                                <dt class="description">Award:</dt>
+                                <dd class="single-line">2010 Telly:</dd>
+                                <dd class="single-line">Best Videography/Cinematography</dd> 
+                        </dl>
+                    </li> 
+                    <!-- case study 
                     <li>
                         <div>
                             <a class="gallery_overlay" href="images/case_study_irl_2.jpg">
@@ -581,7 +692,7 @@ $menu->special ="Special";
                             <dd>Manhattan Place Entertainment</dd>
                         </dl>
                     </li>
-                    <!-- case study  -->
+                    <!-- case study 
                     <li>
                         <div>
                             <a class="gallery_overlay" href="images/case-study-banks.jpg">
@@ -601,47 +712,7 @@ $menu->special ="Special";
                                 <dd>Manhattan Place Entertainment</dd>
                         </dl>      
                     </li>
-                    <!-- case study  -->
-                    <li>
-                        <div>
-                            <a class="gallery_overlay" href="images/case-study-bill-pidto.jpg">
-                            <img src="images/thumbs/case-study-bill-pidto.jpg" alt="Bill Pidto"/></a>
-                        </div>
-                        <a href="promos/taxi-bill/video.php"></a>
-                        <dl>
-                            <dt class="description">Title:</dt> 
-                                <dd>Bill Pidto "Not His Coffee"</dd> 
-                            <dt class="description">CLIENT:</dt>
-                                <dd>MSG Media</dd> 
-                            <dt class="description">Agency:</dt>
-                                <dd>Amalgamated</dd>
-                            <dt class="description">Director/DP:</dt>
-                                <dd>Steve Cohen</dd>
-                            <dt class="description">Production Services:</dt>
-                                <dd>Manhattan Place Entertainment</dd>
-                        </dl>
-                    </li>
-                    <!-- case study  -->
-                    <li>
-                        <div>
-                            <a class="gallery_overlay" href="images/case-study-noiinpen.jpg">
-                            <img src="images/thumbs/case-study-noiinpen.jpg" alt="Al/Kelly 'No I in Pen'"/></a>
-                        </div>
-                        <a href="promos/taxi-kelly_ai/video.php"></a>
-                        <dl>
-                            <dt class="description">Title:</dt>
-                                <dd>Al and Kelly -  No "I" In Pen</dd> 
-                            <dt class="description">CLIENT:</dt>
-                                <dd>MSG Media</dd> 
-                            <dt class="description">Agency:</dt>
-                                <dd>Amalgamated</dd> 
-                            <dt class="description">Director/DP:</dt>
-                                <dd>Steve Cohen</dd>
-                            <dt class="description">Production Services:</dt>
-                                <dd> Manhattan Place Entertainment</dd>
-                        </dl>
-                    </li>
-                    <!-- case study -->
+                    <!-- case study 
                     <li>
                         <div>
                             <a class="gallery_overlay" href="images/case_study_newera.jpg">
@@ -667,7 +738,7 @@ $menu->special ="Special";
                                 <dd>Manhattan Place Entertainment</dd>
                         </dl>
                     </li>
-                    <!-- case study -->
+                    <!-- case study 
                     <li>
                         <div>
                             <a class="gallery_overlay" href="images/case_study_imaranger01.jpg">
@@ -687,7 +758,7 @@ $menu->special ="Special";
                                 <dd>Manhattan Place Entertainment</dd>
                         </dl>
                     </li>
-                    <!-- case study -->
+                    <!-- case study 
                     <li>
                         <div>
                             <a class="gallery_overlay" href="images/case_study_lights_out.jpg">
@@ -709,7 +780,7 @@ $menu->special ="Special";
                                 <dd>Manhattan Place Entertainment</dd>
                         </dl>
                     </li>
-                    <!-- case study -->
+                    <!-- case study 
                     <li>
                         <div>
                             <a class="gallery_overlay" href="images/case-study-world-cup.jpg">
@@ -735,7 +806,7 @@ $menu->special ="Special";
                                 <dd>Manhattan Place Entertainment</dd>
                         </dl>
                     </li>
-                    <!-- case study  -->
+                    <!-- case study  
                     <li>
                         <div>
                             <a class="gallery_overlay" href="images/case-study-damages-recap.jpg">
@@ -755,7 +826,7 @@ $menu->special ="Special";
                                 <dd>Manhattan Place Entertainment</dd>
                         </dl>
                     </li>
-                    <!-- case study  -->
+                    <!-- case study  
                     <li>
                         <div>
                             <a class="gallery_overlay" href="images/case_study_knicks_david_lee.jpg">
@@ -779,8 +850,7 @@ $menu->special ="Special";
                                 <dd>Manhattan Place Entertainment</dd>
                         </dl>
                     </li>
-                        <!-- case study  -->
-                    <li>
+                        <!-- case study                      <li>
                         <div>
                             <a class="gallery_overlay" href="images/case_study_prayer.jpg">
                             <img src="images/thumbs/case_study_bobby_granger.jpg" alt="New York Rangers"/></a>
@@ -801,7 +871,7 @@ $menu->special ="Special";
                                 <dd>Manhattan Place Entertainment</dd>
                         </dl>
                     </li> 
-                    <!-- case study  -->
+                    <!-- case study  
                     <li>
                         <div>
                             <a class="gallery_overlay" href="images/case_study_flat_tire.jpg">
@@ -819,7 +889,7 @@ $menu->special ="Special";
                                 <dd>Manhattan Place Entertainment</dd>
                         </dl>
                     </li>
-                    <!-- case study  -->
+                    <!-- case study 
                     <li>
                         <div>
                             <a class="gallery_overlay" href="images/case-study-damages-redcarpet.jpg">
@@ -837,28 +907,46 @@ $menu->special ="Special";
                                 <dd>Manhattan Place Entertainment</dd>
                         </dl>      
                     </li>  
-                    <!-- case study -->
+                    <!-- case study 
                     <li>
-                        <div class="gallery-images">
-                            <a class="gallery_overlay" href="images/pooch.jpg"></a>
-                            <img src="images/pooch-thumb.jpg" alt="ESPN SportsCenter Spot"/>
+                        <div>
+                            <a class="gallery_overlay" href="images/case-study-bill-pidto.jpg">
+                            <img src="images/thumbs/case-study-bill-pidto.jpg" alt="Bill Pidto"/></a>
                         </div>
-                        <a href="promos/espn-sports-center/video.php"></a> 
+                        <a href="promos/taxi-bill/video.php"></a>
                         <dl>
-                            <dt class="description">Title:</dt>
-                                <dd>ESPN "SportsCenter Spot"</dd>
-                            <dt class="description">Creative Director:</dt>
+                            <dt class="description">Title:</dt> 
+                                <dd>Bill Pidto "Not His Coffee"</dd> 
+                            <dt class="description">CLIENT:</dt>
+                                <dd>MSG Media</dd> 
+                            <dt class="description">Agency:</dt>
+                                <dd>Amalgamated</dd>
+                            <dt class="description">Director/DP:</dt>
                                 <dd>Steve Cohen</dd>
-                            <dt class="description">Producer:</dt>
-                                <dd>Steve Cohen</dd>
-                            <dt class="description">Editor:</dt>
-                                <dd>Dean Marcial</dd>
-                                <dt class="description">Production Company:</dt>
-                                    <dd> Manhattan Place Entertainment</dd>
+                            <dt class="description">Production Services:</dt>
+                                <dd>Manhattan Place Entertainment</dd>
                         </dl>
                     </li>
-                    <!-- case study -->
-                
+                    <!-- case study 
+                    <li>
+                        <div>
+                            <a class="gallery_overlay" href="images/case-study-noiinpen.jpg">
+                            <img src="images/thumbs/case-study-noiinpen.jpg" alt="Al/Kelly 'No I in Pen'"/></a>
+                        </div>
+                        <a href="promos/taxi-kelly_ai/video.php"></a>
+                        <dl>
+                            <dt class="description">Title:</dt>
+                                <dd>Al and Kelly -  No "I" In Pen</dd> 
+                            <dt class="description">CLIENT:</dt>
+                                <dd>MSG Media</dd> 
+                            <dt class="description">Agency:</dt>
+                                <dd>Amalgamated</dd> 
+                            <dt class="description">Director/DP:</dt>
+                                <dd>Steve Cohen</dd>
+                            <dt class="description">Production Services:</dt>
+                                <dd> Manhattan Place Entertainment</dd>
+                        </dl>
+                    </li>-->
                 </ul>
                 </div>              
                 <div id="thumbs-fwd"><img src="assets/next_thumb.png" alt="forward button"/></div> 

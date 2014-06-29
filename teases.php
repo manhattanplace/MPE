@@ -108,6 +108,21 @@ $menu->special ="Special";
                                 <span class="description">Production Services:</span><br/> Manhattan Place Entertainment<br/>
                             </p>
                          </li>
+            <!-- case study  -->            
+                         <li>
+                             <div>
+                                 <a class="gallery_overlay" href="images/opens/c-anthony.jpg">
+                                      </a><img src="images/opens/c-anthony-thumb.jpg" alt="MSG Show 'Elements'"/>
+                                </div>
+                                 <a href="teases/msg-show-elements/video.php"></a>
+                            <p>
+                                <span class="description">Title</span> MSG Show 'Elements'<br/>
+                                <span class="description">CLIENT:</span> MSG Creative Services<br/>
+                                <span class="description">Producer:</span> Dan Williams/Jason Joly<br/>
+                                <span class="description">Director of Photography:</span> Steve Cohen <br/> 
+                                <span class="description">Production Services:</span><br/> Manhattan Place Entertainment<br/>
+                            </p>
+                         </li>                        
             <!-- case study  -->
                          <li>
                              <div>

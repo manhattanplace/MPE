@@ -10,7 +10,7 @@ $menu->special ="Special";
 <!DOCTYPE HTML>
 <html lang="en">
 <head>
-<title>ESPN "SportsCenter Spot"</title>
+<title>The Journey to Super Bowl XLV</title>
 <meta name="description" content="video">
 <meta charset="UTF-8">    
 <!--[if IE 7]>
@@ -26,19 +26,21 @@ $menu->special ="Special";
 <body>
     <?php include '../../_header.php'; ?>
     <div class="panel">
-        <div id="logo">
-            <a href="/index.php"><h1>Manhattan Place Entertainment - Video and Film Production Services</h1></a>
-        </div>
-        <h3 class="library">PROMOS</h3>
+		<div id="logo">
+			<a href="/index.php"><h1>Manhattan Place Entertainment - Video and Film Production Services</h1></a>
+		</div>
+        <h3 class="library">TEASES</h3>
         <div class="container">
             <div class="back_button1">
-                <a href="/promos.php">&laquo; Back to Promos</a>
+            	<a href="/teases.php">&laquo; Back to Teases</a>
             </div>
             <div id="video">
-                <script>QT_WriteOBJECT('../../video/espn-camp-canine-groovin/espn-camp-canine-groovin.mov', '640','376','', 'AUTOPLAY','True','SCALE','Aspect') ;</script>
+            <script>
+               QT_WriteOBJECT('/videos/msg-show-elements/msg-show-elements.mov',	'640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect') ;
+            </script>
             </div>
             <div class="back_button2">
-                <a href="/promos.php">&laquo; Back to Promos</a>
+            	<a href="/teases.php">&laquo; Back to Teases</a>
             </div>
         </div>
     </div>

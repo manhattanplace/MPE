@@ -134,6 +134,26 @@ $menu->special ="Special";
         <!-- case study  -->
                     <li>
                         <div>
+                            <a class="gallery_overlay" href="images/opens/c-anthony.jpg">
+                               <img src="images/opens/c-anthony-thumb.jpg" alt="MSG Show 'Elements'"></a>
+                          </div>
+                           <a href="opens/msg-show-elements/video.php"></a>
+                        <dl>
+                            <dt class="description">Title:</dt> 
+                                <dd>MSG Show 'Elements'</dd> 
+                            <dt class="description">CLIENT:</dt> 
+                                <dd>MSG Creative Services</dd>
+                            <dt class="description">Producer:</dt> 
+                                <dd>Dan Williams/Jason Joly</dd>
+                            <dt class="description">Director of Photography:</dt> 
+                                <dd>Steve Cohen </dd>
+                            <dt class="description">Production Services:</dt> 
+                                <dd>Manhattan Place Entertainment </dd>
+                        </dl>
+                    </li>
+        <!-- case study  -->
+                    <li>
+                        <div>
                             <a class="gallery_overlay" href="images/case-study-nyk.jpg">
                                <img src="images/thumbs/case-study-nyk.jpg" alt="NY Knicks Introduction"/></a>
                           </div>
