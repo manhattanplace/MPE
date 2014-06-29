@@ -38,6 +38,45 @@ $menu->special ="Special";
         </ul>
         <h3 class="recent">Recent Articles</h3>
         <ul id="nav_tertiary">
+            <li><a href="#outfit">Outfit Of The Day</a></li>
+            <li><a href="#vogue">Project Title: Teen Vogue’s The Cover: Kesha</a></li>
+            <li><a href="#kate">Teen Vogue Talks - with Mary Kate Steinmiller</a></li>
+            <li><a href="#tpc">The Mike Francesa Show at TPC River Highland</a></li>
+            <li><a href="#golf">U.S. Open Golf On-Air Promos</a></li>
+            <li><a href="#phil">PHIL JACKSON & DEREK FISHER: THE INTERVIEW</a></li>
+            <li><a href="#dust">Sevendust Concert</a></li>
+            <li><a href="#scfs">New York Rangers - Stanley Cup Final Shoot</a></li>
+            <li><a href="#s2">New York Rangers - Stanley Cup Playoffs Shoot</a></li>
+            <li><a href="#rica">Japan vs. Costa Rica - Live Soccer telecast</a></li>
+            <li><a href="#bel">The Mike Francesa Show - Live at Belmont Park</a></li>
+            <li><a href="#c3">California Chrome goes for the Triple Crown</a></li>
+            <li><a href="#sc3">New York Rangers - Stanley Cup Playoffs Shoot</a></li>
+            <li><a href="#ymcae">YMCA Educational Programs Video</a></li>
+            <li><a href="#lmc">Liberty Mutual - “Commonly Asked Questions”</a></li>
+            <li><a href="#22">Project Title:  Impractical Jokers - “22-Jump Street” “Sex Tapes”</a></li>
+            <li><a href="#slg">SL Green Photo Shoot</a></li>
+            <li><a href="#tnyl">NY Liberty Media Day</a></li>
+            <li><a href="#cne">Teen Vogue: Amy Astley-Editor in Chief</a></li>
+            <li><a href="#buffo">University at Buffalo Event at 48 Lounge</a></li>
+            <li><a href="#nfldkm">NFL Draft - Khalil Mack</a></li>
+            <li><a href="#fow">Francis Tiafoe Feature</a></li>
+            <li><a href="#lfte">Teen Vogue: “Letters From the Editor”</a></li>
+            <li><a href="#rose">Isabel Rose - Music Videos</a></li>
+            <li><a href="#kon">New York Rangers - Stanley Cup Playoffs Shoot</a></li>
+            <li><a href="#foft">Tofutti - Cover Shoot</a></li>
+            <li><a href="#gtlms">Glory: The Last Man Standing</a></li>
+            <li><a href="#pil">Pilot: “Dangerous Liaisons” BTS</a></li>
+            <li><a href="#slg">SL Green Photo Shoot</a></li>
+            <li><a href="#fusek">Teen Vogue- Letters to the Editors</a></li>
+            <li><a href="#murder">How To Get Away With Murder</a></li>
+            <li><a href="#tipoff">“Big East Tourney Tip-Off”</a></li>
+            <li><a href="#roadto">Road to the Final Four - Syracuse University</a></li>
+            <li><a href="#eyll">Road to the Final Four - David Kelly Tribute</a></li>
+            <li><a href="#poops">Fabipops - Sizzle Reel</a></li>
+            <li><a href="#operap">Metropolitan Opera Performance of The “Enchanted Island”</a></li>
+            <li><a href="#utti">Tofutti - Cover Shoot</a></li>
+            <li><a href="#safeco">NASCAR 2014</a></li>
+            <li><a href="#haltrct">Heart and Lights - starring The Radio City Rockettes</a></li>
             <li><a href="#SuperBowlCoverage">FOX Sports Kicks-Off Super Bowl Coverage with Manhattan Place Entertainment</a></li>
             <li><a href="#boheme">La Boheme at the Metropolitan Opera in NYC</a></li>
             <li><a href="#Cmon">C’mon Man!</a></li>
@@ -139,8 +178,511 @@ $menu->special ="Special";
             <li><a href="#grail">The "Holy Grail" of Live Events! The Monty Python Reunion</a></li>
             <li><a href="#50cent">Manhattan Place Shoots "Baby By Me" with 50 Cent</a></li>
         </ul>
+
+        <!-- Begin Article -->	
+        <div class="article">
+            <h1><a name="outfit" class="anchor">Outfit Of The Day</a></h1>
+            <p class="date">Client: Conde Nast Entertainment</p>
+        	<p class="date">Producer: Kate Siegel (Associate Producer)</p>
+        	<p class="date">Director: Robert Profusek</p>
+        	<p class="date">DP: Bob Hanna</p>
+        	<p class="date">2nd Unit: Michael Frye</p>
+        	<hr/>
+            <p>Outfit of the Day is a series of recurring segments that are featured on Teen Vogue’s website. The content for these segments featured a “back-to-school” theme. In an improvisational format, the participants answered questions about their personal style, how it has changed over the years (since starting college), who inspires their style choices, and more. Shot on location on the streets of NYC.</p>
+            <a class="back-to-top" href="#top">Back to Top</a>       
+        </div>
+        <!-- end article -->
+        
+        <!-- Begin Article -->	
+        <div class="article">
+            <h1><a name="vogue" class="anchor">Project Title: Teen Vogue’s The Cover: Kesha</a></h1>
+            <p class="date">Client: Conde Nast Entertainment</p>
+        	<p class="date">Producer: Kate Siegel (Associate Producer)</p>
+        	<p class="date">Director: Robert Profusek</p>
+        	<p class="date">DP: Bob Hanna</p>
+        	<p class="date">2nd Unit: Michael Frye</p>
+        	
+        	<hr/>
+            <p>Interview with Teen Vogue contributor Andrew Bevan</p>
+            <a class="back-to-top" href="#top">Back to Top</a>       
+        </div>
+        <!-- end article -->
+                
+        <!-- Begin Article -->	
+        <div class="article">
+            <h1><a name="kate" class="anchor">Teen Vogue Talks - with Mary Kate Steinmiller</a></h1>
+            
+        	<p class="date">Client: Conde Nast Entertainment</p>
+        	<p class="date">Producer: Kate Siegel (Associate Producer)</p>
+        	<p class="date">Director: Robert Profusek</p>
+        	<p class="date">DP: Bob Hanna</p>
+        	<p class="date">2nd Unit: Michael Frye</p>
+        	<hr/>
+            <p>Filmed on location at the Teen Vogue offices in NYC, a series of segments entitled “Teen Vogue Talks” were shot with Mary Kate Steinmiller, Senior Fashion Market Editor/Special Projects Editor for Teen Vogue. The Digital content will be featured on the Teen Vogue website.</p>
+            <a class="back-to-top" href="#top">Back to Top</a>       
+        </div>
+        <!-- end article -->
+                
+        <!-- Begin Article -->	
+        <div class="article">
+            <h1><a name="tpc" class="anchor">The Mike Francesa Show at TPC River Highland</a></h1>
+        	<p class="date">Client: FOX Sports 1</p>
+        	<p class="date">Producer: Paul Baron</p>
+        	<p class="date">DP/Director: Steve Cohen</p>
+        	<hr/>
+            <p>This shoot was to acquire a variety of B-roll footage and beauty shots of the TPC golf course for use on the “Mike Francesa Show” during a live broadcast from the TPC River Highlands Golf Club in Cromwell, Ct. on June 17th. The footage was used throughout the broadcast.</p>
+            <a class="back-to-top" href="#top">Back to Top</a>       
+        </div>
+        <!-- end article -->
+        
+        <!-- Begin Article -->	
+        <div class="article">
+            <h1><a name="golf" class="anchor">U.S. Open Golf On-Air Promos</a></h1>
+            <p class="date">Client: Fox Sports 1</p>
+        	<p class="date">DP: Axel Baumann</p>
+        	<p class="date">2nd Unit: Jeff Barnhill</p>
+        	<p class="date">Production Services: Manhattan Place Entertainment</p>
+        	<hr/>
+            <p>FOX Sports U.S. Open Golf commentators Joe Buck and Greg Norman give their perspective and share insights about golf and describe what FOX Sports will bring to their coverage of the U.S. Open in 2015. In a conversational, unscripted format, the subject matter will be utilized for on-air spots used to promote FOX Sports coverage of the U.S. Open Golf Tournament next year.  Shot on location at Pine Needles Lodge and Resort in Southern Pines, NC.</p>
+            <a class="back-to-top" href="#top">Back to Top</a>       
+        </div>
+        <!-- end article -->
+                 
+        <!-- Begin Article -->	
+        <div class="article">
+            <h1><a name="phil" class="anchor">PHIL JACKSON & DEREK FISHER: THE INTERVIEW</a></h1>
+        	<p class="date">Client: MSG </p>
+        	<p class="date">Creative Services</p>
+        	<p class="date">Producer: Doug Field, Marc Mondry, Jason Joly</p>
+        	<p class="date">DP: Steve Cohen</p>
+        	<p class="date">2nd and 3rd Unit: Tom Rome and Howard Heitner (Jib Operator)</p>
+        	<hr/>
+            <p>In an exclusive interview, Al Trautwig sat down with Derek Fisher, a five-time NBA champion, and Phil Jackson, President of The New York Knicks, on the day that Fisher was named the 26th head coach in franchise history. Manhattan Place Entertainment Production Designed and shot the 30 minute special that aired on MSG Network. Shot entirely on location at the New Yorks Knicks training facility.</p>
+            <a class="back-to-top" href="#top">Back to Top</a>       
+        </div>
+        <!-- end article -->
+                 
+        <!-- Begin Article -->	
+        <div class="article">
+            <h1><a name="dust" class="anchor">Sevendust Concert</a></h1>
+        	<p class="date">Client: The City Drive Films</p>
+        	<p class="date">Producer: Dan Catullo (President/CEO)</p>
+        	<p class="date">DP’s: Brian Schulz & Tom Rome</p>
+        	<p class="date">Production Services: Manhattan Place Entertainment</p>
+        	<hr/>
+            <p>Follow documentary style coverage with the band before, during and after the concert, as well as interviews with the fans and a meet and greet set-up between fans and the performers. Shot on location in Sayreville, NJ at the Starland Ballroom</p>
+            <a class="back-to-top" href="#top">Back to Top</a>       
+        </div>
+        <!-- end article -->
+        
+        <!-- Begin Article -->	
+        <div class="article">
+            <h1><a name="scfs" class="anchor">New York Rangers - Stanley Cup Final Shoot</a></h1>
+        	<p class="date">Client: MSG Creative Service Department</p>
+        	<p class="date">Producer: Jason Joly</p>
+        	<p class="date">DP: Steve Cohen</p>
+        	<p class="date">2nd Unit: Brian Schulz</p>
+        	<hr/>
+            <p>In depth interviews and portrait shots with the Rangers players used to create on-air promotional spots as well as teases, features, and bumps for the "CHASE Rangers Stanley Cup Countdown" (aired on game days), the "Hyundai Rangers Stanley Cup Game night" (aired on gamedays), and the " Delta Rangers Stanley Cup Insider" (aired every day between games during the finals) on MSG Network.</p>
+            <a class="back-to-top" href="#top">Back to Top</a>       
+        </div>
+        <!-- end article -->
+        
+        <!-- Begin Article -->	
+        <div class="article">
+            <h1><a name="s2" class="anchor">New York Rangers - Stanley Cup Playoffs Shoot</a></h1>
+        	<p class="date">Client: MSG Creative Service Department</p>
+        	<p class="date">Producer: Jason Joly/Dan Williams</p>
+        	<p class="date">DP: Chris Bierlein</p>
+        	<hr/>
+            <p>In depth interviews shot with the New York Rangers players to help promote MSG Networks coverage of the Eastern Conference Finals of the Stanley Cup Playoffs. The footage was used to create on air promotional spots as well as teases, features, and bumps for MSG Network.</p>
+            <a class="back-to-top" href="#top">Back to Top</a>       
+        </div>
+        <!-- end article -->
+        
+        <!-- Begin Article -->	
+        <div class="article">
+            <h1><a name="rica" class="anchor">Japan vs. Costa Rica - Live Soccer telecast</a></h1>
+        	<p class="date">Client: NHK New York</p>
+        	<p class="date">Executive Producers: Nagamitsu Endo/Steve Cohen</p>
+        	<p class="date">Production Services: Manhattan Place Entertainment/Tupelo Honey Productions</p>
+        	<hr/>
+            <p>A 12 camera live soccer match produced exclusively for Japanese Broadcaster NHK featuring the international “pre-world cup” soccer match between the Japanese national team and Costa Rica.</p>
+            <p>The game took place at Raymond James Stadium in Tampa Florida. All production manpower and facilities were provided and arranged for by MPE/THP.</p>
+            <a class="back-to-top" href="#top">Back to Top</a>       
+        </div>
+        <!-- end article -->
+        
+        <!-- Begin Article -->	
+        <div class="article">
+            <h1><a name="bel" class="anchor">The Mike Francesa Show - Live at Belmont Park</a></h1>
+        	<p class="date">Client: FOX Sports 1</p>
+        	<p class="date">Producer: Paul Baron</p>
+        	<p class="date">DP/Director: Steve Cohen</p>
+        	<hr/>
+            <p>B-roll and beauty shots of Belmont Park were acquired for use during a special Triple Crown episode of The Mike Francesa Show, Live from Belmont Park. The footage was used throughout the telecast.</p>
+            <a class="back-to-top" href="#top">Back to Top</a>       
+        </div>
+        <!-- end article -->
+
+        <!-- Begin Article -->	
+        <div class="article">
+            <h1><a name="c3" class="anchor">California Chrome goes for the Triple Crown</a></h1>
+        	<p class="date">Client: NYRA (New York Racing Association)</p>
+        	<p class="date">Executive Producer/Post Supervisor: Steve Cohen</p>
+        	<p class="date">Editor: Jonathan Wendell</p>
+        	<p class="date">Production Services: Manhattan Place Entertainment</p>
+        	<hr/>
+            <p>For the 3rd year in a row MPE produced and edited on-air commercials for the NYRA, advertising the third leg of horse racings triple crown “The Belmont Stakes”.</p>
+            <a class="back-to-top" href="#top">Back to Top</a>       
+        </div>
+        <!-- end article -->
         
         
+        <!-- Begin Article -->	
+        <div class="article">
+            <h1><a name="sc3" class="anchor">New York Rangers - Stanley Cup Playoffs Shoot</a></h1>
+        	<p class="date">Client: MSG Creative Service Department</p>
+        	<p class="date">Producer: Jason Joly/Dan Williams</p>
+        	<p class="date">DP: Axel Bauman</p>
+        	<hr/>
+            <p>In depth interviews shot with the New York Rangers players to help promote MSG Networks coverage of the Eastern Conference Finals of the Stanley Cup Playoffs.</p>
+            <p>The footage was used to create on-air promotional spots as well as teases, features, and bumps for MSG Network.</p>
+            <a class="back-to-top" href="#top">Back to Top</a>       
+        </div>
+        <!-- end article -->
+        
+        <!-- Begin Article -->	
+        <div class="article">
+            <h1><a name="ymcae" class="anchor">YMCA Educational Programs Video</a></h1>
+        	<p class="date">Client: Dutch Productions</p>
+        	<p class="date">Producer: Stephen de Groot</p>
+        	<p class="date">DP: Steve Cohen</p>
+        	<hr/>
+            <p>Description: Documentary style Interviews and B-roll of the principal, vice principal, and parents of children who attend P.S. 154. They tell the compelling story of the major impact that the YMCA has had on the curriculum, the school faculty, and the students. </p>
+            <a class="back-to-top" href="#top">Back to Top</a>       
+        </div>
+        <!-- end article -->
+        
+        <!-- Begin Article -->	
+        <div class="article">
+            <h1><a name="lmc" class="anchor">Liberty Mutual - “Commonly Asked Questions”</a></h1>
+        	<p class="date">Client: Havas Worldwide</p>
+        	<p class="date">Producer: Martin Babitz</p>
+        	<p class="date">DP: Josh Salzman</p>
+        	<p class="date">Production Services: Manhattan Place Entertainment</p>
+        	<hr/>
+            <p>Liberty Mutual reps appear in vignettes that take the complicated world of insurance and present it in an easily digestible way. The reps were asked to answer the most commonly asked questions they get from customers. The videos will be presented on the Liberty Mutual blog: The Torch. 
+        Shot entirely on location at the St. Regis Hotel in Dana Point, CA</p>
+            <a class="back-to-top" href="#top">Back to Top</a>       
+        </div>
+        <!-- end article -->
+        
+        <!-- Begin Article -->	
+        <div class="article">
+            <h1><a name="22" class="anchor">Project Title:  Impractical Jokers - “22-Jump Street” “Sex Tapes”</a></h1>
+        	<p class="date">Client: Eleven-02 Creative</p>
+        	<p class="date">Director: Barry Bross</p>
+        	<p class="date">DP: Steve Cohen</p>
+        	<p class="date">2nd Unit: Axel Bauman</p>
+        	<hr/>
+            <p>Description: On-air promotional spots shot with the cast of the Impractical Jokers cross promoting the release of “Sex Tape” and “22 Jump Street”.  Shot on location in Brooklyn, NY.</p>
+            <a class="back-to-top" href="#top">Back to Top</a>       
+        </div>
+        <!-- end article -->
+        
+        <!-- Begin Article -->	
+        <div class="article">
+            <h1><a name="slg" class="anchor">SL Green Photo Shoot</a></h1>
+        	<p class="date">Producer: Ajene Abston</p>
+        	<p class="date">Photographer: Jamie Cohen.</p>
+        	<hr/>
+            <p>Photo elements shot for use at SL Green’s annual corporate seminar</p>
+            <a class="back-to-top" href="#top">Back to Top</a>       
+        </div>
+        <!-- end article -->
+                
+        <!-- Begin Article -->	
+        <div class="article">
+            <h1><a name="tnyl" class="anchor">NY Liberty Media Day</a></h1>
+        	<p class="date">Client: MSG Creative Services/The New York Liberty</p>
+        	<p class="date">Producer: Shawn Bennett/Jason Joly</p>
+        	<p class="date">DP: Steve Cohen</p>
+        	<hr/>
+            <p>Production elements shot with each player of the New York Liberty to be used for on-air promos, teases, bumps and for use in the arena on Garden Vision.</p>
+            <a class="back-to-top" href="#top">Back to Top</a>       
+        </div>
+        <!-- end article -->
+        
+        <!-- Begin Article -->	
+        <div class="article">
+            <h1><a name="cne" class="anchor">Teen Vogue: Amy Astley-Editor in Chief</a></h1>
+        	<p class="date">Client: Conde Nast Entertainment</p>
+        	<p class="date">DP: Dikran Yazedjian</p>
+        	<p class="date">2nd Cam Op: Michael Frye</p>
+        	<hr/>
+            <p>Various Segments/topics shot with Amy Astley (Editor In Chief - Teen Vogue). The digital content will be featured on the Teen Vogue website.</p>
+            <a class="back-to-top" href="#top">Back to Top</a>       
+        </div>
+        <!-- end article -->
+        
+        <!-- Begin Article -->	
+        <div class="article">
+            <h1><a name="buffo" class="anchor">University at Buffalo Event at 48 Lounge</a></h1>
+        	<p class="date">Client: University at Buffalo</p>
+        	<p class="date">Still Photographer: Ryan Scott</p>
+        	<hr/>
+            <p>MPE photographed this prestigious event documenting the University of Buffalo’s participation in the 2014 NFL Draft.</p>
+            <a class="back-to-top" href="#top">Back to Top</a>       
+        </div>
+        <!-- end article -->
+        
+        <!-- Begin Article -->	
+        <div class="article">
+            <h1><a name="nfldkm" class="anchor">NFL Draft - Khalil Mack</a></h1>
+        	<p class="date">Client: The University at Buffalo</p>
+        	<p class="date">Producer: Brian Wolff</p>
+        	<p class="date">DP: Tom Rome</p>
+        	<hr/>
+            <p>Follow documentary coverage of Khalil Mack during his time in NYC leading up to and through his being selected at the 2014 NFL Draft. Mack was drafted 5th overall and went to the Oakland Raiders.</p>
+            <a class="back-to-top" href="#top">Back to Top</a>       
+        </div>
+        <!-- end article -->
+        
+        <!-- Begin Article -->	
+        <div class="article">
+            <h1><a name="fow" class="anchor">Francis Tiafoe Feature</a></h1>
+        	<p class="date">Client: Tennis Channel</p>
+        	<p class="date">Producer: Gary Lang</p>
+        	<p class="date">DP: Tom Rome</p>
+        	<hr/>
+            <p>B-roll, interviews, and feature elements shot with Francis Tiafoe, a rising US Tennis Star, only 16 years old. 
+        Shot on location at College Park, Maryland at the Junior Tennis Champions Center.</p>
+            <a class="back-to-top" href="#top">Back to Top</a>       
+        </div>
+        <!-- end article -->
+        
+        <!-- Begin Article -->	
+        <div class="article">
+            <h1><a name="lfte" class="anchor">Teen Vogue: “Letters From the Editor”</a></h1>
+        	<p class="date">Client: Conde Nast Entertainment</p>
+        	<p class="date">DP: Michael Frye</p>
+        	<p class="date">Production services: Manhattan Place Entertainment</p>
+        	<hr/>
+            <p>A series of short vignettes featuring Teen Vogue’s editors responding to letters from their constituents.</p>
+            <a class="back-to-top" href="#top">Back to Top</a>       
+        </div>
+        <!-- end article -->
+        
+        <!-- Begin Article -->	
+        <div class="article">
+            <h1><a name="rose" class="anchor">Isabel Rose - Music Videos</a></h1>
+        	<p class="date">Songs:  “Trouble In Paradise”, “Love Will Keep Us Together”</p>
+        	<p class="date">Client: Isabel Rose/Doug Lebow</p>
+        	<p class="date">DP: Steve Cohen</p>
+        	<p class="date">Steadicam: Phillip Martinez</p>
+        	<p class="date">Production Design (Love will keep us together): Steve Cohen </p>
+        	<hr/>
+            <p>Shot on location at the spectacular Park Avenue Armory in NYC, with songstress Isabel Rose (Sony Records) created 2 new music videos to add to her impressive catalogue of material.</p>
+            <a class="back-to-top" href="#top">Back to Top</a>       
+        </div>
+        <!-- end article -->
+        
+        <!-- Begin Article -->	
+        <div class="article">
+            <h1><a name="kon" class="anchor">New York Rangers - Stanley Cup Playoffs Shoot</a></h1>
+        	<p class="date">Client: MSG Creative Service Department</p>
+        	<p class="date">Producer: Jason Joly/Dan Williams</p>
+        	<p class="date">DP: Chris Bierlein</p>
+        	<hr/>
+            <p>In depth interviews shot with the New York Rangers players to help promote MSG Networks coverage of the eastern conference semi-finals of the Stanley Cup Playoffs.</p>
+            <p>The footage was used to create on air promotional spots as well as teases, features, and bumps for MSG Network.</p>
+            <a class="back-to-top" href="#top">Back to Top</a>       
+        </div>
+        <!-- end article -->
+        
+        <!-- Begin Article -->	
+        <div class="article">
+            <h1><a name="foft" class="anchor">Tofutti - Cover Shoot</a></h1>
+        	<p class="date">Table Top photo shoot.</p>
+        	<p class="date">Still photography images are utilized by Tofutti for the covers of their product packaging and for other sales and marketing initiatives.</p>
+        	<p class="date">Still Photographer: Jamie Cohen</p>
+        	<p class="date">Production Services: Manhattan Place Entertainment</p>
+        	<hr/>
+            <a class="back-to-top" href="#top">Back to Top</a>       
+        </div>
+        <!-- end article -->
+        
+        <!-- Begin Article -->	
+        <div class="article">
+            <h1><a name="gtlms" class="anchor">Glory: The Last Man Standing</a></h1>
+        	<p class="date">Client: Reveal</p>
+        	<p class="date">Producer: Doug Lebow</p>
+        	<p class="date">DP: Steve Cohen</p>
+        	<p class="date">Set Build/Art Direction: Jeremy Devonshire</p>
+        	<hr/>
+            <p>A series of :30 second promos for Glory Sports were shot utilizing a space capsule set design that replicates the one used in the movie “Oblivion”.</p>
+            <p>Shot on the Arri Alexa. The spots promoted Glory Sports Kickboxing PPV event “Last Man Standing” on June 21, 2014.</p>
+            <p><a href="https://vimeo.com/93275472">Watch Spot here</a></p>
+            <p>password: MPE</p>
+            <a class="back-to-top" href="#top">Back to Top</a>       
+        </div>
+        <!-- end article -->
+        
+        <!-- Begin Article -->	
+        <div class="article">
+            <h1><a name="pil" class="anchor">Pilot: “Dangerous Liaisons” BTS</a></h1>
+        	<p class="date">Client: Disney/ABC Television</p>
+        	<p class="date">Camera Operator: Axel Baumann</p>
+        	<p class="date">Producer: Barry Bross</p>
+        	<hr/>
+            <p>Manhattan Place Entertainment captured behind the scenes footage for a new ABC pilot, starring Katie Holmes. Filming took place in a loft in Manhattan.</p>
+            <a class="back-to-top" href="#top">Back to Top</a>       
+        </div>
+        <!-- end article -->
+        
+        <!-- Begin Article -->	
+        <div class="article">
+            <h1><a name="slg" class="anchor">SL Green Photo Shoot</a></h1>
+        	<p class="date">Producer: Ajene Abston</p>
+        	<p class="date">Photographer: Jamie Cohen.</p>
+        	<hr/>
+            <p>Photo elements shot for use at SL Green’s annual corporate seminar</p>
+            <a class="back-to-top" href="#top">Back to Top</a>       
+        </div>
+        <!-- end article -->
+        
+        <!-- Begin Article -->	
+        <div class="article">
+            <h1><a name="fusek" class="anchor">Teen Vogue- Letters to the Editors</a></h1>
+        	<p class="date">Client: Conde Nast Entertainment</p>
+        	<p class="date">Producer: Robert Profusek</p>
+        	<p class="date">DP: Steve Cohen</p>
+        	<p class="date">Production services: Manhattan Place Entertainment</p>
+        	<hr/>
+            <p>A series of short vignettes featuring Teen Vogue’s editors responding to letters from their constituents.</p>
+            <p><a href="http://video.teenvogue.com/watch/3-steps-to-teen-vogue-editor-elaine-welteroth-responds-to-your-comments?q=editor">Watch Video Here</a></p>
+            <a class="back-to-top" href="#top">Back to Top</a>       
+        </div>
+        <!-- end article -->
+        
+        <!-- Begin Article -->	
+        <div class="article">
+            <h1><a name="murder" class="anchor">How To Get Away With Murder</a></h1>
+        	<p class="date">Client: Disney/ABC Television Group</p>
+        	<p class="date">Producer: Lisa Solana</p>
+        	<hr/>
+            <p>Manhattan Place Entertainment shot  behind the scenes footage for the upcoming ABC series “How To Get Away with Murder”, starring Oscar nominee Viola Davis (“The Help”).</p>
+            <p>This series was created by Shandra Rhimes (Greys Anatomy/Scandal) and premieres on the ABC Television Network this fall.
+        DP: Steve Cohen (IATSE Local 600)</p>
+            <a class="back-to-top" href="#top">Back to Top</a>       
+        </div>
+        <!-- end article -->
+        
+        <!-- Begin Article -->	
+        <div class="article">
+            <h1><a name="tipoff" class="anchor">“Big East Tourney Tip-Off”</a></h1>
+        	<p class="date">Client: FOX Sports 1</p>
+        	<p class="date">Executive Producer: Bill Battin</p>
+        	<p class="date">Creative Director:  Robert Gottlieb</p>
+        	<p class="date">Director/DP: Steve Cohen</p>
+        	<p class="date">2nd unit DP’s:  Chris Bierlein/Axel Bauman</p>
+        	<p class="date">Field Producer: Gary Waksman</p>
+        	<p class="date">Post Producer: David Lengel</p>
+        	<hr/>
+            <p>This digital initiative was used to promote the start of the Big East Tournament. The “stunt” took place in Grand Central Terminal in NYC. A basketball court was constructed under wraps in Vanderbilt Hall and passers by witnessed as a basketball court in the heart of Grand Central Terminal was magically revealed.</p>
+            <p>It was followed by a Big East Alumni game and fans were able to win tickets to see the tournament.</p>
+            <p>MPE produced, shot and edited the piece and provided the final deliverable in under 36 hours from the time the event took place.</p>
+            <p><a href="https://www.youtube.com/watch?v=gJd9TIzFPow">Watch Spot Here</a></p>
+            <a class="back-to-top" href="#top">Back to Top</a>       
+        </div>
+        <!-- end article -->
+        
+        <!-- Begin Article -->	
+        <div class="article">
+            <h1><a name="roadto" class="anchor">Road to the Final Four - Syracuse University</a></h1>
+        	<p class="date">Client: CBS Sports</p>
+        	<p class="date">Producer: Charlie Bloom</p>
+        	<p class="date">DP: Steve Cohen</p>
+        	<hr/>
+            <p>B-roll, interviews, and portraits shot with legendary Syracuse University head coach Jim Boeheim and the Syracuse players. Footage to be used throughout “The Road To the Final Four” - CBS Sports coverage of the NCAA Men’s Basketball Tournament.</p>
+            <a class="back-to-top" href="#top">Back to Top</a>       
+        </div>
+        <!-- end article -->
+        
+        <!-- Begin Article -->	
+        <div class="article">
+            <h1><a name="eyll" class="anchor">Road to the Final Four - David Kelly Tribute</a></h1>
+        	<p class="date">Client: CBS Sports</p>
+        	<p class="date">Producer: Charlie Bloom</p>
+        	<p class="date">DP: Steve Cohen</p>
+        	<hr/>
+            <p>A feature piece celebrating the life of David Kelly, Sports Information Director of Boston College who sadly passed away this year. Shot on location at Boston College</p>
+            <a class="back-to-top" href="#top">Back to Top</a>       
+        </div>
+        <!-- end article -->
+        
+        <!-- Begin Article -->	
+        <div class="article">
+            <h1><a name="poops" class="anchor">Fabipops - Sizzle Reel</a></h1>
+        	<p class="date">Client: Moolahoop</p>
+        	<p class="date">Production Company: Image Maker</p>
+        	<p class="date">DP: Axel Baumann</p>
+        	<p class="date">Production Services: Manhattan Place Entertainment</p>
+        	<hr/>
+            <p>MoolaHoop is a rewards-based crowdfunding platform created by women to help women leverage the "power of the crowd" to grow their businesses. 
+        This sizzle was shot to launch a web series.</p>
+            <a class="back-to-top" href="#top">Back to Top</a>       
+        </div>
+        <!-- end article -->
+        
+        <!-- Begin Article -->	
+        <div class="article">
+            <h1><a name="operap" class="anchor">Metropolitan Opera Performance of The“Enchanted Island”</a></h1>
+        	<p class="date">Client: Euronews</p>
+        	<p class="date">DP: Steve Cohen</p>
+        	<hr/>
+            <p>Live performance coverage of the Metropolitan Opera’s production of “The Enchanted Island” starring the legendary tenor Placido Domingo, and post performance interviews with the cast.</p>
+            <a class="back-to-top" href="#top">Back to Top</a>       
+        </div>
+        <!-- end article -->
+        
+        <!-- Begin Article -->	
+        <div class="article">
+            <h1><a name="utti" class="anchor">Tofutti - Cover Shoot</a></h1>
+        	<p class="date">Table Top photo shoot.</p>
+        	<p class="date">Still photography images are utilized by Tofutti on the covers of their product packaging and for other sales and marketing initiatives.</p>
+        	<p class="date">Still Photographer: Jamie Cohen</p>
+        	<p class="date">Production Services: Manhattan Place Entertainment</p>
+        	<hr/>
+            <a class="back-to-top" href="#top">Back to Top</a>       
+        </div>
+        <!-- end article -->
+        
+        <!-- Begin Article -->	
+        <div class="article">
+            <h1><a name="safeco" class="anchor">NASCAR 2014</a></h1>
+        	<p class="date">Client: FOX Sports</p>
+        	<p class="date">DP: Chris Bierlein</p>
+        	<p class="date">Production Services: Manhattan Place Entertainment</p>
+        	<hr/>
+            <p>Every year since 2000, Manhattan Place Entertainment has handled shooting specialty elements for FOX Sports coverage of NASCAR. The elements shot with each and every driver are utilized for teases, show opens and in-show elements throughout FOX Sports NASCAR coverage.</p>
+            <a class="back-to-top" href="#top">Back to Top</a>       
+        </div>
+        <!-- end article -->
+        
+        <!-- Begin Article -->	
+        <div class="article">
+            <h1><a name="haltrct" class="anchor">Heart and Lights - starring The Radio City Rockettes</a></h1>
+        	<p class="date">Client: Dutch Productions</p>
+        	<p class="date">DP: Brian Shultz</p>
+        	<p class="date">Field Production Services: Manhattan Place Entertainment</p>
+        	<hr/>
+            <p>Shot on location at Grand Central Station in NYC. The Rockettes made a special appearance at the iconic NYC landmark to help promote their upcoming spring production at Radio City Music Hall. The production runs: March 27-May 4 at Radio City Music Hall</p>
+            <p><a href="http://heartandlights.com/explore-the-show.html">this link is so you have some background info</a></p>
+            <a class="back-to-top" href="#top">Back to Top</a>       
+        </div>
+        <!-- end article -->
         
         <!-- Begin Article -->	
         <div class="article">
@@ -1390,7 +1932,7 @@ After the sights and sounds of the music and fireworks, the night was topped off
         <!-- Begin Article -->  
         <article class="article">
             <h1 class="rw-heading"><a name="pan" class="anchor">MPE Takes off with 'Pan Am'</a></h1>
-            <p class="date"></p><hr/>
+            <hr/>
             <img class="float_right" src="_img/recent-work/bts-pan-am.jpg" alt="Pan Am"  />
             <p>Manhattan Place Entertainment was on board with one of the most intriguing new shows of the fall TV season, 'Pan Am'.</p>
             <p>The ABC show, set in the 1960's, follows the lives of stewardesses who flew with Pan American Airways.</p>
