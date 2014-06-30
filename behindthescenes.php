@@ -195,7 +195,7 @@ $menu->special ="Special";
         
         <!-- Begin Article -->	
         <div class="article">
-            <h1><a name="vogue" class="anchor">Project Title: Teen Vogue’s The Cover: Kesha</a></h1>
+            <h1><a name="vogue" class="anchor">Teen Vogue’s The Cover: Kesha</a></h1>
             <p class="date">Client: Conde Nast Entertainment</p>
         	<p class="date">Producer: Kate Siegel (Associate Producer)</p>
         	<p class="date">Director: Robert Profusek</p>
@@ -251,8 +251,7 @@ $menu->special ="Special";
         <!-- Begin Article -->	
         <div class="article">
             <h1><a name="phil" class="anchor">PHIL JACKSON & DEREK FISHER: THE INTERVIEW</a></h1>
-        	<p class="date">Client: MSG </p>
-        	<p class="date">Creative Services</p>
+        	<p class="date">Client: MSG Creative Services </p>
         	<p class="date">Producer: Doug Field, Marc Mondry, Jason Joly</p>
         	<p class="date">DP: Steve Cohen</p>
         	<p class="date">2nd and 3rd Unit: Tom Rome and Howard Heitner (Jib Operator)</p>
@@ -270,7 +269,7 @@ $menu->special ="Special";
         	<p class="date">DP’s: Brian Schulz & Tom Rome</p>
         	<p class="date">Production Services: Manhattan Place Entertainment</p>
         	<hr/>
-            <p>Follow documentary style coverage with the band before, during and after the concert, as well as interviews with the fans and a meet and greet set-up between fans and the performers. Shot on location in Sayreville, NJ at the Starland Ballroom</p>
+            <p>Follow documentary style coverage with the band before, during and after the concert, as well as interviews with the fans and a meet and greet set-up between fans and the performers. Shot on location in Sayreville, NJ at the Starland Ballroom.</p>
             <a class="back-to-top" href="#top">Back to Top</a>       
         </div>
         <!-- end article -->
@@ -359,7 +358,7 @@ $menu->special ="Special";
         	<p class="date">Producer: Stephen de Groot</p>
         	<p class="date">DP: Steve Cohen</p>
         	<hr/>
-            <p>Description: Documentary style Interviews and B-roll of the principal, vice principal, and parents of children who attend P.S. 154. They tell the compelling story of the major impact that the YMCA has had on the curriculum, the school faculty, and the students. </p>
+            <p>Documentary style Interviews and B-roll of the principal, vice principal, and parents of children who attend P.S. 154. They tell the compelling story of the major impact that the YMCA has had on the curriculum, the school faculty, and the students. </p>
             <a class="back-to-top" href="#top">Back to Top</a>       
         </div>
         <!-- end article -->
@@ -373,20 +372,20 @@ $menu->special ="Special";
         	<p class="date">Production Services: Manhattan Place Entertainment</p>
         	<hr/>
             <p>Liberty Mutual reps appear in vignettes that take the complicated world of insurance and present it in an easily digestible way. The reps were asked to answer the most commonly asked questions they get from customers. The videos will be presented on the Liberty Mutual blog: The Torch. 
-        Shot entirely on location at the St. Regis Hotel in Dana Point, CA</p>
+        Shot entirely on location at the St. Regis Hotel in Dana Point, CA.</p>
             <a class="back-to-top" href="#top">Back to Top</a>       
         </div>
         <!-- end article -->
         
         <!-- Begin Article -->	
         <div class="article">
-            <h1><a name="22" class="anchor">Project Title:  Impractical Jokers - “22-Jump Street” “Sex Tapes”</a></h1>
+            <h1><a name="22" class="anchor">Impractical Jokers - “22-Jump Street” “Sex Tapes”</a></h1>
         	<p class="date">Client: Eleven-02 Creative</p>
         	<p class="date">Director: Barry Bross</p>
         	<p class="date">DP: Steve Cohen</p>
         	<p class="date">2nd Unit: Axel Bauman</p>
         	<hr/>
-            <p>Description: On-air promotional spots shot with the cast of the Impractical Jokers cross promoting the release of “Sex Tape” and “22 Jump Street”.  Shot on location in Brooklyn, NY.</p>
+            <p>On-air promotional spots shot with the cast of the Impractical Jokers cross promoting the release of “Sex Tape” and “22 Jump Street”.  Shot on location in Brooklyn, NY.</p>
             <a class="back-to-top" href="#top">Back to Top</a>       
         </div>
         <!-- end article -->
@@ -395,7 +394,7 @@ $menu->special ="Special";
         <div class="article">
             <h1><a name="slg" class="anchor">SL Green Photo Shoot</a></h1>
         	<p class="date">Producer: Ajene Abston</p>
-        	<p class="date">Photographer: Jamie Cohen.</p>
+        	<p class="date">Photographer: Jamie Cohen</p>
         	<hr/>
             <p>Photo elements shot for use at SL Green’s annual corporate seminar</p>
             <a class="back-to-top" href="#top">Back to Top</a>       
@@ -571,10 +570,10 @@ $menu->special ="Special";
             <h1><a name="murder" class="anchor">How To Get Away With Murder</a></h1>
         	<p class="date">Client: Disney/ABC Television Group</p>
         	<p class="date">Producer: Lisa Solana</p>
+        	<p class="date">DP: Steve Cohen (IATSE Local 600)</p>
         	<hr/>
             <p>Manhattan Place Entertainment shot  behind the scenes footage for the upcoming ABC series “How To Get Away with Murder”, starring Oscar nominee Viola Davis (“The Help”).</p>
-            <p>This series was created by Shandra Rhimes (Greys Anatomy/Scandal) and premieres on the ABC Television Network this fall.
-        DP: Steve Cohen (IATSE Local 600)</p>
+            <p>This series was created by Shandra Rhimes (Greys Anatomy/Scandal) and premieres on the ABC Television Network this fall.</p>
             <a class="back-to-top" href="#top">Back to Top</a>       
         </div>
         <!-- end article -->
@@ -617,7 +616,7 @@ $menu->special ="Special";
         	<p class="date">Producer: Charlie Bloom</p>
         	<p class="date">DP: Steve Cohen</p>
         	<hr/>
-            <p>A feature piece celebrating the life of David Kelly, Sports Information Director of Boston College who sadly passed away this year. Shot on location at Boston College</p>
+            <p>A feature piece celebrating the life of David Kelly, Sports Information Director of Boston College who sadly passed away this year. Shot on location at Boston College.</p>
             <a class="back-to-top" href="#top">Back to Top</a>       
         </div>
         <!-- end article -->
@@ -678,7 +677,7 @@ $menu->special ="Special";
         	<p class="date">DP: Brian Shultz</p>
         	<p class="date">Field Production Services: Manhattan Place Entertainment</p>
         	<hr/>
-            <p>Shot on location at Grand Central Station in NYC. The Rockettes made a special appearance at the iconic NYC landmark to help promote their upcoming spring production at Radio City Music Hall. The production runs: March 27-May 4 at Radio City Music Hall</p>
+            <p>Shot on location at Grand Central Station in NYC. The Rockettes made a special appearance at the iconic NYC landmark to help promote their upcoming spring production at Radio City Music Hall. The production runs: March 27-May 4 at Radio City Music Hall.</p>
             <p><a href="http://heartandlights.com/explore-the-show.html">this link is so you have some background info</a></p>
             <a class="back-to-top" href="#top">Back to Top</a>       
         </div>
