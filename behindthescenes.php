@@ -45,6 +45,7 @@ $menu->special ="Special";
             <li><a href="#golf">U.S. Open Golf On-Air Promos</a></li>
             <li><a href="#phil">PHIL JACKSON & DEREK FISHER: THE INTERVIEW</a></li>
             <li><a href="#dust">Sevendust Concert</a></li>
+            <li><a href="#posttime">It's "Post Time" for the Triple Crown at Belmont!</a></li>
             <li><a href="#scfs">New York Rangers - Stanley Cup Final Shoot</a></li>
             <li><a href="#s2">New York Rangers - Stanley Cup Playoffs Shoot</a></li>
             <li><a href="#rica">Japan vs. Costa Rica - Live Soccer telecast</a></li>
@@ -66,6 +67,8 @@ $menu->special ="Special";
             <li><a href="#foft">Tofutti - Cover Shoot</a></li>
             <li><a href="#gtlms">Glory: The Last Man Standing</a></li>
             <li><a href="#pil">Pilot: “Dangerous Liaisons” BTS</a></li>
+            <li><a href="#gocup">NY Rangers Go for the Cup!</a></li>
+            <li><a href="#grandcentral">Let the Games Begin!</a></li>
             <li><a href="#slg">SL Green Photo Shoot</a></li>
             <li><a href="#fusek">Teen Vogue- Letters to the Editors</a></li>
             <li><a href="#murder">How To Get Away With Murder</a></li>
@@ -201,9 +204,13 @@ $menu->special ="Special";
         	<p class="date">Director: Robert Profusek</p>
         	<p class="date">DP: Bob Hanna</p>
         	<p class="date">2nd Unit: Michael Frye</p>
-        	
         	<hr/>
             <p>Interview with Teen Vogue contributor Andrew Bevan</p>
+            <img class="float_left" src="images/recent-work/Teen-Vouge-Kesha-Final-1.jpg" alt="Teen-Vouge-Kesha-Final-1" >
+        	<img class="float_left" src="images/recent-work/Teen-Vouge-Kesha-Final-2.jpg" alt="Teen-Vouge-Kesha-Final-2" >
+        	<img class="float_left" src="images/recent-work/Teen-Vouge-Kesha-Final-3.jpg" alt="Teen-Vouge-Kesha-Final-3" >
+        	<img class="float_left" src="images/recent-work/Teen-Vouge-Kesha-Final-4.jpg" alt="Teen-Vouge-Kesha-Final-4" >
+
             <a class="back-to-top" href="#top">Back to Top</a>       
         </div>
         <!-- end article -->
@@ -274,6 +281,24 @@ $menu->special ="Special";
         </div>
         <!-- end article -->
         
+        <!-- Begin Article -->	
+        <div class="article">
+            <h1><a name="posttime" class="anchor">It's "Post Time" for the Triple Crown at Belmont!</a></h1>
+            <p class="date">June 2014</p>
+        	<hr/>
+            <img class="float_right" src="images/recent-work/belmont-1.jpg" alt="It's 'Post Time' for the Triple Crown at Belmont!"  />
+            <p>There has not been a triple crown winner in horse racing since Affirmed last won it in 1978.  That's 36 years!  Now with post time nearly upon us, California Chrome has a chance to end that drought and make horse racing history if he can win the Belmont Stakes this Saturday, June 7th.</p>
+            <p>"For the past three years, MPE has done an excellent job producing our Belmont Stakes commercials. We are particularly impressed with their 2014 efforts as they worked on a very accelerated timeline to highlight California Chrome's attempt at sweeping the Belmont Stakes.  From assisting in obtaining the footage, to the editing and trafficking process, MPE is extremely skilled and easy to work with.  Steve and Jamie's professionalism stands out and is one of the many reasons we return to them every year for our production of commercial spots. " Donald Nelson, NYRA Advertising Manager.</p>
+            <img class="float_left" src="images/recent-work/belmont-2.jpg" alt="It's 'Post Time' for the Triple Crown at Belmont!"  />
+            <p>"I think you could say that we've built up a pretty solid track record with the NYRA (yes pun very much intended)," said Steve Cohen.</p>
+            <p>We are very pleased that the NYRA has chosen us each of the past 3 years to produce and edit their spots. We have a tremendously talented post production team, and in the Belmont scenario we are always faced with the challenge of producing and editing a high quality spot that needs to be completed very quickly.</p>
+            <p>The results of the Preakness determine if there will be a triple crown bid or not. So essentially, we have 5 days from the conclusion of the Preakness to figure out the concept, edit the spot, mix it, go through approvals, and then electronically traffic the spot to get it on the air... with enough lead time to adequately and effectively promote the Belmont.</p>
+            <p>On the field production side, MPE also produced and shot special visual elements of Belmont Park for FOX Sports 1 that will be used during "The Mike Francessa Show" for a Belmont Stakes broadcast that takes place live from the fabled venue on Friday June 6th.</p>
+            <p></p>
+            <p></p>
+            <a class="back-to-top" href="#top">Back to Top</a>       
+        </div>
+        <!-- end article -->
         <!-- Begin Article -->	
         <div class="article">
             <h1><a name="scfs" class="anchor">New York Rangers - Stanley Cup Final Shoot</a></h1>
@@ -389,7 +414,22 @@ $menu->special ="Special";
             <a class="back-to-top" href="#top">Back to Top</a>       
         </div>
         <!-- end article -->
-        
+ 
+        <!-- Begin Article -->	
+        <div class="article">
+            <h1><a name="gocup" class="anchor">NY Rangers Go for the Cup!</a></h1>
+            <p class="date">March 2014</p>
+        	<p class="date"></p><hr/>
+            <img class="float_right" src="images/recent-work/rangers-stanley-cup.jpg" alt="NY Rangers Go for the Cup!"  />
+            <p>The New York Rangers have the city of New York buzzing over their first Stanley Cup finals appearance since their magical run in 1994.</p>
+            <p>Manhattan Place Entertainment was there in 1994, and now 20 years later has once again been called upon by the MSG Creative Service Department to shoot On-air promotional spots promoting MSG Network's coverage of the Stanley Cup Final (beginning tonight on MSG Network).</p>
+            <p>"I was field producing for "Oh Baby" (the Rangers '94 championship video) and was on the ice as the team celebrated winning the cup 20 years ago." said Steve Cohen, MPE's President (and lifelong Rangers fan). "It was one of the most unforgettable and exhilarating experiences of my career. Being around this team and feeling the buzz around this city is very reminiscent of the cup run of '94. Its hard not to get caught up in it!"</p>
+            <p>The footage will be used to create on air promotional spots as well as teases, features, and bumps for the "Delta Rangers Stanley Cup Countdown" (airs on gamedays), the "Hyundai Rangers Stanley Cup Gamenight" (airs on gamedays), and the "Chase Rangers Stanley Cup Insider" (airs every day between games) on MSG Network.</p>
+            <p><a href="https://vimeo.com/user3914978/videos">Check out one of the spots</a> and make sure to tune in to see the rest!</p>
+            <a class="back-to-top" href="#top">Back to Top</a>       
+        </div>
+        <!-- end article -->
+
         <!-- Begin Article -->	
         <div class="article">
             <h1><a name="slg" class="anchor">SL Green Photo Shoot</a></h1>
@@ -542,9 +582,26 @@ $menu->special ="Special";
         
         <!-- Begin Article -->	
         <div class="article">
+            <h1><a name="grandcentral" class="anchor">Let the Games Begin!</a></h1>
+            <p class="date">March 2014</p>
+        	<p class="date"></p><hr/>
+            <img class="float_right" src="images/recent-work/grand-central-1.jpg" alt="Let the Games Begin!"  />
+            <p>3 days ago FOX Sports 1 surprised New Yorkers by unveiling a pop - up basketball court smack in the middle of the worlds busiest transportation hub Grand Central Terminal!</p>
+            <p>Folks were treated to some five on five scrimmaging that featured legends of The Big East tournament playing along side of some "not" so legendary commuters!</p>
+            <p>Lots of fun was had by all, and just in case you weren't able to catch what happened at Grand Central Terminal here's a taste of what everyone there was treated to:</p>
+            <img class="float_left" src="images/recent-work/grand-central-2.jpg" alt="Let the Games Begin!"  />
+            <p>For those of you keeping score, Manhattan Place Entertainment was chosen by FOX Sports 1 to produce the video.</p>
+            <p>Please share with your friends, and don't forget, The Big East Tournament airs for the first time this year on FOX Sports 1 (March 12-15).</p>
+            <p>So grab your brackets, <a href="https://www.youtube.com/watch?v=gJd9TIzFPow">check out the link</a>, make sure to tune in to FS1, and let the games begin!!</p>
+            <a class="back-to-top" href="#top">Back to Top</a>       
+        </div>
+        <!-- end article -->
+
+        <!-- Begin Article -->	
+        <div class="article">
             <h1><a name="slg" class="anchor">SL Green Photo Shoot</a></h1>
         	<p class="date">Producer: Ajene Abston</p>
-        	<p class="date">Photographer: Jamie Cohen.</p>
+        	<p class="date">Photographer: Jamie Cohen</p>
         	<hr/>
             <p>Photo elements shot for use at SL Green’s annual corporate seminar</p>
             <a class="back-to-top" href="#top">Back to Top</a>       

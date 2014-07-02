@@ -47,8 +47,8 @@ $menu->special ="Special";
                     <!-- case study -->
                     <li>
                         <div class="gallery-images">
-                            <a class="gallery_overlay" href="images/promos/glory-last-man-standing.jpg"></a>
-                            <img src="images/promos/glory-last-man-standing-thumb.jpg" alt="Glory Last Man Standing"/>
+                            <a class="gallery_overlay" href="images/promos/glory-girls2.jpg"></a>
+                            <img src="images/promos/glory-girls2-thumb.jpg" alt="Glory Last Man Standing"/>
                         </div>
                         <a href="promos/glory/video.php"></a> 
                         <dl>
@@ -67,8 +67,9 @@ $menu->special ="Special";
                     <!-- case study -->
                     <li>
                         <div class="gallery-images">
-                            <a class="gallery_overlay" href="images/promos/glory-girls2.jpg"></a>
-                            <img src="images/promos/glory-girls2-thumb.jpg" alt="Glory Girls"/>
+                            <a class="gallery_overlay" href="images/promos/glory-last-man-standing.jpg"></a>
+                            <img src="images/promos/glory-last-man-standing-thumb.jpg" alt="Glory Girls"/>
+                            
                         </div>
                         <a href="promos/glory-girls/video.php"></a> 
                         <dl>
