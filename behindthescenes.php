@@ -579,6 +579,7 @@ $menu->special ="Special";
         	<p class="date">Set Build/Art Direction: Jeremy Devonshire</p>
         	<hr/>
             <p>A series of :30 second promos for Glory Sports were shot utilizing a space capsule set design that replicates the one used in the movie “Oblivion”.</p>
+            <img class="float_left" src="images/recent-work/Glory-Last-Man-Standing.jpg" alt="Glory: The Last Man Standing">
             <p>Shot on the Arri Alexa. The spots promoted Glory Sports Kickboxing PPV event “Last Man Standing” on June 21, 2014.</p>
             <p><a href="https://vimeo.com/93275472">Watch Spot here</a></p>
             <p>password: MPE</p>
@@ -650,7 +651,7 @@ $menu->special ="Special";
         	<hr/>
             <p>Manhattan Place Entertainment shot  behind the scenes footage for the upcoming ABC series “How To Get Away with Murder”, starring Oscar nominee Viola Davis (“The Help”).</p>
             <p>This series was created by Shandra Rhimes (Greys Anatomy/Scandal) and premieres on the ABC Television Network this fall.</p>
-            <img src="images/recent-work/How-To-Get-Away-With-Murder.jpg" alt="How To Get Away With Murder">
+            <img class="float_left" src="images/recent-work/How-To-Get-Away-With-Murder.jpg" alt="How To Get Away With Murder">
             <a class="back-to-top" href="#top">Back to Top</a>       
         </div>
         <!-- end article -->
@@ -791,9 +792,9 @@ $menu->special ="Special";
             <p class="date">Client: EuroNews</p><hr/>
             
             <p>Zeffirelli’s timeless production of La Bohème. Scenes from the opera along with interviews with Metropolitan Opera singers Joseph Calleja and Maija Kovalevska who describe their personal connection to Puccini’s masterpiece.</p>
-            
-            <p><a target="_blank" href="http://www.euronews.com/2014/01/23/the-tragic-and-stormy-love-story-in-puccini-s-la-boheme-at-the-new-york-met/">La Boheme at the Metropolitan Opera in NYC Video Link</a>&nbsp;- external link</p>
             <img class="float_left" src="images/recent-work/opera.jpg" alt="La Boheme at the Metropolitan Opera in NYC"  />
+            <p><a target="_blank" href="http://www.euronews.com/2014/01/23/the-tragic-and-stormy-love-story-in-puccini-s-la-boheme-at-the-new-york-met/">La Boheme at the Metropolitan Opera in NYC Video Link</a>&nbsp;- external link</p>
+            
             <a class="back-to-top" href="#top">Back to Top</a>       
         </div>
         <!-- end article -->
