@@ -192,6 +192,8 @@ $menu->special ="Special";
         	<p class="date">2nd Unit: Michael Frye</p>
         	<hr/>
             <p>Outfit of the Day is a series of recurring segments that are featured on Teen Vogue’s website. The content for these segments featured a “back-to-school” theme. In an improvisational format, the participants answered questions about their personal style, how it has changed over the years (since starting college), who inspires their style choices, and more. Shot on location on the streets of NYC.</p>
+            <img class="float_left" src="images/recent-work/Teen-Vouge-Kesha-Final-2.jpg" alt="Teen-Vouge-Kesha-Final-2" >
+            <img class="float_left" src="images/recent-work/Teen-Vouge-Kesha-Final-4.jpg" alt="Teen-Vouge-Kesha-Final-4" >
             <a class="back-to-top" href="#top">Back to Top</a>       
         </div>
         <!-- end article -->
@@ -207,9 +209,9 @@ $menu->special ="Special";
         	<hr/>
             <p>Interview with Teen Vogue contributor Andrew Bevan</p>
             <img class="float_left" src="images/recent-work/Teen-Vouge-Kesha-Final-1.jpg" alt="Teen-Vouge-Kesha-Final-1" >
-        	<img class="float_left" src="images/recent-work/Teen-Vouge-Kesha-Final-2.jpg" alt="Teen-Vouge-Kesha-Final-2" >
-        	<img class="float_left" src="images/recent-work/Teen-Vouge-Kesha-Final-3.jpg" alt="Teen-Vouge-Kesha-Final-3" >
-        	<img class="float_left" src="images/recent-work/Teen-Vouge-Kesha-Final-4.jpg" alt="Teen-Vouge-Kesha-Final-4" >
+        	
+        	
+        	
 
             <a class="back-to-top" href="#top">Back to Top</a>       
         </div>
@@ -226,6 +228,7 @@ $menu->special ="Special";
         	<p class="date">2nd Unit: Michael Frye</p>
         	<hr/>
             <p>Filmed on location at the Teen Vogue offices in NYC, a series of segments entitled “Teen Vogue Talks” were shot with Mary Kate Steinmiller, Senior Fashion Market Editor/Special Projects Editor for Teen Vogue. The Digital content will be featured on the Teen Vogue website.</p>
+            <img class="float_left" src="images/recent-work/Teen-Vouge-Kesha-Final-3.jpg" alt="Teen-Vouge-Kesha-Final-3" >
             <a class="back-to-top" href="#top">Back to Top</a>       
         </div>
         <!-- end article -->
@@ -251,6 +254,7 @@ $menu->special ="Special";
         	<p class="date">Production Services: Manhattan Place Entertainment</p>
         	<hr/>
             <p>FOX Sports U.S. Open Golf commentators Joe Buck and Greg Norman give their perspective and share insights about golf and describe what FOX Sports will bring to their coverage of the U.S. Open in 2015. In a conversational, unscripted format, the subject matter will be utilized for on-air spots used to promote FOX Sports coverage of the U.S. Open Golf Tournament next year.  Shot on location at Pine Needles Lodge and Resort in Southern Pines, NC.</p>
+            <img class="float_left" src="images/recent-work/Joe-Buck.jpg" alt="Joe-Buck" >
             <a class="back-to-top" href="#top">Back to Top</a>       
         </div>
         <!-- end article -->
@@ -264,6 +268,7 @@ $menu->special ="Special";
         	<p class="date">2nd and 3rd Unit: Tom Rome and Howard Heitner (Jib Operator)</p>
         	<hr/>
             <p>In an exclusive interview, Al Trautwig sat down with Derek Fisher, a five-time NBA champion, and Phil Jackson, President of The New York Knicks, on the day that Fisher was named the 26th head coach in franchise history. Manhattan Place Entertainment Production Designed and shot the 30 minute special that aired on MSG Network. Shot entirely on location at the New Yorks Knicks training facility.</p>
+            <img class="float_left" src="images/recent-work/Phil-Jackson.jpg" alt="PHIL JACKSON & DEREK FISHER: THE INTERVIEW">
             <a class="back-to-top" href="#top">Back to Top</a>       
         </div>
         <!-- end article -->
@@ -308,6 +313,7 @@ $menu->special ="Special";
         	<p class="date">2nd Unit: Brian Schulz</p>
         	<hr/>
             <p>In depth interviews and portrait shots with the Rangers players used to create on-air promotional spots as well as teases, features, and bumps for the "CHASE Rangers Stanley Cup Countdown" (aired on game days), the "Hyundai Rangers Stanley Cup Game night" (aired on gamedays), and the " Delta Rangers Stanley Cup Insider" (aired every day between games during the finals) on MSG Network.</p>
+            <img class="float_left" src="images/recent-work/NY-Rangers---Stanley-Cup-Final-Shoot.jpg" alt="New York Rangers - Stanley Cup Final Shoot">
             <a class="back-to-top" href="#top">Back to Top</a>       
         </div>
         <!-- end article -->
@@ -320,6 +326,7 @@ $menu->special ="Special";
         	<p class="date">DP: Chris Bierlein</p>
         	<hr/>
             <p>In depth interviews shot with the New York Rangers players to help promote MSG Networks coverage of the Eastern Conference Finals of the Stanley Cup Playoffs. The footage was used to create on air promotional spots as well as teases, features, and bumps for MSG Network.</p>
+            <img class="float_left" src="images/recent-work/NY-Rangers---Stanley-Cup-Playoff-Shoot.jpg" alt="New York Rangers - Stanley Cup Playoffs Shoot">
             <a class="back-to-top" href="#top">Back to Top</a>       
         </div>
         <!-- end article -->
@@ -345,6 +352,7 @@ $menu->special ="Special";
         	<p class="date">DP/Director: Steve Cohen</p>
         	<hr/>
             <p>B-roll and beauty shots of Belmont Park were acquired for use during a special Triple Crown episode of The Mike Francesa Show, Live from Belmont Park. The footage was used throughout the telecast.</p>
+            <img class="float_left" src="images/recent-work/belmont.jpg" alt="The Mike Francesa Show - Live at Belmont Park">
             <a class="back-to-top" href="#top">Back to Top</a>       
         </div>
         <!-- end article -->
@@ -358,6 +366,7 @@ $menu->special ="Special";
         	<p class="date">Production Services: Manhattan Place Entertainment</p>
         	<hr/>
             <p>For the 3rd year in a row MPE produced and edited on-air commercials for the NYRA, advertising the third leg of horse racings triple crown “The Belmont Stakes”.</p>
+            <img class="float_left" src="images/recent-work/California-Chrome-goes-for-the-triple-crown.jpg" alt="California-Chrome-goes-for-the-triple-crown" >
             <a class="back-to-top" href="#top">Back to Top</a>       
         </div>
         <!-- end article -->
@@ -411,6 +420,7 @@ $menu->special ="Special";
         	<p class="date">2nd Unit: Axel Bauman</p>
         	<hr/>
             <p>On-air promotional spots shot with the cast of the Impractical Jokers cross promoting the release of “Sex Tape” and “22 Jump Street”.  Shot on location in Brooklyn, NY.</p>
+            <img class="float_left" src="images/recent-work/Impractical-Jokers-1.jpg" alt="Impractical-Jokers-1" >
             <a class="back-to-top" href="#top">Back to Top</a>       
         </div>
         <!-- end article -->
@@ -449,6 +459,7 @@ $menu->special ="Special";
         	<p class="date">DP: Steve Cohen</p>
         	<hr/>
             <p>Production elements shot with each player of the New York Liberty to be used for on-air promos, teases, bumps and for use in the arena on Garden Vision.</p>
+            <img class="float_left" src="images/recent-work/ny-liberty-media-day.jpg" alt="NY Liberty Media Day">
             <a class="back-to-top" href="#top">Back to Top</a>       
         </div>
         <!-- end article -->
@@ -461,6 +472,8 @@ $menu->special ="Special";
         	<p class="date">2nd Cam Op: Michael Frye</p>
         	<hr/>
             <p>Various Segments/topics shot with Amy Astley (Editor In Chief - Teen Vogue). The digital content will be featured on the Teen Vogue website.</p>
+            <img class="float_left" src="images/recent-work/Teen-Vogue-Amy-Astley-1.jpg" alt="Teen Vogue: Amy Astley-Editor in Chief" >
+            <img class="float_left" src="images/recent-work/Teen-Vogue-Amy-Astley-2.jpg" alt="Teen Vogue: Amy Astley-Editor in Chief" >
             <a class="back-to-top" href="#top">Back to Top</a>       
         </div>
         <!-- end article -->
@@ -523,6 +536,11 @@ $menu->special ="Special";
         	<p class="date">Production Design (Love will keep us together): Steve Cohen </p>
         	<hr/>
             <p>Shot on location at the spectacular Park Avenue Armory in NYC, with songstress Isabel Rose (Sony Records) created 2 new music videos to add to her impressive catalogue of material.</p>
+            <img class="float_left" src="images/recent-work/Isabel-Rose.jpg" alt="Isabel-Rose" >
+            <img class="float_left" src="images/recent-work/Isabel-Rose-1.jpg" alt="Isabel-Rose-1" >
+            <img class="float_left" src="images/recent-work/Isabel-Rose-2.jpg" alt="Isabel-Rose-2" >
+            <img class="float_left" src="images/recent-work/Isabel-Rose-4.jpg" alt="Isabel-Rose-4" >
+            <img class="float_left" src="images/recent-work/Isabel-Rose-5.jpg" alt="Isabel-Rose-5" >
             <a class="back-to-top" href="#top">Back to Top</a>       
         </div>
         <!-- end article -->
@@ -576,6 +594,7 @@ $menu->special ="Special";
         	<p class="date">Producer: Barry Bross</p>
         	<hr/>
             <p>Manhattan Place Entertainment captured behind the scenes footage for a new ABC pilot, starring Katie Holmes. Filming took place in a loft in Manhattan.</p>
+            <img class="float_left" src="images/recent-work/Dangerous-Liaisons.jpg" alt="Dangerous-Liaisons" >
             <a class="back-to-top" href="#top">Back to Top</a>       
         </div>
         <!-- end article -->
@@ -631,6 +650,7 @@ $menu->special ="Special";
         	<hr/>
             <p>Manhattan Place Entertainment shot  behind the scenes footage for the upcoming ABC series “How To Get Away with Murder”, starring Oscar nominee Viola Davis (“The Help”).</p>
             <p>This series was created by Shandra Rhimes (Greys Anatomy/Scandal) and premieres on the ABC Television Network this fall.</p>
+            <img src="images/recent-work/How-To-Get-Away-With-Murder.jpg" alt="How To Get Away With Murder">
             <a class="back-to-top" href="#top">Back to Top</a>       
         </div>
         <!-- end article -->
@@ -674,6 +694,7 @@ $menu->special ="Special";
         	<p class="date">DP: Steve Cohen</p>
         	<hr/>
             <p>A feature piece celebrating the life of David Kelly, Sports Information Director of Boston College who sadly passed away this year. Shot on location at Boston College.</p>
+        <img class="float_left" src="images/recent-work/Boston-College.jpg" alt="Boston-College" >
             <a class="back-to-top" href="#top">Back to Top</a>       
         </div>
         <!-- end article -->
@@ -694,11 +715,12 @@ $menu->special ="Special";
         
         <!-- Begin Article -->	
         <div class="article">
-            <h1><a name="operap" class="anchor">Metropolitan Opera Performance of The“Enchanted Island”</a></h1>
+            <h1><a name="operap" class="anchor">Metropolitan Opera Performance of The 'Enchanted Island'</a></h1>
         	<p class="date">Client: Euronews</p>
         	<p class="date">DP: Steve Cohen</p>
         	<hr/>
             <p>Live performance coverage of the Metropolitan Opera’s production of “The Enchanted Island” starring the legendary tenor Placido Domingo, and post performance interviews with the cast.</p>
+            <img class="float_left" src="images/recent-work/Opera-1.jpg" alt="Metropolitan Opera Performance of The 'Enchanted Island'" >
             <a class="back-to-top" href="#top">Back to Top</a>       
         </div>
         <!-- end article -->
@@ -723,6 +745,7 @@ $menu->special ="Special";
         	<p class="date">Production Services: Manhattan Place Entertainment</p>
         	<hr/>
             <p>Every year since 2000, Manhattan Place Entertainment has handled shooting specialty elements for FOX Sports coverage of NASCAR. The elements shot with each and every driver are utilized for teases, show opens and in-show elements throughout FOX Sports NASCAR coverage.</p>
+            <img class="float_left" src="images/recent-work/NASCAR-2014.jpg" alt="NASCAR-2014">
             <a class="back-to-top" href="#top">Back to Top</a>       
         </div>
         <!-- end article -->
@@ -833,6 +856,7 @@ MPE provided all field production services including camera, sound, and lighting
             <p>KFC was promoting it’s new tag line, “How Do You KFC?”</p>
             <p>Manhattan Place Entertainment acted as the co-production company and field production arm for these TruTV projects. Complete pre-and field production services were provided including location management, shooting crew, props, wardrobe, catering, various above the line responsibilities, and total production coordination. Barry Bross directed and Steve Cohen acted as director of photography.
 The 3 camera shoot featured The Sony F/5 35mm digital cameras. The promo material was shot in (2K) resolution and additional graphic elements were shot separately in 4K over green screen.</p>
+            <img class="float_left" src="images/recent-work/Impractical-Jokers-2.jpg" alt="Impractical-Jokers-2" >
             <a class="back-to-top" href="#top">Back to Top</a>       
         </div>
         <!-- end article -->
@@ -875,6 +899,7 @@ The 3 camera shoot featured The Sony F/5 35mm digital cameras. The promo materia
             <p class="date">11/20/13</p>
         	<p class="date">Client: Eleven 02 Creative</p><hr/>
             <p>The spot was used to promote the Impractical Jokers upcoming “marathon” on truTV, where they would premiere an exclusive sneak peek of Universal Picture’s new movie, Ride Along, starring Ice Cube and Kevin Hart. Joe Chipura Directed. Axel Baumann was the Director of Photography. Through Eleven 02, Manhattan Place Entertainment coordinated the entire production and provided all field production services including camera, lighting, and sound equipment and manpower, as well as handling locations, props, wardrobe and catering. Multiple Sony F5 cameras and Fujinon cinema zoom lenses were chosen to shoot the spots, utilizing the 120fps feature for selective slow motion.</p>
+            <img class="float_left" src="images/recent-work/Impractical-Jokers-3.jpg" alt="Impractical-Jokers-3">
             <a class="back-to-top" href="#top">Back to Top</a>       
         </div>
         <!-- end article -->
