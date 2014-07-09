@@ -39,13 +39,6 @@ $menu->special ="Special";
                     </a>
                 </li>
                 <li>
-                    <a href="directors/joe-chapura.php" title="Joe Chapura">
-                        <img src="images/directors/joe.jpg"   alt="Joe Chapura" />
-                        <p style="color:#576db2" class="director-name">Joe Chapura</p>
-                        <p class="director-title">Director/DP</p>
-                    </a>
-                </li>
-                <li>
                     <a  href="directors/avi-cohen.php" title="Avi Cohen">
                         <img src="images/directors/avi.jpg" alt="Avi Cohen"  />
                         <p style="color:#576db2" class="director-name">Avi Cohen</p>
