@@ -38,6 +38,8 @@ $menu->special ="Special";
         </ul>
         <h3 class="recent">Recent Articles</h3>
         <ul id="nav_tertiary">
+            <li><a href="#Serving">The 2014 US Open: "Serving the Court"</a></li>
+            <li><a href="#gripit">Grip it and Rip It</a></li>
             <li><a href="#outfit">Outfit Of The Day</a></li>
             <li><a href="#vogue">Project Title: Teen Vogue’s The Cover: Kesha</a></li>
             <li><a href="#kate">Teen Vogue Talks - with Mary Kate Steinmiller</a></li>
@@ -181,6 +183,38 @@ $menu->special ="Special";
             <li><a href="#grail">The "Holy Grail" of Live Events! The Monty Python Reunion</a></li>
             <li><a href="#50cent">Manhattan Place Shoots "Baby By Me" with 50 Cent</a></li>
         </ul>
+        <!-- Begin Article -->	
+        <div class="article">
+            <h1><a name="Serving" class="anchor">The 2014 US Open: "Serving the Court"</a></h1>
+            <p class="date">10/26/14</p><hr/>
+            <img class="float_right" src="images/recent-work/serving-court.jpeg" alt="The 2014 US Open: 'Serving the Court'"  />
+            <p>"Let's face it, through no 'fault' of our own, the closest we're ever going to get to 'serving' at the US Open is from the sidelines... in a video production services capacity.  I guess you could say that our 'return of service' is more in the context of being asked back to cover the US Open for the 5th year running" says Steve Cohen, President of Manhattan Place Entertainment (MPE). "In another bad tennis pun: we like to say that we are always working hard to improve the way we 'serve'.  It's also nice to have 'court dates', without the need for a lawyer." (Ugh!).</p>
+            <p>The US Open is a huge event.  It's bigger than just the amazing tennis that is played on the courts of the National Tennis Center at Flushing Meadows. New York City becomes a showcase for all of the marketing, advertising and promotional efforts that are connected to the sport of tennis through some of the worlds most well known brands.</p>
+            <p>MPE has been in the middle of it all since the start of the 2014 Open working with the Tennis Channel and covering the US Open from both a Tennis content perspective (elements used on-air for Tennis Channel's coverage of the US Open) as well as providing content for marketing and promotional purposes as well (content created for, and used by the brands).</p>
+            <p>This year we shot with big time players and big time brands including Roger Federer, Victoria Azarenka, and the Bryan brothers, and have canvased NYC shooting pieces for Esurance, Mercedes Benz, HEAD, Lacoste, Emirates Airlines, Wilson, the NASDAQ, the USTA and more.</p>
+            <p>Serena Williams made history yesterday by three-peating at the U.S. Open and winning the Championship for the 6th time in her career.</p>
+            <p>The "Jury" is still out on who will win the men's championship between Marin Cilic and Kei Nishikori, (today at 5pm est), but each man will have "their day in court" playing one another in a best of 5 that will ultimately determine the final "verdict" for this years tournament.</p>
+            <p>"Serving at The US Open is something that we have loved doing for the past 5 years, so I guess it would be fair to say that we've had some 'racket' going!"</p>
+            <a class="back-to-top" href="#top">Back to Top</a>       
+        </div>
+        <!-- end article -->
+
+
+        <!-- Begin Article -->	
+        <div class="article">
+            <h1><a name="gripit" class="anchor">Grip it and Rip It</a></h1>
+            <p class="date">10/26/14</p><hr/>
+            <img class="float_left" src="images/recent-work/arm-wrestling.jpeg" alt="Grip it and Rip It "  />
+            <p>Manhattan Place Entertainment Shoots College Arm Wrestling Series - Airing on ESPN</p>
+            <p>The newly established College Arm Wrestling League (C.A.W.L. to Arms), created by NYC Brand Productions, recently held it's first tournament at the Legendary Stone Pony in Asbury Park, NJ. 4 Coed teams comprised of feisty arm wrestlers from Syracuse University, Rutgers, Penn State and The University of Connecticut went nose to nose and elbow to elbow in their quest to win a $10,000.00 cash prize and more importantly... bragging rights for their respective schools.</p>
+            <p>The 2 semi final matches and the championship match (3 separate specials) aired nationally on ESPNU, supporting the growing trend towards networks televising non-mainstream collegiate sports.</p>
+            <p>Manhattan Place Entertainment was selected by Dutch Productions Executive Producer Steve DeGroot and C.A.W.L. to Arms creator NYC Brand Productions to execute the field production services for the series. "When shooting an event that is fairly new to TV, you know that there will inherently be surprises," said DeGroot. "We knew by bringing in Manhattan Place there would be no uncertainty with respect to the shooting, lighting, sound or any of the technical aspects of the production. It is extremely comforting knowing that when MPE is doing their thing, everything that needs to get handled is getting handled in the most professional way possible, and that it is all going to look fantastic. It alleviates the pressure on me and enables me to focus on other key areas that need my attention".</p>
+            <p>"We covered this just like any other live multi-camera sports event would be covered, with one "little" twist: we set-up our cameras to shoot at 24 frames per second, which gave the images a more film like texture", said Steve Cohen who acted as the Director of Photography on the Arm Wrestling Series. "We wanted to "up" the overall production value for our client and by shooting it with the texture of a commercial/feature film as opposed to having the look of a "live" newscast, we were able to achieve a more polished and cinematic presentation".</p>
+            <p>DeGroot added, "When we submitted the first cut of the show to ESPN to get their editorial feedback, the initial comments were all about how good the shots were and how beautiful the show "looked".  That's always a good place to start when you are getting client feedback. And that was a direct testament to the job that Manhattan Place Entertainment did. At the end of the day the matches were exciting, the students who participated were terrific, but I think it was the high end coverage that made the show great for ESPN".</p>
+            <p>The matches will be re-airing this Saturday, July 5th on ESPN2. In a "CAWL to ARMS" we request that you check your local listings and tune in!</p>
+            <a class="back-to-top" href="#top">Back to Top</a>       
+        </div>
+        <!-- end article -->
 
         <!-- Begin Article -->	
         <div class="article">
@@ -209,10 +243,6 @@ $menu->special ="Special";
         	<hr/>
             <p>Interview with Teen Vogue contributor Andrew Bevan</p>
             <img class="float_left" src="images/recent-work/Teen-Vouge-Kesha-Final-1.jpg" alt="Teen-Vouge-Kesha-Final-1" >
-        	
-        	
-        	
-
             <a class="back-to-top" href="#top">Back to Top</a>       
         </div>
         <!-- end article -->
