@@ -11,7 +11,7 @@ $menu->special ="Special";
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<title>Director: Steve Cohen</title>
+<title>Post Production: Short Form</title>
 <meta name="description" content="Digital Video Library">
 <!--[if IE 7]>
 <link rel="stylesheet" type="text/css" href="_css/ie.css" media="screen"/>
@@ -23,13 +23,13 @@ $menu->special ="Special";
 <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,600,700,800,300' rel='stylesheet' type='text/css'>
 <link href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700' rel='stylesheet' type='text/css'>
 </head>
-<body>
+<body class="post-production">
 <?php include '../_header.php'; ?>    <div class="panel">
         <div id="logo">
             <a href="/index.php"><h1>Manhattan Place Entertainment - Video and Film Production Services</h1></a>
         </div>
         <h3 class="library">POST PRODUCTION</h3>
-        <div class="container directors" data-url="/post-production/short-form.php">
+        <div class="container post-production" data-url="/post-production/short-form.php">
     		<div class="back_button1">
     			<a href="/post-production.php">&laquo; Back to Post Production</a>
     		</div>
@@ -37,16 +37,12 @@ $menu->special ="Special";
                 <div class="panel-heading">
                     <h3 class="panel-title">
                     <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne" class="">
-                    <span class="plus-minus"></span> Design
+                    <span class=""></span> Short Form
                     </a>
                     </h3>
                 </div>
                 <div id="collapseOne" class="panel-collapse in" style="height: auto;" data-target="collapse" style="display:none;">
                 <div class="panel-body">
-                    <p></p>
-                    <p></p>
-                    <p></p>
-                    <p></p>
                 </div>
                 </div>
             </div>            
@@ -63,9 +59,9 @@ $menu->special ="Special";
                     <div id="thumbs-back"><img src="/assets/prev_thumb.png" alt="back button"/></div>
                     <div class="thumbnails">
                         <ul>
-                        <!-- case study -->
+                        <!-- case study 
                             <li>
-                                <div class="gallery-images" data-video="/post-production/short-form/">
+                                <div class="gallery-images">
                                     <a class="gallery_overlay" href="/post-production/short-form/">
                                     <img src="/post-production/short-form/" alt=""/></a>
                                 </div>
@@ -77,21 +73,21 @@ $menu->special ="Special";
                             </li>
                         <!-- case study -->
                             <li>
-                                <div class="gallery-images" data-video="/post-production/short-form/">
-                                    <a class="gallery_overlay" href="/post-production/short-form/">
-                                    <img src="/post-production/short-form/" alt=""/></a>
+                                <div class="gallery-images">
+                                    <a class="gallery_overlay" href="/post-production/images/nba-image-glasses.jpg">
+                                    <img src="/post-production/images/nba-image-glasses.jpg" alt="NBA Image Glasses"/></a>
                                 </div>
                                 <a href="#two"></a> 
                                 <dl>
                                     <dt class="description">Title:</dt>
-                                    <dd>Glasses</dd> 
+                                    <dd>NBA Image Glasses</dd> 
                                 </dl>
                             </li>
                         <!-- case study -->
                             <li>
-                                <div class="gallery-images" data-video="/post-production/short-form/">
-                                    <a class="gallery_overlay" href="/post-production/short-form/">
-                                    <img src="/post-production/short-form/" alt=""/></a>
+                                <div class="gallery-images">
+                                    <a class="gallery_overlay" href="/post-production/images/no-mas.jpg">
+                                    <img src="/post-production/images/no-mas.jpg" alt="No Mas"/></a>
                                 </div>
                                 <a href="#three"></a> 
                                 <dl>
@@ -99,9 +95,9 @@ $menu->special ="Special";
                                         <dd>No Mas</dd> 
                                 </dl>
                             </li>
-                        <!-- case study -->
+                        <!-- case study 
                             <li>
-                                <div class="gallery-images" data-video="/post-production/short-form/">
+                                <div class="gallery-images">
                                     <a class="gallery_overlay" href="/post-production/short-form/">
                                     <img src="/post-production/short-form/" alt=""/></a>
                                 </div>
@@ -113,9 +109,9 @@ $menu->special ="Special";
                             </li>
                         <!-- case study -->
                             <li>
-                                <div class="gallery-images" data-video="/post-production/short-form/">
-                                    <a class="gallery_overlay" href="/post-production/short-form/">
-                                    <img src="/post-production/short-form/" alt=""/></a>
+                                <div class="gallery-images">
+                                    <a class="gallery_overlay" href="/post-production/images/sec-storied.jpg">
+                                    <img src="/post-production/images/sec-storied.jpg" alt="It’s Time"/></a>
                                 </div>
                                 <a href="#five"></a> 
                                 <dl>
@@ -125,9 +121,9 @@ $menu->special ="Special";
                             </li>
                         <!-- case study -->
                             <li>
-                                <div class="gallery-images" data-video="/post-production/short-form/">
-                                    <a class="gallery_overlay" href="/post-production/short-form/">
-                                    <img src="/post-production/short-form/" alt=""/></a>
+                                <div class="gallery-images">
+                                    <a class="gallery_overlay" href="/post-production/images/xmas.jpg">
+                                    <img src="/post-production/images/xmas.jpg" alt="Xmas"/></a>
                                 </div>
                                 <a href="#six"></a> 
                                 <dl>
@@ -137,9 +133,9 @@ $menu->special ="Special";
                             </li>
                         <!-- case study -->
                             <li>
-                                <div class="gallery-images" data-video="/post-production/short-form/">
-                                    <a class="gallery_overlay" href="/post-production/short-form/">
-                                    <img src="/post-production/short-form/" alt=""/></a>
+                                <div class="gallery-images">
+                                    <a class="gallery_overlay" href="/post-production/images/little-league-baseball.jpg">
+                                    <img src="/post-production/images/little-league-baseball.jpg" alt="Little League World Series"/></a>
                                 </div>
                                 <a href="#seven"></a> 
                                 <dl>
@@ -149,9 +145,9 @@ $menu->special ="Special";
                             </li>
                         <!-- case study -->
                             <li>
-                                <div class="gallery-images" data-video="/post-production/short-form/">
-                                    <a class="gallery_overlay" href="/post-production/short-form/">
-                                    <img src="/post-production/short-form/" alt=""/></a>
+                                <div class="gallery-images">
+                                    <a class="gallery_overlay" href="/post-production/images/nba-returns-2013-2014.jpg">
+                                    <img src="/post-production/images/nba-returns-2013-2014.jpg" alt="NBA Returns 2013/2014"/></a>
                                 </div>
                                 <a href="#eight"></a> 
                                 <dl>
@@ -159,10 +155,9 @@ $menu->special ="Special";
                                         <dd>NBA Returns 2013/2014</dd>
                                 </dl>
                             </li>
-                            
-                        <!-- case study -->
+                        <!-- case study 
                             <li>
-                                <div class="gallery-images" data-video="/post-production/short-form/">
+                                <div class="gallery-images">
                                     <a class="gallery_overlay" href="/post-production/short-form/">
                                     <img src="/post-production/short-form/" alt=""/></a>
                                 </div>
@@ -174,14 +169,26 @@ $menu->special ="Special";
                             </li>
                         <!-- case study -->
                             <li>
-                                <div class="gallery-images" data-video="post-production">
-                                    <a class="gallery_overlay" href="post-production">
-                                    <img src="post-production" alt=""/></a>
+                                <div class="gallery-images">
+                                    <a class="gallery_overlay" href="/post-production/images/denis-leary.jpg">
+                                    <img src="/post-production/images/denis-leary.jpg" alt="Denis Leary PSA"/></a>
                                 </div>
                                 <a href="#ten"></a> 
                                 <dl>
                                     <dt class="description">Title:</dt>
-                                        <dd>Dennis Leary/Cranston PSA</dd> 
+                                        <dd>Denis Leary PSA</dd> 
+                                </dl>
+                            </li>
+                        <!-- case study -->
+                            <li>
+                                <div class="gallery-images">
+                                    <a class="gallery_overlay" href="/post-production/images/brian-cranston.jpg">
+                                    <img src="/post-production/images/brian-cranston.jpg" alt="Brian Cranston PSA"/></a>
+                                </div>
+                                <a href="#eleven"></a> 
+                                <dl>
+                                    <dt class="description">Title:</dt>
+                                        <dd>Brian Cranston PSA</dd> 
                                 </dl>
                             </li>
                         </ul>
@@ -196,11 +203,11 @@ $menu->special ="Special";
             </div>
             <div id="two" class="modal">
                 <a class="close" href="">close</a>
-                <script>QT_WriteOBJECT('/videos/', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
+                <script>QT_WriteOBJECT('/videos/nba-image-glasses/nba-image-glasses.mov', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
             </div>
             <div id="three" class="modal">
                 <a class="close" href="">close</a>
-                <script>QT_WriteOBJECT('/videos/', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
+                <script>QT_WriteOBJECT('/videos/no-mas/no-mas.mov', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
             </div>
             <div id="four" class="modal">
                 <a class="close" href="">close</a>
@@ -208,19 +215,19 @@ $menu->special ="Special";
             </div>
             <div id="five" class="modal">
                 <a class="close" href="">close</a>
-                <script>QT_WriteOBJECT('/videos/', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
+                <script>QT_WriteOBJECT('/videos/its-time/its-time.mov', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
             </div>
             <div id="six" class="modal">
                 <a class="close" href="">close</a>
-               <script>QT_WriteOBJECT('/videos/', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
+               <script>QT_WriteOBJECT('/videos/xmas-30/xmas-30.mov', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
             </div>
             <div id="seven" class="modal">
                 <a class="close" href="">close</a>
-                <script>QT_WriteOBJECT('/videos/', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
+                <script>QT_WriteOBJECT('/videos/little-league-world-series/little-league-world-series.mov', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
             </div>
             <div id="eight" class="modal">
                 <a class="close" href="">close</a>
-                <script>QT_WriteOBJECT('/videos/', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
+                <script>QT_WriteOBJECT('/videos/nba-returns-2013-2014/nba-returns-2013-2014.mov', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
             </div>
             <div id="nine" class="modal">
                 <a class="close" href="">close</a>
@@ -228,11 +235,11 @@ $menu->special ="Special";
             </div>
             <div id="ten" class="modal">
                 <a class="close" href="">close</a>
-                <script>QT_WriteOBJECT('/videos/', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
+                <script>QT_WriteOBJECT('/videos/lustgarten-foundation-psa/lustgarten-foundation-psa.mov', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
             </div>
             <div id="eleven" class="modal">
                 <a class="close" href="">close</a>
-                <script>QT_WriteOBJECT('/videos/', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
+                <script>QT_WriteOBJECT('/videos/curePC/cranston.mov', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
             </div>
         </div>
     </div>

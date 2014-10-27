@@ -257,7 +257,7 @@
             var $vPieces;
             
             var initGallery = function() {
-                $mainImg.attr("src", "assets/spacer.png");
+                $mainImg.attr("src", "/assets/spacer.png");
                 numThumbs = $thumbnails.find("li").size();
                 
                 if (numThumbs < numDisplay) {
@@ -359,7 +359,7 @@
                     var numPage = Math.ceil(numThumbs/numDisplay);
                     var pageBtns = "";
                     for (var i = 0; i < numPage; i++) {            
-                        pageBtns += "<img src='assets/circle.png' class='circle-btn'/>";
+                        pageBtns += "<img src='/assets/circle.png' class='circle-btn'/>";
                     }
                     $pagination.append(pageBtns);            
                     $pagination.find(".circle-btn").click(moveToPage);
@@ -515,8 +515,8 @@
             //update pagination buttons
             var  updatePagination = function() {
                 var pageIndex = Math.ceil(backSlots/numDisplay);
-                $pagination.find("img").attr("src", "assets/circle.png");
-                $pagination.find("img:nth-child(" + (pageIndex + 1) + ")").attr("src", "assets/circlefill.png");
+                $pagination.find("img").attr("src", "/assets/circle.png");
+                $pagination.find("img:nth-child(" + (pageIndex + 1) + ")").attr("src", "/assets/circlefill.png");
             }
             
             //go to page 
@@ -615,7 +615,7 @@
                             }
                         ).error(
                             function() {
-                                alert("Error loading image");
+                                console.log("Error loading image");
                             }
                         );
                     }

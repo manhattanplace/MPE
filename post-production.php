@@ -33,31 +33,31 @@ $menu->special ="Special";
             <ul class="the-directors">
                 <li>
                     <a href="post-production/short-form.php" title="Short Form">
-                        <img src="images/post-production/short-from.jpg"  alt="Short Form" />
+                        <img src="/post-production/images/placeholder.jpg"  alt="Short Form" />
                         <p style="color:#576db2" class="director-name">Short Form</p>
                     </a>
                 </li>
                 <li>
                     <a  href="post-production/design.php" title="Design">
-                        <img src="images/post-production/design.jpg" alt="Design"  />
+                        <img src="/post-production/images/placeholder.jpg" alt="Design"  />
                         <p style="color:#576db2" class="director-name">Design</p>
                     </a>
                 </li>
                 <li>
                     <a  href="post-production/long-form.php" title="Long Form">
-                        <img src="images/post-production/long-form.jpg" alt="Long Form"  />
+                        <img src="/post-production/images/placeholder.jpg" alt="Long Form"  />
                         <p style="color:#576db2" class="director-name">Long Form</p>
                     </a>
                 </li>
                 <li>
                     <a  href="post-production/corporate.php" title="Corporate">
-                        <img src="images/post-production/corporate.jpg" alt="Corporate" />
+                        <img src="/post-production/images/placeholder.jpg" alt="Corporate" />
                         <p style="color:#576db2" class="director-name">Corporate</p>
                     </a>
                 </li>
                 <li>
                     <a  href="post-production/music.php" title="MUSIC">
-                        <img src="images/post-production/music.jpg" alt="MUSIC" />
+                        <img src="/post-production/images/placeholder.jpg" alt="MUSIC" />
                         <p style="color:#576db2" class="director-name">Music</p>
                     </a>
                 </li>

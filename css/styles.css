@@ -478,7 +478,7 @@ nav li {
     margin:0;
     padding:0 15px 0 0;
 }
-.menu-main ul li:last-child a {
+.menu-main ul li:nth-of-type(9) a {
     color: #576db2;
 }
 nav li a {
@@ -1310,6 +1310,9 @@ a,.contact a:link,.contact a:visited, {
 }
 .panel-default {
     margin: 0 0 15px 35px;
+}
+.post-production .panel-default {
+    margin-left: 40px;
 }
 .panel-title {
     font-weight: 400;

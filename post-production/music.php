@@ -11,7 +11,7 @@ $menu->special ="Special";
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<title>Director: Steve Cohen</title>
+<title>Post Production: Music</title>
 <meta name="description" content="Digital Video Library">
 <!--[if IE 7]>
 <link rel="stylesheet" type="text/css" href="_css/ie.css" media="screen"/>
@@ -23,13 +23,13 @@ $menu->special ="Special";
 <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,600,700,800,300' rel='stylesheet' type='text/css'>
 <link href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700' rel='stylesheet' type='text/css'>
 </head>
-<body>
+<body class="post-production">
 <?php include '../_header.php'; ?>    <div class="panel">
         <div id="logo">
             <a href="/index.php"><h1>Manhattan Place Entertainment - Video and Film Production Services</h1></a>
         </div>
         <h3 class="library">POST PRODUCTION</h3>
-        <div class="container directors" data-url="/post-production/short-form.php">
+        <div class="container post-production" data-url="/post-production/short-form.php">
     		<div class="back_button1">
     			<a href="/post-production.php">&laquo; Back to Post Production</a>
     		</div>
@@ -37,7 +37,7 @@ $menu->special ="Special";
                 <div class="panel-heading">
                     <h3 class="panel-title">
                     <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne" class="">
-                    <span class="plus-minus"></span> Music
+                    <span class=""></span> Music
                     </a>
                     </h3>
                 </div>
@@ -63,11 +63,11 @@ $menu->special ="Special";
                     <div id="thumbs-back"><img src="/assets/prev_thumb.png" alt="back button"/></div>
                     <div class="thumbnails">
                         <ul>
-                        <!-- case study -->
+                        <!-- case study 
                             <li>
-                                <div class="gallery-images" data-video="/post-production/music/">
-                                    <a class="gallery_overlay" href="/post-production/music/">
-                                    <img src="/post-production/music/" alt=""/></a>
+                                <div class="gallery-images">
+                                    <a class="gallery_overlay" href="/post-production/images/">
+                                    <img src="/post-production/images/" alt="Music Video"/></a>
                                 </div>
                                 <a href="#one"></a> 
                                 <dl>
@@ -77,9 +77,9 @@ $menu->special ="Special";
                             </li>
                         <!-- case study -->
                             <li>
-                                <div class="gallery-images" data-video="/post-production/music/">
-                                    <a class="gallery_overlay" href="/post-production/music/">
-                                    <img src="/post-production/music/" alt=""/></a>
+                                <div class="gallery-images">
+                                    <a class="gallery_overlay" href="/post-production/images/50cent.jpg">
+                                    <img src="/post-production/images/50cent.jpg" alt="50 cent"/></a>
                                 </div>
                                 <a href="#two"></a> 
                                 <dl>
@@ -99,7 +99,7 @@ $menu->special ="Special";
             </div>
             <div id="two" class="modal">
                 <a class="close" href="">close</a>
-                <script>QT_WriteOBJECT('/videos/', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
+                <script>QT_WriteOBJECT('/videos/50cnet/50cnet.jpg', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
             </div>
             <div id="three" class="modal">
                 <a class="close" href="">close</a>
