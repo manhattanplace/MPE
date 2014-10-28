@@ -33,13 +33,13 @@ $menu->special ="Special";
             <ul class="the-directors">
                 <li>
                     <a href="post-production/short-form.php" title="Short Form">
-                        <img src="/post-production/images/placeholder.jpg"  alt="Short Form" />
+                        <img class="short-form" src="/post-production/images/return-of-the-mac.jpg"  alt="Short Form" />
                         <p style="color:#576db2" class="director-name">Short Form</p>
                     </a>
                 </li>
                 <li>
                     <a  href="post-production/design.php" title="Design">
-                        <img src="/post-production/images/placeholder.jpg" alt="Design"  />
+                        <img src="/post-production/images/return-of-the-mac.jpg" alt="Design"  />
                         <p style="color:#576db2" class="director-name">Design</p>
                     </a>
                 </li>
@@ -51,7 +51,7 @@ $menu->special ="Special";
                 </li>
                 <li>
                     <a  href="post-production/corporate.php" title="Corporate">
-                        <img src="/post-production/images/placeholder.jpg" alt="Corporate" />
+                        <img src="/post-production/images/nbc-diversity.jpg" alt="Corporate" />
                         <p style="color:#576db2" class="director-name">Corporate</p>
                     </a>
                 </li>

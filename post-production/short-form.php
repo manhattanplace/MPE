@@ -29,7 +29,7 @@ $menu->special ="Special";
             <a href="/index.php"><h1>Manhattan Place Entertainment - Video and Film Production Services</h1></a>
         </div>
         <h3 class="library">POST PRODUCTION</h3>
-        <div class="container post-production" data-url="/post-production/short-form.php">
+        <div class="container directors" data-url="/post-production/short-form.php">
     		<div class="back_button1">
     			<a href="/post-production.php">&laquo; Back to Post Production</a>
     		</div>
@@ -59,11 +59,11 @@ $menu->special ="Special";
                     <div id="thumbs-back"><img src="/assets/prev_thumb.png" alt="back button"/></div>
                     <div class="thumbnails">
                         <ul>
-                        <!-- case study 
+                        <!-- case study -->
                             <li>
                                 <div class="gallery-images">
-                                    <a class="gallery_overlay" href="/post-production/short-form/">
-                                    <img src="/post-production/short-form/" alt=""/></a>
+                                    <a class="gallery_overlay" href="/post-production/images/return-of-the-mac.jpg">
+                                    <img src="/post-production/images/return-of-the-mac.jpg" alt="Return of the Mac"/></a>
                                 </div>
                                 <a href="#one"></a> 
                                 <dl>
@@ -98,8 +98,8 @@ $menu->special ="Special";
                         <!-- case study 
                             <li>
                                 <div class="gallery-images">
-                                    <a class="gallery_overlay" href="/post-production/short-form/">
-                                    <img src="/post-production/short-form/" alt=""/></a>
+                                    <a class="gallery_overlay" href="/post-production/images/">
+                                    <img src="/post-production/images/" alt=""/></a>
                                 </div>
                                 <a href="#four"></a> 
                                 <dl>
@@ -158,8 +158,8 @@ $menu->special ="Special";
                         <!-- case study 
                             <li>
                                 <div class="gallery-images">
-                                    <a class="gallery_overlay" href="/post-production/short-form/">
-                                    <img src="/post-production/short-form/" alt=""/></a>
+                                    <a class="gallery_overlay" href="/post-production/images/">
+                                    <img src="/post-production/images/" alt=""/></a>
                                 </div>
                                 <a href="#nine"></a> 
                                 <dl>
@@ -199,7 +199,7 @@ $menu->special ="Special";
             </div>
             <div id="one" class="modal">
                 <a class="close" href="">close</a>
-                <script>QT_WriteOBJECT('/videos/', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
+                <script>QT_WriteOBJECT('/videos/return-of-the-mac/return-of-the-mac.mov', '640', '348', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
             </div>
             <div id="two" class="modal">
                 <a class="close" href="">close</a>

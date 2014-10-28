@@ -1298,6 +1298,7 @@ a,.contact a:link,.contact a:visited, {
 }
 .the-directors li img {
     float: left;
+    width: 223px;
 }
 .the-directors li p {
     float: left;

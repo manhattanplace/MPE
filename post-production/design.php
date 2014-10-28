@@ -59,11 +59,11 @@ $menu->special ="Special";
                     <div id="thumbs-back"><img src="/assets/prev_thumb.png" alt="back button"/></div>
                     <div class="thumbnails">
                         <ul>
-                        <!-- case study 
+                        <!-- case study -->
                             <li>
                                 <div class="gallery-images">
-                                    <a class="gallery_overlay" href="/post-production/images//">
-                                    <img src="/post-production/images//" alt=""/></a>
+                                    <a class="gallery_overlay" href="/post-production/images/return-of-the-mac.jpg">
+                                    <img src="/post-production/images/return-of-the-mac.jpg" alt="Return of the Mac"/></a>
                                 </div>
                                 <a href="#one"></a> 
                                 <dl>
@@ -71,11 +71,11 @@ $menu->special ="Special";
                                     <dd>Return of the Mac</dd> 
                                 </dl>
                             </li>
-                        <!-- case study 
+                        <!-- case study -->
                             <li>
                                 <div class="gallery-images">
-                                    <a class="gallery_overlay" href="/post-production/images//">
-                                    <img src="/post-production/images//" alt=""/></a>
+                                    <a class="gallery_overlay" href="/post-production/images/poker.jpg">
+                                    <img src="/post-production/images/poker.jpg" alt="Poker"/></a>
                                 </div>
                                 <a href="#two"></a> 
                                 <dl>
@@ -131,11 +131,11 @@ $menu->special ="Special";
                                         <dd>Little league World Series</dd>
                                 </dl>
                             </li>
-                        <!-- case study 
+                        <!-- case study -->
                             <li>
                                 <div class="gallery-images">
-                                    <a class="gallery_overlay" href="/post-production/images//">
-                                    <img src="/post-production/images//" alt=""/></a>
+                                    <a class="gallery_overlay" href="/post-production/images/college-hoops-st-johns.jpg">
+                                    <img src="/post-production/images/college-hoops-st-johns.jpg" alt="College Hoops St Johns"/></a>
                                 </div>
                                 <a href="#seven"></a> 
                                 <dl>
@@ -143,18 +143,18 @@ $menu->special ="Special";
                                         <dd>College Hoops St Johns</dd>
                                 </dl>
                             </li>
-                        <!-- case study 
+                        <!-- case study -->
                             <li>
                                 <div class="gallery-images">
-                                    <a class="gallery_overlay" href="/post-production/images//">
-                                    <img src="/post-production/images//" alt=""/></a>
+                                    <a class="gallery_overlay" href="/post-production/images/fab-life-dentyne.jpg">
+                                    <img src="/post-production/images/fab-life-dentyne.jpg" alt="Fab Life Dentyne"/></a>
                                 </div>
                                 <a href="#eight"></a> 
                                 <dl>
                                     <dt class="description">Title:</dt>
                                         <dd>Fab Life Dentyne</dd>
                                 </dl>
-                            </li>-->
+                            </li>
                         </ul>
                     </div>
                     <div id="thumbs-fwd"><img src="/assets/next_thumb.png" alt="Next Thumb"/></div> 
@@ -163,11 +163,11 @@ $menu->special ="Special";
             </div>
             <div id="one" class="modal">
                 <a class="close" href="">close</a>
-                <script>QT_WriteOBJECT('/videos/', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
+                <script>QT_WriteOBJECT('/videos/return-of-the-mac/return-of-the-mac.mov', '640', '348', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
             </div>
             <div id="two" class="modal">
                 <a class="close" href="">close</a>
-                <script>QT_WriteOBJECT('/videos/', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
+                <script>QT_WriteOBJECT('/videos/poker/poker.mov', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
             </div>
             <div id="three" class="modal">
                 <a class="close" href="">close</a>
@@ -187,11 +187,11 @@ $menu->special ="Special";
             </div>
             <div id="seven" class="modal">
                 <a class="close" href="">close</a>
-                <script>QT_WriteOBJECT('/videos/', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
+                <script>QT_WriteOBJECT('/videos/college-hoops-st-johns/college-hoops-st-johns.mov', '640', '428', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
             </div>
             <div id="eight" class="modal">
                 <a class="close" href="">close</a>
-                <script>QT_WriteOBJECT('/videos/', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
+                <script>QT_WriteOBJECT('/videos/fab-life-dentyne/fab-life-dentyne.mov', '640', '436', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
             </div>
             <div id="nine" class="modal">
                 <a class="close" href="">close</a>
