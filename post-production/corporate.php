@@ -96,7 +96,7 @@ $menu->special ="Special";
                                 <a href="#three"></a> 
                                 <dl>
                                     <dt class="description">Title:</dt> 
-                                        <dd>50 cent</dd> 
+                                        <dd>50 Cent</dd> 
                                 </dl>
                             </li>
                         <!-- case study 

@@ -63,16 +63,16 @@ $menu->special ="Special";
                     <div id="thumbs-back"><img src="/assets/prev_thumb.png" alt="back button"/></div>
                     <div class="thumbnails">
                         <ul>
-                        <!-- case study 
+                        <!-- case study -->
                             <li>
                                 <div class="gallery-images">
-                                    <a class="gallery_overlay" href="/post-production/images/">
-                                    <img src="/post-production/images/" alt="Music Video"/></a>
+                                    <a class="gallery_overlay" href="/post-production/images/jordyn-mallory-prayers.jpg">
+                                    <img src="/post-production/images/jordyn-mallory-prayers.jpg" alt="Jordyn Mallory Prayers"/></a>
                                 </div>
                                 <a href="#one"></a> 
                                 <dl>
                                     <dt class="description">Title:</dt> 
-                                    <dd>music video</dd> 
+                                    <dd>Jordyn Mallory Prayers</dd> 
                                 </dl>
                             </li>
                         <!-- case study -->
@@ -95,11 +95,11 @@ $menu->special ="Special";
             </div>
             <div id="one" class="modal">
                 <a class="close" href="">close</a>
-                <script>QT_WriteOBJECT('/videos/', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
+                <script>QT_WriteOBJECT('/videos/jordyn-mallory-prayers/jordyn-mallory-prayers.mov', '640', '341', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
             </div>
             <div id="two" class="modal">
                 <a class="close" href="">close</a>
-                <script>QT_WriteOBJECT('/videos/50cnet/50cnet.jpg', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
+                <script>QT_WriteOBJECT('/videos/50cent/50cent.mov', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
             </div>
             <div id="three" class="modal">
                 <a class="close" href="">close</a>

@@ -62,8 +62,8 @@ $menu->special ="Special";
                         <!-- case study -->
                             <li>
                                 <div class="gallery-images">
-                                    <a class="gallery_overlay" href="post-production/images/dark-light.jpg">
-                                    <img src="post-production/images/dark-light.jpg" alt="Dark Light"/></a>
+                                    <a class="gallery_overlay" href="/post-production/images/dark-light.jpg">
+                                    <img src="/post-production/images/dark-light.jpg" alt="Dark Light"/></a>
                                 </div>
                                 <a href="#one"></a> 
                                 <dl>
@@ -95,16 +95,16 @@ $menu->special ="Special";
                                         <dd>Who’s number 1</dd> 
                                 </dl>
                             </li>
-                        <!-- case study 
+                        <!-- case study -->
                             <li>
                                 <div class="gallery-images">
-                                    <a class="gallery_overlay" href="post-production/images/">
-                                    <img src="post-production/images/" alt=""/></a>
+                                    <a class="gallery_overlay" href="post-production/images/sandra-day-oconnor.jpg">
+                                    <img src="post-production/images/sandra-day-oconnor.jpg" alt="Sandra Day O’Connor"/></a>
                                 </div>
                                 <a href="#four"></a> 
                                 <dl>
                                     <dt class="description">Title:</dt>
-                                    <dd>Sandra Day O’connor</dd>
+                                    <dd>Sandra Day O’Connor</dd>
                                 </dl>
                             </li>
                         <!-- case study -->
@@ -139,11 +139,11 @@ $menu->special ="Special";
             </div>
             <div id="four" class="modal">
                 <a class="close" href="">close</a>
-                <script>QT_WriteOBJECT('/videos/', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
+                <script>QT_WriteOBJECT('/videos/sandra-day-oconnor/sandra-day-oconnor.mov', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
             </div>
             <div id="five" class="modal">
                 <a class="close" href="">close</a>
-                <script>QT_WriteOBJECT('/videos/jordans/jordans.mov', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
+                <script>QT_WriteOBJECT('/videos/jordans/jordans.mov', '640', '348', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
             </div>
             <div id="six" class="modal">
                 <a class="close" href="">close</a>
