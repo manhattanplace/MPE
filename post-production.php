@@ -45,7 +45,7 @@ $menu->special ="Special";
                 </li>
                 <li>
                     <a  href="post-production/long-form.php" title="Long Form">
-                        <img src="/post-production/images/placeholder.jpg" alt="Long Form"  />
+                        <img src="/post-production/images/dark-light.jpg" alt="Long Form"/></a>
                         <p style="color:#576db2" class="director-name">Long Form</p>
                     </a>
                 </li>
@@ -57,7 +57,7 @@ $menu->special ="Special";
                 </li>
                 <li>
                     <a  href="post-production/music.php" title="MUSIC">
-                        <img src="/post-production/images/placeholder.jpg" alt="MUSIC" />
+                        <img src="/post-production/images/jordyn-mallory-prayers.jpg" alt="MUSIC" />
                         <p style="color:#576db2" class="director-name">Music</p>
                     </a>
                 </li>

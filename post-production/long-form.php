@@ -29,23 +29,11 @@ $menu->special ="Special";
             <a href="/index.php"><h1>Manhattan Place Entertainment - Video and Film Production Services</h1></a>
         </div>
         <h3 class="library">POST PRODUCTION</h3>
+        <h3 class="library sub-section">Long Form</h3>
         <div class="container directors" data-url="/post-production/short-form.php">
     		<div class="back_button1">
     			<a href="/post-production.php">&laquo; Back to Post Production</a>
     		</div>
-            <div class="panel-default" data-toggle="collapse">
-                <div class="panel-heading">
-                    <h3 class="panel-title">
-                    <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne" class="">
-                    <span class=""></span> Long Form
-                    </a>
-                    </h3>
-                </div>
-                <div id="collapseOne" class="panel-collapse in" style="height: auto;" data-target="collapse" style="display:none;">
-                <div class="panel-body">
-                </div>
-                </div>
-            </div>            
             <div class="wt-gallery">
                 <div class="main-screen">
                     <img class="click-to-play" src="/_img/click-to-play.png" alt="click to play" title="click to play">
@@ -98,8 +86,8 @@ $menu->special ="Special";
                         <!-- case study -->
                             <li>
                                 <div class="gallery-images">
-                                    <a class="gallery_overlay" href="post-production/images/sandra-day-oconnor.jpg">
-                                    <img src="post-production/images/sandra-day-oconnor.jpg" alt="Sandra Day O’Connor"/></a>
+                                    <a class="gallery_overlay" href="/post-production/images/sandra-day-oconnor.jpg">
+                                    <img src="/post-production/images/sandra-day-oconnor.jpg" alt="Sandra Day O’Connor"/></a>
                                 </div>
                                 <a href="#four"></a> 
                                 <dl>
