@@ -39,13 +39,13 @@ $menu->special ="Special";
                 </li>
                 <li>
                     <a  href="post-production/design.php" title="Design">
-                        <img src="/post-production/images/return-of-the-mac.jpg" alt="Design"  />
+                        <img src="/post-production/images/nba-image-glasses.jpg" alt="Design"  />
                         <p style="color:#576db2" class="director-name">Design</p>
                     </a>
                 </li>
                 <li>
                     <a  href="post-production/long-form.php" title="Long Form">
-                        <img src="/post-production/images/placeholder.jpg" alt="Long Form"  />
+                        <img src="post-production/images/dark-light.jpg" alt="Long Form"  />
                         <p style="color:#576db2" class="director-name">Long Form</p>
                     </a>
                 </li>
@@ -57,7 +57,7 @@ $menu->special ="Special";
                 </li>
                 <li>
                     <a  href="post-production/music.php" title="MUSIC">
-                        <img src="/post-production/images/placeholder.jpg" alt="MUSIC" />
+                        <img src="/post-production/images/50cent.jpg" alt="MUSIC" />
                         <p style="color:#576db2" class="director-name">Music</p>
                     </a>
                 </li>
