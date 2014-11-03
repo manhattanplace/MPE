@@ -177,7 +177,7 @@ $menu->special ="Special";
                                 <a href="#eleven"></a> 
                                 <dl>
                                     <dt class="description">Title:</dt>
-                                        <dd>Brian Cranston PSA</dd> 
+                                        <dd>Bryan Cranston PSA</dd> 
                                 </dl>
                             </li>
                         </ul>

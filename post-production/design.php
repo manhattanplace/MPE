@@ -128,7 +128,7 @@ $menu->special ="Special";
                                 <a href="#seven"></a> 
                                 <dl>
                                     <dt class="description">TITLE:</dt> 
-                                        <dd>College Hoops St Johns</dd>
+                                        <dd>College Hoops St. John's</dd>
                                 </dl>
                             </li>
                         <!-- case study -->

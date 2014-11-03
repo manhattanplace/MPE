@@ -1,3 +1,4 @@
+
 <?php
 include '../menu.class.php';
 $menu = new Menu("menu");
@@ -68,7 +69,7 @@ $menu->special ="Special";
                                 <a href="#two"></a> 
                                 <dl>
                                     <dt class="description">Title:</dt>
-                                    <dd>Asco</dd> 
+                                    <dd>ASCO</dd> 
                                 </dl>
                             </li>
                         <!-- case study -->
@@ -116,7 +117,7 @@ $menu->special ="Special";
                                 <a href="#six"></a> 
                                 <dl>
                                     <dt class="description">TITLE:</dt>
-                                        <dd>I Village</dd>
+                                        <dd>iVillage</dd>
                                 </dl>
                             </li>
                         </ul>
@@ -147,7 +148,7 @@ $menu->special ="Special";
             </div>
             <div id="six" class="modal">
                 <a class="close" href="">close</a>
-               <script>QT_WriteOBJECT('/videos/', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
+               <script>QT_WriteOBJECT('/videos/pie-crust/pie-crust.mov', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
             </div>
             <div id="seven" class="modal">
                 <a class="close" href="">close</a>
