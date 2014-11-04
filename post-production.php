@@ -38,21 +38,21 @@ $menu->special ="Special";
                     </a>
                 </li>
                 <li>
-                    <a  href="post-production/design.php" title="Design">
-                        <img src="/post-production/images/nba-image-glasses.jpg" alt="Design"  />
-                        <p style="color:#576db2" class="director-name">Design</p>
-                    </a>
-                </li>
-                <li>
                     <a  href="post-production/long-form.php" title="Long Form">
                         <img src="/post-production/images/dark-light.jpg" alt="Long Form"/></a>
                         <p style="color:#576db2" class="director-name">Long Form</p>
                     </a>
                 </li>
                 <li>
-                    <a  href="post-production/corporate.php" title="Corporate">
-                        <img src="/post-production/images/nbc-diversity.jpg" alt="Corporate" />
-                        <p style="color:#576db2" class="director-name">Corporate</p>
+                    <a  href="post-production/design.php" title="Design">
+                        <img src="/post-production/images/nba-image-glasses.jpg" alt="Design"  />
+                        <p style="color:#576db2" class="director-name">Design</p>
+                    </a>
+                </li>
+                <li>
+                    <a  href="post-production/visual-effects.php" title="Visual Effects">
+                        <img src="/directors/images/oblivion.jpg" alt="Visual Effects" />
+                        <p style="color:#576db2" class="director-name">Visual Effects</p>
                     </a>
                 </li>
                 <li>

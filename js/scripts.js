@@ -2,7 +2,7 @@ $(document).ready(function() {
     var today = new Date;
     var year = today.getFullYear();
     $('.cr').append(' &copy; '+ year + ' ');
-
+    
     $('.container').wtGallery({
         num_display: 5,
         background_color: "#000",

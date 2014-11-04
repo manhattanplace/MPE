@@ -370,6 +370,12 @@
                         stopTimer(triggerStop);
                         currIndex = $(this).index();
                         loadContent(currIndex);
+                        // This should be turned into a param call back
+                        if($('.curr-thumb').hasClass('image-only')){
+                            $(this).parents('.wt-gallery').find('.main-screen .click-to-play').hide();
+                        } else {
+                            $(this).parents('.wt-gallery').find('.main-screen .click-to-play').show();
+                        }
                         return false;
                     }
                 );
