@@ -1034,6 +1034,10 @@ a,.contact a:link,.contact a:visited, {
     z-index:1;
 }
 
+.desc dd {
+    text-transform: none;
+}
+
 .desc {
     color:#FFF;
     font-size:16px;
