@@ -102,7 +102,11 @@ header #video {
     color:#fff;
     margin:16px 40px 0 0;
 }
-
+.library.sub-section {
+    clear: right;
+    margin-top: 5px;
+    color: #576db2;
+}
 .video-title {
     float:left;
     font-size:24px;

@@ -29,27 +29,11 @@ $menu->special ="Special";
             <a href="/index.php"><h1>Manhattan Place Entertainment - Video and Film Production Services</h1></a>
         </div>
         <h3 class="library">POST PRODUCTION</h3>
+        <h3 class="library sub-section">Music</h3>
         <div class="container directors" data-url="/post-production/short-form.php">
     		<div class="back_button1">
     			<a href="/post-production.php">&laquo; Back to Post Production</a>
     		</div>
-            <div class="panel-default" data-toggle="collapse">
-                <div class="panel-heading">
-                    <h3 class="panel-title">
-                    <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne" class="">
-                    <span class=""></span> Music
-                    </a>
-                    </h3>
-                </div>
-                <div id="collapseOne" class="panel-collapse in" style="height: auto;" data-target="collapse" style="display:none;">
-                <div class="panel-body">
-                    <p></p>
-                    <p></p>
-                    <p></p>
-                    <p></p>
-                </div>
-                </div>
-            </div>            
             <div class="wt-gallery">
                 <div class="main-screen">
                     <img class="click-to-play" src="/_img/click-to-play.png" alt="click to play" title="click to play">
@@ -63,16 +47,16 @@ $menu->special ="Special";
                     <div id="thumbs-back"><img src="/assets/prev_thumb.png" alt="back button"/></div>
                     <div class="thumbnails">
                         <ul>
-                        <!-- case study 
+                        <!-- case study -->
                             <li>
                                 <div class="gallery-images">
-                                    <a class="gallery_overlay" href="/post-production/images/">
-                                    <img src="/post-production/images/" alt="Music Video"/></a>
+                                    <a class="gallery_overlay" href="/post-production/images/jordyn-mallory-prayers.jpg">
+                                    <img src="/post-production/images/jordyn-mallory-prayers.jpg" alt="Jordyn Mallory Prayers"/></a>
                                 </div>
                                 <a href="#one"></a> 
                                 <dl>
                                     <dt class="description">Title:</dt> 
-                                    <dd>music video</dd> 
+                                    <dd>Jordyn Mallory Prayers</dd> 
                                 </dl>
                             </li>
                         <!-- case study -->
@@ -95,11 +79,11 @@ $menu->special ="Special";
             </div>
             <div id="one" class="modal">
                 <a class="close" href="">close</a>
-                <script>QT_WriteOBJECT('/videos/', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
+                <script>QT_WriteOBJECT('/videos/jordyn-mallory-prayers/jordyn-mallory-prayers.mov', '640', '341', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
             </div>
             <div id="two" class="modal">
                 <a class="close" href="">close</a>
-                <script>QT_WriteOBJECT('/videos/50cnet/50cnet.jpg', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
+                <script>QT_WriteOBJECT('/videos/50cent/50cent.mov', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
             </div>
             <div id="three" class="modal">
                 <a class="close" href="">close</a>
