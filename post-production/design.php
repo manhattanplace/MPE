@@ -51,24 +51,32 @@ $menu->special ="Special";
                             <li>
                                 <div class="gallery-images">
                                     <a class="gallery_overlay" href="/post-production/images/return-of-the-mac.jpg">
-                                    <img src="/post-production/images/return-of-the-mac.jpg" alt="Return of the Mac"/></a>
+                                    <img src="/post-production/images/return-of-the-mac.jpg" alt="NBA Topical"/></a>
                                 </div>
                                 <a href="#one"></a> 
                                 <dl>
                                     <dt class="description">Title:</dt> 
-                                    <dd>Return of the Mac</dd> 
+                                    <dd>NBA Topical</dd>
+                                    <dt class="description">Client:</dt>
+                                    <dd>ESPN</dd>
+                                    <dt class="description">Editor & GFX:</dt>
+                                    <dd>Jonathan Wendell</dd>
                                 </dl>
                             </li>
                         <!-- case study -->
                             <li>
                                 <div class="gallery-images">
                                     <a class="gallery_overlay" href="/post-production/images/poker.jpg">
-                                    <img src="/post-production/images/poker.jpg" alt="Poker"/></a>
+                                    <img src="/post-production/images/poker.jpg" alt="World Series of Poker"/></a>
                                 </div>
                                 <a href="#two"></a> 
                                 <dl>
                                     <dt class="description">Title:</dt>
-                                    <dd>Poker</dd> 
+                                    <dd>World Series of Poker</dd>
+                                    <dt class="description">Client:</dt>
+                                    <dd>ESPN</dd>
+                                    <dt class="description">Editor & GFX:</dt>
+                                    <dd>Jonathan Wendell</dd>
                                 </dl>
                             </li>
                         <!-- case study 
@@ -80,19 +88,25 @@ $menu->special ="Special";
                                 <a href="#three"></a> 
                                 <dl>
                                     <dt class="description">Title:</dt> 
-                                        <dd>ESPNU Rotation</dd> 
+                                    <dd>ESPNU Rotation</dd>
+                                    <dt class="description"></dt>
+                                    <dd></dd>
+                                    <dt class="description"></dt>
+                                    <dd></dd>
                                 </dl>
                             </li>
                         <!-- case study -->
                             <li>
                                 <div class="gallery-images">
                                     <a class="gallery_overlay" href="/post-production/images/heats-pacers-design.jpg">
-                                    <img src="/post-production/images/heats-pacers-design.jpg" alt="Heat / Pacers 2013-2014"/></a>
+                                    <img src="/post-production/images/heats-pacers-design.jpg" alt="NBA Topical 2013"/></a>
                                 </div>
                                 <a href="#four"></a> 
                                 <dl>
                                     <dt class="description">Title:</dt>
-                                    <dd>Heat / Pacers 2013-2014</dd>
+                                    <dd>NBA Topical 2013</dd>
+                                    <dt class="description">Client:</dt>
+                                    <dd>ESPN</dd>
                                 </dl>
                             </li>
                         <!-- case study -->
@@ -104,43 +118,63 @@ $menu->special ="Special";
                                 <a href="#five"></a> 
                                 <dl>
                                     <dt class="description">TITLE:</dt>
-                                        <dd>Fantasy Football</dd>
+                                    <dd>Fantasy Football</dd>
+                                    <dd>FFB Rhinos</dd>
+                                    <dt class="description">Client:</dt>
+                                    <dd>ESPN</dd>
+                                    <dt class="description">Editor & GFX:</dt>
+                                    <dd>Jonathan Wendell</dd>
                                 </dl>
                             </li>
                         <!-- case study -->
                             <li>
                                 <div class="gallery-images">
                                     <a class="gallery_overlay" href="/post-production/images/little-league-baseball.jpg">
-                                    <img src="/post-production/images/little-league-baseball.jpg" alt="Little league World Series"/></a>
+                                    <img src="/post-production/images/little-league-baseball.jpg" alt="Little League Baseball Cards"/></a>
                                 </div>
                                 <a href="#six"></a> 
                                 <dl>
                                     <dt class="description">TITLE:</dt>
-                                        <dd>Little league World Series</dd>
+                                    <dd>Little League Baseball Cards</dd>
+                                    <dd>Little League World Series</dd>
+                                    <dt class="description">Client:</dt>
+                                    <dd>ESPN and ABC</dd>
+                                    <dt class="description">Editor & GFX:</dt>
+                                    <dd>Jonathan Wendell</dd>
                                 </dl>
                             </li>
                         <!-- case study -->
                             <li>
                                 <div class="gallery-images">
                                     <a class="gallery_overlay" href="/post-production/images/college-hoops-st-johns.jpg">
-                                    <img src="/post-production/images/college-hoops-st-johns.jpg" alt="College Hoops St Johns"/></a>
+                                    <img src="/post-production/images/college-hoops-st-johns.jpg" alt="College Hoops (MCBB)"/></a>
                                 </div>
                                 <a href="#seven"></a> 
                                 <dl>
                                     <dt class="description">TITLE:</dt> 
-                                        <dd>College Hoops St Johns</dd>
+                                    <dd>College Hoops (MCBB)</dd>
+                                    <dd>The Home Court of College Hoops</dd>
+                                    <dt class="description"></dt>
+                                    <dd>ESPN</dd>
+                                    <dt class="description">Editor & GFX:</dt>
+                                    <dd>Jonathan Wendell</dd>
                                 </dl>
                             </li>
                         <!-- case study -->
                             <li>
                                 <div class="gallery-images">
                                     <a class="gallery_overlay" href="/post-production/images/fab-life-dentyne.jpg">
-                                    <img src="/post-production/images/fab-life-dentyne.jpg" alt="Fab Life Dentyne"/></a>
+                                    <img src="/post-production/images/fab-life-dentyne.jpg" alt="Fab Life"/></a>
                                 </div>
                                 <a href="#eight"></a> 
                                 <dl>
                                     <dt class="description">Title:</dt>
-                                        <dd>Fab Life Dentyne</dd>
+                                    <dd>Fab Life</dd>
+                                    <dd>The Fab Life</dd>
+                                    <dt class="description">Client:</dt>
+                                    <dd>VH1</dd>
+                                    <dt class="description">Editor & GFX:</dt>
+                                    <dd>Jonathan Wendell</dd>
                                 </dl>
                             </li>
                         </ul>

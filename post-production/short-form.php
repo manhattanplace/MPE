@@ -52,72 +52,96 @@ $menu->special ="Special";
                             <li>
                                 <div class="gallery-images">
                                     <a class="gallery_overlay" href="/post-production/images/return-of-the-mac.jpg">
-                                    <img src="/post-production/images/return-of-the-mac.jpg" alt="Return of the Mac"/></a>
+                                    <img src="/post-production/images/return-of-the-mac.jpg" alt="NBA Topical"/></a>
                                 </div>
                                 <a href="#one"></a> 
                                 <dl>
                                     <dt class="description">Title:</dt> 
-                                    <dd>Return of the Mac</dd> 
+                                    <dd>NBA Topical</dd>
+                                    <dt class="description">Client:</dt>
+                                    <dd>ESPN</dd>
+                                    <dt class="description">Editor & GFX:</dt>
+                                    <dd>Jonathan Wendell</dd>
                                 </dl>
                             </li>
                         <!-- case study -->
                             <li>
                                 <div class="gallery-images">
                                     <a class="gallery_overlay" href="/post-production/images/nba-image-glasses.jpg">
-                                    <img src="/post-production/images/nba-image-glasses.jpg" alt="NBA Image Glasses"/></a>
+                                    <img src="/post-production/images/nba-image-glasses.jpg" alt="NBA Image"/></a>
                                 </div>
                                 <a href="#two"></a> 
                                 <dl>
                                     <dt class="description">Title:</dt>
-                                    <dd>NBA Image Glasses</dd> 
+                                    <dd>NBA Image</dd>
+                                    <dt class="description">Client:</dt>
+                                    <dd>ESPN</dd>
+                                    <dt class="description">Editor & GFX:</dt>
+                                    <dd>Jonathan Wendell</dd>
                                 </dl>
                             </li>
                         <!-- case study -->
                             <li>
                                 <div class="gallery-images">
                                     <a class="gallery_overlay" href="/post-production/images/no-mas.jpg">
-                                    <img src="/post-production/images/no-mas.jpg" alt="No Mas"/></a>
+                                    <img src="/post-production/images/no-mas.jpg" alt="30 for 30: No Mas"/></a>
                                 </div>
                                 <a href="#three"></a> 
                                 <dl>
                                     <dt class="description">Title:</dt> 
-                                        <dd>No Mas</dd> 
+                                    <dd>30 for 30: No Mas</dd>
+                                    <dt class="description">Client:</dt>
+                                    <dd>ESPN</dd>
+                                    <dt class="description">Editor & GFX:</dt>
+                                    <dd>Jonathan Wendell</dd> 
                                 </dl>
                             </li>
-                        <!-- case study 
+                        <!-- case study -->
                             <li>
                                 <div class="gallery-images">
-                                    <a class="gallery_overlay" href="/post-production/images/">
-                                    <img src="/post-production/images/" alt=""/></a>
+                                    <a class="gallery_overlay" href="/post-production/images/free-spirits.jpg">
+                                    <img src="/post-production/images/free-spirits.jpg" alt="30 for 30: Free Spirits"/></a>
                                 </div>
                                 <a href="#four"></a> 
                                 <dl>
                                     <dt class="description">Title:</dt>
-                                    <dd>Free Spirits</dd>
+                                    <dd>30 for 30: Free Spirits</dd>
+                                    <dt class="description">Client:</dt>
+                                    <dd>ESPN</dd>
+                                    <dt class="description">Editor & GFX:</dt>
+                                    <dd>Jonathan Wendell</dd>
                                 </dl>
                             </li>
                         <!-- case study -->
                             <li>
                                 <div class="gallery-images">
                                     <a class="gallery_overlay" href="/post-production/images/sec-storied.jpg">
-                                    <img src="/post-production/images/sec-storied.jpg" alt="It’s Time"/></a>
+                                    <img src="/post-production/images/sec-storied.jpg" alt="SEC Stories"/></a>
                                 </div>
                                 <a href="#five"></a> 
                                 <dl>
                                     <dt class="description">TITLE:</dt>
-                                        <dd>It’s Time</dd>
+                                    <dd>SEC Stories</dd>
+                                    <dt class="description">Client:</dt>
+                                    <dd>ESPN</dd>
+                                    <dt class="description">Editor & GFX:</dt>
+                                    <dd>Jonathan Wendell</dd>
                                 </dl>
                             </li>
                         <!-- case study -->
                             <li>
                                 <div class="gallery-images">
                                     <a class="gallery_overlay" href="/post-production/images/xmas.jpg">
-                                    <img src="/post-production/images/xmas.jpg" alt="Xmas"/></a>
+                                    <img src="/post-production/images/xmas.jpg" alt="An NBA Christmas by Snoop Dogg"/></a>
                                 </div>
                                 <a href="#six"></a> 
                                 <dl>
                                     <dt class="description">TITLE:</dt>
-                                        <dd>Xmas</dd>
+                                    <dd>An NBA Christmas by Snoop Dogg</dd>
+                                    <dt class="description">Client:</dt>
+                                    <dd>ABC</dd>
+                                    <dt class="description">Editor & GFX:</dt>
+                                    <dd>Jonathan Wendell</dd>
                                 </dl>
                             </li>
                         <!-- case study -->
@@ -129,55 +153,69 @@ $menu->special ="Special";
                                 <a href="#seven"></a> 
                                 <dl>
                                     <dt class="description">TITLE:</dt> 
-                                        <dd>Little League World Series</dd>
+                                    <dd>Little League World Series</dd>
+                                    <dt class="description">Client:</dt>
+                                    <dd>ESPN and ABC</dd>
+                                    <dt class="description">Editor & GFX:</dt>
+                                    <dd>Jonathan Wendell</dd>
                                 </dl>
                             </li>
                         <!-- case study -->
                             <li>
                                 <div class="gallery-images">
                                     <a class="gallery_overlay" href="/post-production/images/nba-returns-2013-2014.jpg">
-                                    <img src="/post-production/images/nba-returns-2013-2014.jpg" alt="NBA Returns 2013/2014"/></a>
+                                    <img src="/post-production/images/nba-returns-2013-2014.jpg" alt="NBA Opening Night 2014"/></a>
                                 </div>
                                 <a href="#eight"></a> 
                                 <dl>
                                     <dt class="description">Title:</dt>
-                                        <dd>NBA Returns 2013/2014</dd>
+                                    <dd>NBA Opening Night 2014</dd>
+                                    <dt class="description">Client:</dt>
+                                    <dd>ESPN</dd>
+                                    <dt class="description">Editor & GFX:</dt>
+                                    <dd>Jonathan Wendell</dd>
                                 </dl>
                             </li>
-                        <!-- case study 
-                            <li>
+                        <!-- case study -->
+                            <li class="image-only">
                                 <div class="gallery-images">
-                                    <a class="gallery_overlay" href="/post-production/images/">
-                                    <img src="/post-production/images/" alt=""/></a>
+                                    <a class="gallery_overlay" href="/post-production/images/step-on-up-psa.jpg">
+                                    <img src="/post-production/images/step-on-up-psa.jpg" alt="Step On Up PSA Campaign"/></a>
                                 </div>
-                                <a href="#nine"></a> 
+                                <!-- <a href="#nine"></a> --> 
                                 <dl>
                                     <dt class="description">Title:</dt> 
-                                        <dd>Cedric</dd> 
+                                    <dd>Step On Up PSA Campaign</dd>
+                                    <dt class="description">Client:</dt>
+                                    <dd>M Street Creative</dd>
                                 </dl>
                             </li>
                         <!-- case study -->
                             <li>
                                 <div class="gallery-images">
                                     <a class="gallery_overlay" href="/post-production/images/denis-leary.jpg">
-                                    <img src="/post-production/images/denis-leary.jpg" alt="Denis Leary PSA"/></a>
+                                    <img src="/post-production/images/denis-leary.jpg" alt="Cure PC - Denis Leary"/></a>
                                 </div>
                                 <a href="#ten"></a> 
                                 <dl>
                                     <dt class="description">Title:</dt>
-                                        <dd>Denis Leary PSA</dd> 
+                                    <dd>Cure PC - Denis Leary</dd>
+                                    <dt class="description">Client:</dt>
+                                    <dd>Cablevision</dd>
                                 </dl>
                             </li>
                         <!-- case study -->
                             <li>
                                 <div class="gallery-images">
                                     <a class="gallery_overlay" href="/post-production/images/brian-cranston.jpg">
-                                    <img src="/post-production/images/brian-cranston.jpg" alt="Brian Cranston PSA"/></a>
+                                    <img src="/post-production/images/brian-cranston.jpg" alt="Cure PC - Bryan Cranston"/></a>
                                 </div>
                                 <a href="#eleven"></a> 
                                 <dl>
                                     <dt class="description">Title:</dt>
-                                        <dd>Brian Cranston PSA</dd> 
+                                    <dd>Cure PC - Bryan Cranston</dd>
+                                    <dt class="description">Client:</dt>
+                                    <dd>Cablevision</dd> 
                                 </dl>
                             </li>
                         </ul>
@@ -200,7 +238,7 @@ $menu->special ="Special";
             </div>
             <div id="four" class="modal">
                 <a class="close" href="">close</a>
-                <script>QT_WriteOBJECT('/videos/', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
+                <script>QT_WriteOBJECT('/videos/free-spirits/free-spirits.mov', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
             </div>
             <div id="five" class="modal">
                 <a class="close" href="">close</a>

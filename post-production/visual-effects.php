@@ -1,3 +1,4 @@
+
 <?php
 include '../menu.class.php';
 $menu = new Menu("menu");
@@ -11,7 +12,7 @@ $menu->special ="Special";
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<title>Post Production: Music</title>
+<title>Post Production: Visual Effects</title>
 <meta name="description" content="Digital Video Library">
 <!--[if IE 7]>
 <link rel="stylesheet" type="text/css" href="_css/ie.css" media="screen"/>
@@ -29,7 +30,7 @@ $menu->special ="Special";
             <a href="/index.php"><h1>Manhattan Place Entertainment - Video and Film Production Services</h1></a>
         </div>
         <h3 class="library">POST PRODUCTION</h3>
-        <h3 class="library sub-section">Music</h3>
+        <h3 class="library sub-section">Visual Effects</h3>
         <div class="container directors" data-url="/post-production/short-form.php">
     		<div class="back_button1">
     			<a href="/post-production.php">&laquo; Back to Post Production</a>
@@ -49,34 +50,38 @@ $menu->special ="Special";
                         <ul>
                         <!-- case study -->
                             <li>
-                                <div class="gallery-images">
-                                    <a class="gallery_overlay" href="/post-production/images/jordyn-mallory-prayers.jpg">
-                                    <img src="/post-production/images/jordyn-mallory-prayers.jpg" alt="Jordyn Mallory 'Prayers' Music Video"/></a>
+                                <div class="gallery-images" data-video="/directors/evan-langley-laffin/oblivion-trailer.php">
+                                    <a class="gallery_overlay" href="/directors/images/oblivion.jpg">
+                                    <img src="/directors/images/oblivion.jpg" alt="Oblivion Trailer"/></a>
                                 </div>
                                 <a href="#one"></a> 
                                 <dl>
                                     <dt class="description">Title:</dt> 
-                                    <dd>Jordyn Mallory "Prayers" Music Video</dd>
-                                    <dt class="description">Client:</dt>
-                                    <dd>Jordyn Mallory</dd>
-                                    <dt class="description">Editor:</dt>
-                                    <dd>Jonathan Wendell</dd>
+                                    <dd>Oblivion Trailer</dd> 
                                 </dl>
                             </li>
-                                
-                                 
                         <!-- case study -->
                             <li>
-                                <div class="gallery-images">
-                                    <a class="gallery_overlay" href="/post-production/images/50cent.jpg">
-                                    <img src="/post-production/images/50cent.jpg" alt="Baby By Me"/></a>
+                                <div class="gallery-images" data-video="/directors/evan-langley-laffin/never-gone-before.php">
+                                    <a class="gallery_overlay" href="/directors/images/toyota.jpg">
+                                    <img src="/directors/images/toyota.jpg" alt="Toyota"/></a>
                                 </div>
                                 <a href="#two"></a> 
                                 <dl>
                                     <dt class="description">Title:</dt>
-                                    <dd>Baby By Me</dd>
-                                    <dt class="description">Client:</dt>
-                                    <dd>Glaceau</dd>
+                                    <dd>Toyota</dd> 
+                                </dl>
+                            </li>
+                        <!-- case study -->
+                            <li>
+                                <div class="gallery-images" data-video="/directors/evan-langley-laffin/call-of-duty.php">
+                                    <a class="gallery_overlay" href="/directors/images/call-of-duty.jpg">
+                                    <img src="/directors/images/call-of-duty.jpg" alt="Call of Duty"/></a>
+                                </div>
+                                <a href="#three"></a> 
+                                <dl>
+                                    <dt class="description">Title:</dt> 
+                                        <dd>Call of Duty</dd> 
                                 </dl>
                             </li>
                         </ul>
@@ -87,47 +92,15 @@ $menu->special ="Special";
             </div>
             <div id="one" class="modal">
                 <a class="close" href="">close</a>
-                <script>QT_WriteOBJECT('/videos/jordyn-mallory-prayers/jordyn-mallory-prayers.mov', '640', '341', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
+                <script>QT_WriteOBJECT('/videos/oblivion/oblivion.mov', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'TOFIT');</script>
             </div>
             <div id="two" class="modal">
                 <a class="close" href="">close</a>
-                <script>QT_WriteOBJECT('/videos/50cent/50cent.mov', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
+                <script>QT_WriteOBJECT('/videos/toyota/toyota.mov', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'TOFIT');</script>
             </div>
             <div id="three" class="modal">
                 <a class="close" href="">close</a>
-                <script>QT_WriteOBJECT('/videos/', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
-            </div>
-            <div id="four" class="modal">
-                <a class="close" href="">close</a>
-                <script>QT_WriteOBJECT('/videos/', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
-            </div>
-            <div id="five" class="modal">
-                <a class="close" href="">close</a>
-                <script>QT_WriteOBJECT('/videos/', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
-            </div>
-            <div id="six" class="modal">
-                <a class="close" href="">close</a>
-               <script>QT_WriteOBJECT('/videos/', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
-            </div>
-            <div id="seven" class="modal">
-                <a class="close" href="">close</a>
-                <script>QT_WriteOBJECT('/videos/', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
-            </div>
-            <div id="eight" class="modal">
-                <a class="close" href="">close</a>
-                <script>QT_WriteOBJECT('/videos/', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
-            </div>
-            <div id="nine" class="modal">
-                <a class="close" href="">close</a>
-                <script>QT_WriteOBJECT('/videos/', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
-            </div>
-            <div id="ten" class="modal">
-                <a class="close" href="">close</a>
-                <script>QT_WriteOBJECT('/videos/', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
-            </div>
-            <div id="eleven" class="modal">
-                <a class="close" href="">close</a>
-                <script>QT_WriteOBJECT('/videos/', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
+                <script>QT_WriteOBJECT('/videos/call-of-duty/call-of-duty.mov', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'TOFIT');</script>
             </div>
         </div>
     </div>

@@ -56,55 +56,139 @@ $menu->special ="Special";
                                 <a href="#one"></a> 
                                 <dl>
                                     <dt class="description">Title:</dt> 
-                                    <dd>Dark Light</dd> 
+                                    <dd>Dark Light</dd>
+                                    <dt class="description">Client:</dt>
+                                    <dd>HBO</dd>
+                                    <dt class="description">Editor:</dt>
+                                    <dd>Jonathan Wendell</dd>
                                 </dl>
                             </li>
                         <!-- case study -->
                             <li>
                                 <div class="gallery-images">
                                     <a class="gallery_overlay" href="/post-production/images/herschel-trailer.jpg">
-                                    <img src="/post-production/images/herschel-trailer.jpg" alt="Herschel Walker"/></a>
+                                    <img src="/post-production/images/herschel-trailer.jpg" alt="Herschel"/></a>
                                 </div>
                                 <a href="#two"></a> 
                                 <dl>
                                     <dt class="description">Title:</dt>
-                                    <dd>Herschel Walker</dd> 
+                                    <dd>Herschel</dd>
+                                    <dt class="description">Client:</dt>
+                                    <dd>ESPN</dd>
+                                    <dt class="description">Editor</dt>
+                                    <dd>Jonathan Wendell</dd> 
                                 </dl>
                             </li>
-                        <!-- case study 
-                            <li>
+                        <!-- case study -->
+                            <li class="image-only">
                                 <div class="gallery-images">
-                                    <a class="gallery_overlay" href="post-production/images/">
-                                    <img src="post-production/images/" alt=""/></a>
+                                    <a class="gallery_overlay" href="/post-production/images/whos-number-one.jpg">
+                                    <img src="/post-production/images/whos-number-one.jpg" alt="Who's Number 1?"/></a>
                                 </div>
                                 <a href="#three"></a> 
                                 <dl>
                                     <dt class="description">Title:</dt> 
-                                        <dd>Who’s number 1</dd> 
+                                    <dd>Who's Number 1?</dd>
+                                    <dt class="description">Client:</dt>
+                                    <dd>Redline</dd>
+                                    <dt class="description">Editor:</dt>
+                                    <dd>Jonathan Wendell</dd>
                                 </dl>
                             </li>
                         <!-- case study -->
                             <li>
                                 <div class="gallery-images">
                                     <a class="gallery_overlay" href="/post-production/images/sandra-day-oconnor.jpg">
-                                    <img src="/post-production/images/sandra-day-oconnor.jpg" alt="Sandra Day O’Connor"/></a>
+                                    <img src="/post-production/images/sandra-day-oconnor.jpg" alt="Portraits of a Lady"/></a>
                                 </div>
                                 <a href="#four"></a> 
                                 <dl>
                                     <dt class="description">Title:</dt>
-                                    <dd>Sandra Day O’Connor</dd>
+                                    <dd>Portraits of a Lady</dd>
+                                    <dt class="description">Client:</dt>
+                                    <dd>HBO</dd>
+                                    <dt class="description">Editor:</dt>
+                                    <dd>Jonathan Wendell</dd>
                                 </dl>
                             </li>
                         <!-- case study -->
                             <li>
                                 <div class="gallery-images">
                                     <a class="gallery_overlay" href="/post-production/images/jordans.jpg">
-                                    <img src="/post-production/images/jordans.jpg" alt="The Jordans"/></a>
+                                    <img src="/post-production/images/jordans.jpg" alt="Heir Jordan's"/></a>
                                 </div>
                                 <a href="#five"></a> 
                                 <dl>
                                     <dt class="description">TITLE:</dt>
-                                        <dd>The Race Car Family</dd>
+                                    <dd>Heir Jordan's</dd>
+                                    <dt class="description">Client:</dt>
+                                    <dd>No Regrets Entertainment</dd>
+                                    <dt class="description">Editor: </dt>
+                                    <dd>Jonathan Wendell</dd>
+                                </dl>
+                            </li>
+                        <!-- case study -->
+                            <li>
+                                <div class="gallery-images">
+                                    <a class="gallery_overlay" href="/post-production/images/nbc-diversity.jpg">
+                                    <img src="/post-production/images/nbc-diversity.jpg" alt="NBC Diversity"/></a>
+                                </div>
+                                <a href="#six"></a> 
+                                <dl>
+                                    <dt class="description">Title:</dt> 
+                                    <dd>NBC Diversity</dd>
+                                    <dt class="description">Client:</dt>
+                                    <dd>NBC</dd>
+                                    <dt class="description">Director:</dt>
+                                    <dd>Jonathan Wendell</dd>
+                                    <dt class="description">Editor & GFX:</dt>
+                                    <dd>Jonathan Wendel</dd>
+                                </dl>
+                            </li>
+                        <!-- case study -->
+                            <li>
+                                <div class="gallery-images">
+                                    <a class="gallery_overlay" href="/post-production/images/asco.jpg">
+                                    <img src="/post-production/images/asco.jpg" alt="ASCO 2014"/></a>
+                                </div>
+                                <a href="#seven"></a> 
+                                <dl>
+                                    <dt class="description">Title:</dt>
+                                    <dd>ASCO 2014</dd>
+                                    <dt class="description">Client:</dt>
+                                    <dd>M Street</dd>
+                                    <dt class="description">Editor:</dt>
+                                    <dd>Jonathan Wendell</dd>
+                                </dl>
+                            </li>
+                        <!-- case study -->
+                            <li>
+                                <div class="gallery-images">
+                                    <a class="gallery_overlay" href="/post-production/images/50cent.jpg">
+                                    <img src="/post-production/images/50cent.jpg" alt="Baby By Me"/></a>
+                                </div>
+                                <a href="#eight"></a> 
+                                <dl>
+                                    <dt class="description">Title:</dt>
+                                    <dd>Baby By Me</dd>
+                                    <dt class="description">Client:</dt>
+                                    <dd>Glaceau</dd>
+                                </dl>
+                            </li>
+                        <!-- case study -->
+                            <li>
+                                <div class="gallery-images">
+                                    <a class="gallery_overlay" href="/post-production/images/artichoke.jpg">
+                                    <img src="/post-production/images/artichoke.jpg" alt="iVillage Learn How Now"/></a>
+                                </div>
+                                <a href="#nine"></a> 
+                                <dl>
+                                    <dt class="description">TITLE:</dt>
+                                    <dd>iVillage Learn How Now</dd>
+                                    <dt class="description">Client:</dt>
+                                    <dd>iVillage</dd>
+                                    <dt class="description">Editor:</dt>
+                                    <dd>Jonathan Wendell</dd>
                                 </dl>
                             </li>
                         </ul>
@@ -135,27 +219,19 @@ $menu->special ="Special";
             </div>
             <div id="six" class="modal">
                 <a class="close" href="">close</a>
-               <script>QT_WriteOBJECT('/videos/', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
+                <script>QT_WriteOBJECT('/videos/nbc-diversity/nbc-diversity.mov', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
             </div>
             <div id="seven" class="modal">
                 <a class="close" href="">close</a>
-                <script>QT_WriteOBJECT('/videos/', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
+                <script>QT_WriteOBJECT('/videos/asco-2014/asco-2014.mov', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
             </div>
             <div id="eight" class="modal">
                 <a class="close" href="">close</a>
-                <script>QT_WriteOBJECT('/videos/', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
+                <script>QT_WriteOBJECT('/videos/50cent/50cent.mov', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
             </div>
             <div id="nine" class="modal">
                 <a class="close" href="">close</a>
-                <script>QT_WriteOBJECT('/videos/', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
-            </div>
-            <div id="ten" class="modal">
-                <a class="close" href="">close</a>
-                <script>QT_WriteOBJECT('/videos/', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
-            </div>
-            <div id="eleven" class="modal">
-                <a class="close" href="">close</a>
-                <script>QT_WriteOBJECT('/videos/', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
+               <script>QT_WriteOBJECT('/videos/pie-crust/pie-crust.mov', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
             </div>
         </div>
     </div>
