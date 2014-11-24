@@ -35,7 +35,7 @@ $menu->special ="Special";
                 <a href="/promos.php">&laquo; Back to Promos</a>
             </div>
             <div id="video">
-                <script>QT_WriteOBJECT('Nate_Robinson.mov', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect') ;</script>
+                <script>QT_WriteOBJECT('Nate_Robinson.mov', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
             </div>
             <div class="back_button2">
                 <a href="/promos.php">&laquo; Back to Promos</a>

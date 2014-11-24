@@ -10,11 +10,11 @@ $menu->special ="Special";
 <!DOCTYPE HTML>
 <html lang="en">
 <head>
-<title>Celebrity Cruise Lines</title>
+<title>Sydney Ultrabook</title>
 <meta name="description" content="video">
 <meta charset="UTF-8">    
 <!--[if IE 7]>
-<link rel="stylesheet" type="text/css" href="/_css/ie.css" media="screen"/>
+<link rel="stylesheet" type="text/css" href="../../_css/ie.css" media="screen"/>
 <![endif]-->
 <link rel="stylesheet" type="text/css" href="/css/styles.css" media="screen"/>
 <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,600,700,800,300' rel='stylesheet' type='text/css'>
@@ -29,20 +29,18 @@ $menu->special ="Special";
     	<div id="logo">
     		<a href="/index.php"><h1>Manhattan Place Entertainment - Video and Film Production Services</h1></a>
     	</div>
-    	<h3 class="library">DIGITAL AND WEB</h3>
-    	<div class="container">
-    		<div class="back_button1">
-    			<a href="/digital.php">&laquo; Back to Digital and Web</a>
-    		</div>
-    		<div id="video">
-    		<script>
-    		    QT_WriteOBJECT('celebrity-x-cruises.mov', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');
-    		</script>
-    		</div>
-    		<div class="back_button2">
-    			<a href="/digital.php">&laquo; Back to Digital and Web</a>
-    		</div>
-    	</div>
+        <h3 class="library">EPISODIC</h3>
+        <div class="container">
+            <div class="back_button1">
+            	<a href="/episodic.php">&laquo; Back to Episodic</a>
+            </div>
+            <div id="video">
+                <script>QT_WriteOBJECT('../../video/ultrabook-sydney/ultrabook-sydney.mov', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
+            </div>
+            <div class="back_button2">
+            	<a href="/episodic.php">&laquo; Back to Episodic</a>
+            </div>
+        </div>
     </div>
     <footer>
         <ul class="copyright vcard">

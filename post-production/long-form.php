@@ -191,6 +191,197 @@ $menu->special ="Special";
                                     <dd>Jonathan Wendell</dd>
                                 </dl>
                             </li>
+                        <!-- case study -->
+                            <li>
+                                <div class="gallery-images">
+                                    <a class="gallery_overlay" href="/post-production/images/big-east.jpg">
+                                    <img src="/post-production/images/big-east.jpg" alt="BIG EAST Tourney Tip-Off in Grand Central"/></a>
+                                </div>
+                                <a href="#ten"></a> 
+                                <dl>
+                                    <dt class="description">TITLE:</dt>
+                                    <dd>BIG EAST Tourney Tip-Off in Grand Central</dd>
+                                    <dt class="description">Client:</dt>
+                                    <dd>FS1</dd>
+                                    <dt class="description">Post Production:</dt>
+                                    <dd>Manhattan Place Entertainment</dd>
+                                    <dt class="description">Editor:</dt>
+                                    <dd>Joe Ward</dd>
+                                    <dt class="description">Post Producer:</dt>
+                                    <dd>David Lengel</dd>
+                                    <dd>2014 Sports Clio Award Winner</dd>
+                                </dl>
+                            </li>                            
+                        <!-- case study -->
+                            <li>
+                                <div class="gallery-images">
+                                    <a class="gallery_overlay" href="/post-production/images/kohls-rock-republic.jpg">
+                                    <img src="/post-production/images/kohls-rock-republic.jpg" alt="Kohl's Rock & Republic Fashion Show"/></a>
+                                </div>
+                                <a href="#eleven"></a> 
+                                <dl>
+                                    <dt class="description">TITLE:</dt>
+                                    <dd>Kohl's Rock & Republic Fashion Show</dd>
+                                    <dt class="description">Client:</dt>
+                                    <dd>Glam Media</dd>
+                                    <dt class="description">Post Production:</dt>
+                                    <dd>Manhattan Place Entertainment</dd>
+                                    <dt class="description">Editor:</dt>
+                                    <dd>Dean Marcial</dd>
+                                </dl>
+                            </li>
+                            <!-- case study -->
+                            <li>
+                                <div class="gallery-images">
+                                    <a class="gallery_overlay" href="/post-production/images/celebrity-cruise.jpg">
+                                    <img src="/post-production/images/celebrity-cruise.jpg" alt="Celebrity Cruise"/></a>
+                                </div>
+                                <a href="#twelve"></a> 
+                                <dl>
+                                    <dt class="description">TITLE:</dt>
+                                    <dd>Celebrity Cruise</dd>
+                                    <dt class="description">Client:</dt>
+                                    <dd>Concentric Communications</dd>
+                                    <dt class="description">Post Production:</dt>
+                                    <dd>Manhattan Place Entertainment</dd>
+                                    <dt class="description">Editor:</dt>
+                                    <dd>Duncan Skiles</dd>
+                                    <dt class="description">Post Producer:</dt>
+                                    <dd>David Lengel</dd>
+                                </dl>
+                            </li>
+                            <!-- case study -->
+                            <li>
+                                <div class="gallery-images">
+                                    <a class="gallery_overlay" href="/post-production/images/ford.jpg">
+                                    <img src="/post-production/images/ford.jpg" alt="Ford"/></a>
+                                </div>
+                                <a href="#thirteen"></a> 
+                                <dl>
+                                    <dt class="description">TITLE:</dt>
+                                    <dd>Ford</dd>
+                                    <dt class="description">Client:</dt>
+                                    <dd>Glam Media</dd>
+                                    <dt class="description">Post Production:</dt>
+                                    <dd>Manhattan Place Entertainment</dd>
+                                    <dt class="description">Editor:</dt>
+                                    <dd>Jay Sprogell</dd>
+                                </dl>
+                            </li>
+                            <!-- case study -->
+                            <li>
+                                <div class="gallery-images">
+                                    <a class="gallery_overlay" href="/post-production/images/misty-island-rescue.jpg">
+                                    <img src="/post-production/images/misty-island-rescue.jpg" alt="Misty Island Rescue"/></a>
+                                </div>
+                                <a href="#fourteen"></a> 
+                                <dl>
+                                    <dt class="description">TITLE:</dt>
+                                    <dd>Misty Island Rescue</dd>
+                                    <dt class="description">Client:</dt>
+                                    <dd>HIT Entertainment</dd>
+                                    <dt class="description">Post Production:</dt>
+                                    <dd>Manhattan Place Entertainment</dd>
+                                    <dt class="description">Editor:</dt>
+                                    <dd>Jonathan Wendell</dd>
+                                    <dt class="description">Post Producer:</dt>
+                                    <dd>Steve Cohen</dd>
+                                </dl>
+                            </li>
+                            <!-- case study -->
+                            <li>
+                                <div class="gallery-images">
+                                    <a class="gallery_overlay" href="/post-production/images/kohls-spring-trends.jpg">
+                                    <img src="/post-production/images/kohls-spring-trends.jpg" alt="Kohl's Spring Trends"/></a>
+                                </div>
+                                <a href="#fifteen"></a> 
+                                <dl>
+                                    <dt class="description">TITLE:</dt>
+                                    <dd>Kohl's Spring Trends</dd>
+                                    <dt class="description">Client:</dt>
+                                    <dd>Glam Media</dd>
+                                    <dt class="description">Post Production:</dt>
+                                    <dd>Manhattan Place Entertainment</dd>
+                                    <dt class="description">Editor:</dt>
+                                    <dd>Jay Sprogell</dd>
+                                    <dt class="description">Post Producer:</dt>
+                                    <dd></dd>
+                                </dl>
+                            </li>
+                            <!-- case study -->
+                            <li>
+                                <div class="gallery-images">
+                                    <a class="gallery_overlay" href="/post-production/images/honor-tradition-repsect.jpg">
+                                    <img src="/post-production/images/honor-tradition-repsect.jpg" alt="Honor. Tradition.  Respect."/></a>
+                                </div>
+                                <a href="#sixteen"></a> 
+                                <dl>
+                                    <dt class="description">TITLE:</dt>
+                                    <dd>Honor. Tradition.  Respect.</dd>
+                                    <dt class="description">Client:</dt>
+                                    <dd>The New York Rangers</dd>
+                                    <dt class="description">Post Production:</dt>
+                                    <dd>Manhattan Place Entertainment</dd>
+                                    <dt class="description">Editor:</dt>
+                                    <dd>Mark Tyler</dd>
+                                    <dt class="description">Post Producer:</dt>
+                                    <dd>Steve Cohen</dd>
+                                </dl>
+                            </li>
+                            <!-- case study -->
+                            <li>
+                                <div class="gallery-images">
+                                    <a class="gallery_overlay" href="/post-production/images/knicks-open-2012.jpg">
+                                    <img src="/post-production/images/knicks-open-2012.jpg" alt="New York Knicks Open 2012"/></a>
+                                </div>
+                                <a href="#seventeen"></a> 
+                                <dl>
+                                    <dt class="description">TITLE:</dt>
+                                    <dd>New York Knicks Open 2012</dd>
+                                    <dt class="description">Client:</dt>
+                                    <dd>The New York Knicks</dd>
+                                    <dt class="description">Post Production:</dt>
+                                    <dd>Manhattan Place Entertainment</dd>
+                                </dl>
+                            </li>
+                            <!-- case study -->
+                            <li>
+                                <div class="gallery-images">
+                                    <a class="gallery_overlay" href="/post-production/images/knicks-open-2010.jpg">
+                                    <img src="/post-production/images/knicks-open-2010.jpg" alt="New York Knicks Open 2010"/></a>
+                                </div>
+                                <a href="#eighteen"></a> 
+                                <dl>
+                                    <dt class="description">TITLE:</dt>
+                                    <dd>New York Knicks Open 2010</dd>
+                                    <dt class="description">Post Production:</dt>
+                                    <dd>Manhattan Place Entertainment</dd>
+                                    <dt class="description">Editor:</dt>
+                                    <dd>Kai Lee</dd>
+                                    <dt class="description">Post Producer:</dt>
+                                    <dd>Steve Cohen</dd>
+                                </dl>
+                            </li>
+                            <!-- case study -->
+                            <li>
+                                <div class="gallery-images">
+                                    <a class="gallery_overlay" href="/post-production/images/50cent.jpg">
+                                    <img src="/post-production/images/50cent.jpg" alt="Baby Bye Me"/></a>
+                                </div>
+                                <a href="#nineteen"></a> 
+                                <dl>
+                                    <dt class="description">TITLE:</dt>
+                                    <dd>Baby Bye Me</dd>
+                                    <dt class="description">Client:</dt>
+                                    <dd>Glaceau</dd>
+                                    <dt class="description">Post Production:</dt>
+                                    <dd>Manhattan Place Entertainment</dd>
+                                    <dt class="description">Editor:</dt>
+                                    <dd>Jonathan Wendell</dd>
+                                    <dt class="description">Post Producer:</dt>
+                                    <dd>Steve Cohen</dd>
+                                </dl>
+                            </li>
                         </ul>
                     </div>
                     <div id="thumbs-fwd"><img src="/assets/next_thumb.png" alt="Next Thumb"/></div> 
@@ -231,8 +422,49 @@ $menu->special ="Special";
             </div>
             <div id="nine" class="modal">
                 <a class="close" href="">close</a>
-               <script>QT_WriteOBJECT('/videos/pie-crust/pie-crust.mov', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
+                <script>QT_WriteOBJECT('/videos/pie-crust/pie-crust.mov', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
             </div>
+            <div id="ten" class="modal">
+                <a class="close" href="">close</a>
+                <script>QT_WriteOBJECT('/videos/big-east-final/big-east-final.mov','640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
+            </div>
+            <div id="eleven" class="modal">
+                <a class="close" href="">close</a>
+                <script>QT_WriteOBJECT('/digital/kohls-rock-republic/eileen-glam-rock-republic.mov','640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
+            </div>
+            <div id="twelve" class="modal">
+                <a class="close" href="">close</a>
+                <script>QT_WriteOBJECT('/videos/celebrity-cruise/celebrity-x-cruises.mov', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
+            </div>
+            <div id="thirteen" class="modal">
+                <a class="close" href="">close</a>
+                <script>QT_WriteOBJECT('/digital/escape-to-nyc/escape-to-nyc.mov','640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
+            </div>
+            <div id="fourteen" class="modal">
+                <a class="close" href="">close</a>
+                <script>QT_WriteOBJECT('/videos/misty-island-rescue/misty-island-rescue.mov', '540', '320', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
+            </div>
+            <div id="fifteen" class="modal">
+                <a class="close" href="">close</a>
+                <script>QT_WriteOBJECT('/videos/kohls-spring-trends/kohls-spring-trends.mov','640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
+            </div>
+            <div id="sixteen" class="modal">
+                <a class="close" href="">close</a>
+                <script>QT_WriteOBJECT('/opens/rangers_in_arena/rangers_in_arena.mov', '580', '380', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
+            </div>
+            <div id="seventeen" class="modal">
+                <a class="close" href="">close</a>
+                <script>QT_WriteOBJECT('/opens/knicks-open-final/knicks-open-final.mov', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
+            </div>
+            <div id="eighteen" class="modal">
+                <a class="close" href="">close</a>
+                <script>QT_WriteOBJECT('/opens/nyk-tease/nyk-tease.mov', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
+            </div>
+            <div id="nineteen" class="modal">
+                <a class="close" href="">close</a>
+                <script>QT_WriteOBJECT('/videos/50cent/50cent.mov', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
+            </div>
+            
         </div>
     </div>
     <div class="modal-backdrop"></div>

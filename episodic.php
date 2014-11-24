@@ -47,12 +47,12 @@ $menu->special ="Special";
                     <li>
                     <div class="gallery-images">
                         <a class="gallery_overlay" href="images/episodic/sydney-ultrabook-new-poster.jpg"></a>
-                        <img src="images/episodic/sydney-ultrabook-new-thumb.jpg" alt="Sydney Ultrabook Race"/>
+                        <img src="images/episodic/sydney-ultrabook-new-thumb.jpg" alt="Intel Ultra Book Race - Sydney Episode"/>
                     </div>
                     <a href="episodic/ultrabook-sydney/video.php"></a>
                     <dl>
                         <dt class="description">Title:</dt>
-                            <dd>Sydney Ultrabook Race</dd>
+                            <dd>Intel Ultra Book Race - Sydney Episode</dd>
                         <dt class="description">CLIENT:</dt>
                             <dd>Noise</dd>
                         <dt class="description">Production Services:</dt>
@@ -63,12 +63,12 @@ $menu->special ="Special";
                     <li>
                     <div class="gallery-images">
                         <a class="gallery_overlay" href="images/episodic/ultrabook-st-petersburg.jpg"></a>
-                        <img src="images/episodic/ultrabook-st-petersburg-thumb.jpg" alt="St. Petersburg Ultrabook Race"/>
+                        <img src="images/episodic/ultrabook-st-petersburg-thumb.jpg" alt="Intel Ultra Book Race - St. Petersburg Episode"/>
                     </div>
                     <a href="episodic/st-petersburg-ultrabook/video.php"></a>
                     <dl>
                         <dt class="description">Title:</dt>
-                            <dd>St. Petersburg Ultrabook Race</dd>
+                            <dd>Intel Ultra Book Race - St. Petersburg Episode</dd>
                         <dt class="description">CLIENT:</dt>
                             <dd>Noise</dd>
                         <dt class="description">Production Services:</dt>

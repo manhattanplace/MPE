@@ -39,7 +39,7 @@ $menu->special ="Special";
                 </li>
                 <li>
                     <a  href="post-production/long-form.php" title="Long Form">
-                        <img src="/post-production/images/dark-light.jpg" alt="Long Form"/></a>
+                        <img src="/post-production/images/dark-light.jpg" alt="Long Form"/>
                         <p style="color:#576db2" class="director-name">Long Form</p>
                     </a>
                 </li>

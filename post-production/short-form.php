@@ -163,6 +163,50 @@ $menu->special ="Special";
                         <!-- case study -->
                             <li>
                                 <div class="gallery-images">
+                                    <a class="gallery_overlay" href="/post-production/images/sydney.jpg">
+                                    <img src="/post-production/images/sydney.jpg" alt="Intel Ultra Book Race - Sydney Episode"/></a>
+                                </div>
+                                <a href="#twelve"></a> 
+                                <dl>
+                                    <dt class="description">TITLE:</dt> 
+                                    <dd>Intel Ultra Book Race - Sydney Episode</dd>
+                                    <dt class="description">Client:</dt>
+                                    <dd>Noise</dd>
+                                    <dt class="description">Executive Producer:</dt>
+                                    <dd>Steve Cohen</dd>
+                                    <dt class="description">Post Production:</dt>
+                                    <dd>Manhattan Place Entertainment</dd>
+                                    <dt class="description">Editor:</dt>
+                                    <dd>Jay Sprogell</dd>
+                                    <dt class="description">Post Producer:</dt>
+                                    <dd>Steve Cohen</dd>
+                                </dl>
+                            </li>
+                        <!-- case study -->
+                            <li>
+                                <div class="gallery-images">
+                                    <a class="gallery_overlay" href="/post-production/images/st-petersburg.jpg">
+                                    <img src="/post-production/images/st-petersburg.jpg" alt="Intel Ultra Book Race - St. Petersburg Episode"/></a>
+                                </div>
+                                <a href="#thirteen"></a> 
+                                <dl>
+                                    <dt class="description">TITLE:</dt> 
+                                    <dd>Intel Ultra Book Race - St. Petersburg Episode</dd>
+                                    <dt class="description">Client:</dt>
+                                    <dd>Noise</dd>
+                                    <dt class="description">Executive Producer:</dt>
+                                    <dd>Steve Cohen</dd>
+                                    <dt class="description">Post Production:</dt>
+                                    <dd>Manhattan Place Entertainment</dd>
+                                    <dt class="description">Editor:</dt>
+                                    <dd>Jay Sprogell</dd>
+                                    <dt class="description">Post Producer:</dt>
+                                    <dd>Steve Cohen</dd>
+                                </dl>
+                            </li>    
+                        <!-- case study -->
+                            <li>
+                                <div class="gallery-images">
                                     <a class="gallery_overlay" href="/post-production/images/nba-returns-2013-2014.jpg">
                                     <img src="/post-production/images/nba-returns-2013-2014.jpg" alt="NBA Opening Night 2014"/></a>
                                 </div>
@@ -202,6 +246,12 @@ $menu->special ="Special";
                                     <dd>Cure PC - Denis Leary</dd>
                                     <dt class="description">Client:</dt>
                                     <dd>Cablevision</dd>
+                                    <dt class="description">Post Production:</dt>
+                                    <dd>Manhattan Place Entertainment</dd>
+                                    <dt class="description">Editor:</dt>
+                                    <dd>Marc Tyler</dd>
+                                    <dt class="description">Post Producer:</dt>
+                                    <dd>Steve Cohen</dd>
                                 </dl>
                             </li>
                         <!-- case study -->
@@ -216,8 +266,117 @@ $menu->special ="Special";
                                     <dd>Cure PC - Bryan Cranston</dd>
                                     <dt class="description">Client:</dt>
                                     <dd>Cablevision</dd> 
+                                    <dt class="description">Post Production:</dt>
+                                    <dd>Manhattan Place Entertainment</dd>
+                                    <dt class="description">Editor:</dt>
+                                    <dd>Duncan Skiles</dd>
+                                    <dt class="description">Post Producer:</dt>
+                                    <dd>Steve Cohen</dd>
+                                    <dd>2010 Telly Award Winner</dd>
                                 </dl>
                             </li>
+                        <!-- case study -->
+                            <li>
+                                <div class="gallery-images">
+                                    <a class="gallery_overlay" href="/post-production/images/acc.jpg">
+                                    <img src="/post-production/images/acc.jpg" alt="ACC Football"/></a>
+                                </div>
+                                <a href="#fourteen"></a> 
+                                <dl>
+                                    <dt class="description">Title:</dt>
+                                    <dd>ACC Football</dd>
+                                    <dt class="description">Client:</dt>
+                                    <dd>SME Branding</dd> 
+                                    <dt class="description">Post Production:</dt>
+                                    <dd>Manhattan Place Entertainment</dd>
+                                    <dt class="description">Editor:</dt>
+                                    <dd>Jonathan Wendell</dd>
+                                    <dt class="description">Post Producer:</dt>
+                                    <dd>David Lengel</dd>
+                                </dl>
+                            </li>
+                          <!-- case study -->
+                            <li>
+                                <div class="gallery-images">
+                                    <a class="gallery_overlay" href="/post-production/images/miracles.jpg">
+                                    <img src="/post-production/images/miracles.jpg" alt="Miracles"/></a>
+                                </div>
+                                <a href="#fifteen"></a> 
+                                <dl>
+                                    <dt class="description">Title:</dt>
+                                    <dd>Miracles</dd>
+                                    <dt class="description">Client:</dt>
+                                    <dd>St. Vincent's Medical Center</dd> 
+                                    <dt class="description">Agency:</dt>
+                                    <dd>Franklin Street</dd>
+                                    <dt class="description">Post Production:</dt>
+                                    <dd>Manhattan Place Entertainment</dd>
+                                    <dt class="description">Editor:</dt>
+                                    <dd>Jay Sprogell</dd>
+                                    <dt class="description">Post Producer:</dt>
+                                    <dd>Steve Cohen</dd>
+                                </dl>
+                            </li>      
+                        <!-- case study -->
+                            <li>
+                                <div class="gallery-images">
+                                    <a class="gallery_overlay" href="/post-production/images/novalis.jpg">
+                                    <img src="/post-production/images/novalis.jpg" alt="Novalis"/></a>
+                                </div>
+                                <a href="#sixteen"></a> 
+                                <dl>
+                                    <dt class="description">Title:</dt>
+                                    <dd>Novalis</dd>
+                                    <dt class="description">Client:</dt>
+                                    <dd>St. Vincent's Medical Center</dd> 
+                                    <dt class="description">Post Production:</dt>
+                                    <dd>Manhattan Place Entertainment</dd>
+                                    <dt class="description">Editor:</dt>
+                                    <dd>Jay Sprogell</dd>
+                                    <dt class="description">Post Producer:</dt>
+                                    <dd>Steve Cohen</dd>
+                                </dl>
+                            </li>
+                        <!-- case study -->
+                            <li>
+                                <div class="gallery-images">
+                                    <a class="gallery_overlay" href="/post-production/images/nate.jpg">
+                                    <img src="/post-production/images/nate.jpg" alt="Nate Robinson"/></a>
+                                </div>
+                                <a href="#seventeen"></a> 
+                                <dl>
+                                    <dt class="description">Title:</dt>
+                                    <dd>Nate Robinson</dd>
+                                    <dt class="description">Client:</dt>
+                                    <dd>The New York Knicks</dd> 
+                                    <dt class="description">Post Production:</dt>
+                                    <dd>Manhattan Place Entertainment</dd>
+                                    <dt class="description">Editor:</dt>
+                                    <dd>David Gray</dd>
+                                    <dt class="description">Post Producer:</dt>
+                                    <dd>Steve Cohen</dd>
+                                </dl>
+                            </li>
+                       <!-- case study -->
+                            <li>
+                                <div class="gallery-images">
+                                    <a class="gallery_overlay" href="/post-production/images/ny-liberty.jpg">
+                                    <img src="/post-production/images/ny-liberty.jpg" alt="United We Play"/></a>
+                                </div>
+                                <a href="#eighteen"></a> 
+                                <dl>
+                                    <dt class="description">Title:</dt>
+                                    <dd>United We Play</dd>
+                                    <dt class="description">Client:</dt>
+                                    <dd>New York Liberty</dd> 
+                                    <dt class="description">Post Production:</dt>
+                                    <dd>Manhattan Place Entertainment</dd>
+                                    <dt class="description">Editor:</dt>
+                                    <dd>Duncan Skiles</dd>
+                                    <dt class="description">Post Producer:</dt>
+                                    <dd>Steve Cohen</dd>
+                                </dl>
+                            </li>                                 
                         </ul>
                     </div>
                     <div id="thumbs-fwd"><img src="/assets/next_thumb.png" alt="Next Thumb"/></div> 
@@ -267,6 +426,34 @@ $menu->special ="Special";
             <div id="eleven" class="modal">
                 <a class="close" href="">close</a>
                 <script>QT_WriteOBJECT('/videos/curePC/cranston.mov', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
+            </div>
+            <div id="twelve" class="modal">
+                <a class="close" href="">close</a>
+                <script>QT_WriteOBJECT('/video/ultrabook-sydney/ultrabook-sydney.mov', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
+            </div>
+            <div id="thirteen" class="modal">
+                <a class="close" href="">close</a>
+                <script>QT_WriteOBJECT('/video/ultrabook-st-petersburg/ultrabook-st-petersburg.mov', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
+            </div>
+            <div id="fourteen" class="modal">
+                <a class="close" href="">close</a>
+                <script>QT_WriteOBJECT('/video/acc-football/acc02.mov','640','376', '','AUTOPLAY','True','SCALE','Aspect');</script>
+            </div>
+            <div id="fifteen" class="modal">
+                <a class="close" href="">close</a>
+                <script>QT_WriteOBJECT('/video/st-vincent-miracle/st-vincent-mir.mov', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
+            </div>
+            <div id="sixteen" class="modal">
+                <a class="close" href="">close</a>
+                <script>QT_WriteOBJECT('/videos/st-vincent-medical-center-novalis/st-vincent-medical-center-novalis.mov', '636', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
+            </div>
+            <div id="seventeen" class="modal">
+                <a class="close" href="">close</a>
+                <script>QT_WriteOBJECT('/videos/nate-robinson/Nate_Robinson.mov', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
+            </div>
+            <div id="eighteen" class="modal">
+                <a class="close" href="">close</a>
+                <script>QT_WriteOBJECT('/videos/ny-liberty/united.mov', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
             </div>
         </div>
     </div>
