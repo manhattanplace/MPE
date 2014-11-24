@@ -33,7 +33,7 @@ $menu->special ="Special";
             <ul class="the-directors">
                 <li>
                     <a href="post-production/short-form.php" title="Short Form">
-                        <img class="short-form" src="/post-production/images/return-of-the-mac.jpg"  alt="Short Form" />
+                        <img class="short-form" src="/post-production/images/nba-topical.jpg"  alt="Short Form" />
                         <p style="color:#576db2" class="director-name">Short Form</p>
                     </a>
                 </li>
@@ -45,7 +45,7 @@ $menu->special ="Special";
                 </li>
                 <li>
                     <a  href="post-production/design.php" title="Design">
-                        <img src="/post-production/images/nba-image-glasses.jpg" alt="Design"  />
+                        <img src="/post-production/images/college-hoops-st-johns.jpg" alt="Design"  />
                         <p style="color:#576db2" class="director-name">Design</p>
                     </a>
                 </li>

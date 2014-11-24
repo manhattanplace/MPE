@@ -51,8 +51,8 @@ $menu->special ="Special";
                         <!-- case study -->
                             <li>
                                 <div class="gallery-images">
-                                    <a class="gallery_overlay" href="/post-production/images/return-of-the-mac.jpg">
-                                    <img src="/post-production/images/return-of-the-mac.jpg" alt="NBA Topical"/></a>
+                                    <a class="gallery_overlay" href="/post-production/images/nba-topical.jpg">
+                                    <img src="/post-production/images/nba-topical.jpg" alt="NBA Topical"/></a>
                                 </div>
                                 <a href="#one"></a> 
                                 <dl>

@@ -142,7 +142,7 @@ $menu->special ="Special";
                                     <dt class="description">Director:</dt>
                                     <dd>Jonathan Wendell</dd>
                                     <dt class="description">Editor & GFX:</dt>
-                                    <dd>Jonathan Wendel</dd>
+                                    <dd>Jonathan Wendell</dd>
                                 </dl>
                             </li>
                         <!-- case study -->
