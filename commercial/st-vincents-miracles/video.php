@@ -35,7 +35,7 @@ $menu->special ="Special";
                 <a href="/commercial.php">&laquo; Back to Commercials</a>
             </div>
             <div id="video">
-                <script>QT_WriteOBJECT('/video/st-vincent-miracle/st-vincent-mir.mov', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect') ;</script>
+                <script>QT_WriteOBJECT('/video/st-vincent-miracle/st-vincent-mir.mov', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
             </div>
             <div class="back_button2">
                 <a href="/commercial.php">&laquo; Back to Commercials</a>

@@ -57,9 +57,7 @@ $menu->special ="Special";
                             <dt class="description">CLIENT:</dt>
                                 <dd>Cablevision</dd> 
                             <dt class="description">DP/Director:</dt>
-                                <dd>Steve Cohen</dd> 
-                            <dt class="description">CAMERA:</dt>
-                                <dd>Chris Bierlein</dd> 
+                                <dd>Steve Cohen</dd>  
                             <dt class="description">Production Services:</dt>
                                 <dd>Manhattan Place Entertainment</dd> 
                         </dl>

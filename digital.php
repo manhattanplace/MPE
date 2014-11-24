@@ -121,16 +121,15 @@ $menu->special ="Special";
                                 <dt class="description">TITLE:</dt>
                                     <dd>Big East Tourney Tip-off in Grand Central</dd>
                                 <dt class="description">FOR FOX SPORTS 1:</dt>
-                                    <dd>ROBERT GOTLEIB-EVP FOX SPORTS MARKETING</dd>
-                                    <dd>BILL BATTIN-SVP FOX SPORTS</dd>
+                                    <dd>Robert Gotleig-EVP Fox Sports Marketing</dd>
+                                    <dd>Bill Battin-SVP Fox Sports</dd>
                                 <dt class="description">DIRECTOR:</dt>
                                     <dd>Steve Cohen</dd>
                                 <dt class="description">Camera Operators:</dt>
                                     <dd>Chris Bierlein, Axel Baumann, Tom Rome</dd>
-                                <dt class="description">Production Company:</dt>
+                                <dt class="description">Production Company/Post Production:</dt>
                                     <dd> Manhattan Place Entertainment</dd>
-                                <dt class="description">Post Production:</dt>
-                                    <dd> Manhattan Place Entertainment</dd>
+                                    <dd>2014 Sports Clio Award Winner</dd>
                             </dl>
                         </li> 
                         <!-- case study  -->
