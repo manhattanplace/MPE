@@ -1327,6 +1327,9 @@ a,.contact a:link,.contact a:visited, {
     font-weight: 400;
     line-height: 34px;
 }
+.clio {
+    margin-top: 20px;
+}
 .panel-title a {
     text-decoration: none;
 }

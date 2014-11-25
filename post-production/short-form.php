@@ -60,7 +60,7 @@ $menu->special ="Special";
                                     <dd>NBA Topical</dd>
                                     <dt class="description">Client:</dt>
                                     <dd>ESPN</dd>
-                                    <dt class="description">Editor & GFX:</dt>
+                                    <dt class="description">Editor &amp; GFX:</dt>
                                     <dd>Jonathan Wendell</dd>
                                 </dl>
                             </li>
@@ -76,7 +76,7 @@ $menu->special ="Special";
                                     <dd>NBA Image</dd>
                                     <dt class="description">Client:</dt>
                                     <dd>ESPN</dd>
-                                    <dt class="description">Editor & GFX:</dt>
+                                    <dt class="description">Editor &amp; GFX:</dt>
                                     <dd>Jonathan Wendell</dd>
                                 </dl>
                             </li>
@@ -220,20 +220,19 @@ $menu->special ="Special";
                                     <dd>Jonathan Wendell</dd>
                                 </dl>
                             </li>
-                        <!-- case study -->
+                        <!-- case study 
                             <li class="image-only">
                                 <div class="gallery-images">
                                     <a class="gallery_overlay" href="/post-production/images/step-on-up-psa.jpg">
                                     <img src="/post-production/images/step-on-up-psa.jpg" alt="Step On Up PSA Campaign"/></a>
                                 </div>
-                                <!-- <a href="#nine"></a> --> 
                                 <dl>
                                     <dt class="description">Title:</dt> 
                                     <dd>Step On Up PSA Campaign</dd>
                                     <dt class="description">Client:</dt>
                                     <dd>M Street Creative</dd>
                                 </dl>
-                            </li>
+                            </li>-->
                         <!-- case study -->
                             <li>
                                 <div class="gallery-images">

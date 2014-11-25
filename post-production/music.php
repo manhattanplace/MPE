@@ -85,7 +85,7 @@ $menu->special ="Special";
                     <div class="pagination"></div>
                 </div>
             </div>
-            <div id="one" class="modal">
+            <div id="zero" class="modal">
                 <a class="close" href="">close</a>
                 <script>QT_WriteOBJECT('/videos/jordyn-mallory-prayers/jordyn-mallory-prayers.mov', '640', '341', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
             </div>

@@ -38,38 +38,30 @@ $menu->special ="Special";
         </ul>
         <h3 class="recent">Recent Articles</h3>
         <ul id="nav_tertiary">
-            
-            <li><a href="#Selleck">GQ “Life Advice” with Tom Selleck</a></li>
-            <li><a href="#Liberty">New York Liberty - Post Season Vignettes</a></li>
-            <li><a href="#Alumni">ABC Alumni Interviews</a></li>
-            <li><a href="#Kelly">CBS Sports “The NFL Today”: Jim Kelly Feature</a></li>
-            <li><a href="#Lemming">CBS Sports Network: Lemming Report</a></li>
-            <li><a href="#Esurance">Esurance “Robots” with the Bryan Brothers</a></li>
-            <li><a href="#slgreen">SL Green - Company Photo 2014</a></li>
-            <li><a href="#Cedric">Cedric The Entertainer - “Step On Up” PSA campaign</a></li>
-            <li><a href="#cbstnfo">CBS Thursday Night Football - 9/11 Open</a></li>
-            <li><a href="#Vivienne">Vivienne Tam Feature</a></li>
-            <li><a href="#afbfwp">Army Football Feature - West Point</a></li>
-            <li><a href="#Shawn">New York Knicks In-Arena Presentations</a></li>
-            <li><a href="#Kwizak">MSG Rangers In-Arena Presentations</a></li>
-            <li><a href="#Kaspar">MSG Creative Services 2014-2015 Network On-Air Design</a></li>
-            <li><a href="#Clooney">Walt Disney Pictures “Tomorrowland” starring George Clooney</a></li>
             <li><a href="#p12oapb">PAC 12 On-Air Promos “Basketball”</a></li>
-
-
-
-
-
-
-
-            
+            <li><a href="#Clooney">Walt Disney Pictures “Tomorrowland” starring George Clooney</a></li>
             <li><a href="#usanetwork">Daniel Bryan USA Network - Anti Smoking PSA</a></li>
-            <li><a href="#Novartis">Novartis – ASCO: A Look</a></li>
-            <li><a href="#HAVAS">HAVAS World Wide - “The Audition”</a></li>
-            <li><a href="#PAC">PAC 12 Networks ON-AIR Promos</a></li>
-            <li><a href="#Emirates">Emirates “Returns” Kids Clinics</a></li>
+            <li><a href="#Kaspar">MSG Creative Services 2014-2015 Network On-Air Design</a></li>
+            <li><a href="#Kwizak">MSG Rangers In-Arena Presentations</a></li>
+            <li><a href="#Shawn">New York Knicks In-Arena Presentations</a></li>
+            <li><a href="#Grande">Big Brother: Frankie Grande Family/Friends Package</a></li>
+            <li><a href="#afbfwp">Army Football Feature - West Point</a></li>
+            <li><a href="#Vivienne">Vivienne Tam Feature</a></li>
+            <li><a href="#cbstnfo">CBS Thursday Night Football - 9/11 Open</a></li>
+            <li><a href="#Cedric">Cedric The Entertainer - “Step On Up” PSA campaign</a></li>
+            <li><a href="#slgreen">SL Green - Company Photo 2014</a></li>
+            <li><a href="#Esurance">Esurance “Robots” with the Bryan Brothers</a></li>
+            <li><a href="#Lemming">CBS Sports Network: Lemming Report</a></li>
+            <li><a href="#Kelly">CBS Sports “The NFL Today”: Jim Kelly Feature</a></li>
+            <li><a href="#Alumni">ABC Alumni Interviews</a></li>
+            <li><a href="#Liberty">New York Liberty - Post Season Vignettes</a></li>
+            <li><a href="#Selleck">GQ “Life Advice” with Tom Selleck</a></li>
+
             <li><a href="#Showtime">Showtime Boxing Feature Piece: Mayweather vs. Maidana</a></li>
-            
+            <li><a href="#Emirates">Emirates “Returns” Kids Clinics</a></li>
+            <li><a href="#PAC">PAC 12 Networks ON-AIR Promos</a></li>
+            <li><a href="#HAVAS">HAVAS World Wide - “The Audition”</a></li>
+            <li><a href="#Novartis">Novartis – ASCO: A Look</a></li>
             
             <li><a href="#Serving">The 2014 US Open: "Serving the Court"</a></li>
             <li><a href="#gripit">Grip it and Rip It</a></li>
@@ -78,7 +70,7 @@ $menu->special ="Special";
             <li><a href="#kate">Teen Vogue Talks - with Mary Kate Steinmiller</a></li>
             <li><a href="#tpc">The Mike Francesa Show at TPC River Highland</a></li>
             <li><a href="#golf">U.S. Open Golf On-Air Promos</a></li>
-            <li><a href="#phil">PHIL JACKSON & DEREK FISHER: THE INTERVIEW</a></li>
+            <li><a href="#phil">PHIL JACKSON &amp; DEREK FISHER: THE INTERVIEW</a></li>
             <li><a href="#dust">Sevendust Concert</a></li>
             <li><a href="#posttime">It's "Post Time" for the Triple Crown at Belmont!</a></li>
             <li><a href="#scfs">New York Rangers - Stanley Cup Final Shoot</a></li>
@@ -148,7 +140,7 @@ $menu->special ="Special";
             <li><a href="#nyriap">NY Rangers- In-Arena Presentations</a></li>
             <li><a href="#sos">Stars on Sports</a></li>
             <li><a href="#foxnflsot">FOX NFL Sunday - Opening Tease</a></li>
-            <li><a href="#vh1lhh">VH1: Love & Hip Hop - Show Open</a></li>
+            <li><a href="#vh1lhh">VH1: Love &amp; Hip Hop - Show Open</a></li>
             <li><a href="#usott">US Open Tennis Tournament</a></li>
             <li><a href="#abtn">Aveeno - “Back to Nature”</a></li>
             <li><a href="#rct">Rogers Cup Tennis</a></li>
@@ -216,7 +208,202 @@ $menu->special ="Special";
             <li><a href="#grail">The "Holy Grail" of Live Events! The Monty Python Reunion</a></li>
             <li><a href="#50cent">Manhattan Place Shoots "Baby By Me" with 50 Cent</a></li>
         </ul>
-        
+        <!-- Begin Article -->  
+        <div class="article">
+            <h1><a name="p12oapb" class="anchor">PAC 12 On-Air Promos “Basketball”</a></h1>
+            <p class="date">Client: PAC 12 Networks</p>
+            <p class="date">Producer: Ted Ishler</p>
+            <p class="date">Director/DP: Steve Cohen</p>
+            <hr/>
+            <p>Directed and shot all essential elements for the PAC 12 Networks on-air promos department for the 2014 men’s and women’s basketball campaign. 
+Provided all pre-production and field production services. Handled production design utilizing 4 video projection units to create a unique cutting edge environment players and coaches from each PAC 12 institution to appear in front of. The promos air across the PAC 12 Networks throughout the 2014-2015 Basketball season. Shot on Location at the PAC 12 Networks sound stage in San Francisco, CA.</p>
+            <img class="float_left" src="images/recent-work/mpe011.jpg" alt="PAC 12 On-Air Promos Basketball"  />
+            <a class="back-to-top" href="#top">Back to Top</a>       
+        </div>
+        <!-- end article -->
+        <!-- Begin Article -->  
+        <div class="article">
+            <h1><a name="Clooney" class="anchor">Walt Disney Pictures “Tomorrowland” starring George Clooney</a></h1>
+            <p class="date">Client: Soap Box Productions</p>
+            <p class="date">Supervising Producer: Kris Eber</p>
+            <p class="date">Coordinating Producer/DP: Steve Cohen</p>
+            <hr/>
+            <p>MPE provided comprehensive pre-production and field production services for the creation of special content that will be designated to help promote Disney’s upcoming film “Tomorrowland”, starring mega movie star George Clooney and television’s iconic Hugh Laurie (House M.D.). MPE designed and constructed a futuristic set to match the production design of the film which then served as a backdrop for the film’s cast (Clooney, Laurie, Britt Robertson, Under the Dome, & Raffey Cassidy, Snow White and the Huntsman), writer (Damon Lindelof, Lost), and director (Brad Bird, The Incredibles) to be shot in while discussing the making of the film. Tomorrowland’s expected release date is March 2015.  Shot “live to digital” with (6) Sony F5/55 cameras and Fujinon Cabrio zoom lenses, at the Jacob Javits Convention Center in New York City.</p>
+            <img class="float_left" src="images/recent-work/george-clooney.jpg" alt="Walt Disney Pictures 'Tomorrowland' starring George Clooney"  />
+            <a class="back-to-top" href="#top">Back to Top</a>       
+        </div>
+        <!-- end article -->
+        <!-- Begin Article -->  
+        <div class="article">
+            <h1><a name="usanetwork" class="anchor">Daniel Bryan USA Network - Anti Smoking PSA</a></h1>
+            <p class="date">Client: WWE Inc.</p>
+            <p class="date">Producer: Robert Cinguina</p>
+            <p class="date">DP: Steve Cohen</p>
+            <hr/>
+            <p>In collaboration with the WWE and NBC/Universal, MPE provided all pre-production and field production services, as well as post production visual effects for the spot’s final sequence. Several sequences were shot with WWE Superstar Daniel Bryan in the ring during an actual WWE event with only an (8) minute window of opportunity to capture what was needed. Spots will air on NBC Universal/USA Network. Shot on the RED Epic on location at the Prudential Center, Newark NJ. </p>
+            <a class="back-to-top" href="#top">Back to Top</a>       
+        </div>
+        <!-- end article -->
+        <!-- Begin Article -->  
+        <div class="article">
+            <h1><a name="Kaspar" class="anchor">MSG Creative Services 2014-2015 Network On-Air Design</a></h1>
+            <p class="date">Client: MSG Creative Services</p>
+            <p class="date">Agency: Loyal Kaspar</p>
+            <p class="date">DP: Steve Cohen</p>
+            <hr/>
+            <p>MPE provided field production services in shooting players from the New York Rangers, New York Knicks, and MSG Network’s on-air talent for the creation of the network’s branded visual look for the 2014-2015 on-air broadcasts and promotional campaigns. Shot in 4K on Sony F-5 Cameras with Fujinon Cabrio cinema lenses.</p>
+            <a class="back-to-top" href="#top">Back to Top</a>       
+        </div>
+        <!-- end article -->
+        <!-- Begin Article -->  
+        <div class="article">
+            <h1><a name="Kwizak" class="anchor">MSG Rangers In-Arena Presentations</a></h1>
+            <p class="date">Client: The New York Rangers</p>
+            <p class="date">Producer: Greg Kwizak</p>
+            <p class="date">DP: Steve Cohen</p>
+            <hr/>
+            <p>MPE provided all field production services in the creation of specialized elements involving each individual player from the New York Rangers 2014-2015 roster. Sound elements and specialty player portraits were acquired and then utilized for a variety of content that was displayed on the big screens inside of the world’s most famous arena Madison Square Garden.</p>
+            <a class="back-to-top" href="#top">Back to Top</a>       
+        </div>
+        <!-- end article -->
+        <!-- Begin Article -->  
+        <div class="article">
+            <h1><a name="Shawn" class="anchor">New York Knicks In-Arena Presentations</a></h1>
+            <p class="date">Client: The New York Knicks</p>
+            <p class="date">Producer: Shawn Bennett</p>
+            <p class="date">DP: Steve Cohen</p>
+            <hr/>
+            <p>MPE provided all field production services in the creation of specialized elements involving each individual player from the New York Knick 2014-2015 roster. Sound elements and specialty player portraits were acquired and then utilized for a variety of content that was displayed on the big screens inside of the world’s most famous arena Madison Square Garden.</p>
+            <a class="back-to-top" href="#top">Back to Top</a>       
+        </div>
+        <!-- end article -->
+        <!-- Begin Article -->  
+        <div class="article">
+            <h1><a name="Grande" class="anchor">Big Brother: Frankie Grande Family/Friends Package</a></h1>
+            <p class="date">Client: Our House Productions</p>
+            <p class="date">Producer: Adam Raia</p>
+            <p class="date">DP: Andrew Takeuchi</p>
+            <p class="date">2nd unit: Joe Gabriel</p>
+            <hr/>
+            <p>Manhattan Place Entertainment provided field production services for 2nd unit shooting on this popular reality series. Interviews and b-roll sequences of the family and friends of one of the Big Brother contestants (Frankie Grande) were shot on location in New York City. MPE acted as the production company on this IATSE affiliated project.</p>
+            <a class="back-to-top" href="#top">Back to Top</a>       
+        </div>
+        <!-- end article -->
+        <!-- Begin Article -->  
+        <div class="article">
+            <h1><a name="afbfwp" class="anchor">Army Football Feature - West Point</a></h1>
+            <p class="date">Client: CBS Sports Network</p>
+            <p class="date">Producer: Sarah Kazadi</p>
+            <p class="date">DP: Tom Rome</p>
+            <hr/>
+            <p>MPE provided field production services on this behind the scenes feature for CBS Sports Network. The feature was created as a promotional tool to help the network in their efforts to land the TV rights to Army football. Shot with the Sony F-5 on location at The West Point Military Academy.</p>
+            <img class="float_left" src="images/recent-work/mpe009.jpg" alt="Army Football Feature - West Point"  />
+            <a class="back-to-top" href="#top">Back to Top</a>       
+        </div>
+        <!-- end article -->
+        <!-- Begin Article -->  
+        <div class="article">
+            <h1><a name="Vivienne" class="anchor">Vivienne Tam Feature</a></h1>
+            <p class="date">Client: IMG</p>
+            <p class="date">Producer: Michael Dierks</p>
+            <p class="date">DP: Brian Schulz</p>
+            <hr/>
+            <p>MPE was at the 2014 Mercedes Benz Fall Fashion Week and produced a feature about Vivienne Tam, one of the world’s best known and respected fashion designers. MPE handled all aspects of pre-production, field production and post production. The piece takes an inside look at the world of fashion and reveals the designer’s inspiration for her work, as well as providing a preview of her latest collection. The feature was shot on location, edited, and delivered in less than 24 hours. It was distributed on the web and at a special screening for Tam’s adoring fans just moments prior to her live runway show at the 2014 Mercedes Benz Fashion week in NYC.</p>
+            <img class="float_left" src="images/recent-work/mpe008.jpg" alt="Vivienne Tam Feature"  />
+            <a class="back-to-top" href="#top">Back to Top</a>       
+        </div>
+        <!-- end article -->
+        <!-- Begin Article -->  
+        <div class="article">
+            <h1><a name="cbstnfo" class="anchor">CBS Thursday Night Football - 9/11 Open</a></h1>
+            <p class="date">Client: CBS Sports</p>
+            <p class="date">Producer: Charlie Bloom</p>
+            <p class="date">DP: Steve Cohen</p>
+            <hr/>
+            <p>MPE provided field production services for material acquired with New York Giants Head Football Coach Tom Coughlin for CBS Sports inaugural broadcast of Thursday Night Football. Coughlin reflected about 9/11 and shared a personal story about his son who was in the twin towers that fateful day. Miraculously, his son was among the survivors.</p>
+            <a class="back-to-top" href="#top">Back to Top</a>       
+        </div>
+        <!-- end article -->
+        <!-- Begin Article -->  
+        <div class="article">
+            <h1><a name="Cedric" class="anchor">Cedric The Entertainer - “Step On Up” PSA campaign</a></h1>
+            <p class="date">Client: M Street Creative</p>
+            <p class="date">Director: Andy Praskai</p>
+            <p class="date">DP: Steve Cohen</p>
+            <hr/>
+            <p>MPE handled pre-production and field production services in collaboration with M-Street Creative for this series of PSA’s on the subject of diabetic nerve pain.  Additional material was distributed on the web by agency J Walter Thompson, and Pfizer. Shot on the Sony F5 with Fujinon Cabrio cinema zooms, and on location in Brooklyn, NY.</p>
+            <img class="float_left" src="images/recent-work/mpe007.jpg" alt="Cedric The Entertainer - 'Step On Up' PSA campaign"  />
+            <a class="back-to-top" href="#top">Back to Top</a>       
+        </div>
+        <!-- end article -->
+        <!-- Begin Article -->  
+        <div class="article">
+            <h1><a name="slgreen" class="anchor">SL Green - Company Photo 2014</a></h1>
+            <p class="date">Client: SL Green</p>
+            <p class="date">Still Photographer: Jamie Cohen</p>
+            <hr/>
+            <p>MPE handled all production services and still photography for this group portrait involving 105 top executives from this prestigious real estate development company. Spectacular production design, art direction and visual choreography all came together at the world famous Cipriani’s 42nd street in NYC.</p>
+            <a class="back-to-top" href="#top">Back to Top</a>       
+        </div>
+        <!-- end article -->
+        <!-- Begin Article -->  
+        <div class="article">
+            <h1><a name="Esurance" class="anchor">Esurance “Robots” with the Bryan Brothers</a></h1>
+            <p class="date">Client: Tennis Channel</p>
+            <p class="date">Producer: Gary Lang</p>
+            <p class="date">DP: Steve Cohen</p>
+            <hr/>
+            <p>MPE handled all field production services in shooting these web spots featuring the popular tennis doubles team, the Bryan Brothers. The twin brothers controlled the robots and their faces and voices could be seen and heard as they engaged pedestrians all over Central Park in a 2-way trivia contest from a remote location. The spots were used to promote the 2014 US Open Tennis Tournament.</p>
+            <img class="float_left" src="images/recent-work/mpe006.jpg" alt="Esurance “Robots” with the Bryan Brothers"  />
+            <a class="back-to-top" href="#top">Back to Top</a>       
+        </div>
+        <!-- end article -->
+        <!-- Begin Article -->  
+        <div class="article">
+            <h1><a name="Lemming" class="anchor">CBS Sports Network: Lemming Report</a></h1>
+            <p class="date">Client: CBS Sports Network</p>
+            <p class="date">Producer: Brian Raab</p>
+            <p class="date">DP: Steve Cohen</p>
+            <hr/>
+            <p>MPE provided all production services for this web episode featuring actor Jim Caviezel, from the well known show “Person of Interest”. Tom Lemming interviewed Caviezel about his new movie “When the Game Stands Tall”. Shot at SilverCup Studios in NYC.</p>
+            <img class="float_left" src="images/recent-work/mpe005.jpg" alt="CBS Sports Network: Lemming Report"  />
+            <a class="back-to-top" href="#top">Back to Top</a>       
+        </div>
+        <!-- end article -->
+        <!-- Begin Article -->  
+        <div class="article">
+            <h1><a name="Kelly" class="anchor">CBS Sports “The NFL Today”: Jim Kelly Feature</a></h1>
+            <p class="date">Client: CBS Sports</p>
+            <p class="date">Producer: Charlie Bloom</p>
+            <p class="date">DP: Steve Cohen</p>
+            <hr/>
+            <p>Shot on location at the CBS Broadcast Center, MPE created a production designed environment inside the CBS commissary and shot interview material with former NFL player and current CBS Sports analyst Steve Tasker on the subject of NFL Hall of fame QB Jim Kelly.</p>
+            <a class="back-to-top" href="#top">Back to Top</a>       
+        </div>
+        <!-- end article -->
+        <!-- Begin Article -->  
+        <div class="article">
+            <h1><a name="Alumni" class="anchor">ABC Alumni Interviews</a></h1>
+            <p class="date">Client: Disney/ABC Digital</p>
+            <p class="date">Producer: Peachy Pascual</p>
+            <p class="date">DP: Steve Cohen</p>
+            <hr/>
+            <p>ABC Talent Showcase Alumni Daniella Pineda, Jermaine Fowler, Anthony Ordonez, and Roslyn Ruff discussed their personal experiences from previous showcases and offered advice for upcoming participants. Shot on location at ABC Studios in New York City.</p>
+            <a class="back-to-top" href="#top">Back to Top</a>       
+        </div>
+        <!-- end article -->
+        <!-- Begin Article -->  
+        <div class="article">
+            <h1><a name="Liberty" class="anchor">New York Liberty - Post Season Vignettes</a></h1>
+            <p class="date">Client: New York Liberty In-Arena Presentations</p>
+            <p class="date">Producer: Lauren Trusty</p>
+            <p class="date">DP: Steve Cohen</p>
+            <hr/>
+            <p>MPE provided all field production services in the creation of visual elements that involved the entire roster of New York Liberty players. Sound elements and specialty player portraits were acquired and then used for a variety of content that was displayed on the big screens inside of the world’s most famous arena Madison Square Garden.</p>
+            <img class="float_left" src="images/recent-work/mpe004.jpg" alt="New York Liberty - Post Season Vignettes"  />
+            <a class="back-to-top" href="#top">Back to Top</a>       
+        </div>
+        <!-- end article -->
         <!-- Begin Article -->	
         <div class="article">
             <h1><a name="Selleck" class="anchor">GQ “Life Advice” with Tom Selleck</a></h1>
@@ -230,230 +417,53 @@ $menu->special ="Special";
             <a class="back-to-top" href="#top">Back to Top</a>       
         </div>
         <!-- end article -->
-        
-        <!-- Begin Article -->	
+        <!-- Begin Article -->  
         <div class="article">
-            <h1><a name="Liberty" class="anchor">New York Liberty - Post Season Vignettes</a></h1>
-            <p class="date">Client: New York Liberty In-Arena Presentations</p>
-        	<p class="date">Producer: Lauren Trusty</p>
-        	<p class="date">DP: Steve Cohen</p>
-        	<hr/>
-            <p>MPE provided all field production services in the creation of visual elements that involved the entire roster of New York Liberty players. Sound elements and specialty player portraits were acquired and then used for a variety of content that was displayed on the big screens inside of the world’s most famous arena Madison Square Garden.</p>
-            <img class="float_left" src="images/recent-work/mpe004.jpg" alt="New York Liberty - Post Season Vignettes"  />
+            <h1><a name="Showtime" class="anchor">Showtime Boxing Feature Piece: Mayweather vs. Maidana</a></h1>
+            <p class="date">Client: Flagstaff Productions</p>
+            <p class="date">Producer: Steve Stern</p>
+            <p class="date">Production Services: Manhattan Place Entertainment</p>
+            <p class="date">Director of Photography: Steve Cohen</p>
+            <hr/>
             <a class="back-to-top" href="#top">Back to Top</a>       
         </div>
         <!-- end article -->
-        
-        <!-- Begin Article -->	
+        <!-- Begin Article -->  
         <div class="article">
-            <h1><a name="Alumni" class="anchor">ABC Alumni Interviews</a></h1>
-            <p class="date">Client: Disney/ABC Digital</p>
-        	<p class="date">Producer: Peachy Pascual</p>
-        	<p class="date">DP: Steve Cohen</p>
-        	<hr/>
-            <p>ABC Talent Showcase Alumni Daniella Pineda, Jermaine Fowler, Anthony Ordonez, and Roslyn Ruff discussed their personal experiences from previous showcases and offered advice for upcoming participants. Shot on location at ABC Studios in New York City.</p>
+            <h1><a name="Emirates" class="anchor">Emirates “Returns” Kids Clinics</a></h1>
+            <p class="date">Client: The Tennis Channel</p>
+            <p class="date">Producers: Gary Lang, Brett Danzer, Joe Zappulla, Yvonne Wagoner</p>
+            <p class="date">DPs: Steve Cohen, Brian Schulz, Tom Rome, Joe White</p>
+            <hr/>
+            <p>Between July and August, MPE directed and shot series of short vignettes for Emirates Airlines that aired on the Tennis Channel. The features were shot on location in Montreal, Winston Salem, NC, and New Haven, CT.</p>
             <a class="back-to-top" href="#top">Back to Top</a>       
         </div>
         <!-- end article -->
-        
-        
-        <!-- Begin Article -->	
+        <!-- Begin Article -->  
         <div class="article">
-            <h1><a name="Kelly" class="anchor">CBS Sports “The NFL Today”: Jim Kelly Feature</a></h1>
-            <p class="date">Client: CBS Sports</p>
-        	<p class="date">Producer: Charlie Bloom</p>
-        	<p class="date">DP: Steve Cohen</p>
-        	<hr/>
-            <p>Shot on location at the CBS Broadcast Center, MPE created a production designed environment inside the CBS commissary and shot interview material with former NFL player and current CBS Sports analyst Steve Tasker on the subject of NFL Hall of fame QB Jim Kelly.</p>
-            <a class="back-to-top" href="#top">Back to Top</a>       
-        </div>
-        <!-- end article -->
-        
-        <!-- Begin Article -->	
-        <div class="article">
-            <h1><a name="Lemming" class="anchor">CBS Sports Network: Lemming Report</a></h1>
-            <p class="date">Client: CBS Sports Network</p>
-        	<p class="date">Producer: Brian Raab</p>
-        	<p class="date">DP: Steve Cohen</p>
-        	<hr/>
-            <p>MPE provided all production services for this web episode featuring actor Jim Caviezel, from the well known show “Person of Interest”. Tom Lemming interviewed Caviezel about his new movie “When the Game Stands Tall”. Shot at SilverCup Studios in NYC.</p>
-            <img class="float_left" src="images/recent-work/mpe005.jpg" alt="CBS Sports Network: Lemming Report"  />
-            <a class="back-to-top" href="#top">Back to Top</a>       
-        </div>
-        <!-- end article -->
-
-
-        <!-- Begin Article -->	
-        <div class="article">
-            <h1><a name="Esurance" class="anchor">Esurance “Robots” with the Bryan Brothers</a></h1>
-            <p class="date">Client: Tennis Channel</p>
-        	<p class="date">Producer: Gary Lang</p>
-        	<p class="date">DP: Steve Cohen</p>
-        	<hr/>
-            <p>MPE handled all field production services in shooting these web spots featuring the popular tennis doubles team, the Bryan Brothers. The twin brothers controlled the robots and their faces and voices could be seen and heard as they engaged pedestrians all over Central Park in a 2-way trivia contest from a remote location. The spots were used to promote the 2014 US Open Tennis Tournament.</p>
-            <img class="float_left" src="images/recent-work/mpe006.jpg" alt="Esurance “Robots” with the Bryan Brothers"  />
-            <a class="back-to-top" href="#top">Back to Top</a>       
-        </div>
-        <!-- end article -->
-
-        <!-- Begin Article -->	
-        <div class="article">
-            <h1><a name="slgreen" class="anchor">SL Green - Company Photo 2014</a></h1>
-            <p class="date">Client: SL Green</p>
-        	<p class="date">Still Photographer: Jamie Cohen</p>
-        	<hr/>
-            <p>MPE handled all production services and still photography for this group portrait involving 105 top executives from this prestigious real estate development company. Spectacular production design, art direction and visual choreography all came together at the world famous Cipriani’s 42nd street in NYC.</p>
-            <a class="back-to-top" href="#top">Back to Top</a>       
-        </div>
-        <!-- end article -->
-
-
-        <!-- Begin Article -->	
-        <div class="article">
-            <h1><a name="Cedric" class="anchor">Cedric The Entertainer - “Step On Up” PSA campaign</a></h1>
-            <p class="date">Client: M Street Creative</p>
-        	<p class="date">Director: Andy Praskai</p>
-        	<p class="date">DP: Steve Cohen</p>
-        	<hr/>
-            <p>MPE handled pre-production and field production services in collaboration with M-Street Creative for this series of PSA’s on the subject of diabetic nerve pain.  Additional material was distributed on the web by agency J Walter Thompson, and Pfizer. Shot on the Sony F5 with Fujinon Cabrio cinema zooms, and on location in Brooklyn, NY.</p>
-            <img class="float_left" src="images/recent-work/mpe007.jpg" alt="Cedric The Entertainer - 'Step On Up' PSA campaign"  />
-            <a class="back-to-top" href="#top">Back to Top</a>       
-        </div>
-        <!-- end article -->
-
-
-        <!-- Begin Article -->	
-        <div class="article">
-            <h1><a name="cbstnfo" class="anchor">CBS Thursday Night Football - 9/11 Open</a></h1>
-            <p class="date">Client: CBS Sports</p>
-        	<p class="date">Producer: Charlie Bloom</p>
-        	<p class="date">DP: Steve Cohen</p>
-        	<hr/>
-            <p>MPE provided field production services for material acquired with New York Giants Head Football Coach Tom Coughlin for CBS Sports inaugural broadcast of Thursday Night Football. Coughlin reflected about 9/11 and shared a personal story about his son who was in the twin towers that fateful day. Miraculously, his son was among the survivors.</p>
-            <a class="back-to-top" href="#top">Back to Top</a>       
-        </div>
-        <!-- end article -->
-
-
-        <!-- Begin Article -->	
-        <div class="article">
-            <h1><a name="Vivienne" class="anchor">Vivienne Tam Feature</a></h1>
-            <p class="date">Client: IMG</p>
-        	<p class="date">Producer: Michael Dierks</p>
-        	<p class="date">DP: Brian Schulz</p>
-        	<hr/>
-            <p>MPE was at the 2014 Mercedes Benz Fall Fashion Week and produced a feature about Vivienne Tam, one of the world’s best known and respected fashion designers. MPE handled all aspects of pre-production, field production and post production. The piece takes an inside look at the world of fashion and reveals the designer’s inspiration for her work, as well as providing a preview of her latest collection. The feature was shot on location, edited, and delivered in less than 24 hours. It was distributed on the web and at a special screening for Tam’s adoring fans just moments prior to her live runway show at the 2014 Mercedes Benz Fashion week in NYC.</p>
-            <img class="float_left" src="images/recent-work/mpe008.jpg" alt="Vivienne Tam Feature"  />
-            <a class="back-to-top" href="#top">Back to Top</a>       
-        </div>
-        <!-- end article -->
-
-        <!-- Begin Article -->	
-        <div class="article">
-            <h1><a name="afbfwp" class="anchor">Army Football Feature - West Point</a></h1>
-            <p class="date">Client: CBS Sports Network</p>
-        	<p class="date">Producer: Sarah Kazadi</p>
-        	<p class="date">DP: Tom Rome</p>
-        	<hr/>
-            <p>MPE provided field production services on this behind the scenes feature for CBS Sports Network. The feature was created as a promotional tool to help the network in their efforts to land the TV rights to Army football. Shot with the Sony F-5 on location at The West Point Military Academy.</p>
-            <img class="float_left" src="images/recent-work/mpe009.jpg" alt="Army Football Feature - West Point"  />
-            <a class="back-to-top" href="#top">Back to Top</a>       
-        </div>
-        <!-- end article -->
-
-        <!-- Begin Article -->	
-        <div class="article">
-            <h1><a name="afbfwp" class="anchor">Big Brother: Frankie Grande Family/Friends Package</a></h1>
-            <p class="date">Client: Our House Productions</p>
-        	<p class="date">Producer: Adam Raia</p>
-        	<p class="date">DP: Andrew Takeuchi</p>
-        	<p class="date">2nd unit: Joe Gabriel</p>
-        	<hr/>
-            <p>Manhattan Place Entertainment provided field production services for 2nd unit shooting on this popular reality series. Interviews and b-roll sequences of the family and friends of one of the Big Brother contestants (Frankie Grande) were shot on location in New York City. MPE acted as the production company on this IATSE affiliated project.</p>
-            <a class="back-to-top" href="#top">Back to Top</a>       
-        </div>
-        <!-- end article -->
-
-
-        <!-- Begin Article -->	
-        <div class="article">
-            <h1><a name="Shawn" class="anchor">New York Knicks In-Arena Presentations</a></h1>
-            <p class="date">Client: The New York Knicks</p>
-        	<p class="date">Producer: Shawn Bennett</p>
-        	<p class="date">DP: Steve Cohen</p>
-        	<hr/>
-            <p>MPE provided all field production services in the creation of specialized elements involving each individual player from the New York Knick 2014-2015 roster. Sound elements and specialty player portraits were acquired and then utilized for a variety of content that was displayed on the big screens inside of the world’s most famous arena Madison Square Garden.</p>
-            <a class="back-to-top" href="#top">Back to Top</a>       
-        </div>
-        <!-- end article -->
-
-        <!-- Begin Article -->	
-        <div class="article">
-            <h1><a name="Kwizak" class="anchor">MSG Rangers In-Arena Presentations</a></h1>
-            <p class="date">Client: The New York Rangers</p>
-        	<p class="date">Producer: Greg Kwizak</p>
-        	<p class="date">DP: Steve Cohen</p>
-        	<hr/>
-            <p>MPE provided all field production services in the creation of specialized elements involving each individual player from the New York Rangers 2014-2015 roster. Sound elements and specialty player portraits were acquired and then utilized for a variety of content that was displayed on the big screens inside of the world’s most famous arena Madison Square Garden.</p>
-            <a class="back-to-top" href="#top">Back to Top</a>       
-        </div>
-        <!-- end article -->
-
-
-        <!-- Begin Article -->	
-        <div class="article">
-            <h1><a name="Kaspar" class="anchor">MSG Creative Services 2014-2015 Network On-Air Design</a></h1>
-            <p class="date">Client: MSG Creative Services</p>
-        	<p class="date">Agency: Loyal Kaspar</p>
-        	<p class="date">DP: Steve Cohen</p>
-        	<hr/>
-            <p>MPE provided field production services in shooting players from the New York Rangers, New York Knicks, and MSG Network’s on-air talent for the creation of the network’s branded visual look for the 2014-2015 on-air broadcasts and promotional campaigns. Shot in 4K on Sony F-5 Cameras with Fujinon Cabrio cinema lenses.</p>
-            <a class="back-to-top" href="#top">Back to Top</a>       
-        </div>
-        <!-- end article -->
-
-        <!-- Begin Article -->	
-        <div class="article">
-            <h1><a name="Clooney" class="anchor">Walt Disney Pictures “Tomorrowland” starring George Clooney</a></h1>
-            <p class="date">Client: Soap Box Productions</p>
-        	<p class="date">Supervising Producer: Kris Eber</p>
-        	<p class="date">Coordinating Producer/DP: Steve Cohen</p>
-        	<hr/>
-            <p>MPE provided comprehensive pre-production and field production services for the creation of special content that will be designated to help promote Disney’s upcoming film “Tomorrowland”, starring mega movie star George Clooney and television’s iconic Hugh Laurie (House M.D.). MPE designed and constructed a futuristic set to match the production design of the film which then served as a backdrop for the film’s cast (Clooney, Laurie, Britt Robertson, Under the Dome, & Raffey Cassidy, Snow White and the Huntsman), writer (Damon Lindelof, Lost), and director (Brad Bird, The Incredibles) to be shot in while discussing the making of the film. Tomorrowland’s expected release date is March 2015.  Shot “live to digital” with (6) Sony F5/55 cameras and Fujinon Cabrio zoom lenses, at the Jacob Javits Convention Center in New York City.</p>
-            <img class="float_left" src="images/recent-work/mpe010.jpg" alt="CBS Sports Network: Lemming Report"  />
-            <a class="back-to-top" href="#top">Back to Top</a>       
-        </div>
-        <!-- end article -->
-
-
-        <!-- Begin Article -->	
-        <div class="article">
-            <h1><a name="p12oapb" class="anchor">PAC 12 On-Air Promos “Basketball”</a></h1>
+            <h1><a name="PAC" class="anchor">PAC 12 Networks ON-AIR Promos</a></h1>
             <p class="date">Client: PAC 12 Networks</p>
-        	<p class="date">Producer: Ted Ishler</p>
-        	<p class="date">Director/DP: Steve Cohen</p>
-        	<hr/>
-            <p>Directed and shot all essential elements for the PAC 12 Networks on-air promos department for the 2014 men’s and women’s basketball campaign. 
-Provided all pre-production and field production services. Handled production design utilizing 4 video projection units to create a unique cutting edge environment players and coaches from each PAC 12 institution to appear in front of. The promos air across the PAC 12 Networks throughout the 2014-2015 Basketball season. Shot on Location at the PAC 12 Networks sound stage in San Francisco, CA.</p>
-            <img class="float_left" src="images/recent-work/mpe011.jpg" alt="PAC 12 On-Air Promos Basketball"  />
+            <p class="date">Producer: Ted Ishler</p>
+            <p class="date">DP: Steve Cohen</p>
+            <p class="date">2nd Unit: Josh Salzman</p>
+            <hr/>
+            <p>Directed and shot all essential elements for the PAC-12 Networks on-air promos department for the 2014 Football campaign. Handled production design for 4 different environments as well as 2 separate green screen areas. Various promos for every PAC 12 institution aired across the PAC 12 Networks throughout the 2014 Football season. Shot on location at the Paramount Studios in Los Angeles, CA.</p>
+            <img class="float_left" src="images/recent-work/mpe002.jpg" alt="HAVAS World Wide"  />
             <a class="back-to-top" href="#top">Back to Top</a>       
         </div>
         <!-- end article -->
-
-        
-        <!-- Begin Article -->	
+        <!-- Begin Article -->  
         <div class="article">
-            <h1><a name="usanetwork" class="anchor">Daniel Bryan USA Network - Anti Smoking PSA</a></h1>
-            <p class="date">Client: WWE Inc.</p>
-        	<p class="date">Producer: Robert Cinguina</p>
-        	<p class="date">DP: Steve Cohen</p>
-        	<hr/>
-            <p>In collaboration with the WWE and NBC/Universal, MPE provided all pre-production and field production services, as well as post production visual effects for the spot’s final sequence. Several sequences were shot with WWE Superstar Daniel Bryan in the ring during an actual WWE event with only an (8) minute window of opportunity to capture what was needed. Spots will air on NBC Universal/USA Network. Shot on the RED Epic on location at the Prudential Center, Newark NJ. </p>
+            <h1><a name="HAVAS" class="anchor">HAVAS World Wide - “The Audition” </a></h1>
+            <p class="date">Client: Havas World Wide</p>
+            <p class="date">Producer: Matt Sausmer</p>
+            <p class="date">DP: Ryan Gaw</p>
+            <hr/>
+            <p>MPE handled all field production services for a talent search/auditions to cast the lead in the new Woolite commercial. Actress/TV host/TV personality Jeannie Mai was chosen. Shot on location in Los Angeles, CA. <a href="https://www.youtube.com/watch?v=CenK0FkwdnI">Watch</a></p>
+            <img class="float_left" src="images/recent-work/mpe001.jpg" alt="HAVAS World Wide"  />
             <a class="back-to-top" href="#top">Back to Top</a>       
         </div>
         <!-- end article -->
-        
-        
         <!-- Begin Article -->	
         <div class="article">
             <h1><a name="Novartis" class="anchor">Novartis – ASCO: A Look</a></h1>
@@ -465,72 +475,6 @@ Provided all pre-production and field production services. Handled production de
             <a class="back-to-top" href="#top">Back to Top</a>       
         </div>
         <!-- end article -->
-        
-        
-        <!-- Begin Article -->	
-        <div class="article">
-            <h1><a name="HAVAS" class="anchor">HAVAS World Wide - “The Audition” </a></h1>
-            <p class="date">Client: Havas World Wide</p>
-        	<p class="date">Producer: Matt Sausmer</p>
-        	<p class="date">DP: Ryan Gaw</p>
-        	<hr/>
-            <p>MPE handled all field production services for a talent search/auditions to cast the lead in the new Woolite commercial. Actress/TV host/TV personality Jeannie Mai was chosen. Shot on location in Los Angeles, CA. <a href="https://www.youtube.com/watch?v=CenK0FkwdnI">Watch</a></p>
-            <img class="float_left" src="images/recent-work/mpe001.jpg" alt="HAVAS World Wide"  />
-            <a class="back-to-top" href="#top">Back to Top</a>       
-        </div>
-        <!-- end article -->
-        
-        
-        <!-- Begin Article -->	
-        <div class="article">
-            <h1><a name="PAC" class="anchor">PAC 12 Networks ON-AIR Promos</a></h1>
-            <p class="date">Client: PAC 12 Networks</p>
-        	<p class="date">Producer: Ted Ishler</p>
-        	<p class="date">DP: Steve Cohen</p>
-        	<p class="date">2nd Unit: Josh Salzman</p>
-        	<hr/>
-            <p>Directed and shot all essential elements for the PAC-12 Networks on-air promos department for the 2014 Football campaign. Handled production design for 4 different environments as well as 2 separate green screen areas. Various promos for every PAC 12 institution aired across the PAC 12 Networks throughout the 2014 Football season. Shot on location at the Paramount Studios in Los Angeles, CA.</p>
-            <img class="float_left" src="images/recent-work/mpe002.jpg" alt="HAVAS World Wide"  />
-            <a class="back-to-top" href="#top">Back to Top</a>       
-        </div>
-        <!-- end article -->
-        
-        
-        <!-- Begin Article -->	
-        <div class="article">
-            <h1><a name="Emirates" class="anchor">Emirates “Returns” Kids Clinics</a></h1>
-            <p class="date">Client: The Tennis Channel</p>
-        	<p class="date">Producers: Gary Lang, Brett Danzer, Joe Zappulla, Yvonne Wagoner</p>
-        	<p class="date">DPs: Steve Cohen, Brian Schulz, Tom Rome, Joe White</p>
-        	<hr/>
-            <p>Between July and August, MPE directed and shot series of short vignettes for Emirates Airlines that aired on the Tennis Channel. The features were shot on location in Montreal, Winston Salem, NC, and New Haven, CT.</p>
-            <a class="back-to-top" href="#top">Back to Top</a>       
-        </div>
-        <!-- end article -->
-        
-        <!-- Begin Article -->	
-        <div class="article">
-            <h1><a name="Showtime" class="anchor">Showtime Boxing Feature Piece: Mayweather vs. Maidana</a></h1>
-            <p class="date">Client: Flagstaff Productions</p>
-        	<p class="date">Producer: Steve Stern</p>
-        	<p class="date">Production Services: Manhattan Place Entertainment</p>
-        	<p class="date">Director of Photography: Steve Cohen</p>
-        	<hr/>
-            <a class="back-to-top" href="#top">Back to Top</a>       
-        </div>
-        <!-- end article -->
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
         <!-- Begin Article -->	
         <div class="article">
             <h1><a name="Serving" class="anchor">The 2014 US Open: "Serving the Court"</a></h1>
@@ -546,8 +490,6 @@ Provided all pre-production and field production services. Handled production de
             <a class="back-to-top" href="#top">Back to Top</a>       
         </div>
         <!-- end article -->
-
-
         <!-- Begin Article -->	
         <div class="article">
             <h1><a name="gripit" class="anchor">Grip it and Rip It</a></h1>
@@ -563,7 +505,6 @@ Provided all pre-production and field production services. Handled production de
             <a class="back-to-top" href="#top">Back to Top</a>       
         </div>
         <!-- end article -->
-
         <!-- Begin Article -->	
         <div class="article">
             <h1><a name="outfit" class="anchor">Outfit Of The Day</a></h1>
