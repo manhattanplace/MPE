@@ -52,12 +52,12 @@ $menu->special ="Special";
                             <li>
                                 <div class="gallery-images">
                                     <a class="gallery_overlay" href="/post-production/images/nba-topical.jpg">
-                                    <img src="/post-production/images/nba-topical.jpg" alt="NBA Topical"/></a>
+                                    <img src="/post-production/images/nba-topical.jpg" alt="Return of the Mack"/></a>
                                 </div>
                                 <a href="#one"></a> 
                                 <dl>
                                     <dt class="description">Title:</dt> 
-                                    <dd>NBA Topical</dd>
+                                    <dd>Return of the Mack</dd>
                                     <dt class="description">Client:</dt>
                                     <dd>ESPN</dd>
                                     <dt class="description">Editor &amp; GFX:</dt>
@@ -68,12 +68,12 @@ $menu->special ="Special";
                             <li>
                                 <div class="gallery-images">
                                     <a class="gallery_overlay" href="/post-production/images/nba-image-glasses.jpg">
-                                    <img src="/post-production/images/nba-image-glasses.jpg" alt="NBA Image"/></a>
+                                    <img src="/post-production/images/nba-image-glasses.jpg" alt="Vision Impaired"/></a>
                                 </div>
                                 <a href="#two"></a> 
                                 <dl>
                                     <dt class="description">Title:</dt>
-                                    <dd>NBA Image</dd>
+                                    <dd>Vision Impaired</dd>
                                     <dt class="description">Client:</dt>
                                     <dd>ESPN</dd>
                                     <dt class="description">Editor &amp; GFX:</dt>
@@ -163,6 +163,64 @@ $menu->special ="Special";
                         <!-- case study -->
                             <li>
                                 <div class="gallery-images">
+                                    <a class="gallery_overlay" href="/post-production/images/nba-returns-2013-2014.jpg">
+                                    <img src="/post-production/images/nba-returns-2013-2014.jpg" alt="NBA Topical Melo 2013"/></a>
+                                </div>
+                                <a href="#eight"></a> 
+                                <dl>
+                                    <dt class="description">Title:</dt>
+                                    <dd>NBA Topical Melo 2013</dd>
+                                    <dt class="description">Client:</dt>
+                                    <dd>ESPN</dd>
+                                    <dt class="description">Editor & GFX:</dt>
+                                    <dd>Jonathan Wendell</dd>
+                                </dl>
+                            </li>
+                        <!-- case study -->
+                            <li>
+                                <div class="gallery-images">
+                                    <a class="gallery_overlay" href="/post-production/images/acc.jpg">
+                                    <img src="/post-production/images/acc.jpg" alt="ACC Football"/></a>
+                                </div>
+                                <a href="#fourteen"></a> 
+                                <dl>
+                                    <dt class="description">Title:</dt>
+                                    <dd>ACC Football</dd>
+                                    <dt class="description">Client:</dt>
+                                    <dd>SME Branding</dd> 
+                                    <dt class="description">Post Production:</dt>
+                                    <dd>Manhattan Place Entertainment</dd>
+                                    <dt class="description">Editor:</dt>
+                                    <dd>Jonathan Wendell</dd>
+                                    <dt class="description">Post Producer:</dt>
+                                    <dd>David Lengel</dd>
+                                </dl>
+                            </li>
+                        <!-- case study -->
+                            <li>
+                                <div class="gallery-images">
+                                    <a class="gallery_overlay" href="/post-production/images/miracles.jpg">
+                                    <img src="/post-production/images/miracles.jpg" alt="Miracles"/></a>
+                                </div>
+                                <a href="#fifteen"></a> 
+                                <dl>
+                                    <dt class="description">Title:</dt>
+                                    <dd>Miracles</dd>
+                                    <dt class="description">Client:</dt>
+                                    <dd>St. Vincent's Medical Center</dd> 
+                                    <dt class="description">Agency:</dt>
+                                    <dd>Franklin Street</dd>
+                                    <dt class="description">Post Production:</dt>
+                                    <dd>Manhattan Place Entertainment</dd>
+                                    <dt class="description">Editor:</dt>
+                                    <dd>Jay Sprogell</dd>
+                                    <dt class="description">Post Producer:</dt>
+                                    <dd>Steve Cohen</dd>
+                                </dl>
+                            </li>
+                        <!-- case study -->
+                            <li>
+                                <div class="gallery-images">
                                     <a class="gallery_overlay" href="/post-production/images/sydney.jpg">
                                     <img src="/post-production/images/sydney.jpg" alt="Intel Ultra Book Race - Sydney Episode"/></a>
                                 </div>
@@ -204,22 +262,7 @@ $menu->special ="Special";
                                     <dd>Steve Cohen</dd>
                                 </dl>
                             </li>    
-                        <!-- case study -->
-                            <li>
-                                <div class="gallery-images">
-                                    <a class="gallery_overlay" href="/post-production/images/nba-returns-2013-2014.jpg">
-                                    <img src="/post-production/images/nba-returns-2013-2014.jpg" alt="NBA Opening Night 2014"/></a>
-                                </div>
-                                <a href="#eight"></a> 
-                                <dl>
-                                    <dt class="description">Title:</dt>
-                                    <dd>NBA Opening Night 2014</dd>
-                                    <dt class="description">Client:</dt>
-                                    <dd>ESPN</dd>
-                                    <dt class="description">Editor & GFX:</dt>
-                                    <dd>Jonathan Wendell</dd>
-                                </dl>
-                            </li>
+                        
                         <!-- case study 
                             <li class="image-only">
                                 <div class="gallery-images">
@@ -274,48 +317,8 @@ $menu->special ="Special";
                                     <dd>2010 Telly Award Winner</dd>
                                 </dl>
                             </li>
-                        <!-- case study -->
-                            <li>
-                                <div class="gallery-images">
-                                    <a class="gallery_overlay" href="/post-production/images/acc.jpg">
-                                    <img src="/post-production/images/acc.jpg" alt="ACC Football"/></a>
-                                </div>
-                                <a href="#fourteen"></a> 
-                                <dl>
-                                    <dt class="description">Title:</dt>
-                                    <dd>ACC Football</dd>
-                                    <dt class="description">Client:</dt>
-                                    <dd>SME Branding</dd> 
-                                    <dt class="description">Post Production:</dt>
-                                    <dd>Manhattan Place Entertainment</dd>
-                                    <dt class="description">Editor:</dt>
-                                    <dd>Jonathan Wendell</dd>
-                                    <dt class="description">Post Producer:</dt>
-                                    <dd>David Lengel</dd>
-                                </dl>
-                            </li>
-                          <!-- case study -->
-                            <li>
-                                <div class="gallery-images">
-                                    <a class="gallery_overlay" href="/post-production/images/miracles.jpg">
-                                    <img src="/post-production/images/miracles.jpg" alt="Miracles"/></a>
-                                </div>
-                                <a href="#fifteen"></a> 
-                                <dl>
-                                    <dt class="description">Title:</dt>
-                                    <dd>Miracles</dd>
-                                    <dt class="description">Client:</dt>
-                                    <dd>St. Vincent's Medical Center</dd> 
-                                    <dt class="description">Agency:</dt>
-                                    <dd>Franklin Street</dd>
-                                    <dt class="description">Post Production:</dt>
-                                    <dd>Manhattan Place Entertainment</dd>
-                                    <dt class="description">Editor:</dt>
-                                    <dd>Jay Sprogell</dd>
-                                    <dt class="description">Post Producer:</dt>
-                                    <dd>Steve Cohen</dd>
-                                </dl>
-                            </li>      
+                        
+                                
                         <!-- case study -->
                             <li>
                                 <div class="gallery-images">

@@ -967,7 +967,7 @@ a,.contact a:link,.contact a:visited, {
     position: absolute;
     top: 0;
     z-index: 5;
-    border: 25px solid #FFFFFF;
+    
     border-radius: 5px;
 }
 .modal-backdrop {
