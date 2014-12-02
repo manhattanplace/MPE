@@ -132,7 +132,7 @@ $menu->special ="Special";
                                     <dd class="clio">2014 Sports Clio Award Winner</dd>
                                 </dl>
                             </li>
-                        <!-- case study -->
+                        <!-- case study 
                             <li class="image-only">
                                 <div class="gallery-images">
                                     <a class="gallery_overlay" href="/post-production/images/whos-number-one.jpg">
@@ -147,7 +147,7 @@ $menu->special ="Special";
                                     <dt class="description">Editor:</dt>
                                     <dd>Jonathan Wendell</dd>
                                 </dl>
-                            </li>
+                            </li>-->
                         <!-- case study -->
                             <li>
                                 <div class="gallery-images">
@@ -306,7 +306,9 @@ $menu->special ="Special";
                                     <dd>NBC</dd>
                                     <dt class="description">Director:</dt>
                                     <dd>Jonathan Wendell</dd>
-                                    <dt class="description">Editor &amp; GFX:</dt>
+                                    <dt class="description">Editor:</dt>
+                                    <dd>Jonathan Wendell</dd>
+                                    <dt class="description">Graphic Design:</dt>
                                     <dd>Jonathan Wendell</dd>
                                 </dl>
                             </li>

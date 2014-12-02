@@ -59,7 +59,9 @@ $menu->special ="Special";
                                     <dd>The Home Court of College Hoops</dd>
                                     <dt class="description">Client</dt>
                                     <dd>ESPN</dd>
-                                    <dt class="description">Editor & GFX:</dt>
+                                    <dt class="description">Editor:</dt>
+                                    <dd>Jonathan Wendell</dd>
+                                    <dt class="description">Graphic Design:</dt>
                                     <dd>Jonathan Wendell</dd>
                                 </dl>
                             </li>
@@ -75,7 +77,9 @@ $menu->special ="Special";
                                     <dd>NBA Topical</dd>
                                     <dt class="description">Client:</dt>
                                     <dd>ESPN</dd>
-                                    <dt class="description">Editor & GFX:</dt>
+                                    <dt class="description">Editor:</dt>
+                                    <dd>Jonathan Wendell</dd>
+                                    <dt class="description">Graphic Design:</dt>
                                     <dd>Jonathan Wendell</dd>
                                 </dl>
                             </li>
@@ -91,7 +95,9 @@ $menu->special ="Special";
                                     <dd>World Series of Poker</dd>
                                     <dt class="description">Client:</dt>
                                     <dd>ESPN</dd>
-                                    <dt class="description">Editor & GFX:</dt>
+                                    <dt class="description">Editor:</dt>
+                                    <dd>Jonathan Wendell</dd>
+                                    <dt class="description">Graphic Design:</dt>
                                     <dd>Jonathan Wendell</dd>
                                 </dl>
                             </li>
@@ -107,7 +113,9 @@ $menu->special ="Special";
                                     <dd>Little League World Series</dd>
                                     <dt class="description">Client:</dt>
                                     <dd>ESPN and ABC</dd>
-                                    <dt class="description">Editor & GFX:</dt>
+                                    <dt class="description">Editor:</dt>
+                                    <dd>Jonathan Wendell</dd>
+                                    <dt class="description">Graphic Design:</dt>
                                     <dd>Jonathan Wendell</dd>
                                 </dl>
                             </li>
@@ -123,7 +131,9 @@ $menu->special ="Special";
                                     <dd>FFB Rhinos</dd>
                                     <dt class="description">Client:</dt>
                                     <dd>ESPN</dd>
-                                    <dt class="description">Editor & GFX:</dt>
+                                    <dt class="description">Editor:</dt>
+                                    <dd>Jonathan Wendell</dd>
+                                    <dt class="description">Graphic Design:</dt>
                                     <dd>Jonathan Wendell</dd>
                                 </dl>
                             </li>
@@ -139,7 +149,9 @@ $menu->special ="Special";
                                     <dd>The Fab Life</dd>
                                     <dt class="description">Client:</dt>
                                     <dd>VH1</dd>
-                                    <dt class="description">Editor & GFX:</dt>
+                                    <dt class="description">Editor:</dt>
+                                    <dd>Jonathan Wendell</dd>
+                                    <dt class="description">Graphic Design:</dt>
                                     <dd>Jonathan Wendell</dd>
                                 </dl>
                             </li>

@@ -52,13 +52,13 @@ $menu->special ="Special";
                         <p class="director-title">Director/DP</p>
                     </a>
                 </li>
-                <li>
+                <!-- <li>
                     <a  href="directors/evan-langley-laffin.php" title="Evan Langely Laffin">
                         <img src="images/directors/evan.jpg" alt="Evan Langely Laffin" />
                         <p style="color:#576db2" class="director-name">Evan Langley Laffin</p>
                         <p class="director-title">Director/VFX</p>
                     </a>
-                </li>
+                </li> -->
                 <li>
                     <a  href="directors/angel-traverso.php" title="Angel Traverso">
                         <img src="images/directors/angel.jpg" alt="Angel Traverso" />

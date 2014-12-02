@@ -49,12 +49,12 @@ $menu->special ="Special";
                         <p style="color:#576db2" class="director-name">Design</p>
                     </a>
                 </li>
-                <li>
+                <!-- <li>
                     <a  href="post-production/visual-effects.php" title="Visual Effects">
                         <img src="/directors/images/oblivion.jpg" alt="Visual Effects" />
                         <p style="color:#576db2" class="director-name">Visual Effects</p>
                     </a>
-                </li>
+                </li> -->
                 <!-- <li>
                     <a  href="post-production/music.php" title="MUSIC">
                         <img src="/post-production/images/jordyn-mallory-prayers.jpg" alt="MUSIC" />

@@ -38,7 +38,7 @@ $menu->special ="Special";
         </ul>
         <h3 class="recent">Recent Articles</h3>
         <ul id="nav_tertiary">
-            <li><a href="#p12oapb">PAC 12 On-Air Promos “Basketball”</a></li>
+            <li><a href="#p12oapb">PAC-12 On-Air Promos “Basketball”</a></li>
             <li><a href="#Clooney">Walt Disney Pictures “Tomorrowland” starring George Clooney</a></li>
             <li><a href="#usanetwork">Daniel Bryan USA Network - Anti Smoking PSA</a></li>
             <li><a href="#Kaspar">MSG Creative Services 2014-2015 Network On-Air Design</a></li>
@@ -59,7 +59,7 @@ $menu->special ="Special";
 
             <li><a href="#Showtime">Showtime Boxing Feature Piece: Mayweather vs. Maidana</a></li>
             <li><a href="#Emirates">Emirates “Returns” Kids Clinics</a></li>
-            <li><a href="#PAC">PAC 12 Networks ON-AIR Promos</a></li>
+            <li><a href="#PAC">PAC-12 Networks ON-AIR Promos</a></li>
             <li><a href="#HAVAS">HAVAS World Wide - “The Audition”</a></li>
             <li><a href="#Novartis">Novartis – ASCO: A Look</a></li>
             
@@ -210,14 +210,15 @@ $menu->special ="Special";
         </ul>
         <!-- Begin Article -->  
         <div class="article">
-            <h1><a name="p12oapb" class="anchor">PAC 12 On-Air Promos “Basketball”</a></h1>
-            <p class="date">Client: PAC 12 Networks</p>
+            <h1><a name="p12oapb" class="anchor">PAC-12 On-Air Promos “Basketball”</a></h1>
+            <p class="date">Client: PAC-12 Networks</p>
             <p class="date">Producer: Ted Ishler</p>
+            <p class="date">Producer/Editor: Joel Denbow</p>
             <p class="date">Director/DP: Steve Cohen</p>
             <hr/>
-            <p>Directed and shot all essential elements for the PAC 12 Networks on-air promos department for the 2014 men’s and women’s basketball campaign. 
-Provided all pre-production and field production services. Handled production design utilizing 4 video projection units to create a unique cutting edge environment players and coaches from each PAC 12 institution to appear in front of. The promos air across the PAC 12 Networks throughout the 2014-2015 Basketball season. Shot on Location at the PAC 12 Networks sound stage in San Francisco, CA.</p>
-            <img class="float_left" src="images/recent-work/mpe011.jpg" alt="PAC 12 On-Air Promos Basketball"  />
+            <p>Directed and shot all essential elements for the PAC-12 Networks on-air promos department for the 2014 men’s and women’s basketball campaign. 
+Provided all pre-production and field production services. Handled production design utilizing 4 video projection units to create a unique cutting edge environment for players and coaches from each PAC-12 institution to appear in front of. The promos air across the PAC-12 Networks throughout the 2014-2015 Basketball season. Shot on location at the PAC-12 Networks sound stage in San Francisco, CA.</p>
+            <img class="float_left" src="images/recent-work/mpe011.jpg" alt="PAC-12 On-Air Promos Basketball"  />
             <a class="back-to-top" href="#top">Back to Top</a>       
         </div>
         <!-- end article -->
@@ -240,7 +241,7 @@ Provided all pre-production and field production services. Handled production de
             <p class="date">Producer: Robert Cinguina</p>
             <p class="date">DP: Steve Cohen</p>
             <hr/>
-            <p>In collaboration with the WWE and NBC/Universal, MPE provided all pre-production and field production services, as well as post production visual effects for the spot’s final sequence. Several sequences were shot with WWE Superstar Daniel Bryan in the ring during an actual WWE event with only an (8) minute window of opportunity to capture what was needed. Spots will air on NBC Universal/USA Network. Shot on the RED Epic on location at the Prudential Center, Newark NJ. </p>
+            <p>In collaboration with the WWE and NBC/Universal, MPE provided all pre-production and field production services, as well as post-production visual effects for the spot’s final sequence. Several sequences were shot with WWE Superstar Daniel Bryan in the ring during an actual WWE event with only an (8) minute window of opportunity to capture what was needed. Spots will air on NBC Universal/USA Network. Shot on the RED Epic on location at the Prudential Center, Newark NJ. </p>
             <a class="back-to-top" href="#top">Back to Top</a>       
         </div>
         <!-- end article -->
@@ -283,9 +284,9 @@ Provided all pre-production and field production services. Handled production de
             <p class="date">Client: Our House Productions</p>
             <p class="date">Producer: Adam Raia</p>
             <p class="date">DP: Andrew Takeuchi</p>
-            <p class="date">2nd unit: Joe Gabriel</p>
+            <p class="date">2nd Unit: Joe Gabriel</p>
             <hr/>
-            <p>Manhattan Place Entertainment provided field production services for 2nd unit shooting on this popular reality series. Interviews and b-roll sequences of the family and friends of one of the Big Brother contestants (Frankie Grande) were shot on location in New York City. MPE acted as the production company on this IATSE affiliated project.</p>
+            <p>Manhattan Place Entertainment provided field production services for 2nd Unit shooting on this popular reality series. Interviews and b-roll sequences of the family and friends of one of the Big Brother contestants (Frankie Grande) were shot on location in New York City. MPE acted as the production company on this IATSE affiliated project.</p>
             <a class="back-to-top" href="#top">Back to Top</a>       
         </div>
         <!-- end article -->
@@ -308,7 +309,7 @@ Provided all pre-production and field production services. Handled production de
             <p class="date">Producer: Michael Dierks</p>
             <p class="date">DP: Brian Schulz</p>
             <hr/>
-            <p>MPE was at the 2014 Mercedes Benz Fall Fashion Week and produced a feature about Vivienne Tam, one of the world’s best known and respected fashion designers. MPE handled all aspects of pre-production, field production and post production. The piece takes an inside look at the world of fashion and reveals the designer’s inspiration for her work, as well as providing a preview of her latest collection. The feature was shot on location, edited, and delivered in less than 24 hours. It was distributed on the web and at a special screening for Tam’s adoring fans just moments prior to her live runway show at the 2014 Mercedes Benz Fashion week in NYC.</p>
+            <p>MPE was at the 2014 Mercedes Benz Fall Fashion Week and produced a feature about Vivienne Tam, one of the world’s best known and respected fashion designers. MPE handled all aspects of pre-production, field production and post-production. The piece takes an inside look at the world of fashion and reveals the designer’s inspiration for her work, as well as providing a preview of her latest collection. The feature was shot on location, edited, and delivered in less than 24 hours. It was distributed on the web and at a special screening for Tam’s adoring fans just moments prior to her live runway show at the 2014 Mercedes Benz Fashion Week in NYC.</p>
             <img class="float_left" src="images/recent-work/mpe008.jpg" alt="Vivienne Tam Feature"  />
             <a class="back-to-top" href="#top">Back to Top</a>       
         </div>
@@ -331,7 +332,7 @@ Provided all pre-production and field production services. Handled production de
             <p class="date">Director: Andy Praskai</p>
             <p class="date">DP: Steve Cohen</p>
             <hr/>
-            <p>MPE handled pre-production and field production services in collaboration with M-Street Creative for this series of PSA’s on the subject of diabetic nerve pain.  Additional material was distributed on the web by agency J Walter Thompson, and Pfizer. Shot on the Sony F5 with Fujinon Cabrio cinema zooms, and on location in Brooklyn, NY.</p>
+            <p>MPE handled pre-production and field production services in collaboration with M Street Creative for this series of PSA’s on the subject of diabetic nerve pain.  Additional material was distributed on the web by agency J Walter Thompson, and Pfizer. Shot on the Sony F5 with Fujinon Cabrio cinema zooms, and on location in Brooklyn, NY.</p>
             <img class="float_left" src="images/recent-work/mpe007.jpg" alt="Cedric The Entertainer - 'Step On Up' PSA campaign"  />
             <a class="back-to-top" href="#top">Back to Top</a>       
         </div>
@@ -383,7 +384,7 @@ Provided all pre-production and field production services. Handled production de
         <!-- end article -->
         <!-- Begin Article -->  
         <div class="article">
-            <h1><a name="Alumni" class="anchor">ABC Alumni Interviews</a></h1>
+            <h1><a name="Alumni" class="anchor">ABC Alumni Interviews</a></h1>Hall of Fame
             <p class="date">Client: Disney/ABC Digital</p>
             <p class="date">Producer: Peachy Pascual</p>
             <p class="date">DP: Steve Cohen</p>
@@ -441,13 +442,13 @@ Provided all pre-production and field production services. Handled production de
         <!-- end article -->
         <!-- Begin Article -->  
         <div class="article">
-            <h1><a name="PAC" class="anchor">PAC 12 Networks ON-AIR Promos</a></h1>
-            <p class="date">Client: PAC 12 Networks</p>
+            <h1><a name="PAC" class="anchor">PAC-12 Networks ON-AIR Promos</a></h1>
+            <p class="date">Client: PAC12 Networks</p>
             <p class="date">Producer: Ted Ishler</p>
             <p class="date">DP: Steve Cohen</p>
             <p class="date">2nd Unit: Josh Salzman</p>
             <hr/>
-            <p>Directed and shot all essential elements for the PAC-12 Networks on-air promos department for the 2014 Football campaign. Handled production design for 4 different environments as well as 2 separate green screen areas. Various promos for every PAC 12 institution aired across the PAC 12 Networks throughout the 2014 Football season. Shot on location at the Paramount Studios in Los Angeles, CA.</p>
+            <p>Directed and shot all essential elements for the PAC-12 Networks on-air promos department for the 2014 Football campaign. Handled production design for 4 different environments as well as 2 separate green screen areas. Various promos for every PAC-12 institution aired across the PAC-12 Networks throughout the 2014 Football season. Shot on location at the Paramount Studios in Los Angeles, CA.</p>
             <img class="float_left" src="images/recent-work/mpe002.jpg" alt="HAVAS World Wide"  />
             <a class="back-to-top" href="#top">Back to Top</a>       
         </div>
@@ -471,7 +472,7 @@ Provided all pre-production and field production services. Handled production de
         	<p class="date">Producer: Andy Praskai</p>
         	<p class="date">Editor: Jonathan Wendell</p>
         	<hr/>
-            <p>MPE handled all of the post production services including editing, graphics design, animation, sound mix and finishing for this corporate video produced for Novartis.</p>
+            <p>MPE handled all of the post-production services including editing, graphics design, animation, sound mix and finishing for this corporate video produced for Novartis.</p>
             <a class="back-to-top" href="#top">Back to Top</a>       
         </div>
         <!-- end article -->
@@ -615,7 +616,7 @@ Provided all pre-production and field production services. Handled production de
             <p>"For the past three years, MPE has done an excellent job producing our Belmont Stakes commercials. We are particularly impressed with their 2014 efforts as they worked on a very accelerated timeline to highlight California Chrome's attempt at sweeping the Belmont Stakes.  From assisting in obtaining the footage, to the editing and trafficking process, MPE is extremely skilled and easy to work with.  Steve and Jamie's professionalism stands out and is one of the many reasons we return to them every year for our production of commercial spots. " Donald Nelson, NYRA Advertising Manager.</p>
             <img class="float_left" src="images/recent-work/belmont-2.jpg" alt="It's 'Post Time' for the Triple Crown at Belmont!"  />
             <p>"I think you could say that we've built up a pretty solid track record with the NYRA (yes pun very much intended)," said Steve Cohen.</p>
-            <p>We are very pleased that the NYRA has chosen us each of the past 3 years to produce and edit their spots. We have a tremendously talented post production team, and in the Belmont scenario we are always faced with the challenge of producing and editing a high quality spot that needs to be completed very quickly.</p>
+            <p>We are very pleased that the NYRA has chosen us each of the past 3 years to produce and edit their spots. We have a tremendously talented post-production team, and in the Belmont scenario we are always faced with the challenge of producing and editing a high quality spot that needs to be completed very quickly.</p>
             <p>The results of the Preakness determine if there will be a triple crown bid or not. So essentially, we have 5 days from the conclusion of the Preakness to figure out the concept, edit the spot, mix it, go through approvals, and then electronically traffic the spot to get it on the air... with enough lead time to adequately and effectively promote the Belmont.</p>
             <p>On the field production side, MPE also produced and shot special visual elements of Belmont Park for FOX Sports 1 that will be used during "The Mike Francessa Show" for a Belmont Stakes broadcast that takes place live from the fabled venue on Friday June 6th.</p>
             <p></p>
@@ -1332,7 +1333,7 @@ Manhattan Place Entertainment handled all field production services as well as p
             <h1 class="rw-heading"><a name="tmsc" class="anchor">T-Mobile - Shakira Concert</a></h1>
             <p class="date">10/9/13</p>
         	<p class="date">Client: T-Mobile</p><hr/>
-            <p>A series of video projects focused on T-Mobile’s international event that announced worldwide free texting and data usage for their customers. The festivities included a live outdoor concert featuring pop singing sensation Shakira in New York City’s Bryant Park. Manhattan Place Entertainment shot, produced, edited and delivered (3) sizzle reel style videos over night, highlighting major moments from the event including concert footage with Shakira, interviews with T-Mobile employees, senior executives, and CEO John J Legere. Manhattan Place set up a base camp at the Bryant Park hotel and built (3) portable edit suites on site, enabling our post production teams to work overnight and deliver on time, creating engaging content while meeting the demands of the client’s short turnaround deadline.</p>
+            <p>A series of video projects focused on T-Mobile’s international event that announced worldwide free texting and data usage for their customers. The festivities included a live outdoor concert featuring pop singing sensation Shakira in New York City’s Bryant Park. Manhattan Place Entertainment shot, produced, edited and delivered (3) sizzle reel style videos over night, highlighting major moments from the event including concert footage with Shakira, interviews with T-Mobile employees, senior executives, and CEO John J Legere. Manhattan Place set up a base camp at the Bryant Park hotel and built (3) portable edit suites on site, enabling our post-production teams to work overnight and deliver on time, creating engaging content while meeting the demands of the client’s short turnaround deadline.</p>
             <a class="back-to-top" href="#top">Back to Top</a>       
         </div>
         <!-- end article -->
@@ -1482,7 +1483,7 @@ Manhattan Place Entertainment handled all field production services as well as p
         <div class="article">
             <h1 class="rw-heading"><a name="sos" class="anchor">Stars on Sports</a></h1>
         	<p class="date">Client: Playtime Media</p><hr/>
-            <p>CBS Sports’ Ian Eagle hosts the one-hour special as he sits down with a some of Hollywood’s biggest names to discuss their latest projects and sports.  Director Ron Howard fills us in on his latest movie, Rush,  Tony Danza sits down to talk about his love for boxing from the promotion set of his latest movie Don Jon.  And Denzel Washington describes how he would have covered Ray Allen in Game 6 of last year’s NBA Finals, while Mark Wahlberg recalls being in the locker room of one of the New England Patriot’s biggest game winning speeches. The two also talk about their latest movie, 2Guns.  Produced in conjunction with Turner Sports, CBS Sports’ Jason Ross serves as coordinating producer and Charlie Bloom is producer. Manhattan Place Entertainment handled post production editing.</p>
+            <p>CBS Sports’ Ian Eagle hosts the one-hour special as he sits down with a some of Hollywood’s biggest names to discuss their latest projects and sports.  Director Ron Howard fills us in on his latest movie, Rush,  Tony Danza sits down to talk about his love for boxing from the promotion set of his latest movie Don Jon.  And Denzel Washington describes how he would have covered Ray Allen in Game 6 of last year’s NBA Finals, while Mark Wahlberg recalls being in the locker room of one of the New England Patriot’s biggest game winning speeches. The two also talk about their latest movie, 2Guns.  Produced in conjunction with Turner Sports, CBS Sports’ Jason Ross serves as coordinating producer and Charlie Bloom is producer. Manhattan Place Entertainment handled post-production editing.</p>
             <p><a target="_blank" href="https://vimeo.com/74791400">View the Segment Tease on Vimeo </a> &nbsp; - external link</p>
             <a class="back-to-top" href="#top">Back to Top</a>       
         </div>
@@ -1632,7 +1633,7 @@ actors Chloe Moretz & Christopher Mintz-Plasse. The 2 leading characters appear 
             <p class="date">5/1/13</p>
         	<p class="date">Client: Michael Alan Group</p><hr/>
             <img class="float_right" src="images/recent-work/whd1.jpg" alt="White House Down - Experiential Video"  />
-            <p>An experiential web video created to promote the release of Sony Pictures White House Down starring Oscar winner Jamie Foxx and Channing Tatum. The video was shot on location at LA Live. Unsuspecting pedestrians were engaged to participate in an obstacle course challenge that required them to deliver a “top secret” brief case to the Presidential Limousine aka “The Beast” (the very same vehicle seen in the movie)  positioned at the end of the course. Racing against the clock, participants were met with obstacles along their route such as a full squad of dribbling basketball players, a marching band, a mob of groupies, and stacks of road cases that were strategically off-loaded in their path.  Steve Cohen directed.  The action was shot live to tape utilizing 9  manned cameras, and 6 POV cameras.  Wireless HD video signals were fed from all 9 cameras over a 1/4 of a mile back to the control room. Manhattan Place handled all logistical planning and pre-production for the video production, all of the field production and the entire post production process. Special 3D graphic elements of Jamie Foxx and Channing Tatum were composited which were fed to multiple screens in the LA Live venue during the event. Michael Alan Group created the concept and executed all of the event related details.</p>
+            <p>An experiential web video created to promote the release of Sony Pictures White House Down starring Oscar winner Jamie Foxx and Channing Tatum. The video was shot on location at LA Live. Unsuspecting pedestrians were engaged to participate in an obstacle course challenge that required them to deliver a “top secret” brief case to the Presidential Limousine aka “The Beast” (the very same vehicle seen in the movie)  positioned at the end of the course. Racing against the clock, participants were met with obstacles along their route such as a full squad of dribbling basketball players, a marching band, a mob of groupies, and stacks of road cases that were strategically off-loaded in their path.  Steve Cohen directed.  The action was shot live to tape utilizing 9  manned cameras, and 6 POV cameras.  Wireless HD video signals were fed from all 9 cameras over a 1/4 of a mile back to the control room. Manhattan Place handled all logistical planning and pre-production for the video production, all of the field production and the entire post-production process. Special 3D graphic elements of Jamie Foxx and Channing Tatum were composited which were fed to multiple screens in the LA Live venue during the event. Michael Alan Group created the concept and executed all of the event related details.</p>
             <img class="float_right" src="images/recent-work/whd2.jpg" alt="White House Down - Experiential Video"  />
             <a class="back-to-top" href="#top">Back to Top</a>       
         </div>
@@ -1649,7 +1650,7 @@ actors Chloe Moretz & Christopher Mintz-Plasse. The 2 leading characters appear 
             <p>One such recent  example was with Ford and its superior utility vehicle, the "Escape".</p>
             <a href="/digital/escape-to-nyc/video.php"><img class="float_left" src="_img/recent-work/glam-ford-02.jpg" alt="Glam-Ford Escape"  /></a>
             <p>Ford reached out to Glam.com to consider exposure within its popular webisodes with Lauren Messiah, an L.A. based stylist and fashion blogger.</p>
-            <p>Seamless integration of the "Escape" was employed with MPE's unique field production and post production skills to create a viewing experience that was informative to watch and equally effective for Ford's messaging - a double win for the viewer and the client, always MPE's ultimate goal.</p>
+            <p>Seamless integration of the "Escape" was employed with MPE's unique field production and post-production skills to create a viewing experience that was informative to watch and equally effective for Ford's messaging - a double win for the viewer and the client, always MPE's ultimate goal.</p>
             <p>Working with Manhattan Place is always a joy, said Robert McConnell, the Director of Ad Solutions for Glam.com. The team is dedicated to turning out an excellent end product, making the planning and shooting process easy and seamless, and lastly providing excellent value."</p>
             <p>Worried about folks skipping your commercial? Ford had the same concerns until they used Product placement with Manhattan Place Entertainment-Let us do the same for you!</p>
             <a class="back-to-top" href="#top">Back to Top</a>       

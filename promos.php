@@ -47,6 +47,46 @@ $menu->special ="Special";
                     <!-- case study -->
                     <li>
                         <div class="gallery-images">
+                            <a class="gallery_overlay" href="images/promos/cal-coach.jpg"></a>
+                            <img src="images/promos/cal-coach-thumb.jpg" alt="CAL COACH Promo"/>
+                        </div>
+                        <a href="promos/pac-12-cal-coach/video.php"></a> 
+                        <dl>
+                            <dt class="description">Title:</dt>
+                                <dd>CAL COACH Promo</dd>
+                            <dt class="description">CLIENT:</dt>
+                                <dd>PAC-12 Networks</dd>
+                            <dt class="description">Producer:</dt>
+                                <dd>Ted Ishler</dd>
+                            <dt class="description">DIRECTOR OF PHOTOGRAPHY:</dt>
+                                <dd>Steve Cohen</dd>
+                            <dt class="description">PRODUCTION SERVICES:</dt>
+                                <dd>Manhattan Place Entertainment</dd>
+                        </dl>
+                    </li>
+                    <!-- case study -->
+                    <li>
+                        <div class="gallery-images">
+                            <a class="gallery_overlay" href="images/promos/osu-coach.jpg"></a>
+                            <img src="images/promos/osu-coach-thumb.jpg" alt="OSU COACH Promo"/>
+                        </div>
+                        <a href="promos/pac-12-osu-coach/video.php"></a> 
+                        <dl>
+                            <dt class="description">Title:</dt>
+                                <dd>OSU COACH Promo</dd>
+                            <dt class="description">CLIENT:</dt>
+                                <dd>PAC-12 Networks</dd>
+                            <dt class="description">Producer:</dt>
+                                <dd>Ted Ishler</dd>
+                            <dt class="description">DIRECTOR OF PHOTOGRAPHY:</dt>
+                                <dd>Steve Cohen</dd>
+                            <dt class="description">PRODUCTION SERVICES:</dt>
+                                <dd> Manhattan Place Entertainment</dd>
+                        </dl>
+                    </li>
+                    <!-- case study -->
+                    <li>
+                        <div class="gallery-images">
                             <a class="gallery_overlay" href="images/promos/glory-girls2.jpg"></a>
                             <img src="images/promos/glory-girls2-thumb.jpg" alt="Glory Last Man Standing"/>
                         </div>

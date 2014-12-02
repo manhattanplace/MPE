@@ -61,6 +61,7 @@ $(document).ready(function() {
     //video modal
     $('.directors').on('click', '.main-screen',  function() {
         var video =  $(this).find('a').attr('href');
+        console.log(video);
         var path = $(this).parents('.directors').find('"'+video+'"').data('video');
         $(this).parents('.directors').find('"'+video+'"').show();
         $(this).parents('.panel').next('.modal-backdrop').show();

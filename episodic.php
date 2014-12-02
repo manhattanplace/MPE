@@ -45,36 +45,56 @@ $menu->special ="Special";
                 <ul>
                     <!-- case study -->
                     <li>
-                    <div class="gallery-images">
-                        <a class="gallery_overlay" href="images/episodic/sydney-ultrabook-new-poster.jpg"></a>
-                        <img src="images/episodic/sydney-ultrabook-new-thumb.jpg" alt="Intel Ultra Book Race - Sydney Episode"/>
-                    </div>
-                    <a href="episodic/ultrabook-sydney/video.php"></a>
-                    <dl>
-                        <dt class="description">Title:</dt>
-                            <dd>Intel Ultra Book Race - Sydney Episode</dd>
-                        <dt class="description">CLIENT:</dt>
-                            <dd>Noise</dd>
-                        <dt class="description">Production Services:</dt>
-                            <dd> Manhattan Place Entertainment</dd>
-                    </dl>
-                </li>
+                        <div class="gallery-images">
+                            <a class="gallery_overlay" href="images/episodic/jackson-fisher-interview.jpg"></a>
+                            <img src="images/episodic/jackson-fisher-interview-thumb.jpg" alt="Phil Jackson &amp; Derek Fisher - The Interview"/>
+                        </div>
+                        <a href="episodic/jackson-fisher-interview/video.php"></a>
+                        <dl>
+                            <dt class="description">Title:</dt>
+                                <dd>Phil Jackson &amp; Derek Fisher - The Interview</dd>
+                            <dt class="description">CLIENT:</dt>
+                                <dd>MSG Network</dd>
+                            <dt class="description">PRODUCER:</dt>
+                                <dd>Jason Joly</dd>
+                            <dt class="description">DIRECTOR OF PHOTOGRAPHY:</dt>
+                                <dd>Steve Cohen</dd>
+                            <dt class="description">Production Services:</dt>
+                                <dd>Manhattan Place Entertainment</dd>
+                        </dl>
+                    </li>
                     <!-- case study -->
                     <li>
-                    <div class="gallery-images">
-                        <a class="gallery_overlay" href="images/episodic/ultrabook-st-petersburg.jpg"></a>
-                        <img src="images/episodic/ultrabook-st-petersburg-thumb.jpg" alt="Intel Ultra Book Race - St. Petersburg Episode"/>
-                    </div>
-                    <a href="episodic/st-petersburg-ultrabook/video.php"></a>
-                    <dl>
-                        <dt class="description">Title:</dt>
-                            <dd>Intel Ultra Book Race - St. Petersburg Episode</dd>
-                        <dt class="description">CLIENT:</dt>
-                            <dd>Noise</dd>
-                        <dt class="description">Production Services:</dt>
-                            <dd> Manhattan Place Entertainment</dd>
-                    </dl>
-                </li>
+                        <div class="gallery-images">
+                            <a class="gallery_overlay" href="images/episodic/sydney-ultrabook-new-poster.jpg"></a>
+                            <img src="images/episodic/sydney-ultrabook-new-thumb.jpg" alt="Intel Ultra Book Race - Sydney Episode"/>
+                        </div>
+                        <a href="episodic/ultrabook-sydney/video.php"></a>
+                        <dl>
+                            <dt class="description">Title:</dt>
+                                <dd>Intel Ultra Book Race - Sydney Episode</dd>
+                            <dt class="description">CLIENT:</dt>
+                                <dd>Noise</dd>
+                            <dt class="description">Production Services:</dt>
+                                <dd> Manhattan Place Entertainment</dd>
+                        </dl>
+                    </li>
+                    <!-- case study -->
+                    <li>
+                        <div class="gallery-images">
+                            <a class="gallery_overlay" href="images/episodic/ultrabook-st-petersburg.jpg"></a>
+                            <img src="images/episodic/ultrabook-st-petersburg-thumb.jpg" alt="Intel Ultra Book Race - St. Petersburg Episode"/>
+                        </div>
+                        <a href="episodic/st-petersburg-ultrabook/video.php"></a>
+                        <dl>
+                            <dt class="description">Title:</dt>
+                                <dd>Intel Ultra Book Race - St. Petersburg Episode</dd>
+                            <dt class="description">CLIENT:</dt>
+                                <dd>Noise</dd>
+                            <dt class="description">Production Services:</dt>
+                                <dd> Manhattan Place Entertainment</dd>
+                        </dl>
+                    </li>
                     <!-- case study -->
                     <li>
                         <div>

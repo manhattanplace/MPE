@@ -60,7 +60,9 @@ $menu->special ="Special";
                                     <dd>Return of the Mack</dd>
                                     <dt class="description">Client:</dt>
                                     <dd>ESPN</dd>
-                                    <dt class="description">Editor &amp; GFX:</dt>
+                                    <dt class="description">Editor:</dt>
+                                    <dd>Jonathan Wendell</dd>
+                                    <dt class="description">Graphic Design:</dt>
                                     <dd>Jonathan Wendell</dd>
                                 </dl>
                             </li>
@@ -76,7 +78,9 @@ $menu->special ="Special";
                                     <dd>Vision Impaired</dd>
                                     <dt class="description">Client:</dt>
                                     <dd>ESPN</dd>
-                                    <dt class="description">Editor &amp; GFX:</dt>
+                                    <dt class="description">Editor:</dt>
+                                    <dd>Jonathan Wendell</dd>
+                                    <dt class="description">Graphic Design:</dt>
                                     <dd>Jonathan Wendell</dd>
                                 </dl>
                             </li>
@@ -92,7 +96,9 @@ $menu->special ="Special";
                                     <dd>30 for 30: No Mas</dd>
                                     <dt class="description">Client:</dt>
                                     <dd>ESPN</dd>
-                                    <dt class="description">Editor & GFX:</dt>
+                                    <dt class="description">Editor:</dt>
+                                    <dd>Jonathan Wendell</dd>
+                                    <dt class="description">Graphic Design:</dt>
                                     <dd>Jonathan Wendell</dd> 
                                 </dl>
                             </li>
@@ -108,7 +114,9 @@ $menu->special ="Special";
                                     <dd>30 for 30: Free Spirits</dd>
                                     <dt class="description">Client:</dt>
                                     <dd>ESPN</dd>
-                                    <dt class="description">Editor & GFX:</dt>
+                                    <dt class="description">Editor:</dt>
+                                    <dd>Jonathan Wendell</dd>
+                                    <dt class="description">Graphic Design:</dt>
                                     <dd>Jonathan Wendell</dd>
                                 </dl>
                             </li>
@@ -124,7 +132,9 @@ $menu->special ="Special";
                                     <dd>SEC Stories</dd>
                                     <dt class="description">Client:</dt>
                                     <dd>ESPN</dd>
-                                    <dt class="description">Editor & GFX:</dt>
+                                    <dt class="description">Editor:</dt>
+                                    <dd>Jonathan Wendell</dd>
+                                    <dt class="description">Graphic Design:</dt>
                                     <dd>Jonathan Wendell</dd>
                                 </dl>
                             </li>
@@ -140,7 +150,9 @@ $menu->special ="Special";
                                     <dd>An NBA Christmas by Snoop Dogg</dd>
                                     <dt class="description">Client:</dt>
                                     <dd>ABC</dd>
-                                    <dt class="description">Editor & GFX:</dt>
+                                    <dt class="description">Editor:</dt>
+                                    <dd>Jonathan Wendell</dd>
+                                    <dt class="description">Graphic Design:</dt>
                                     <dd>Jonathan Wendell</dd>
                                 </dl>
                             </li>
@@ -156,7 +168,9 @@ $menu->special ="Special";
                                     <dd>Little League World Series</dd>
                                     <dt class="description">Client:</dt>
                                     <dd>ESPN and ABC</dd>
-                                    <dt class="description">Editor & GFX:</dt>
+                                    <dt class="description">Editor:</dt>
+                                    <dd>Jonathan Wendell</dd>
+                                    <dt class="description">Graphic Design:</dt>
                                     <dd>Jonathan Wendell</dd>
                                 </dl>
                             </li>
@@ -172,7 +186,9 @@ $menu->special ="Special";
                                     <dd>NBA Topical Melo 2013</dd>
                                     <dt class="description">Client:</dt>
                                     <dd>ESPN</dd>
-                                    <dt class="description">Editor & GFX:</dt>
+                                    <dt class="description">Editor:</dt>
+                                    <dd>Jonathan Wendell</dd>
+                                    <dt class="description">Graphic Design:</dt>
                                     <dd>Jonathan Wendell</dd>
                                 </dl>
                             </li>
