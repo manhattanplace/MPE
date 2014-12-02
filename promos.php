@@ -44,7 +44,7 @@ $menu->special ="Special";
                     <div id="thumbs-back"><img src="assets/prev_thumb.png" alt="back button"/></div>
                     <div class="thumbnails">
                 <ul>
-                    <!-- case study -->
+                    <!-- case study 
                     <li>
                         <div class="gallery-images">
                             <a class="gallery_overlay" href="images/promos/cal-coach.jpg"></a>
@@ -64,7 +64,7 @@ $menu->special ="Special";
                                 <dd>Manhattan Place Entertainment</dd>
                         </dl>
                     </li>
-                    <!-- case study -->
+                    <!-- case study 
                     <li>
                         <div class="gallery-images">
                             <a class="gallery_overlay" href="images/promos/osu-coach.jpg"></a>
