@@ -32,13 +32,25 @@ $menu->special ="Special";
         <h3 class="library">PROMOS</h3>
         <div class="container">
             <div class="back_button1">
-                <a href="/promos.php">&laquo; Back to Promos</a>
+                <a href="/">&laquo; Home</a>
             </div>
             <div id="video">
                 <script>QT_WriteOBJECT('/videos/cal-coach/cal-coach.mov', '640','376','', 'AUTOPLAY','True','SCALE','Aspect') ;</script>
             </div>
+            <dl class="stand-alone-video-2">
+                <dt class="description">Title:</dt>
+                    <dd>PAC-12 Basketball - CAL Coach Cuonzo Martin</dd>
+                <dt class="description">Executive Producer:</dt>
+                    <dd>PAC-12 Networks</dd>
+                <dt class="description">PRODUCER/EDITOR:</dt>
+                    <dd>Joel Denbow</dd>
+                <dt class="description">DIRECTOR/DP:</dt>
+                    <dd>Steve Cohen</dd>
+                <dt class="description">PRODUCTION SERVICES:</dt>
+                    <dd>Manhattan Place Entertainment</dd>
+            </dl>
             <div class="back_button2">
-                <a href="/promos.php">&laquo; Back to Promos</a>
+                <a href="/">&laquo; Home</a>
             </div>
         </div>
     </div>

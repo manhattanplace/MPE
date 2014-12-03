@@ -38,6 +38,10 @@ $menu->special ="Special";
         </ul>
         <h3 class="recent">Recent Articles</h3>
         <ul id="nav_tertiary">
+            <li><a href="#Cowher">Coach Me Cowher</a></li>
+            <li><a href="#stdds">Showtime Documentary - Dean Smith</a></li>
+            <li><a href="#ndgtf">Neil deGrasse Tyson Feature</a></li>
+            <li><a href="#nylicp">NY Live In Concert Pilot</a></li>
             <li><a href="#p12oapb">PAC-12 On-Air Promos “Basketball”</a></li>
             <li><a href="#Clooney">Walt Disney Pictures “Tomorrowland” starring George Clooney</a></li>
             <li><a href="#usanetwork">Daniel Bryan USA Network - Anti Smoking PSA</a></li>
@@ -208,6 +212,60 @@ $menu->special ="Special";
             <li><a href="#grail">The "Holy Grail" of Live Events! The Monty Python Reunion</a></li>
             <li><a href="#50cent">Manhattan Place Shoots "Baby By Me" with 50 Cent</a></li>
         </ul>
+            <!-- Begin Article -->  
+            <div class="article">
+                  <h1><a name="Cowher" class="anchor">Coach Me Cowher</a></h1>
+                  <p class="date">Client: CBS Sports</p>
+                  <p class="date">Producer: Charlie Bloom</p>
+                  <p class="date">DP: Steve Cohen</p>
+                  <hr/>
+                  <img class="float_right" src="images/recent-work/coach-me-cowher.jpg" alt="PAC-12 On-Air Promos Basketball"  />
+                  <p>This series for CBS Sports, CBS NFL Today analyst and former head coach of the Pittsburgh Steelers Bill Cowher, visits with, and lends coaching advice to Westwood High School's inspirational coach John Zisa. At the age of 18, Zisa had an accident in a swimming pool that nearly killed him, and left him paralyzed from the neck down. In 1989, after nearly 10 years of hospitalization and rehabilitation, Zisa's high school football coach, the man he played for at the time he met with his accident, convinced Zisa into becoming an assistant coach for him. Now more than 18 years later, Zisa is still on the sidelines and going strong, (Westwood has played for the State Championship 2 years in a row) proving that you can overcome life's biggest obstacles. As a coach and a man, he is an inspiration to all who know him. Charlie Bloom Produced the heartwarming feature for the CBS NFL Today. Steve Cohen shot and directed the piece.</p>
+                  
+                  <a class="back-to-top" href="#top">Back to Top</a>       
+            </div>
+        <!-- end article -->
+
+      <!-- Begin Article -->  
+            <div class="article">
+                  <h1><a name="stdds" class="anchor">Showtime Documentary - Dean Smith</a></h1>
+                  <p class="date">Client: Flagstaff Productions</p>
+                  <p class="date">Producer: George Roy</p>
+                  <p class="date">DP: Axel Baumann</p>
+                  <hr/>
+                  <p>MPE shot a series of interviews for the upcoming Showtime Documentary about Dean Smith, The University of North Carolina's Legendary head basketball coach who is sadly suffering from dementia. MPE provided comprehensive field production services and is proud of our continuing collaboration with 7 time Emmy Award and 3 time Peabody Award winning Flagstaff Productions.</p>
+                  <a class="back-to-top" href="#top">Back to Top</a>       
+            </div>
+      <!-- end article -->
+
+      <!-- Begin Article -->  
+            <div class="article">
+                  <h1><a name="ndgtf" class="anchor">Neil deGrasse Tyson Feature</a></h1>
+                  <p class="date">Client: FOX Sports</p>
+                  <p class="date">Producer: Bernie Kim</p>
+                  <p class="date">DP: Chris Bierlein</p>
+                  <hr/>
+                  <img class="float_left" src="images/recent-work/neil-deGrasse-tyson.jpg" alt="PAC-12 On-Air Promos Basketball"  />
+                  <p>Astrophysicist Neil deGrasse Tyson, provides a "tongue in cheek" commentary about cosmic chaos in the NFL for the FOX NFL Sunday Pre-Game Show. Shot on location in New York City, MPE built a white screen environment and directed and shot Mr. deGrasse with the goal in mind of compositing his live action performance over a highly stylized CGI background.</p>
+                  <a href="https://www.youtube.com/watch?v=Shx12WP5XE0">Watch it here.</a>
+                  
+                  <a class="back-to-top" href="#top">Back to Top</a>       
+            </div>
+        <!-- end article -->
+
+        <!-- Begin Article -->  
+            <div class="article">
+                  <h1><a name="nylicp" class="anchor">NY Live In Concert Pilot</a></h1>
+                  <p class="date">Client: City Drive</p>
+                  <p class="date">Producer: Paul Morphos</p>
+                  <p class="date">DP: Rod Lamborn</p>
+                  <hr/>
+                  <img class="float_right" src="images/recent-work/ny-live-in-concert-chvrches.jpg" alt="NY Live In Concert Pilot"  />
+                  <p>New York Live In-Concert: Pilot is a new music series currently in production. The pilot episode, featuring a performance by the band Chvrches, took place in the middle of iconic Grand Central Terminal in New York City. The entire space was shut down in the wee hours of the morning for their performance.  Manhattan Place Entertainment provided production services for this project and worked closely with show co-host Kayla Riley in recording all of her on-camera segments. Interesting tidbit: The show was supposed to be shot on a Tuesday but was unexpectedly rescheduled for two days later. MPE helped the show producers City Drive to regroup and pull together the resources needed to be ready to shoot two days later. MPE has also shot segments with musical act Train for the series. Other featured musicians scheduled to appear are Foster The People, Demi Lovato and Coheed and Cambria.</p>
+                  <a class="back-to-top" href="#top">Back to Top</a>       
+            </div>
+        <!-- end article -->
+
         <!-- Begin Article -->  
         <div class="article">
             <h1><a name="p12oapb" class="anchor">PAC-12 On-Air Promos “Basketball”</a></h1>

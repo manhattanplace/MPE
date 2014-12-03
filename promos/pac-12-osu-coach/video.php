@@ -29,16 +29,27 @@ $menu->special ="Special";
         <div id="logo">
             <a href="/index.php"><h1>Manhattan Place Entertainment - Video and Film Production Services</h1></a>
         </div>
-        <h3 class="library">PROMOS</h3>
         <div class="container">
             <div class="back_button1">
-                <a href="/promos.php">&laquo; Back to Promos</a>
+                <a href="/">&laquo; Home</a>
             </div>
             <div id="video">
-                <script>QT_WriteOBJECT('/videos/osu-coach/osu-coach.mov', '640','340','', 'AUTOPLAY','True','SCALE','Aspect') ;</script>
+                <script>QT_WriteOBJECT('/videos/osu-coach/osu-coach.mov', '580','340','', 'AUTOPLAY','True','SCALE','Aspect');</script>
             </div>
+            <dl class="stand-alone-video">
+                <dt class="description">Title:</dt>
+                    <dd>PAC-12 Basketball - OSU Coach Wayne Tinkle</dd>
+                <dt class="description">Executive Producer:</dt>
+                    <dd>PAC-12 Networks</dd>
+                <dt class="description">PRODUCER/EDITOR:</dt>
+                    <dd>Joel Denbow</dd>
+                <dt class="description">DIRECTOR/DP:</dt>
+                    <dd>Steve Cohen</dd>
+                <dt class="description">PRODUCTION SERVICES:</dt>
+                    <dd>Manhattan Place Entertainment</dd>
+            </dl>            
             <div class="back_button2">
-                <a href="/promos.php">&laquo; Back to Promos</a>
+                <a href="/">&laquo; Home</a>
             </div>
         </div>
     </div>
