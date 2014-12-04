@@ -74,7 +74,7 @@ $menu->special ="Special";
             <li><a href="#kate">Teen Vogue Talks - with Mary Kate Steinmiller</a></li>
             <li><a href="#tpc">The Mike Francesa Show at TPC River Highland</a></li>
             <li><a href="#golf">U.S. Open Golf On-Air Promos</a></li>
-            <li><a href="#phil">PHIL JACKSON &amp; DEREK FISHER: THE INTERVIEW</a></li>
+            <li><a href="#phil">Phil Jackson &amp; Derek Fisher: The Interview</a></li>
             <li><a href="#dust">Sevendust Concert</a></li>
             <li><a href="#posttime">It's "Post Time" for the Triple Crown at Belmont!</a></li>
             <li><a href="#scfs">New York Rangers - Stanley Cup Final Shoot</a></li>
@@ -639,14 +639,14 @@ Provided all pre-production and field production services. Handled production de
                  
         <!-- Begin Article -->	
         <div class="article">
-            <h1><a name="phil" class="anchor">PHIL JACKSON & DEREK FISHER: THE INTERVIEW</a></h1>
+            <h1><a name="phil" class="anchor">Phil Jackson &amp; Derek Fisher: The Interview</a></h1>
         	<p class="date">Client: MSG Creative Services </p>
         	<p class="date">Producer: Doug Field, Marc Mondry, Jason Joly</p>
         	<p class="date">DP: Steve Cohen</p>
         	<p class="date">2nd and 3rd Unit: Tom Rome and Howard Heitner (Jib Operator)</p>
         	<hr/>
             <p>In an exclusive interview, Al Trautwig sat down with Derek Fisher, a five-time NBA champion, and Phil Jackson, President of The New York Knicks, on the day that Fisher was named the 26th head coach in franchise history. Manhattan Place Entertainment Production Designed and shot the 30 minute special that aired on MSG Network. Shot entirely on location at the New Yorks Knicks training facility.</p>
-            <img class="float_left" src="images/recent-work/Phil-Jackson.jpg" alt="PHIL JACKSON & DEREK FISHER: THE INTERVIEW">
+            <img class="float_left" src="images/recent-work/Phil-Jackson.jpg" alt="Phil Jackson & Derek Fisher: The Interview">
             <a class="back-to-top" href="#top">Back to Top</a>       
         </div>
         <!-- end article -->
