@@ -378,7 +378,7 @@ Provided all pre-production and field production services. Handled production de
             <p class="date">Producer: Charlie Bloom</p>
             <p class="date">DP: Steve Cohen</p>
             <hr/>
-            <p>Shot on location at the CBS Broadcast Center, MPE created a production designed environment inside the CBS commissary and shot interview material with former NFL player and current CBS Sports analyst Steve Tasker on the subject of NFL Hall of fame QB Jim Kelly.</p>
+            <p>Shot on location at the CBS Broadcast Center, MPE created a production designed environment inside the CBS commissary and shot interview material with former NFL player and current CBS Sports analyst Steve Tasker on the subject of NFL Hall of Fame QB Jim Kelly.</p>
             <a class="back-to-top" href="#top">Back to Top</a>       
         </div>
         <!-- end article -->
@@ -443,7 +443,7 @@ Provided all pre-production and field production services. Handled production de
         <!-- Begin Article -->  
         <div class="article">
             <h1><a name="PAC" class="anchor">PAC-12 Networks ON-AIR Promos</a></h1>
-            <p class="date">Client: PAC12 Networks</p>
+            <p class="date">Client: PAC-12 Networks</p>
             <p class="date">Producer: Ted Ishler</p>
             <p class="date">DP: Steve Cohen</p>
             <p class="date">2nd Unit: Josh Salzman</p>
