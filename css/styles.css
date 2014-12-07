@@ -1365,7 +1365,16 @@ a,.contact a:link,.contact a:visited, {
     display: block;
     text-indent: -999em;
 }
-
+.stand-alone-video {
+    float: left;
+    width: 340px;
+    margin-left: 20px;
+}
+.stand-alone-video-2 {
+    float: left;
+    width: 300px;
+    margin-left: 20px;
+}
 
 
 

@@ -44,44 +44,48 @@ $menu->special ="Special";
                     <div id="thumbs-back"><img src="assets/prev_thumb.png" alt="back button"/></div>
                     <div class="thumbnails">
                 <ul>
-                    <!-- case study 
+                    <!-- case study -->
                     <li>
                         <div class="gallery-images">
-                            <a class="gallery_overlay" href="images/promos/cal-coach.jpg"></a>
-                            <img src="images/promos/cal-coach-thumb.jpg" alt="CAL COACH Promo"/>
+                            <a class="gallery_overlay" href="images/promos/pac-12-basketball-oregon.jpg"></a>
+                            <img src="images/promos/pac-12-basketball-oregon-thumb.jpg" alt="PAC-12 Basketball - Oregon"/>
                         </div>
-                        <a href="promos/pac-12-cal-coach/video.php"></a> 
+                        <a href="promos/pac-12-basketball-oregon/video.php"></a> 
                         <dl>
                             <dt class="description">Title:</dt>
-                                <dd>CAL COACH Promo</dd>
+                                <dd>PAC-12 Basketball - Oregon</dd>
                             <dt class="description">CLIENT:</dt>
                                 <dd>PAC-12 Networks</dd>
                             <dt class="description">Producer:</dt>
                                 <dd>Ted Ishler</dd>
-                            <dt class="description">DIRECTOR OF PHOTOGRAPHY:</dt>
+                            <dt class="description">PRODUCER/EDITOR:</dt>
+                                <dd>Joel Denbow</dd>
+                            <dt class="description">DIRECTOR/DP:</dt>
                                 <dd>Steve Cohen</dd>
                             <dt class="description">PRODUCTION SERVICES:</dt>
                                 <dd>Manhattan Place Entertainment</dd>
                         </dl>
                     </li>
-                    <!-- case study 
+                    <!-- case study -->
                     <li>
                         <div class="gallery-images">
-                            <a class="gallery_overlay" href="images/promos/osu-coach.jpg"></a>
-                            <img src="images/promos/osu-coach-thumb.jpg" alt="OSU COACH Promo"/>
+                            <a class="gallery_overlay" href="images/promos/pac-12-basketball-stanford.jpg"></a>
+                            <img src="images/promos/pac-12-basketball-stanford-thumb.jpg" alt="PAC-12 Basketball - Stanford"/>
                         </div>
-                        <a href="promos/pac-12-osu-coach/video.php"></a> 
+                        <a href="promos/pac-12-basketball-stanford/video.php"></a> 
                         <dl>
                             <dt class="description">Title:</dt>
-                                <dd>OSU COACH Promo</dd>
+                                <dd>PAC-12 Basketball - Stanford</dd>
                             <dt class="description">CLIENT:</dt>
                                 <dd>PAC-12 Networks</dd>
                             <dt class="description">Producer:</dt>
                                 <dd>Ted Ishler</dd>
-                            <dt class="description">DIRECTOR OF PHOTOGRAPHY:</dt>
+                            <dt class="description">PRODUCER/EDITOR:</dt>
+                                <dd>Joel Denbow</dd>
+                            <dt class="description">DIRECTOR/DP:</dt>
                                 <dd>Steve Cohen</dd>
                             <dt class="description">PRODUCTION SERVICES:</dt>
-                                <dd> Manhattan Place Entertainment</dd>
+                                <dd>Manhattan Place Entertainment</dd>
                         </dl>
                     </li>
                     <!-- case study -->
