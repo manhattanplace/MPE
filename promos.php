@@ -47,47 +47,21 @@ $menu->special ="Special";
                     <!-- case study -->
                     <li>
                         <div class="gallery-images">
-                            <a class="gallery_overlay" href="images/promos/pac-12-basketball-oregon.jpg"></a>
-                            <img src="images/promos/pac-12-basketball-oregon-thumb.jpg" alt="PAC-12 Basketball - Oregon"/>
+                            <a class="gallery_overlay" href="images/promos/every-which-way.jpg"></a>
+                            <img src="images/promos/every-which-thumb.jpg" alt="Every Witch Way"/>
                         </div>
-                        <a href="promos/pac-12-basketball-oregon/video.php"></a> 
+                        <a href="promos/every-witch-way/video.php"></a> 
                         <dl>
                             <dt class="description">Title:</dt>
-                                <dd>PAC-12 Basketball - Oregon</dd>
+                                <dd>"Every Witch Way" Thanksgiving Promo</dd>
                             <dt class="description">CLIENT:</dt>
-                                <dd>PAC-12 Networks</dd>
+                                <dd>Nickelodeon</dd>
                             <dt class="description">Producer:</dt>
-                                <dd>Ted Ishler</dd>
-                            <dt class="description">PRODUCER/EDITOR:</dt>
-                                <dd>Joel Denbow</dd>
-                            <dt class="description">DIRECTOR/DP:</dt>
-                                <dd>Steve Cohen</dd>
+                                <dd>Patty Henry-Robinson</dd>
                             <dt class="description">PRODUCTION SERVICES:</dt>
                                 <dd>Manhattan Place Entertainment</dd>
                         </dl>
-                    </li>
-                    <!-- case study -->
-                    <li>
-                        <div class="gallery-images">
-                            <a class="gallery_overlay" href="images/promos/pac-12-basketball-stanford.jpg"></a>
-                            <img src="images/promos/pac-12-basketball-stanford-thumb.jpg" alt="PAC-12 Basketball - Stanford"/>
-                        </div>
-                        <a href="promos/pac-12-basketball-stanford/video.php"></a> 
-                        <dl>
-                            <dt class="description">Title:</dt>
-                                <dd>PAC-12 Basketball - Stanford</dd>
-                            <dt class="description">CLIENT:</dt>
-                                <dd>PAC-12 Networks</dd>
-                            <dt class="description">Producer:</dt>
-                                <dd>Ted Ishler</dd>
-                            <dt class="description">PRODUCER/EDITOR:</dt>
-                                <dd>Joel Denbow</dd>
-                            <dt class="description">DIRECTOR/DP:</dt>
-                                <dd>Steve Cohen</dd>
-                            <dt class="description">PRODUCTION SERVICES:</dt>
-                                <dd>Manhattan Place Entertainment</dd>
-                        </dl>
-                    </li>
+                    </li> 
                     <!-- case study -->
                     <li>
                         <div class="gallery-images">

@@ -44,7 +44,50 @@ $menu->special ="Special";
                     <div id="thumbs-back"><img src="assets/prev_thumb.png" alt="placeholder"/></div>
                     <div class="thumbnails">
                     <ul>
-        <!-- case study  -->
+
+                    <!-- case study  -->
+                    <li>
+                        <div>
+                            <a class="gallery_overlay" href="images/psa/step-on-up-diabetes-psa.jpg">
+                            <img src="images/psa/step-on-up-diabetes-psa-thumb.jpg" alt="Step On Up Diabetes PSA"/></a>
+                        </div>
+                        <a href="psa/step-on-up-diabetes-psa/video.php"></a>
+                        <dl>
+                            <dt class="description">Title:</dt>
+                                <dd>Step On Up Diabetes PSA</dd>
+                            <dt class="description">CLIENT:</dt>
+                                <dd>M Street Creative</dd> 
+                            <dt class="description">DIRECTOR:</dt>
+                                <dd>Andi Praskai</dd> 
+                            <dt class="description">DIRECTOR OF PHOTOGRAPHY:</dt>
+                                <dd>Steve Cohen</dd> 
+                            <dt class="description">Production Services:</dt>
+                                <dd>Manhattan Place Entertainment</dd> 
+                        </dl>
+                    </li>
+                    <!-- case study  -->
+                    <li>
+                        <div>
+                            <a class="gallery_overlay" href="images/psa/daniel-bryan-psa.jpg">
+                            <img src="images/psa/daniel-bryan-psa-thumb.jpg" alt="WWE Daniel Bryan"/></a>
+                        </div>
+                        <a href="psa/daniel-bryan-psa/video.php"></a>
+                        <dl>
+                            <dt class="description">Title:</dt>
+                                <dd>FDA Anti-Smoking WWE Daniel Bryan PSA</dd>
+                            <dt class="description">CLIENT:</dt>
+                                <dd>WWE INC/USA Networks</dd> 
+                            <dt class="description">PRODUCER:</dt>
+                                <dd>Robert Cinguina</dd> 
+                            <dt class="description">DIRECTOR OF PHOTOGRAPHY:</dt>
+                                <dd>Steve Cohen</dd> 
+                            <dt class="description">Production Services:</dt>
+                                <dd>Manhattan Place Entertainment</dd> 
+                        </dl>
+                    </li>
+
+
+                    <!-- case study  -->
                     <li>
                         <div>
                             <a class="gallery_overlay" href="images/case-study-dennis-leary.jpg">
@@ -57,7 +100,9 @@ $menu->special ="Special";
                             <dt class="description">CLIENT:</dt>
                                 <dd>Cablevision</dd> 
                             <dt class="description">DP/Director:</dt>
-                                <dd>Steve Cohen</dd>  
+                                <dd>Steve Cohen</dd> 
+                            <dt class="description">CAMERA:</dt>
+                                <dd>Chris Bierlein</dd> 
                             <dt class="description">Production Services:</dt>
                                 <dd>Manhattan Place Entertainment</dd> 
                         </dl>
