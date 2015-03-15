@@ -54,7 +54,7 @@ $menu->special ="Special";
                                     <a class="gallery_overlay" href="/post-production/short-form/the-uniform.jpg">
                                     <img src="/post-production/short-form/the-uniform-thumb.jpg" alt="The Uniform"/></a>
                                 </div>
-                                <a href="#chevy-the-uniform"></a> 
+                                <a href="#chevy-the-uniform" data-link="/videos/chevy-the-uniform/chevy-the-uniform.mov"></a> 
                                 <dl>
                                     <dt class="description">Title:</dt> 
                                     <dd>The Uniform</dd>
@@ -62,6 +62,20 @@ $menu->special ="Special";
                                     <dd>Joe Ward</dd>
                                 </dl>
                             </li>
+                        <!-- case study -->
+                            <li>
+                                <div class="gallery-images">
+                                    <a class="gallery_overlay" href="/post-production/short-form/the-uniform.jpg">
+                                    <img src="/post-production/short-form/the-bat-thumb.jpg" alt="The Bat"/></a>
+                                </div>
+                                <a href="#chevy-the-bat" data-link="/videos/chevy-the-bat/chevy-the-bat.mov"></a> 
+                                <dl>
+                                    <dt class="description">Title:</dt> 
+                                    <dd>The Bat</dd>
+                                    <dt class="description">Editor:</dt>
+                                    <dd>Joe Ward</dd>
+                                </dl>
+                            </li>    
                         <!-- case study -->
                             <li>
                                 <div class="gallery-images">
@@ -98,6 +112,22 @@ $menu->special ="Special";
                                     <dd>Jonathan Wendell</dd>
                                 </dl>
                             </li>
+                       <!-- case study -->
+                            <li>
+                                <div class="gallery-images">
+                                    <a class="gallery_overlay" href="/post-production/short-form/nba-tnt-allstar.jpg">
+                                    <img src="/post-production/short-form/nba-tnt-allstar-thumb.jpg" alt="NBA on TNT All-Star Selection Show Open"/></a>
+                                </div>
+                                <a href="#nba-tnt-allstar-game-open" data-link="/videos/nba-tnt-all-star-game/nba-tnt-all-star-game.mov"></a> 
+                                <dl>
+                                    <dt class="description">Title:</dt> 
+                                    <dd>NBA on TNT All-Star Selection Show Open</dd>
+                                    <dt class="description">Client:</dt> 
+                                    <dd>TNT</dd>
+                                    <dt class="description">Editor:</dt>
+                                    <dd>Bill Baker</dd>
+                                </dl>
+                            </li>
                         <!-- case study -->
                             <li>
                                 <div class="gallery-images">
@@ -116,6 +146,22 @@ $menu->special ="Special";
                                     <dd>Jonathan Wendell</dd> 
                                 </dl>
                             </li>
+                            <!-- case study -->
+                            <li>
+                                <div class="gallery-images">
+                                    <a class="gallery_overlay" href="/post-production/short-form/mlb-postseason-on-tbs.jpg">
+                                    <img src="/post-production/short-form/mlb-postseason-on-tbs-thumb.jpg" alt="MLB Postseason on TBS Promo"/></a>
+                                </div>
+                                <a href="#mlb-postseason-on-tbs" data-link="/videos/mlb-postseason-on-tbs/mlb-postseason-on-tbs.mov"></a> 
+                                <dl>
+                                    <dt class="description">Title:</dt> 
+                                    <dd>MLB Postseason on TBS Promo</dd>
+                                    <dt class="description">Client:</dt> 
+                                    <dd>MLB</dd>
+                                    <dt class="description">Editor:</dt>
+                                    <dd>Bill Baker</dd>
+                                </dl>
+                            </li>
                         <!-- case study -->
                             <li>
                                 <div class="gallery-images">
@@ -132,6 +178,22 @@ $menu->special ="Special";
                                     <dd>Jonathan Wendell</dd>
                                     <dt class="description">Graphic Design:</dt>
                                     <dd>Jonathan Wendell</dd>
+                                </dl>
+                            </li>
+                         <!-- case study -->
+                            <li>
+                                <div class="gallery-images">
+                                    <a class="gallery_overlay" href="/post-production/short-form/nba-tnt-allstar-promo.jpg">
+                                    <img src="/post-production/short-form/nba-tnt-allstar-promo-thumb.jpg" alt="NBA on TNT All-Star Game Promo"/></a>
+                                </div>
+                                <a href="#nba-tnt-all-star-game" data-link="/videos/nba-tnt-all-star-game/nba-tnt-all-star-game.mov"></a> 
+                                <dl>
+                                    <dt class="description">Title:</dt> 
+                                    <dd>NBA on TNT All-Star Game Promo</dd>
+                                    <dt class="description">Client:</dt> 
+                                    <dd>TNT</dd>
+                                    <dt class="description">Editor:</dt>
+                                    <dd>Bill Baker</dd>
                                 </dl>
                             </li>
                         <!-- case study -->
@@ -490,6 +552,22 @@ $menu->special ="Special";
             <div id="chevy-the-uniform" class="modal">
                 <a class="close" href="">close</a>
                 <script>QT_WriteOBJECT('/videos/chevy-the-uniform/chevy-the-uniform.mov', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
+            </div>
+            <div id="chevy-the-bat" class="modal">
+                <a class="close" href="">close</a>
+                <script>QT_WriteOBJECT('/videos/chevy-the-bat/chevy-the-bat.mov', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
+            </div>
+            <div id="nba-tnt-all-star-game" class="modal">
+                <a class="close" href="">close</a>
+                <script>QT_WriteOBJECT('/videos/nba-tnt-all-star-game/nba-tnt-all-star-game.mov', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
+            </div>
+            <div id="nba-tnt-allstar-game-open" class="modal">
+                <a class="close" href="">close</a>
+                <script>QT_WriteOBJECT('/videos/nba-tnt-allstar-game-open/nba-tnt-allstar-game-open.mov', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
+            </div>
+           <div id="mlb-postseason-on-tbs" class="modal">
+                <a class="close" href="">close</a>
+                <script>QT_WriteOBJECT('/videos/mlb-postseason-on-tbs/mlb-postseason-on-tbs.mov', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
             </div>
         </div>
     </div>

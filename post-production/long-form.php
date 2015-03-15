@@ -66,6 +66,22 @@ $menu->special ="Special";
                         <!-- case study -->
                             <li>
                                 <div class="gallery-images">
+                                    <a class="gallery_overlay" href="/post-production/long-form/franchise-miami-marlins.jpg">
+                                    <img src="/post-production/long-form/franchise-miami-marlins.jpg" alt="The Franchise: A Season With The Miami Marlins"/></a>
+                                </div>
+                                <a href="#franchise-miami-marlins" data-link="/videos/franchise-miami-marlins/franchise-miami-marlins.mov"></a> 
+                                <dl>
+                                    <dt class="description">Title:</dt> 
+                                    <dd>The Franchise: A Season With The Miami Marlins</dd>
+                                    <dt class="description">Client:</dt>
+                                    <dd>MLB</dd>
+                                    <dt class="description">Editor:</dt>
+                                    <dd>Joe Ward</dd>
+                                </dl>
+                            </li>
+                        <!-- case study -->
+                            <li>
+                                <div class="gallery-images">
                                     <a class="gallery_overlay" href="/post-production/images/herschel-trailer.jpg">
                                     <img src="/post-production/images/herschel-trailer.jpg" alt="Herschel"/></a>
                                 </div>
@@ -78,7 +94,23 @@ $menu->special ="Special";
                                     <dt class="description">Editor</dt>
                                     <dd>Jonathan Wendell</dd> 
                                 </dl>
-                            </li>      
+                            </li>
+                        <!-- case study -->
+                            <li>
+                                <div class="gallery-images">
+                                    <a class="gallery_overlay" href="/post-production/long-form/tnt-all-access-martin-truex-jr.jpg">
+                                    <img src="/post-production/long-form/tnt-all-access-martin-truex-jr-thumb.jpg" alt="Nascar on TNT All Access with Martin Truex Jr."/></a>
+                                </div>
+                                <a href="#tnt-all-access-martin-truex-jr" data-link="/videos/tnt-all-access-martin-truex-jr/tnt-all-access-martin-truex-jr.mov"></a> 
+                                <dl>
+                                    <dt class="description">Title:</dt> 
+                                    <dd>Nascar on TNT All Access with Martin Truex Jr.</dd>
+                                    <dt class="description">Client:</dt>
+                                    <dd>TNT</dd>
+                                    <dt class="description">Editor:</dt>
+                                    <dd>Joe Ward</dd>
+                                </dl>
+                            </li>    
                         <!-- case study -->
                             <li>
                                 <div class="gallery-images">
@@ -96,7 +128,7 @@ $menu->special ="Special";
                                 </dl>
                             </li>
                         <!-- case study -->
-                            <li>
+                           <!--  <li>
                                 <div class="gallery-images">
                                     <a class="gallery_overlay" href="/post-production/images/jordans.jpg">
                                     <img src="/post-production/images/jordans.jpg" alt="Heir Jordan's"/></a>
@@ -110,7 +142,7 @@ $menu->special ="Special";
                                     <dt class="description">Editor: </dt>
                                     <dd>Jonathan Wendell</dd>
                                 </dl>
-                            </li>
+                            </li> -->
                         <!-- case study -->
                             <li>
                                 <div class="gallery-images">
@@ -449,6 +481,19 @@ $menu->special ="Special";
             <div id="zero" class="modal">
                 <a class="close" href="">close</a>
                 <script>QT_WriteOBJECT('/videos/jordyn-mallory-prayers/jordyn-mallory-prayers.mov', '640', '341', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
+            </div>
+            <div id="franchise-miami-marlins" class="modal">
+                <a class="close" href="">close</a>
+                <script>QT_WriteOBJECT('/videos/franchise-miami-marlins/franchise-miami-marlins.mov', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
+            </div>
+            <div id="franchise-miami-marlins" class="modal">
+                <a class="close" href="">close</a>
+                <script>QT_WriteOBJECT('/videos/franchise-miami-marlins/franchise-miami-marlins.mov', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
+            </div>
+            
+            <div id="tnt-all-access-martin-truex-jr" class="modal">
+                <a class="close" href="">close</a>
+                <script>QT_WriteOBJECT('/videos/tnt-all-access-martin-truex-jr/tnt-all-access-martin-truex-jr.mov', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
             </div>
         </div>
     </div>
