@@ -32,9 +32,9 @@ $menu->special ="Special";
         <h3 class="library sub-section">Short Form</h3>
         
         <div class="container directors" data-url="/post-production/short-form.php">
-    		<div class="back_button1">
-    			<a href="/post-production.php">&laquo; Back to Post Production</a>
-    		</div>
+            <div class="back_button1">
+                <a href="/post-production.php">&laquo; Back to Post Production</a>
+            </div>
             <div class="wt-gallery">
                 <div class="main-screen">
                     <img class="click-to-play" src="/_img/click-to-play.png" alt="click to play" title="click to play">
@@ -48,6 +48,20 @@ $menu->special ="Special";
                     <div id="thumbs-back"><img src="/assets/prev_thumb.png" alt="back button"/></div>
                     <div class="thumbnails">
                         <ul>
+                        <!-- case study -->
+                            <li>
+                                <div class="gallery-images">
+                                    <a class="gallery_overlay" href="/post-production/short-form/the-uniform.jpg">
+                                    <img src="/post-production/short-form/the-uniform-thumb.jpg" alt="The Uniform"/></a>
+                                </div>
+                                <a href="#chevy-the-uniform"></a> 
+                                <dl>
+                                    <dt class="description">Title:</dt> 
+                                    <dd>The Uniform</dd>
+                                    <dt class="description">Editor:</dt>
+                                    <dd>Joe Ward</dd>
+                                </dl>
+                            </li>
                         <!-- case study -->
                             <li>
                                 <div class="gallery-images">
@@ -472,6 +486,10 @@ $menu->special ="Special";
             <div id="eighteen" class="modal">
                 <a class="close" href="">close</a>
                 <script>QT_WriteOBJECT('/videos/ny-liberty/united.mov', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
+            </div>
+            <div id="chevy-the-uniform" class="modal">
+                <a class="close" href="">close</a>
+                <script>QT_WriteOBJECT('/videos/chevy-the-uniform/chevy-the-uniform.mov', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
             </div>
         </div>
     </div>

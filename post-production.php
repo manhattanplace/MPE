@@ -23,18 +23,18 @@ $menu->special ="Special";
 <!-- place javascript in scripts.js -->
 </head>
 <body>
-<?php include '_header.php'; ?>	<div class="panel">
+<?php include '_header.php'; ?> <div class="panel">
             <div id="logo">
-            	<a href="index.php">
-            	<h1>Manhattan Place Entertainment - Video and Film Production Services</h1>
-            	</a>
+                <a href="index.php">
+                <h1>Manhattan Place Entertainment - Video and Film Production Services</h1>
+                </a>
             </div>
             <h3 class="library" style="color:#576db2">POST PRODUCTION</h3>
             <ul class="the-directors">
                 <li>
                     <a href="post-production/short-form.php" title="Short Form">
                         <img class="short-form" src="/post-production/images/nba-topical.jpg"  alt="Short Form" />
-                        <p style="color:#576db2" class="director-name">Short Form</p>
+                        <p style="color:#576db2" class="director-name">Short Form/Spots</p>
                     </a>
                 </li>
                 <li>
