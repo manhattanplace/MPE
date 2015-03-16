@@ -65,29 +65,11 @@ $(document).ready(function() {
         $(this).parents('.directors').find('"'+video+'"').show();
         $(this).parents('.panel').next('.modal-backdrop').show();
     });
-    var getUrl = function(){
-        $('.thumbnails').on('click', function(){
-            var url = $(this).data(url);
-            history.pushState(null, null, url);
-        });
-    };
-    $('.modal-backdrop').on('click', function(){
-        var url = $(this).parent().find('.directors').data('url');
-        history.pushState(null, null, url);
-        $(this).hide();
-        $('.modal').hide();
-        
-    });
-    $('.modal').on('click', '.close', function(e){
-        e.preventDefault();
-        var url = $(this).parents().find('.directors').data('url');
-        history.pushState(null, null, url);
-        $('.modal-backdrop').hide();
-        $('.modal').hide();
-    });
+    
     // Set history states
-    $('.gallery-images').on('click', '.gallery_overlay', function(){
-        var link = $(this).parent().data('video');
+    $('.gallery-images').on('click', function(){
+        var link = $(this).data('url');
+        console.log(link);
         history.pushState(null, null, link);
     });
     

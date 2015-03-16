@@ -50,11 +50,11 @@ $menu->special ="Special";
                         <ul>
                         <!-- case study -->
                             <li>
-                                <div class="gallery-images">
+                                <div class="gallery-images" data-url="/videos/chevy-the-uniform/video.php">
                                     <a class="gallery_overlay" href="/post-production/short-form/the-uniform.jpg">
                                     <img src="/post-production/short-form/the-uniform-thumb.jpg" alt="The Uniform"/></a>
                                 </div>
-                                <a href="#chevy-the-uniform" data-link="/videos/chevy-the-uniform/chevy-the-uniform.mov"></a> 
+                                <a href="#chevy-the-uniform"></a> 
                                 <dl>
                                     <dt class="description">Title:</dt> 
                                     <dd>The Uniform</dd>
@@ -64,11 +64,11 @@ $menu->special ="Special";
                             </li>
                         <!-- case study -->
                             <li>
-                                <div class="gallery-images">
-                                    <a class="gallery_overlay" href="/post-production/short-form/the-uniform.jpg">
+                                <div class="gallery-images" data-url="/videos/chevy-the-bat/video.php">
+                                    <a class="gallery_overlay" href="/post-production/short-form/the-bat.jpg">
                                     <img src="/post-production/short-form/the-bat-thumb.jpg" alt="The Bat"/></a>
                                 </div>
-                                <a href="#chevy-the-bat" data-link="/videos/chevy-the-bat/chevy-the-bat.mov"></a> 
+                                <a href="#chevy-the-bat" data-url="/videos/chevy-the-bat/chevy-the-bat.mov"></a> 
                                 <dl>
                                     <dt class="description">Title:</dt> 
                                     <dd>The Bat</dd>
@@ -78,7 +78,7 @@ $menu->special ="Special";
                             </li>    
                         <!-- case study -->
                             <li>
-                                <div class="gallery-images">
+                                <div class="gallery-images" data-url="/videos/return-of-the-mac/video.php">
                                     <a class="gallery_overlay" href="/post-production/images/nba-topical.jpg">
                                     <img src="/post-production/images/nba-topical.jpg" alt="Return of the Mack"/></a>
                                 </div>
@@ -96,7 +96,7 @@ $menu->special ="Special";
                             </li>
                         <!-- case study -->
                             <li>
-                                <div class="gallery-images">
+                                <div class="gallery-images" data-url="/videos/nba-image-glasses/video.php">
                                     <a class="gallery_overlay" href="/post-production/images/nba-image-glasses.jpg">
                                     <img src="/post-production/images/nba-image-glasses.jpg" alt="Vision Impaired"/></a>
                                 </div>
@@ -114,7 +114,7 @@ $menu->special ="Special";
                             </li>
                        <!-- case study -->
                             <li>
-                                <div class="gallery-images">
+                                <div class="gallery-images" data-url="/videos/nba-tnt-all-star-game/video.php">
                                     <a class="gallery_overlay" href="/post-production/short-form/nba-tnt-allstar.jpg">
                                     <img src="/post-production/short-form/nba-tnt-allstar-thumb.jpg" alt="NBA on TNT All-Star Selection Show Open"/></a>
                                 </div>
@@ -130,7 +130,7 @@ $menu->special ="Special";
                             </li>
                         <!-- case study -->
                             <li>
-                                <div class="gallery-images">
+                                <div class="gallery-images" data-url="/videos/no-max/video.php">
                                     <a class="gallery_overlay" href="/post-production/images/no-mas.jpg">
                                     <img src="/post-production/images/no-mas.jpg" alt="30 for 30: No Mas"/></a>
                                 </div>
@@ -148,11 +148,11 @@ $menu->special ="Special";
                             </li>
                             <!-- case study -->
                             <li>
-                                <div class="gallery-images">
+                                <div class="gallery-images" data-url="/videos/mlb-postseason-on-tbs/video.php">
                                     <a class="gallery_overlay" href="/post-production/short-form/mlb-postseason-on-tbs.jpg">
                                     <img src="/post-production/short-form/mlb-postseason-on-tbs-thumb.jpg" alt="MLB Postseason on TBS Promo"/></a>
                                 </div>
-                                <a href="#mlb-postseason-on-tbs" data-link="/videos/mlb-postseason-on-tbs/mlb-postseason-on-tbs.mov"></a> 
+                                <a href="#mlb-postseason-on-tbs"></a> 
                                 <dl>
                                     <dt class="description">Title:</dt> 
                                     <dd>MLB Postseason on TBS Promo</dd>
@@ -164,7 +164,7 @@ $menu->special ="Special";
                             </li>
                         <!-- case study -->
                             <li>
-                                <div class="gallery-images">
+                                <div class="gallery-images" data-url="/videos/free-spirits/video.php">
                                     <a class="gallery_overlay" href="/post-production/images/free-spirits.jpg">
                                     <img src="/post-production/images/free-spirits.jpg" alt="30 for 30: Free Spirits"/></a>
                                 </div>
@@ -182,7 +182,7 @@ $menu->special ="Special";
                             </li>
                          <!-- case study -->
                             <li>
-                                <div class="gallery-images">
+                                <div class="gallery-images" data-url="/videos/nba-tnt-all-star-game-promo/video.php">
                                     <a class="gallery_overlay" href="/post-production/short-form/nba-tnt-allstar-promo.jpg">
                                     <img src="/post-production/short-form/nba-tnt-allstar-promo-thumb.jpg" alt="NBA on TNT All-Star Game Promo"/></a>
                                 </div>
@@ -198,7 +198,7 @@ $menu->special ="Special";
                             </li>
                         <!-- case study -->
                             <li>
-                                <div class="gallery-images">
+                                <div class="gallery-images" data-url="/videos/its-time/video.php">
                                     <a class="gallery_overlay" href="/post-production/images/sec-storied.jpg">
                                     <img src="/post-production/images/sec-storied.jpg" alt="SEC Stories"/></a>
                                 </div>
@@ -216,7 +216,7 @@ $menu->special ="Special";
                             </li>
                         <!-- case study -->
                             <li>
-                                <div class="gallery-images">
+                                <div class="gallery-images" data-url="/videos/xmas-30/video.php">
                                     <a class="gallery_overlay" href="/post-production/images/xmas.jpg">
                                     <img src="/post-production/images/xmas.jpg" alt="An NBA Christmas by Snoop Dogg"/></a>
                                 </div>
@@ -234,7 +234,7 @@ $menu->special ="Special";
                             </li>
                         <!-- case study -->
                             <li>
-                                <div class="gallery-images">
+                                <div class="gallery-images" data-url="/videos/little-league-world-series/video.php">
                                     <a class="gallery_overlay" href="/post-production/images/little-league-baseball.jpg">
                                     <img src="/post-production/images/little-league-baseball.jpg" alt="Little League World Series"/></a>
                                 </div>
@@ -252,7 +252,7 @@ $menu->special ="Special";
                             </li>
                         <!-- case study -->
                             <li>
-                                <div class="gallery-images">
+                                <div class="gallery-images" data-url="/videos/nba-returns-2013-2014/video.php">
                                     <a class="gallery_overlay" href="/post-production/images/nba-returns-2013-2014.jpg">
                                     <img src="/post-production/images/nba-returns-2013-2014.jpg" alt="NBA Topical Melo 2013"/></a>
                                 </div>
@@ -270,7 +270,7 @@ $menu->special ="Special";
                             </li>
                         <!-- case study -->
                             <li>
-                                <div class="gallery-images">
+                                <div class="gallery-images" data-url="/video/acc-football/video.php">
                                     <a class="gallery_overlay" href="/post-production/images/acc.jpg">
                                     <img src="/post-production/images/acc.jpg" alt="ACC Football"/></a>
                                 </div>
@@ -290,7 +290,7 @@ $menu->special ="Special";
                             </li>
                         <!-- case study -->
                             <li>
-                                <div class="gallery-images">
+                                <div class="gallery-images" data-url="/video/st-vincent-miracle/video.php">
                                     <a class="gallery_overlay" href="/post-production/images/miracles.jpg">
                                     <img src="/post-production/images/miracles.jpg" alt="Miracles"/></a>
                                 </div>
@@ -312,7 +312,7 @@ $menu->special ="Special";
                             </li>
                         <!-- case study -->
                             <li>
-                                <div class="gallery-images">
+                                <div class="gallery-images" data-url="/video/ultrabook-sydney/video.php">
                                     <a class="gallery_overlay" href="/post-production/images/sydney.jpg">
                                     <img src="/post-production/images/sydney.jpg" alt="Intel Ultra Book Race - Sydney Episode"/></a>
                                 </div>
@@ -334,7 +334,7 @@ $menu->special ="Special";
                             </li>
                         <!-- case study -->
                             <li>
-                                <div class="gallery-images">
+                                <div class="gallery-images" data-url="/video/ultrabook-st-petersburg/video.php">
                                     <a class="gallery_overlay" href="/post-production/images/st-petersburg.jpg">
                                     <img src="/post-production/images/st-petersburg.jpg" alt="Intel Ultra Book Race - St. Petersburg Episode"/></a>
                                 </div>
@@ -370,7 +370,7 @@ $menu->special ="Special";
                             </li>-->
                         <!-- case study -->
                             <li>
-                                <div class="gallery-images">
+                                <div class="gallery-images" data-url="/videos/lustgarten-foundation-psa/video.php">
                                     <a class="gallery_overlay" href="/post-production/images/denis-leary.jpg">
                                     <img src="/post-production/images/denis-leary.jpg" alt="Cure PC - Denis Leary"/></a>
                                 </div>
@@ -390,7 +390,7 @@ $menu->special ="Special";
                             </li>
                         <!-- case study -->
                             <li>
-                                <div class="gallery-images">
+                                <div class="gallery-images" data-url="/videos/curePC/video.php">
                                     <a class="gallery_overlay" href="/post-production/images/brian-cranston.jpg">
                                     <img src="/post-production/images/brian-cranston.jpg" alt="Cure PC - Bryan Cranston"/></a>
                                 </div>
@@ -413,7 +413,7 @@ $menu->special ="Special";
                                 
                         <!-- case study -->
                             <li>
-                                <div class="gallery-images">
+                                <div class="gallery-images" data-url="/videos/st-vincent-medical-center-novalis/video.php">
                                     <a class="gallery_overlay" href="/post-production/images/novalis.jpg">
                                     <img src="/post-production/images/novalis.jpg" alt="Novalis"/></a>
                                 </div>
@@ -433,7 +433,7 @@ $menu->special ="Special";
                             </li>
                         <!-- case study -->
                             <li>
-                                <div class="gallery-images">
+                                <div class="gallery-images" data-url="/videos/nate-robinson/video.php">
                                     <a class="gallery_overlay" href="/post-production/images/nate.jpg">
                                     <img src="/post-production/images/nate.jpg" alt="Nate Robinson"/></a>
                                 </div>
@@ -453,7 +453,7 @@ $menu->special ="Special";
                             </li>
                        <!-- case study -->
                             <li>
-                                <div class="gallery-images">
+                                <div class="gallery-images" data-url="/videos/ny-liberty/video.php">
                                     <a class="gallery_overlay" href="/post-production/images/ny-liberty.jpg">
                                     <img src="/post-production/images/ny-liberty.jpg" alt="United We Play"/></a>
                                 </div>

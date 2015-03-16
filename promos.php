@@ -44,6 +44,26 @@ $menu->special ="Special";
                     <div id="thumbs-back"><img src="assets/prev_thumb.png" alt="back button"/></div>
                     <div class="thumbnails">
                 <ul>
+                <!-- case study  -->
+                    <li>
+                        <div>
+                            <a class="gallery_overlay" href="images/psa/daniel-bryan-psa.jpg">
+                            <img src="images/psa/daniel-bryan-psa-thumb.jpg" alt="WWE Daniel Bryan"/></a>
+                        </div>
+                        <a href="promos/daniel-bryan-psa/video.php"></a>
+                        <dl>
+                            <dt class="description">Title:</dt>
+                                <dd>FDA Anti-Smoking WWE Daniel Bryan PSA</dd>
+                            <dt class="description">CLIENT:</dt>
+                                <dd>WWE INC/USA Networks</dd> 
+                            <dt class="description">PRODUCER:</dt>
+                                <dd>Robert Cinguina</dd> 
+                            <dt class="description">DIRECTOR OF PHOTOGRAPHY:</dt>
+                                <dd>Steve Cohen</dd> 
+                            <dt class="description">Production Services:</dt>
+                                <dd>Manhattan Place Entertainment</dd> 
+                        </dl>
+                    </li>                    
                     <!-- case study -->
                     <li>
                         <div class="gallery-images">
