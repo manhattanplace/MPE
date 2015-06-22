@@ -1,6 +1,6 @@
-#Manhattan Place version control repository  
+#Manhattan Place  
 
-###Directions:
+###Clone Repo:
 1.	Download a Git client [Sourcetree](http://www.sourcetreeapp.com/) or [Tower](http://www.git-tower.com/) work well with OS X
 
 2.	Clone a local copy of the repository to your computer
