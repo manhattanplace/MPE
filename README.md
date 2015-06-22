@@ -13,3 +13,4 @@
 9.	 Test live site thoroughtly - remember changes can casscade site wide.
 
 ###Dynamic Menu:
+db name: menu
