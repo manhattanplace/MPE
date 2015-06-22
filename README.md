@@ -12,5 +12,3 @@
 8.	 Update server (at this point it has to be manual, because we don't have ssh access to the host)
 9.	 Test live site thoroughtly - remember changes can casscade site wide.
 
-###Dynamic Menu:
-db name: menu
