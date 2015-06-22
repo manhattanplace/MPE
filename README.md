@@ -1,7 +1,7 @@
 #Manhattan Place version control repository  
 
 ###Directions:
-1.	Download a Git client [link](http://www.sourcetreeapp.com/)
+1.	Download a Git client [Sourcetree](http://www.sourcetreeapp.com/) or [Tower](http://www.git-tower.com/) work well with OS X
 
 2.	Clone a local copy of the repository to your computer
 3.	Before making any edits be sure to pull the most recent updates. `git pull`
