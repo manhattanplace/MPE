@@ -38,6 +38,9 @@ $menu->special ="Special";
         </ul>
         <h3 class="recent">Recent Articles</h3>
         <ul id="nav_tertiary">
+            <li><a href="#miniCamp">Are You Ready For Some Football?</a></li>      
+            <li><a href="#Ultron">Ultron Takes Over ESPN</a></li>
+            <li><a href="#Soup">Soup to Nuts</a></li>
             <li><a href="#Cowher">Coach Me Cowher</a></li>
             <li><a href="#stdds">Showtime Documentary - Dean Smith</a></li>
             <li><a href="#ndgtf">Neil deGrasse Tyson Feature</a></li>
@@ -212,19 +215,75 @@ $menu->special ="Special";
             <li><a href="#grail">The "Holy Grail" of Live Events! The Monty Python Reunion</a></li>
             <li><a href="#50cent">Manhattan Place Shoots "Baby By Me" with 50 Cent</a></li>
         </ul>
-            <!-- Begin Article -->  
-            <div class="article">
-                  <h1><a name="Cowher" class="anchor">Coach Me Cowher</a></h1>
-                  <p class="date">Client: CBS Sports</p>
-                  <p class="date">Producer: Charlie Bloom</p>
-                  <p class="date">DP: Steve Cohen</p>
-                  <hr/>
-                  <img class="float_right" src="images/recent-work/coach-me-cowher.jpg" alt="PAC-12 On-Air Promos Basketball"  />
-                  <p>This series for CBS Sports, CBS NFL Today analyst and former head coach of the Pittsburgh Steelers Bill Cowher, visits with, and lends coaching advice to Westwood High School's inspirational coach John Zisa. At the age of 18, Zisa had an accident in a swimming pool that nearly killed him, and left him paralyzed from the neck down. In 1989, after nearly 10 years of hospitalization and rehabilitation, Zisa's high school football coach, the man he played for at the time he met with his accident, convinced Zisa into becoming an assistant coach for him. Now more than 18 years later, Zisa is still on the sidelines and going strong, (Westwood has played for the State Championship 2 years in a row) proving that you can overcome life's biggest obstacles. As a coach and a man, he is an inspiration to all who know him. Charlie Bloom Produced the heartwarming feature for the CBS NFL Today. Steve Cohen shot and directed the piece.</p>
-                  
-                  <a class="back-to-top" href="#top">Back to Top</a>       
-            </div>
+
+        <!-- Begin Article -->  
+        <div class="article">
+            <h1><a name="miniCamp" class="anchor">Are You Ready For Some Football?</a></h1>
+            <hr/>
+            <img class="float_left" src="images/recent-work/minicamp.jpg" alt="Are You Ready For Some Football?"  />
+            <p>With the opening of minicamp earlier this week, The New York Jets held their annual media day at the Atlantic Health Jets Training Center in Florham Park, NJ.</p>
+
+            <p>Thanks to the New York Jets, and Rooftop2 Productions, Manhattan Place Entertainment once again was given the opportunity to "get in the game" in terms of handling video production services for all (6) of the production set-ups.</p>
+
+            <p>The material that was acquired will be utilized for creating a wide  variety of content  including the new season's scoreboard open, which will appear on the video projection screens inside Met Life Stadium prior to the kick-off of each of Gang Green's home games.</p>
+
+
+            <p>Click on <a href="http://www.newyorkjets.com/photos/photo-gallery/Jets-Pose-for-Camera-on-Multimedia-Day/dfabdc8d-722a-4503-ad6c-d70c713cd3e0">here</a> to see some behind the scenes photos from the (6) different production environments that were created for the players to appear in, and get a sneak peak at what some of the imagery for this years video open will look like.</p>
+
+            <a class="back-to-top" href="#top">Back to Top</a>       
+        </div>
         <!-- end article -->
+
+
+
+       
+      <!-- Begin Article -->  
+      <div class="article">
+            <h1><a name="Ultron" class="anchor">Ultron Takes Over ESPN</a></h1>
+            <hr/>
+            <img class="float_left" src="images/recent-work/ultron.jpg" alt="Ultron Takes Over ESPN"  />
+            <p>In this promotional spot for "Avengers: Age of Ultron" check out how Ultron paid a little visit to ESPN, and terrorized the place!</p>
+
+            <p>Soapbox Films in Los Angeles created the spot and "joined forces" with Manhattan Place Entertainment, utilizing MPE's "special powers" for handling field production.</p>
+
+            <p>ESPN's Sara Walsh and Michael Smith appear in the spot, and Ultron makes a cameo as well!</p>
+
+
+            <p>All of the shooting took place at ESPN's facilities in Bristol, CT.</p>
+            <p>"Avengers: Age of Ultron" is in theaters now! <a href="http://espn.go.com/video/clip?id=12760219">View "Ultron Takes Over ESPN" here</a></p>
+            <a class="back-to-top" href="#top">Back to Top</a>       
+      </div>
+      <!-- end article -->
+      <!-- Begin Article -->  
+      <div class="article">
+            <h1><a name="Soup" class="anchor">Manhattan Place Entertainment 
+Serves "Soup to Nuts"</a></h1>
+            <hr/>
+            <img class="float_right" src="images/recent-work/souptonuts.jpg" alt="Manhattan Place Entertainment 
+Serves 'Soup to Nuts' "  />
+            <p>You know the joke about the waiter who works on a mental ward?... - he serves "soup to nuts".</p>
+
+            <p>On a related note: Check out this latest hockey feature <b>"Knuckles vs. Numbers" </b>served soup to nuts by Manhattan Place Entertainment for Grantland Channel.</p>
+
+            <p>Grantland Features: 'Knuckles vs. Numbers'</p>
+            <p>Hockey's advanced-analytics movement has called for the extinction of the enforcer. Our latest documentary feature looks at the fate of NHL brawlers, and their fight to remain a part of the sport.</p>
+            <p>by GRANTLAND FEATURES ON APRIL 22, 2015 <a href="http://grantland.com/features/grantland-features-knuckles-vs-numbers/">http://grantland.com/features/grantland-features-knuckles-vs-numbers/</a></p>
+            <a class="back-to-top" href="#top">Back to Top</a>       
+      </div>
+      <!-- end article -->
+      <!-- Begin Article -->  
+      <div class="article">
+            <h1><a name="Cowher" class="anchor">Coach Me Cowher</a></h1>
+            <p class="date">Client: CBS Sports</p>
+            <p class="date">Producer: Charlie Bloom</p>
+            <p class="date">DP: Steve Cohen</p>
+            <hr/>
+            <img class="float_right" src="images/recent-work/coach-me-cowher.jpg" alt="PAC-12 On-Air Promos Basketball"  />
+            <p>This series for CBS Sports, CBS NFL Today analyst and former head coach of the Pittsburgh Steelers Bill Cowher, visits with, and lends coaching advice to Westwood High School's inspirational coach John Zisa. At the age of 18, Zisa had an accident in a swimming pool that nearly killed him, and left him paralyzed from the neck down. In 1989, after nearly 10 years of hospitalization and rehabilitation, Zisa's high school football coach, the man he played for at the time he met with his accident, convinced Zisa into becoming an assistant coach for him. Now more than 18 years later, Zisa is still on the sidelines and going strong, (Westwood has played for the State Championship 2 years in a row) proving that you can overcome life's biggest obstacles. As a coach and a man, he is an inspiration to all who know him. Charlie Bloom Produced the heartwarming feature for the CBS NFL Today. Steve Cohen shot and directed the piece.</p>
+            
+            <a class="back-to-top" href="#top">Back to Top</a>       
+      </div>
+  <!-- end article -->
 
       <!-- Begin Article -->  
             <div class="article">
