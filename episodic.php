@@ -27,7 +27,7 @@ $menu->special ="Special";
         <div id="logo">
             <a href="index.php"><h1>Manhattan Place Entertainment - Video and Film Production Services</h1></a>
         </div>
-        <h3 class="library">EPISODIC</h3>
+        <h3 class="library">Features/Episodic</h3>
         <div class="container">
             <div class="main-screen">
                 <img id="bg-img" src="assets/spacer.png" alt="spacer"/>
@@ -43,6 +43,49 @@ $menu->special ="Special";
                 <div id="thumbs-back"><img src="assets/prev_thumb.png" alt="back button"/></div>
                 <div class="thumbnails">
                 <ul>
+                    <!-- case study -->
+                    <li>
+                        <div class="gallery-images">
+                            <a class="gallery_overlay" href="images/episodic/knuckles-v-numbers.jpg"></a>
+                            <img src="images/episodic/knuckles-v-numbers-thumb.jpg" alt="Knuckles Vs. Numbers"/>
+                        </div>
+                        <a href="episodic/knuckles-v-numbers/video.php"></a>
+                        <dl>
+                            <dt class="description">Title:</dt>
+                                <dd>Knuckles Vs. Numbers</dd>
+                            <dt class="description">CLIENT:</dt>
+                                <dd>Grantland</dd>
+                            <dt class="description">PRODUCER:</dt>
+                                <dd>Gary Waxman</dd>
+                            <dt class="description">DIRECTOR OF PHOTOGRAPHY:</dt>
+                                <dd>Steve Cohen</dd>
+                            <dt class="description">Production Services:</dt>
+                                <dd>Manhattan Place Entertainment</dd>
+                        </dl>
+                    </li>
+                    <!-- case study -->
+                    <li>
+                        <div class="gallery-images">
+                            <a class="gallery_overlay" href="images/episodic/hank-gathers.jpg"></a>
+                            <img src="images/episodic/hank-gathers-thumb.jpg" alt="Hank Gathers's Son Finds New Meaning As A Mentor"/>
+                        </div>
+                        <a href="episodic/hank-gathers/video.php"></a>
+                        <dl>
+                            <dt class="description">Title:</dt>
+                                <dd>Hank Gathers's Son Finds New Meaning As A Mentor</dd>
+                            <dt class="description">CLIENT:</dt>
+                                <dd>CBS Sports</dd>
+                            <dt class="description">PRODUCER:</dt>
+                                <dd>Charlie Bloom</dd>
+                            <dt class="description">DIRECTOR OF PHOTOGRAPHY:</dt>
+                                <dd>Steve Cohen</dd>
+                            <dt class="description">Production Services:</dt>
+                                <dd>Manhattan Place Entertainment</dd>
+                        </dl>
+                    </li>
+
+
+
                     <!-- case study -->
                     <li>
                         <div class="gallery-images">

@@ -48,7 +48,7 @@ INSERT INTO `menu` (`id`, `label`, `link_url`, `parent_id`, `has_child`, `order`
 (5, 'teases', '/teases.php', 0, '0', 5, 0),
 (6, 'opens', '/opens.php', 0, '0', 6, 0),
 (7, 'psa''s', '/psa.php', 0, '0', 7, 0),
-(8, 'episodic', '/episodic.php', 0, '0', 8, 0),
+(8, 'features/episodic', '/episodic.php', 0, '0', 8, 0),
 (9, 'directors', '/directors.php', 0, '0', 9, 0);
 
 -- --------------------------------------------------------

@@ -29,16 +29,16 @@ $menu->special ="Special";
     	<div id="logo">
     		<a href="/index.php"><h1>Manhattan Place Entertainment - Video and Film Production Services</h1></a>
     	</div>
-        <h3 class="library">EPISODIC</h3>
+        <h3 class="library">FEATURES/EPISODIC</h3>
         <div class="container">
             <div class="back_button1">
-            	<a href="/episodic.php">&laquo; Back to Episodic</a>
+            	<a href="/episodic.php">&laquo; Back to Features/Episodic</a>
             </div>
             <div id="video_482">
-                <script>QT_WriteOBJECT('srtc_daytona1.mov', '482', '286', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect') ;</script>
+                <script>QT_WriteOBJECT('/videos/speed-road-tour-challenge-daytona/speed-road-tour-challenge-daytona.mov', '482', '286', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect') ;</script>
             </div>
             <div class="back_button2">
-            	<a href="/episodic.php">&laquo; Back to Episodic</a>
+            	<a href="/episodic.php">&laquo; Back to Features/Episodic</a>
             </div>
         </div>
     </div>

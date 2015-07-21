@@ -29,16 +29,18 @@ $menu->special ="Special";
     	<div id="logo">
     		<a href="/index.php"><h1>Manhattan Place Entertainment - Video and Film Production Services</h1></a>
     	</div>
-        <h3 class="library">EPISODIC</h3>
+        <h3 class="library">FEATURES/EPISODIC</h3>
         <div class="container">
             <div class="back_button1">
-            	<a href="/episodic.php">&laquo; Back to Episodic</a>
+            	<a href="/episodic.php">&laquo; Back to FeaturesSpeed Road Tour Challenge
+Back to Features/Episodic</a>
             </div>
             <div id="video">
                 <script>QT_WriteOBJECT('../../video/ultrabook-sydney/ultrabook-sydney.mov', '640', '376', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect');</script>
             </div>
             <div class="back_button2">
-            	<a href="/episodic.php">&laquo; Back to Episodic</a>
+            	<a href="/episodic.php">&laquo; Back to FeaturesSpeed Road Tour Challenge
+Back to Features/Episodic</a>
             </div>
         </div>
     </div>
