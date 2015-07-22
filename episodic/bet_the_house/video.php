@@ -36,7 +36,7 @@ $menu->special ="Special";
             </div>
             <div id="video">
             <script>
-                QT_WriteOBJECT('bet_the_house.mov', '640', '496', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect') ;
+                QT_WriteOBJECT('/videos/bet_the_house/bet_the_house.mov', '640', '496', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect') ;
             </script>
             </div>
             <div class="back_button2">

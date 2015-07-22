@@ -29,19 +29,16 @@ $menu->special ="Special";
     	<div id="logo">
     		<a href="/index.php"><h1>Manhattan Place Entertainment - Video and Film Production Services</h1></a>
     	</div>
-        Back to FeaturesSpeed Road Tour Challenge
-<h3 class="library">FEATURES/EPISODIC</h3>
+        <h3 class="library">FEATURES/EPISODIC</h3>
         <div class="container">
             <div class="back_button1">
-            	<a href="/episodic.php">&laquo; Back to FeaturesSpeed Road Tour Challenge
-Back to Features/Episodic</a>
+            	<a href="/episodic.php">&laquo; Back to Features/Episodic</a>
             </div>            
             <div id="video">
                 <script>QT_WriteOBJECT('/videos/five-finger-fix/five-finger-fix.mov', '640', '496', '', 'AUTOPLAY', 'True', 'SCALE', 'Aspect') ;</script>
             </div>            
             <div class="back_button2">
-            	<a href="/episodic.php">&laquo; Back to FeaturesSpeed Road Tour Challenge
-Back to Features/Episodic</a>
+            	<a href="/episodic.php">&laquo; Back to Features/Episodic</a>
             </div>
         </div>
     </div>
