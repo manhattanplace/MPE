@@ -76,7 +76,7 @@ $menu->special ="Special";
                 <li>
                     <a  href="episodic.php" title="EPISODIC">
                         <img src="_img/film-strip-images-episodic-223x140.png" alt="Episodic" />
-                        <p>EPISODIC</p>
+                        <p>FEATURES / EPISODIC</p>
                     </a>
                 </li>
             </ul>

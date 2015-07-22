@@ -56,7 +56,7 @@ $menu->special ="Special";
                             <dt class="description">CLIENT:</dt>
                                 <dd>Grantland</dd>
                             <dt class="description">PRODUCER:</dt>
-                                <dd>Gary Waxman</dd>
+                                <dd>Gary Waksman</dd>
                             <dt class="description">DIRECTOR OF PHOTOGRAPHY:</dt>
                                 <dd>Steve Cohen</dd>
                             <dt class="description">Production Services:</dt>
@@ -516,7 +516,7 @@ $menu->special ="Special";
                         </dl>
                     </li>
                    <!-- case study  -->
-                    <li>
+                    <!-- <li>
                         <div>
                             <a class="gallery_overlay" href="images/case_study_pups.jpg">
                                 <img src="images/thumbs/case_study_pups.jpg" alt="A Pup Grows Up"/>
@@ -535,7 +535,7 @@ $menu->special ="Special";
                             <dt class="description">PRODUCTION SERVICES:</dt>
                                 <dd>Manhattan Place Entertainment</dd>
                         </dl>
-                    </li>
+                    </li> -->
                    <!-- case study -->
                     <li>
                         <div>
