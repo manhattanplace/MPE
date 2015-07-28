@@ -47,6 +47,42 @@ $menu->special ="Special";
                 <!-- case study  -->
                     <li>
                         <div>
+                            <a class="gallery_overlay" href="images/promos/every-witch-way-final-season.jpg">
+                            <img src="images/promos/every-witch-way-final-season-thumb.jpg" alt="Every Which Way Promos"/></a>
+                        </div>
+                        <a href="promos/every-witch-way-final-season/video.php"></a>
+                        <dl>
+                            <dt class="description">Title:</dt>
+                                <dd>Every Witch Way Promos</dd>
+                            <dt class="description">CLIENT:</dt>
+                                <dd>Nickelodeon</dd> 
+                            <dt class="description">PRODUCER:</dt>
+                                <dd>Patty Henry-Robinson, Veronica Capero, Kate Brennen and Amy Cummings</dd> 
+                            <dt class="description">Production Services:</dt>
+                                <dd>Manhattan Place Entertainment</dd> 
+                        </dl>
+                    </li>                    
+                    <!-- case study -->
+                    <li>
+                        <div>
+                            <a class="gallery_overlay" href="images/promos/talia-in-the-kitchen.jpg">
+                            <img src="images/promos/talia-in-the-kitchen-thumb.jpg" alt="Talia in the Kitchen Promos and Open"/></a>
+                        </div>
+                        <a href="promos/talia-in-the-kitchen/video.php"></a>
+                        <dl>
+                            <dt class="description">Title:</dt>
+                                <dd>Talia in the Kitchen Promos and Open</dd>
+                            <dt class="description">CLIENT:</dt>
+                                <dd>Nickelodeon</dd> 
+                            <dt class="description">PRODUCER:</dt>
+                                <dd>Patty Henry-Robinson, Kate Brennen and Amy Cummings</dd> 
+                            <dt class="description">Production Services:</dt>
+                                <dd>Manhattan Place Entertainment</dd> 
+                        </dl>
+                    </li>                    
+                    <!-- case study -->
+                    <li>
+                        <div>
                             <a class="gallery_overlay" href="images/psa/daniel-bryan-psa.jpg">
                             <img src="images/psa/daniel-bryan-psa-thumb.jpg" alt="WWE Daniel Bryan"/></a>
                         </div>
