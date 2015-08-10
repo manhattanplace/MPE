@@ -53,11 +53,19 @@ $menu->special ="Special";
                         <a href="promos/every-witch-way-final-season/video.php"></a>
                         <dl>
                             <dt class="description">Title:</dt>
-                                <dd>Every Witch Way Promos</dd>
+                                <dd>Every Witch Way Various Promos</dd>
                             <dt class="description">CLIENT:</dt>
                                 <dd>Nickelodeon</dd> 
-                            <dt class="description">PRODUCER:</dt>
-                                <dd>Patty Henry-Robinson, Veronica Capero, Kate Brennen and Amy Cummings</dd> 
+                                <dt class="description">DIRECTOR OF PRODUCTION:</dt>
+                                <dd>Veronica Cepero</dd>
+                            <dt class="description">UNIT PRODUCER:</dt>
+                                 <dd>Kate Brennan<dd>
+                            <dt class="description">PRODUCTION MANAGER:</dt>
+                                 <dd>Amy Cummings<dd>
+                            <dt class="description">ASSOCIATE PRODUCER:</dt>
+                                 <dd>Nicole Ferrara<dd>           
+                           
+                   
                             <dt class="description">Production Services:</dt>
                                 <dd>Manhattan Place Entertainment</dd> 
                         </dl>
@@ -71,11 +79,17 @@ $menu->special ="Special";
                         <a href="promos/talia-in-the-kitchen/video.php"></a>
                         <dl>
                             <dt class="description">Title:</dt>
-                                <dd>Talia in the Kitchen Promos and Open</dd>
+                                <dd>"Talia in the Kitchen" 2015 Show Open and Various Promos</dd>
                             <dt class="description">CLIENT:</dt>
                                 <dd>Nickelodeon</dd> 
-                            <dt class="description">PRODUCER:</dt>
-                                <dd>Patty Henry-Robinson, Kate Brennen and Amy Cummings</dd> 
+                            <dt class="description">DIRECTOR OF PRODUCTION:</dt>
+                                <dd>Veronica Cepero</dd>
+                                <dt class="description">UNIT PRODUCER:</dt>
+                                 <dd>Kate Brennan<dd>
+                            <dt class="description">PRODUCTION MANAGER:</dt>
+                                 <dd>Amy Cummings<dd>
+                            <dt class="description">ASSOCIATE PRODUCER:</dt>
+                                 <dd>Nicole Ferrara<dd>           
                             <dt class="description">Production Services:</dt>
                                 <dd>Manhattan Place Entertainment</dd> 
                         </dl>
